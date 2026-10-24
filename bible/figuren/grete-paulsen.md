@@ -114,3 +114,4 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch05/s01 · „Grete trug eine zweite Kanne Kaffee über die Terrasse.“ · Bringt am späten Vormittag eine zweite Kanne Kaffee (#d2031b)
 - ch05/s01 · „Wer jetzt keinen Kuchen isst, kriegt nachher den Rand!“ · Ruft den Helfern neckend zu, Kuchen zu essen (#d2031b)
 - ch05/s01 · „an Gretes Küchentür bellte Kalle“ · Kalle wartet an ihrer Küchentür (#d2031b)
+- ch05/s02 · „Von der Terrasse kam Lachen, und Grete rief nach Kalle.“ · Ruft am späten Nachmittag von der Terrasse nach Kalle (#a7d897)
