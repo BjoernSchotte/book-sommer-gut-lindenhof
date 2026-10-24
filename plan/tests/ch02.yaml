@@ -6,6 +6,7 @@ ch02/s01:
     - { pattern: "Gartenbuch(?:es|s)?" }   # payoff s-gartenbuch
     - { pattern: "Rankb(?:ogen|ogens|ögen)" }
     - { pattern: "Fundament(?:e|es|s)?|Punktfundament(?:e|es|s)?" }
+    - { pattern: "Frau Albers|Herr(?:n)? Behrendt" }   # Sie-Anrede, das Du erst ch03/s01
   beats:
     b1:
       must:
@@ -34,7 +35,7 @@ ch02/s01:
   forbids:
     - { pattern: "Steinhagen|Weidenkamp" }
     - { pattern: "Hotel(?:s)?|Wellnesshotel(?:s)?|Parkplatz(?:es)?" }
-    - { pattern: "Floß|Flöße(?:n)?" }   # Steg-Erinnerung erst s02
+    - { pattern: "Floß(?:es)?|Flöße(?:n)?" }   # Steg-Erinnerung erst s02
     - { pattern: "Mädchen mit Zopf" }   # Wiedererkennen erst viel später
   judge:
     - "Ist der Streit trocken, schnell und komisch, mit Fachwörtern auf beiden Seiten, ohne dass einer grob wird?"
@@ -60,6 +61,7 @@ ch02/s02:
         - { pattern: "Einlage" }
         - { pattern: "Hotelbranche" }
         - { pattern: "vorzeigbar" }
+        - { pattern: "Tragwerk(?:e|es|s)?|Last(?:en)?" }   # Jonas denkt in Bildern seines Berufs
     b2:
       must:
         - { pattern: "Laubengang(?:es|s)?" }
@@ -116,7 +118,7 @@ ch02/s03:
     - { pattern: "Steinhagen|Weidenkamp" }
     - { pattern: "Hotel(?:s)?|Wellnesshotel(?:s)?|Parkplatz(?:es)?" }
     - { pattern: "weiterführ(?:en|t|e)" }   # Hedwigs Wunsch auf der Bank bleibt Maries Geheimnis bis ch08
-    - { pattern: "Floß|Flöße(?:n)?" }   # Jonas' Erinnerung kennt Marie nicht
+    - { pattern: "Floß(?:es)?|Flöße(?:n)?" }   # Jonas' Erinnerung kennt Marie nicht
   judge:
     - "Klingt Lena schnell und lebhaft, mit Humor aus dem Laden, und lässt Marie erst reden, bevor sie ihr den Satz auf den Kopf zusagt?"
     - "Weicht Marie aus, ohne zuzugeben, was sie fühlt, sodass die Liebe als Frage offen bleibt?"
