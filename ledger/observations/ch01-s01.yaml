@@ -1,264 +1,421 @@
 source: manuscript/ch01/s01.md
-source_hash: "b7e437"
+source_hash: d3641f
 extracted_by: bb-ingest
-end_actual: question
-end_quote: "Was wollte einer, der so etwas sagte, mit Hedwigs Garten anfangen?"
+gaps: []
 items:
-  - kind: event
-    who: marie-albers
-    quote: "Sie kniete mitten auf dem Hauptweg, irgendwo zwischen Tor und Sonnenuhr"
-    status: fact
-    about: [marie-albers, garten]
-    tags: []
-    fact: { subject: marie-albers, predicate: at_place, value: garten }
   - kind: object_fact
     who: marie-albers
-    quote: "setzte die Rosenschere an, bis es knackte"
+    quote: setzte die Rosenschere an, bis es knackte
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
-    fact: { subject: marie-albers, predicate: has_object, value: "Rosenschere" }
+    fact:
+      subject: marie-albers
+      predicate: has_object
+      value: Rosenschere
   - kind: place_fact
-    quote: "Von der Allee hing Lindenduft über der Backsteinmauer, dicht wie Honig im Glas."
+    quote: Von der Allee hing Lindenduft über der Backsteinmauer, dicht wie Honig im Glas.
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
-  - kind: place_fact
-    quote: "doch der Weg lag unter Laub und Matsch verschüttet. Nur wenn sie das Knie fester aufsetzte, knirschte darunter der alte Kies."
+  - kind: event
+    who: marie-albers
+    quote: Sie kniete mitten auf dem Hauptweg, irgendwo zwischen Tor und Sonnenuhr
     status: fact
-    about: [garten]
+    about:
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: at_place
+      value: garten
+  - kind: place_fact
+    quote: doch der Weg lag unter Laub und Matsch verschüttet. Nur wenn sie das Knie fester aufsetzte, knirschte darunter der alte Kies.
+    status: fact
+    about:
+      - garten
     tags: []
   - kind: narrator_claim
     who: marie-albers
-    quote: "„So“, sagte sie zu dem Busch neben sich. „Jetzt du.“"
+    quote: „So“, sagte sie zu dem Busch neben sich. „Jetzt du.“
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: place_fact
-    quote: "Die 'Rosa Mundi' antwortete nicht. Sie hing voller rot-weiß gestreifter Blüten, halb erstickt von Wildtrieben"
+    quote: Die 'Rosa Mundi' antwortete nicht. Sie hing voller rot-weiß gestreifter Blüten, halb erstickt von Wildtrieben
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Marie riss daran, und die Dornen zogen eine feine Spur über ihren Unterarm."
+    quote: Marie riss daran, und die Dornen zogen eine feine Spur über ihren Unterarm.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "„Mistzeug“, murmelte sie."
+    quote: „Mistzeug“, murmelte sie.
     status: claim
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: knowledge_gain
     who: marie-albers
-    quote: "Bis Mittag wollte sie den Weg bis zur Sonnenuhr frei haben, bevor der Erbe aus Hamburg kam und mitredete."
+    quote: Bis Mittag wollte sie den Weg bis zur Sonnenuhr frei haben, bevor der Erbe aus Hamburg kam und mitredete.
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "Erbe aus Hamburg kommt heute" }
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: Erbe aus Hamburg kommt heute
   - kind: time
-    quote: "Bis Mittag wollte sie den Weg bis zur Sonnenuhr frei haben"
+    quote: Bis Mittag wollte sie den Weg bis zur Sonnenuhr frei haben
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Das schmiedeeiserne Tor quietschte, und Marie hob den Kopf. Ein Mann trat herein, groß, in einem hellen Hemd mit ordentlich gebügeltem Kragen."
+    quote: Das schmiedeeiserne Tor quietschte, und Marie hob den Kopf. Ein Mann trat herein, groß, in einem hellen Hemd mit ordentlich gebügeltem Kragen.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
-    fact: { subject: "ch01/s01@ankunft", predicate: at_place, value: garten }
+    fact:
+      subject: ch01/s01@ankunft
+      predicate: at_place
+      value: garten
   - kind: place_fact
-    quote: "in der nassen Senke gleich hinter dem Tor, wo das Regenwasser seit Jahren keinen Abfluss fand"
+    quote: in der nassen Senke gleich hinter dem Tor, wo das Regenwasser seit Jahren keinen Abfluss fand
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
   - kind: object_fact
     who: jonas-behrendt
-    quote: "Seine braunen Lederschuhe sanken ein, bis der Matsch über die Sohle quoll."
+    quote: Seine braunen Lederschuhe sanken ein, bis der Matsch über die Sohle quoll.
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
-    fact: { subject: jonas-behrendt, predicate: has_object, value: "braune Lederschuhe" }
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: braune Lederschuhe
+  - kind: belief
+    who: marie-albers
+    quote: Kurz dachte sie an den Erben. Den hatte sie sich als älteren Herrn im Anzug vorgestellt.
+    status: belief
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: believes
+      value: der Erbe ist ein älterer Herr im Anzug
+  - kind: event
+    who: jonas-behrendt
+    quote: Der Fremde nahm sich danach die Beete vor, vom Giersch bis zu den umgefallenen Bögen.
+    status: fact
+    about:
+      - jonas-behrendt
+      - garten
+    tags: []
+  - kind: place_fact
+    quote: vom Giersch bis zu den umgefallenen Bögen
+    status: fact
+    about:
+      - garten
+    tags: []
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: "Er hatte die Augen eines Menschen, der Dinge ausmisst."
+    quote: Er hatte die Augen eines Menschen, der Dinge ausmisst.
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Das Gestrüpp muss weg. Der Weg gehört planiert, mit Splitt drauf. Dann ist das in zwei Tagen begehbar."
+    quote: Das Gestrüpp muss weg. Der Weg gehört planiert, mit Splitt drauf. Dann ist das in zwei Tagen begehbar.
     status: claim
-    about: [garten, jonas-behrendt]
-    tags: [threat]
-  - kind: time
-    quote: "zum ersten Mal an diesem Morgen"
-    status: fact
-    about: [marie-albers]
-    tags: []
+    about:
+      - garten
+      - jonas-behrendt
+    tags:
+      - threat
   - kind: object_fact
     who: marie-albers
-    quote: "Ihre grünen Gummistiefel trugen eine dicke Schicht Erde"
+    quote: Ihre grünen Gummistiefel trugen eine dicke Schicht Erde
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
-    fact: { subject: marie-albers, predicate: has_object, value: "grüne Gummistiefel" }
-  - kind: speech
-    who: marie-albers
-    quote: "„Das ist eine 'New Dawn'“, sagte sie. „Kein Gestrüpp.“"
+    fact:
+      subject: marie-albers
+      predicate: has_object
+      value: grüne Gummistiefel
+  - kind: time
+    quote: zum ersten Mal an diesem Morgen
     status: fact
-    about: [garten, marie-albers]
+    about:
+      - marie-albers
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Sie griff nach einer langen Ranke, die über den Weg hing, und hielt sie ihm hin.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: place_fact
-    quote: "Daran saßen zartrosa Blüten, offen und duftend."
+    quote: Daran saßen zartrosa Blüten, offen und duftend.
     status: fact
-    about: [garten]
+    about:
+      - garten
+    tags: []
+  - kind: place_fact
+    quote: Hedwig hatte die Sorte zweimal gepflanzt, hier am Hauptweg und drüben über der Bank.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: „Das ist eine 'New Dawn'“, sagte sie. „Kein Gestrüpp.“
+    status: fact
+    about:
+      - garten
+      - marie-albers
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Mit einem kleinen Bagger und zwei Leuten ist das erledigt."
+    quote: Mit einem kleinen Bagger und zwei Leuten ist das erledigt.
     status: claim
-    about: [garten, jonas-behrendt]
+    about:
+      - garten
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Mit einem kleinen Bagger ist hier alles erledigt. Für immer."
+    quote: Mit einem kleinen Bagger ist hier alles erledigt. Für immer.
     status: claim
-    about: [garten, marie-albers]
+    about:
+      - garten
+      - marie-albers
     tags: []
   - kind: belief
     who: jonas-behrendt
-    quote: "Sie sind vermutlich die Gärtnerin."
+    quote: Sie sind vermutlich die Gärtnerin.
     status: belief
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
-    fact: { subject: jonas-behrendt, predicate: believes, value: "Marie ist die Gärtnerin" }
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Marie ist die Gärtnerin
   - kind: speech
     who: jonas-behrendt
-    quote: "Ich gebe zu, dass ich die falschen Schuhe anhabe."
+    quote: Ich gebe zu, dass ich die falschen Schuhe anhabe.
     status: claim
-    about: [jonas-behrendt]
-    tags: []
-  - kind: speech
-    who: jonas-behrendt
-    quote: "Zwei, wenn das Wetter hält. Drei mit Puffer."
-    status: claim
-    about: [garten, jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Die 'New Dawn' hat dreißig Jahre gebraucht, um so auszusehen. Die Buchskanten noch länger."
+    quote: Marie tippte mit der Schere an einen der Triebe. „Zwei Tage, sagen Sie?“
     status: claim
-    about: [garten, marie-albers]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Ich rechne in Tagen, weil ich nicht dreißig Jahre habe."
+    quote: Zwei, wenn das Wetter hält. Drei mit Puffer.
     status: claim
-    about: [jonas-behrendt]
+    about:
+      - garten
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Rosen haben keinen Projektplan."
+    quote: Die 'New Dawn' hat dreißig Jahre gebraucht, um so auszusehen. Die Buchskanten noch länger.
     status: claim
-    about: [marie-albers, garten]
+    about:
+      - garten
+      - marie-albers
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Ich rechne in Tagen, weil ich nicht dreißig Jahre habe.
+    status: claim
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Rosen haben keinen Projektplan.
+    status: claim
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: place_fact
-    quote: "Nahe beim Tor bröckelte dort die Krone, und ein Stein stand ein Stück aus der Reihe vor."
+    quote: Dann wanderte sein Blick an der Gartenmauer neben dem Tor hinauf. Dort bröckelte die Krone, und ein Stein stand ein Stück aus der Reihe vor.
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Einen Moment lang war sein Gesicht ganz still und weit weg. Er runzelte die Stirn und schüttelte kaum merklich den Kopf wie einer, der eine Fliege verscheucht."
+    quote: Einen Moment lang war sein Gesicht ganz still und weit weg. Er runzelte die Stirn und schüttelte kaum merklich den Kopf wie einer, der eine Fliege verscheucht.
     status: fact
-    about: [jonas-behrendt, garten]
-    tags: []
-  - kind: speech
-    who: jonas-behrendt
-    quote: "„Nichts.“"
-    status: claim
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: belief
     who: marie-albers
-    quote: "Nichts an ihm kam ihr bekannt vor, und sie hätte auch nicht gewusst, warum es das sollte."
+    quote: Marie sah ebenfalls hinüber, doch da gab es nur bemooste Backsteine und eine Lücke obenauf.
     status: belief
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - garten
     tags: []
-    fact: { subject: marie-albers, predicate: believes, value: "kennt den Mann nicht" }
+  - kind: speech
+    who: jonas-behrendt
+    quote: „Nichts.“
+    status: claim
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: Seine Augen kehrten zu ihr zurück, braun und gerade sehr wach.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
   - kind: speech
     who: marie-albers
-    quote: "Hier kommt sonst keiner einfach so rein."
+    quote: Hier kommt sonst keiner einfach so rein.
     status: claim
-    about: [garten]
+    about:
+      - garten
     tags: []
   - kind: name_fact
     who: jonas-behrendt
-    quote: "„Jonas Behrendt“, sagte er."
+    quote: „Jonas Behrendt“, sagte er.
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
-    fact: { subject: jonas-behrendt, predicate: named, value: "Jonas Behrendt" }
+    fact:
+      subject: jonas-behrendt
+      predicate: named
+      value: Jonas Behrendt
   - kind: knowledge_gain
     who: marie-albers
-    quote: "„Ich bin der Erbe.“"
+    quote: „Ich bin der Erbe.“
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "Jonas Behrendt ist der Erbe" }
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: Jonas Behrendt ist der Erbe
   - kind: narrator_claim
     who: marie-albers
-    quote: "Ausgerechnet ihm hatte sie eben das Gießen abgesprochen."
+    quote: Ausgerechnet ihm hatte sie eben das Gießen abgesprochen.
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: name_fact
     who: marie-albers
-    quote: "„Albers“, sagte sie. „Marie Albers.“"
+    quote: „Albers“, sagte sie. „Marie Albers.“
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
-    fact: { subject: marie-albers, predicate: named, value: "Marie Albers" }
+    fact:
+      subject: marie-albers
+      predicate: named
+      value: Marie Albers
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: "„Albers“, sagte sie. „Marie Albers.“"
+    quote: „Albers“, sagte sie. „Marie Albers.“
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "Gärtnerin heißt Marie Albers" }
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Gärtnerin heißt Marie Albers
   - kind: relationship
     who: jonas-behrendt
-    quote: "„Frau Albers.“ Er nickte knapp."
+    quote: „Frau Albers.“ Er nickte knapp.
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Kommen Sie in einer halben Stunde auf die Terrasse? Dann reden wir über den Garten. Mit Zahlen."
+    quote: Kommen Sie in einer halben Stunde auf die Terrasse? Dann reden wir über den Garten. Mit Zahlen.
     status: claim
-    about: [jonas-behrendt, marie-albers, garten]
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - garten
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "An der Senke zögerte er, suchte einen trockenen Stein, fand keinen und ging mitten hindurch. Das Tor quietschte hinter ihm zu."
+    quote: Er drehte sich zum Tor und suchte vergeblich nach einem trockenen Stein. Seine Schuhe schmatzten bei jedem Schritt, als er durch die Senke hinausging. Das Tor quietschte hinter ihm zu.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: belief
     who: marie-albers
-    quote: "Nach zwei Tagen Splitt wäre der alte Kies verloren."
+    quote: Nach zwei Tagen Splitt wäre der alte Kies verloren.
     status: belief
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
-    fact: { subject: marie-albers, predicate: believes, value: "Splitt würde den alten Kies zerstören" }
+    fact:
+      subject: marie-albers
+      predicate: believes
+      value: Splitt würde den alten Kies zerstören
   - kind: belief
     who: marie-albers
-    quote: "Was wollte einer, der so etwas sagte, mit Hedwigs Garten anfangen?"
+    quote: Was wollte einer, der so etwas sagte, mit Hedwigs Garten anfangen?
     status: belief
-    about: [marie-albers, jonas-behrendt, garten]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - garten
     tags: []
-gaps: []
+end_actual: question
+end_quote: Was wollte einer, der so etwas sagte, mit Hedwigs Garten anfangen?
