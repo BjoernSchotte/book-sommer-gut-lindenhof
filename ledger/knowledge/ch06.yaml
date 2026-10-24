@@ -1,4 +1,4 @@
-based_on: ["ch05#3a05c6", "ch06/s01#5200cf", "ch06/s02#382439", "ch06/s03#e1f9c8"]
+based_on: ["ch05#3a05c6", "ch06/s01#714312", "ch06/s02#762d59", "ch06/s03#6b1ec3"]
 characters:
   grete-paulsen:
     knows:
@@ -12,7 +12,7 @@ characters:
         from: ch01/s03
       - text: "Jonas hat nach dem Gespräch noch eine Weile auf der Terrasse gestanden und Marie nachgesehen."
         from: ch01/s03
-      - text: "Sie hat Marie zwei Tage nach dem Auftrag morgens Hedwigs Gartenbuch aus dem Arbeitszimmer geholt; Marie hat es jetzt."
+      - text: "Sie hat Marie zwei Tage nach dem Auftrag morgens Hedwigs Gartenbuch aus dem Arbeitszimmer geholt."
         from: ch02/s01
       - text: "Jonas' Schuhe standen am ersten Tag zum Trocknen auf der Freitreppe, die Socken daneben."
         from: ch02/s03
@@ -28,23 +28,24 @@ characters:
         from: ch05/s03
       - text: "Jonas hat Sonnenbrand im Nacken; sie hat ihm Quark angeboten."
         from: ch05/s03
-      - text: "An einem Dienstag Ende Juli hat sie Marie und Jonas mittags einen Krug Buttermilch und ein Blech Johannisbeerkuchen auf die Bank unter der 'New Dawn' gebracht und ist ohne ein Wort zum Haus zurückgegangen."
+      - text: "Dienstag Ende Juli hat sie Marie und Jonas mittags einen Krug Buttermilch und ein Blech Johannisbeerkuchen auf die Bank unter der 'New Dawn' gebracht und ist ohne ein Wort zurück zum Haus gegangen."
         from: ch06/s01
-      - text: "Marie hat das Gartenbuch im Arbeitszimmer hiergelassen; es liegt neben der Lampe, und da gehört es auch hin."
+      - text: "Marie hat das Gartenbuch im Arbeitszimmer gelassen; es liegt dort neben der grünen Lampe."
         from: ch06/s02
-      - text: "Jonas hat an einem Donnerstag spät abends im Arbeitszimmer die Rechnungen fürs Dach gesucht und gefunden."
+      - text: "Donnerstag spät am Abend hat Jonas im Arbeitszimmer nach den Rechnungen fürs Dach gesucht; auf ihre Frage hat er gesagt, er habe die Dachrechnungen gefunden."
         from: ch06/s02
-      - text: "Für sie macht Lena montags den Hofladen auf, seit Jahren."
+      - text: "Jonas hat sich angeboten, am Montag Anfang August ihren Einkauf im Hofladen der Hansens zu holen; sie hat ihm einen Zettel mitgegeben: zehn Eier, ein Glas Rosengelee, Kartoffeln und Rindfleisch für Mittwoch, darunter 'Nicht vergessen zu bezahlen'."
         from: ch06/s03
-      - text: "Jonas hat sich angeboten, ihren Montagseinkauf auf dem Hansen-Hof zu erledigen; sie hat ihm einen Zettel geschrieben: zehn Eier, ein Glas Rosengelee, Kartoffeln und Rindfleisch für Mittwoch, darunter doppelt unterstrichen: Nicht vergessen zu bezahlen."
+      - text: "Lena macht für sie montags den Hofladen auf, seit Jahren."
         from: ch06/s03
     believes:
       - text: "Der Verkauf ist Jonas' Sache, der Garten ist Maries."
         from: ch01/s03
-      - text: "Hedwig hätte gewollt, dass Jonas in ihr Gartenbuch sieht."
+      - text: "Hedwig hätte gewollt, dass Jonas ins Gartenbuch sieht."
         from: ch06/s02
     does_not_know:
-      - "dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat"
+      - "dass in der Mauerecke hinter dem Südende des Laubengangs der letzte Stock der Lindenhof-Rose steht"
+      - "dass Marie im Hinterhof der alten Schmiede in Klein Lindau zwei Stecklinge der Lindenhof-Rose zieht"
       - "dass Marie Hedwig versprochen hat, den Garten zu retten"
       - "dass Jonas die Rankbögen der 'Ghislaine' entsorgen wollte und sie nun auf Punktfundamente stellen lässt"
       - "dass Marie und Jonas sich seit dem Gewitter unter dem Laubengang duzen"
@@ -53,10 +54,10 @@ characters:
       - "dass Weidenkamp ihr für einen freiwilligen Auszug eine großzügige Abfindung vorsieht und Jonas sie darauf ansprechen soll"
       - "dass Jonas an der Südmauer eine alte 'Ghislaine de Féligonde' freigelegt hat"
       - "dass Marie und Jonas sich am Abend am Steg geküsst haben"
-      - "dass Marie bei sich zu Hause Stecklinge der Lindenhof-Rose zieht"
-      - "dass Jonas im Gartenbuch Hedwigs Notiz über seinen ersten Steckling der Lindenhof-Rose gelesen hat"
-      - "dass am Montag ein Gutachter zur Wertermittlung kommt und Jonas die Rechnungen dafür sucht"
-      - "dass der Festausschuss Jonas bis Freitag, den vierzehnten, eine Frist für die Zusage zum Erntefest gesetzt hat"
+      - "dass Jonas im Gartenbuch die Notiz über den ersten Steckling der Lindenhof-Rose gelesen hat, für den er als Kind das Loch gegraben hat"
+      - "dass nächste Woche ein Gutachter zur Wertermittlung kommt"
+      - "dass der Festausschuss bis Freitag, den 14., eine Zusage von Jonas braucht"
+      - "dass die Partner Jonas am Donnerstag, dem 13., um neun in Hamburg sprechen wollen"
   hannes-kroeger:
     knows:
       - text: "Der Hauptweg ist frei, und die 'Ghislaine' hängt wieder an ihren Bögen im Laubengang."
@@ -97,9 +98,9 @@ characters:
         from: ch05/s02
       - text: "Er hat Jonas die Hand gegeben, 'Gut gemacht, Jonas' gesagt und ihn dabei geduzt."
         from: ch05/s02
-      - text: "Der Festausschuss hat am Sonntagabend Anfang August gesessen: Bis Freitag, den vierzehnten, braucht er von Jonas eine Zusage, auf die man bauen kann; sonst wird im schon reservierten Zelt hinter dem Feuerwehrhaus gefeiert."
+      - text: "Der Festausschuss hat am Abend vor dem Montag Anfang August gesessen: Bis Freitag, den vierzehnten, braucht er von Jonas eine Zusage, auf die man bauen kann; sonst wird im Zelt hinter dem Feuerwehrhaus gefeiert, das Zelt ist schon reserviert."
         from: ch06/s03
-      - text: "Er hat Jonas die Frist am Montag Anfang August am Hoftor des Hansen-Hofs gesagt, als Jonas Gretes Einkaufskiste in den Kofferraum stellte; Jonas hat geantwortet: 'Bis dahin kriegst du eine Antwort.'"
+      - text: "Er hat Jonas am Montag Anfang August am Hoftor des Hansen-Hofs die Frist genannt; Jonas hat gesagt: 'Bis dahin kriegst du eine Antwort.'"
         from: ch06/s03
     believes:
       - text: "Im Garten läuft es; Marie macht ihre Sache gut."
@@ -108,17 +109,16 @@ characters:
         from: ch03/s02
       - text: "Zwischen Marie und Jonas ist etwas."
         from: ch03/s02
-      - text: "Die Frist ist keine Drohung; die Leute wollen wissen, wo sie ihre Bänke hinstellen."
-        from: ch06/s03
     does_not_know:
       - "dass Jonas mit einem Käufer bis zum Herbst rechnet"
-      - "dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat"
+      - "dass in der Mauerecke hinter dem Südende des Laubengangs der letzte Stock der Lindenhof-Rose steht"
+      - "dass Marie im Hinterhof der alten Schmiede zwei Stecklinge der Lindenhof-Rose zieht"
       - "dass im Lageplan von Weidenkamp der Parkplatz genau auf dem Rosengarten liegt"
       - "dass Weidenkamp für Gretes freiwilligen Auszug eine Abfindung vorsieht"
       - "dass Jonas sein Gesicht von der Hängerfahrt nicht behalten hat"
       - "dass Marie und Jonas sich am Abend am Steg geküsst haben"
-      - "dass am Montag ein Gutachter zur Wertermittlung aufs Gut kommt"
-      - "dass Jonas' Partner ihn am Donnerstag um neun in Hamburg wegen seiner Einlage sprechen wollen"
+      - "dass nächste Woche ein Gutachter zur Wertermittlung aufs Gut kommt"
+      - "dass die Partner Jonas am Donnerstag, dem 13., um neun in Hamburg wegen seiner Einlage sprechen wollen"
   jonas-behrendt:
     knows:
       - text: "Marie Albers ist die Gärtnerin; er hat sie beauftragt, den Rosengarten herzurichten."
@@ -185,8 +185,8 @@ characters:
         from: ch04/s02
       - text: "Steinhagen hatte ein Herrenhaus weiter im Süden, dessen alter Park für den Anbau weichen musste; seitdem fehle dem Haus etwas, sagt er."
         from: ch04/s02
-      - text: "Steinhagen meldet sich wieder; er hat ihm weder zu- noch abgesagt. Eine dünne Mappe mit einer Kopie des Lageplans liegt bei ihm, unter dem Laptop im Salon."
-        from: ch04/s02
+      - text: "Steinhagen meldet sich wieder; er hat ihm weder zu- noch abgesagt. Der Lageplan mit den nummerierten Kästchen liegt bei ihm im Salon, unter dem Laptop auf dem ovalen Tisch."
+        from: ch06/s02
       - text: "Auf Maries Frage, was Steinhagen wollte, hat er nur gesagt: 'Ein Interessent.'"
         from: ch04/s02
       - text: "Am Samstag Mitte Juli hat er beim Helfereinsatz im Rosengarten mitgearbeitet; Lena hat ihn eingetragen und ihn den ganzen Tag gesiezt, das Klemmbrett vor der Brust."
@@ -201,8 +201,6 @@ characters:
         from: ch05/s02
       - text: "Hannes hat ihm die Hand gegeben, 'Gut gemacht, Jonas' gesagt und ihn geduzt."
         from: ch05/s02
-      - text: "Um fünf hat Lena ihn gefragt, ob er nächsten Samstag Zeit hat; er hat Ja gesagt, bevor er nachdenken konnte."
-        from: ch05/s03
       - text: "Laut Marie hat Lena Mats auf dieselbe Art gekriegt."
         from: ch05/s03
       - text: "Als Junge hat er am Steg drei Flöße aus Remisenbrettern gebaut, mit Wäscheleine verschnürt; das letzte ist mitten auf dem See abgesoffen, Hedwig hat gelacht und gesagt, aus ihm werde nie ein Schiffbauer."
@@ -211,39 +209,35 @@ characters:
         from: ch05/s03
       - text: "Marie hat ihn gefragt, ob er im Herbst noch hier ist; er hat gesagt, er weiß es nicht."
         from: ch05/s03
-      - text: "Laut Marie kommt das Junibild nicht wieder: Glanz im September heißt Nachblüte der 'New Dawn', davor Lavendel und Katzenminze, Frauenmantel an den Kanten, Astern und am Laubengang Dahlien in Reihen."
+      - text: "Laut Marie kommt das Junibild nicht wieder: Glanz im September heißt Nachblüte der 'New Dawn', davor Lavendel und Katzenminze, Frauenmantel an den Kanten, Astern und am Laubengang Dahlien in Reihen; die Gallica und die Damaszener sind schon dran."
         from: ch06/s01
-      - text: "Beim Rückschnitt Ende Juli sind die Gallica und die Damaszener dran; ein Strauch bleibt, wie er ist, und setzt Hagebutten an, die im September rot hängen."
-        from: ch06/s01
-      - text: "Lena hat ihn für Samstag auf die Helferliste eingetragen, mit Uhrzeit für Ankunft und Abfahrt; die Liste hängt am schwarzen Brett im Hofladen, in Lenas runder Schrift."
+      - text: "Lena hat ihn für einen Samstag als Helfer eingetragen, mit Ankunft und Abfahrt; die Helferliste hängt im Hofladen am schwarzen Brett, ganz oben."
         from: ch06/s03
-      - text: "Grete hat ihnen mittags Buttermilch und Johannisbeerkuchen an die Bank unter der 'New Dawn' gebracht und ist ohne ein Wort gegangen; auf der Treppe nahm sie jede Stufe einzeln. Marie sagt, laut Grete melde sich das nur bei Regen."
+      - text: "Dienstag Ende Juli hat Grete Marie und ihm mittags Buttermilch und Johannisbeerkuchen auf die Bank unter der 'New Dawn' gebracht und ist ohne ein Wort gegangen."
         from: ch06/s01
       - text: "Auf seine Nachricht 'Kommst du morgen wieder?' hat Marie geantwortet: 'Die Rosen fragen das nicht. Die wissen das.'"
         from: ch06/s01
-      - text: "Am Montag kommt ein Gutachter zur Wertermittlung und will jede Rechnung sehen, am liebsten mit Datum und Firmenstempel; die Rechnung fürs Dach, Umdeckung Nordseite, mit Stempel, hat er im Arbeitszimmer gefunden."
+      - text: "Nächste Woche kommt der Gutachter zur Wertermittlung und will jede Rechnung in der Hand haben, am liebsten mit Datum und Firmenstempel."
         from: ch06/s02
-      - text: "Die Fensterflügel im Arbeitszimmer bleiben nach einer Handbreit stecken."
+      - text: "Die Rechnung für die Umdeckung der Nordseite des Dachs, mit Stempel, hat er Donnerstag spät am Abend im Arbeitszimmer gefunden; die Fensterflügel dort bleiben nach einer Handbreit stecken."
         from: ch06/s02
-      - text: "Laut Grete hat Marie Hedwigs Gartenbuch im Arbeitszimmer hiergelassen; es liegt neben der grünen Lampe."
+      - text: "Grete sagt, Marie hat das Gartenbuch im Arbeitszimmer gelassen, da gehöre es hin; er könne ruhig hineinsehen."
         from: ch06/s02
-      - text: "Im Gartenbuch steht hinter der 'Ghislaine' ein Ausrufezeichen; unter der Überschrift Lindenhof-Rose hat Hedwig vor sechsundzwanzig Jahren im Juli notiert: Erster Steckling, Jonas hat das Loch gegraben und gegossen, er wollte ihn jeden Morgen messen."
+      - text: "Im Gartenbuch steht in Hedwigs Handschrift zu jeder Rose ein Name samt Bemerkung, etwa bei der 'Rosa Mundi' Läuse und Brennnesseljauche; die 'Ghislaine' hat ein Ausrufezeichen."
         from: ch06/s02
-      - text: "Er erinnert sich wieder: Er hat mit Hedwig im Beet gekniet, ihre Hand über seiner; der Steckling stand in einem Erdbeer-Joghurtbecher; danach ist er jeden Morgen barfuß mit dem Lineal aus dem Federmäppchen zum Stöckchen gelaufen und am fünften Tag bei dreieinhalb brüllend zur Küche gerannt."
+      - text: "Auf der Seite 'Lindenhof-Rose' steht, datiert auf einen Juli vor sechsundzwanzig Jahren: Erster Steckling, Jonas hat das Loch gegraben und gegossen, er wollte ihn jeden Morgen messen."
         from: ch06/s02
-      - text: "Hedwig hat ihm jahrelang geschrieben, und er hat selten geantwortet; zu Weihnachten ein Anruf, zehn Minuten, dann wieder ein Jahr nichts."
+      - text: "Er erinnert sich wieder: Hedwig hat ihm beim Pflanzen die Hand geführt ('Nicht drücken'), der Steckling stand in einem Erdbeer-Joghurtbecher, und er hat ihn jeden Morgen barfuß mit dem Lineal gemessen, am fünften Tag dreieinhalb. Wo genau das Loch war, weiß er nicht mehr."
         from: ch06/s02
-      - text: "Im Salon liegt unter dem Laptop auf Hedwigs Tisch der Lageplan mit den nummerierten Kästchen über dem ganzen Garten."
+      - text: "Hedwig hat ihm Brief um Brief geschrieben, und er hat selten geantwortet; zu Weihnachten ein Anruf von zehn Minuten, dann bis zum nächsten Dezember nichts."
         from: ch06/s02
-      - text: "Lena macht für Grete montags den Hofladen auf, seit Jahren; sie hat Gretes Kiste gepackt, ohne auf den Zettel zu sehen."
+      - text: "Lena macht für Grete montags den Hofladen auf, seit Jahren; am Montag Anfang August hat er dort Gretes Kiste geholt."
         from: ch06/s03
-      - text: "Frieda sagt, Tante Rosen hat ihr eine Dahlie geschenkt; laut Lena hält die eine Woche."
+      - text: "Lena hat ihm im Hofladen gesagt: Marie ist keine, mit der man einen Sommer spielt, und wenn er es doch tut, nimmt sie ihm das übel, und das ganze Dorf mit ihr. Ob Marie ihr etwas gesagt hat, solle er Marie selbst fragen."
         from: ch06/s03
-      - text: "Lena hat ihm gesagt: Marie ist keine, mit der man einen Sommer spielt, und wenn er es doch tut, nimmt sie und das ganze Dorf ihm das übel. Auf seine Frage, ob Marie ihr etwas gesagt hat, sagte sie, das müsse er Marie selbst fragen."
+      - text: "Laut Hannes hat der Festausschuss gesessen: Bis Freitag, den vierzehnten, braucht er eine Zusage, auf die man bauen kann; sonst wird im schon reservierten Zelt hinter dem Feuerwehrhaus gefeiert. Er hat Hannes versprochen: 'Bis dahin kriegst du eine Antwort.'"
         from: ch06/s03
-      - text: "Der Festausschuss hat gesessen: Bis Freitag, den vierzehnten, braucht Hannes eine Zusage, auf die man bauen kann, sonst wird im reservierten Zelt hinter dem Feuerwehrhaus gefeiert; bis dahin sind es elf Tage. Er hat Hannes gesagt: 'Bis dahin kriegst du eine Antwort.'"
-        from: ch06/s03
-      - text: "Die Partner wollen am Donnerstag um neun in Hamburg persönlich mit ihm über seine Einlage sprechen; er hat 'Do., 9 Uhr' und darunter den Freitag des Ausschusses auf einen Briefumschlag geschrieben."
+      - text: "Die Partner wollen in Hamburg persönlich über seine Einlage sprechen und fragen, ob Donnerstag, der dreizehnte, um neun geht; er hat beide Termine auf einen Briefumschlag notiert, zugesagt hat er noch nicht."
         from: ch06/s03
     believes:
       - text: "Der Plan trägt: Hauptweg Ende Juni, ein Käufer bis zum Herbst, die Einlage zum Jahresende."
@@ -266,25 +260,22 @@ characters:
         from: ch05/s02
       - text: "Seit dem abgesoffenen Floß rechnet er alles zweimal."
         from: ch05/s03
-      - text: "Eines der nummerierten Kästchen im Lageplan liegt über dem Loch, das er für den ersten Steckling gegraben hat; welches, hat er nicht ausgerechnet."
+      - text: "Einer der nummerierten Stellplätze im Lageplan liegt über dem Loch, das er für den ersten Steckling gegraben hat; welcher, rechnet er nicht aus."
         from: ch06/s02
       - text: "In Hedwigs letzten Jahren war er zweimal hier, vielleicht dreimal."
         from: ch06/s02
-      - text: "Den Fund im Gartenbuch erzählt er weder Grete noch Marie, morgen nicht und später nicht."
+      - text: "Den Fund im Gartenbuch erzählt er weder Grete noch Marie; ob es Scham ist oder ob er etwas festhält, das hier als Einziges ihm allein gehört, weiß er nicht."
         from: ch06/s02
-      - text: "Die Theke im Hofladen ist vermutlich Mats' Arbeit."
-        from: ch06/s03
-      - text: "Zwei Fristen liegen in derselben Woche, und er weiß nicht, welche von beiden er halten wird."
+      - text: "Zwei Fristen in derselben Woche, und er weiß nicht, welche er halten wird."
         from: ch06/s03
     does_not_know:
-      - "dass hinter dem Laubengang unter den Brombeeren der letzte Stock der Lindenhof-Rose steht"
+      - "dass in der Mauerecke hinter dem Südende des Laubengangs der letzte Stock der Lindenhof-Rose steht"
+      - "dass Marie im Hinterhof der alten Schmiede in Klein Lindau zwei Stecklinge der Lindenhof-Rose zieht"
       - "dass Marie Hedwig versprochen hat, den Garten zu retten"
       - "was Hedwig im letzten Herbst auf der Bank unter der 'New Dawn' zu Marie gesagt hat"
       - "dass Grete Marie Hedwigs Gartenbuch gegeben hat"
       - "dass Marie bei Lena über ihn geredet hat und Lena glaubt, Marie habe Gefühle für ihn"
       - "warum Marie die Mauerecke hinter dem Südende des Laubengangs selbst freigeschnitten und mit einem leeren Schild versehen hat"
-      - "wo genau im Garten er als Kind den ersten Steckling der Lindenhof-Rose gepflanzt hat"
-      - "dass Marie bei sich zu Hause Stecklinge der Lindenhof-Rose zieht"
   lena-hansen:
     knows:
       - text: "Laut Marie stand in Jonas' Tabelle beim Laubengang 'Entsorgung', für beide Rankbögen der 'Ghislaine'."
@@ -305,27 +296,25 @@ characters:
         from: ch05/s01
       - text: "Um fünf hat sie Jonas gefragt, ob er nächsten Samstag Zeit hat, und er hat Ja gesagt."
         from: ch05/s03
-      - text: "Sie hat Jonas auf der Helferliste für den Rosengarten eingetragen, mit Ankunft und Abfahrt; die Liste hängt ganz oben am schwarzen Brett im Hofladen."
+      - text: "Sie hat Jonas auf die Helferliste für den Rosengarten eingetragen, mit Ankunft und Abfahrt; die Liste hängt ganz oben am schwarzen Brett im Hofladen."
         from: ch06/s03
-      - text: "Für Grete macht sie montags den Hofladen auf, seit Jahren; am Montag Anfang August hat Jonas Gretes Einkauf abgeholt, und sie hat die Kiste gepackt, ohne auf den Zettel zu sehen."
+      - text: "Für Grete macht sie montags den Hofladen auf, seit Jahren; am Montag Anfang August hat Jonas Gretes Kiste abgeholt."
         from: ch06/s03
-      - text: "Frieda hat von Tante Rosen eine Dahlie geschenkt bekommen; die steht im Glas und hält eine Woche."
-        from: ch06/s03
-      - text: "Sie hat Jonas gesagt, Marie sei keine, mit der man einen Sommer spielt, und wenn er es doch tue, nehme sie und das ganze Dorf ihm das übel; auf seine Frage, ob Marie ihr etwas gesagt hat, hat sie ihn an Marie verwiesen."
+      - text: "Sie hat Jonas gesagt: Marie ist keine, mit der man einen Sommer spielt, und wenn er es doch tut, nimmt sie ihm das übel, und das ganze Dorf mit ihr. Auf seine Frage, ob Marie ihr etwas gesagt hat, hat sie geantwortet, das müsse er Marie selbst fragen."
         from: ch06/s03
     believes:
       - text: "Marie hat Gefühle für Jonas; ihr Reden über ihn ist kein gutes Zeichen – oder ein sehr gutes."
         from: ch02/s03
-      - text: "Jonas könnte mit Marie bloß einen Sommer spielen; davor muss man ihn warnen."
+      - text: "Marie ist keine, mit der man einen Sommer spielt."
         from: ch06/s03
     does_not_know:
-      - "dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat"
+      - "dass in der Mauerecke hinter dem Südende des Laubengangs der letzte Stock der Lindenhof-Rose steht"
+      - "dass Marie im Hinterhof der alten Schmiede zwei Stecklinge der Lindenhof-Rose zieht"
       - "dass sich ein Interessent aus der Hotelbranche für das Gut gemeldet hat"
       - "dass Marie und Jonas im Gewitter unter dem Laubengang gestanden haben und sich seitdem duzen"
       - "dass Ralf Steinhagen von Weidenkamp Hotels das Gut Mitte Juli besichtigt hat"
       - "dass Marie und Jonas sich am Abend am Steg geküsst haben"
-      - "dass Marie bei sich zu Hause Stecklinge der Lindenhof-Rose zieht"
-      - "dass Jonas' Partner ihn am Donnerstag um neun in Hamburg wegen seiner Einlage sprechen wollen"
+      - "dass die Partner Jonas am Donnerstag, dem 13., um neun in Hamburg sprechen wollen"
   marie-albers:
     knows:
       - text: "Jonas Behrendt aus Hamburg ist Hedwigs Erbe."
@@ -340,9 +329,11 @@ characters:
         from: ch01/s03
       - text: "Hedwig hat für die Gartenarbeit Geld hinterlegt, für den Rest nur den Wunsch."
         from: ch01/s03
-      - text: "Hinter dem Laubengang unter den Brombeeren steht ein Stock der Lindenhof-Rose, mit einer einzigen Knospe."
-        from: ch01/s03
-      - text: "Sie hat Hedwigs Gartenbuch; Grete hat es ihr zwei Tage nach dem Auftrag aus dem Arbeitszimmer geholt."
+      - text: "In der Mauerecke am Südende des Laubengangs steht der alte Stock der Lindenhof-Rose, kniehoch und krumm; die Brombeeren sind fort, das Licht kommt bis an den Boden, und dicht über der Erde schieben sich zwei neue Triebe aus dem Holz."
+        from: ch06/s01
+      - text: "Im Hinterhof der alten Schmiede in Klein Lindau stehen hinten an der Wand drei kleine Töpfe unter Folie: zwei Stecklinge der Lindenhof-Rose sind grün, an einem dehnt sich ein Auge; den dritten, schwarz gewordenen, hat sie auf den Kompost gelegt. Niemand außer ihr weiß davon."
+        from: ch06/s01
+      - text: "Grete hat ihr Hedwigs Gartenbuch zwei Tage nach dem Auftrag aus dem Arbeitszimmer geholt."
         from: ch02/s01
       - text: "Laut Gartenbuch steht 'Ghislaine de Féligonde' an Bogen sieben und acht des Laubengangs, gepflanzt 1974; Rose und Bögen stehen seit zweiundfünfzig Jahren."
         from: ch02/s01
@@ -406,26 +397,24 @@ characters:
         from: ch05/s03
       - text: "Auf ihre Frage, ob er im Herbst noch hier ist, hat Jonas gesagt: 'Ich weiß es nicht.'"
         from: ch05/s03
-      - text: "Jonas dachte, zum Fest sehe alles aus wie im Juni; sie hat ihm gesagt, das Junibild kommt nicht wieder, und Glanz im September heißt Nachblüte der 'New Dawn', Lavendel, Katzenminze, Frauenmantel, Astern und Dahlien am Laubengang."
+      - text: "Ende Juli sind die Gallica und die Damaszener verblüht; sie hat Jonas erklärt, dass das Junibild nicht wiederkommt und Glanz im September Nachblüte der 'New Dawn', Lavendel, Katzenminze, Frauenmantel, Astern und Dahlien am Laubengang heißt."
         from: ch06/s01
-      - text: "Grete hat ihnen mittags Buttermilch und Johannisbeerkuchen an die Bank unter der 'New Dawn' gebracht, von ihr zu Jonas und zurück gesehen und ist ohne ein Wort gegangen; auf der Treppe nahm sie jede Stufe einzeln."
+      - text: "Jonas hat geglaubt, zum Fest sehe der Garten aus wie im Juni."
         from: ch06/s01
-      - text: "Laut Jonas hat Lena ihn für Samstag schon eingetragen, mit Uhrzeit für Ankunft und Abfahrt."
+      - text: "Grete hat ihnen mittags Buttermilch und Johannisbeerkuchen auf die Bank unter der 'New Dawn' gebracht, von ihr zu Jonas und zurück gesehen und ist ohne ein Wort gegangen; auf der Treppe nahm sie jede Stufe einzeln."
         from: ch06/s01
-      - text: "Am Stock der Lindenhof-Rose in der Mauerecke am Südende des Laubengangs sind die Brombeeren fort; dicht über der Erde schieben sich zwei neue Triebe aus dem Holz, rötlich, kaum fingerlang."
+      - text: "Laut Jonas hat Lena ihn für Samstag schon eingetragen, mit Ankunft und Abfahrt."
         from: ch06/s01
-      - text: "Im Hinterhof der alten Schmiede in Klein Lindau stehen drei Töpfe mit Stecklingen der Lindenhof-Rose unter Folie: zwei sind grün, an einem dehnt sich ein Auge; der dritte ist schwarz geworden, sie hat ihn auf den Kompost gelegt."
+      - text: "Aus Haus und Garten des Guts kommt keine Nachricht durch."
         from: ch06/s01
-      - text: "Von den Stecklingen weiß niemand, Lena nicht, Grete nicht, Jonas erst recht nicht."
-        from: ch06/s01
-      - text: "Jonas hat ihr geschrieben: 'Kommst du morgen wieder?' Sie hat geantwortet: 'Die Rosen fragen das nicht. Die wissen das.' Darauf er: 'Ich bin nicht so klug wie deine Rosen.'"
+      - text: "Am Abend hat Jonas ihr geschrieben: 'Kommst du morgen wieder?'; sie hat geantwortet: 'Die Rosen fragen das nicht. Die wissen das.'"
         from: ch06/s01
     believes:
       - text: "Splitt auf dem Hauptweg würde den alten Kies zerstören."
         from: ch01/s01
       - text: "Jonas will das Gut verkaufsfertig machen."
         from: ch01/s03
-      - text: "Der Stock unter den Brombeeren ist die letzte Lindenhof-Rose im Garten."
+      - text: "Der Stock in der Mauerecke hinter dem Laubengang ist die letzte Lindenhof-Rose im Garten."
         from: ch01/s03
       - text: "Den Winkel hinter dem Laubengang sieht man von der Terrasse nicht, und in Jonas' Tabelle kommt er nicht vor."
         from: ch01/s03
@@ -449,9 +438,7 @@ characters:
         from: ch05/s03
       - text: "Grete ist heute bloß müde vom Backen."
         from: ch06/s01
-      - text: "Lena misstraut jedem ohne Klemmbrett."
-        from: ch06/s01
-      - text: "Weil aus Haus und Garten keine Nachricht durchkommt, schreibt Jonas ihr vom Hügel hinter der Scheune."
+      - text: "Jonas schreibt ihr vom Hügel hinter der Scheune, weil aus Haus und Garten keine Nachricht durchkommt."
         from: ch06/s01
     does_not_know:
       - "dass das Geldvermächtnis nur für einen Sommer Gartenpflege reicht"
@@ -460,7 +447,7 @@ characters:
       - "dass Weidenkamp im Gutshaus rund zwanzig Zimmer, in Kuhstall und Scheune Spa und Seminarraum und am Steg ein Saunahaus plant"
       - "dass im Lageplan von Weidenkamp der Parkplatz genau auf dem Rosengarten liegt, mit Rosen nur noch in Kübeln"
       - "dass Weidenkamp für Gretes freiwilligen Auszug eine Abfindung vorsieht"
-      - "dass Jonas eine Mappe mit einer Kopie des Lageplans unter seinem Laptop liegen hat"
+      - "dass Jonas den Lageplan unter seinem Laptop im Salon liegen hat"
       - "von welchen Fotos Steinhagen spricht"
       - "dass der Makler den Garten vorzeigbar haben will"
       - "dass am letzten Freitag im Juli ein Fotograf für Gartenfotos kommen soll"
@@ -468,11 +455,11 @@ characters:
       - "dass Jonas sie vom Hügel hinter der Scheune bei der Arbeit beobachtet hat"
       - "warum Jonas an der Mauer beim Tor einen Moment still und abwesend war"
       - "dass Jonas beim Graben an der Südmauer an die Stellplätze im Lageplan gedacht hat"
-      - "dass Jonas im Gartenbuch Hedwigs Notiz gelesen hat, nach der er als Kind beim ersten Steckling der Lindenhof-Rose das Loch gegraben und gegossen hat"
-      - "dass am Montag ein Gutachter zur Wertermittlung kommt"
-      - "dass Lena Jonas gewarnt hat, mit ihr keinen Sommer zu spielen"
-      - "dass der Festausschuss Jonas bis Freitag, den vierzehnten, eine Frist für die Zusage zum Erntefest gesetzt hat und Jonas Hannes bis dahin eine Antwort versprochen hat"
-      - "dass Jonas' Partner ihn am Donnerstag um neun in Hamburg wegen seiner Einlage sprechen wollen"
+      - "dass Jonas im Gartenbuch gelesen hat, dass er als Kind das Loch für den ersten Steckling der Lindenhof-Rose gegraben hat"
+      - "dass nächste Woche ein Gutachter zur Wertermittlung kommt"
+      - "dass Lena Jonas im Hofladen gewarnt hat, mit ihr keinen Sommer zu spielen"
+      - "dass der Festausschuss bis Freitag, den 14., eine Zusage von Jonas braucht, sonst im Zelt hinter dem Feuerwehrhaus gefeiert wird"
+      - "dass die Partner Jonas am Donnerstag, dem 13., um neun in Hamburg wegen seiner Einlage sprechen wollen"
   ralf-steinhagen:
     knows:
       - text: "Jonas Behrendts Nummer hat er vom Makler."
@@ -502,10 +489,10 @@ characters:
         from: ch04/s02
     does_not_know:
       - "dass Hedwigs Testament den Rosengarten zum Erntefest am 5. September wieder blühen sehen will"
-      - "dass hinter dem Laubengang unter den Brombeeren der letzte Stock der Lindenhof-Rose steht"
+      - "dass hinter dem Laubengang der letzte Stock der Lindenhof-Rose steht und Marie Stecklinge davon zieht"
       - "dass Jonas Marie über seinen Besuch nur 'Ein Interessent' gesagt hat"
       - "dass das Dorf an einem Helfersamstag Mitte Juli gemeinsam den Rosengarten hergerichtet hat und Jonas mitgearbeitet hat"
       - "dass an der Südmauer eine alte 'Ghislaine de Féligonde' freigelegt wurde"
       - "dass Marie und Jonas sich am Steg geküsst haben"
-      - "dass Jonas als Kind mit Hedwig den ersten Steckling der Lindenhof-Rose im Garten gepflanzt hat"
-      - "dass der Festausschuss Jonas bis Freitag, den vierzehnten, eine Frist für die Zusage zum Erntefest gesetzt hat"
+      - "dass Jonas als Kind den ersten Steckling der Lindenhof-Rose mit Hedwig gepflanzt hat"
+      - "dass der Festausschuss bis Freitag, den 14., von Jonas eine Zusage verlangt, ob das Erntefest auf dem Gut bleibt"
