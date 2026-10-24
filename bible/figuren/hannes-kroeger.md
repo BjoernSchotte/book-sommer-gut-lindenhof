@@ -143,3 +143,4 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch07/s02 · „Kalle kam von der Küchentür zurück, ohne Kuchen und ohne Eile.“ · Pfeift Kalle zurück, der diesmal ohne Kuchen kommt (#3f30b8)
 - ch07/s02 · „Der Pick-up wendete auf dem Hof und rollte die Lindenallee hinunter, bis die Stämme ihn verdeckten.“ · Fährt die Lindenallee hinunter (#3f30b8)
 - ch08/s01 · „Am Tag darauf hatte Hannes am Tor die Mütze in den Händen gedreht und nach der Antwort gefragt.“ · Fragte am Tag nach der Unterschrift am Tor nach der Antwort (Rückblick aus Maries Sicht) (#231c47)
+- ch08/s02 · „Hannes sagt, letztes Jahr waren sie zu trocken. Hannes sagt viel.“ · Fand laut Grete die Mandeln im Butterkuchen letztes Jahr zu trocken (#999c3a)
