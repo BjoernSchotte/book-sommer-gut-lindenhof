@@ -2,6 +2,7 @@
 id: lena-hansen
 type: character
 summary: Lena Hansen, Ende zwanzig, Maries beste Freundin seit der Grundschule, führt den Hofladen auf dem früheren Hof ihrer Eltern in Klein Lindau, hört sich im Sommer 2026 Maries Gefühle für Jonas Behrendt an und sagt sie ihr mit leichtem Humor auf den Kopf zu, führt mit Hannes Kröger die Helferliste, mit der das Dorf im Rosengarten anpackt, und steht nach dem Fund des Vorvertrags an Maries Seite, ohne ihr die eigene Entscheidung abzunehmen.
+aliases: [Lena, Hansen]
 links: [marie-albers, jonas-behrendt, grete-paulsen, hannes-kroeger, ralf-steinhagen, grundlage, praemisse]
 ---
 

@@ -2,6 +2,7 @@
 id: jonas-behrendt
 type: character
 summary: Jonas Behrendt, Mitte dreißig, Bauingenieur aus Hamburg und Großneffe der verstorbenen Hedwig, erbt im Sommer 2026 Gut Lindenhof, lässt den Rosengarten nur verkaufsfertig herrichten und unterschreibt einen Vorvertrag mit einer Hotelgruppe, verliebt sich aber in die Gärtnerin Marie Albers, findet zu den verdrängten Kindersommern zurück und tritt aus eigenem Entschluss vom Vertrag zurück, um mit ihr auf dem Gut zu bleiben.
+aliases: [Jonas, Behrendt]
 links: [marie-albers, grete-paulsen, hannes-kroeger, ralf-steinhagen, lena-hansen, grundlage, praemisse]
 ---
 

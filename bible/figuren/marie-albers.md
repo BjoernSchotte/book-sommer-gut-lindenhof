@@ -2,6 +2,7 @@
 id: marie-albers
 type: character
 summary: Marie Albers, Ende zwanzig, selbständige Gärtnerin aus Klein Lindau, bodenständig und eigensinnig, soll im Sommer 2026 den verwilderten Rosengarten von Gut Lindenhof bis zum Erntefest retten, kämpft vor allem um die letzte Lindenhof-Rose und verliebt sich dabei in den Erben Jonas Behrendt, der das Gut verkaufen will.
+aliases: [Marie, Albers]
 links: [jonas-behrendt, grete-paulsen, lena-hansen, hannes-kroeger, ralf-steinhagen, grundlage, praemisse]
 ---
 

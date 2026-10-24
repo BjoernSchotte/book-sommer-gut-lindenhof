@@ -2,6 +2,7 @@
 id: grete-paulsen
 type: character
 summary: Grete Paulsen, Anfang siebzig, seit über vierzig Jahren Haushälterin auf Gut Lindenhof und mit lebenslangem Wohnrecht im kleinen Haus neben der Remise, ist das warme Herz des Hauses, hütet Hedwigs Gartenbuch und Erinnerungen und gibt im Sommer 2026 Hedwigs Wünsche und Jonas' Kindersommer an Marie und Jonas weiter, als Vertraute beider, die mit Kuchen und klaren Worten mehr bewegt, als sie zugibt.
+aliases: [Grete, Paulsen]
 links: [marie-albers, jonas-behrendt, hannes-kroeger, lena-hansen, ralf-steinhagen, grundlage, praemisse]
 ---
 

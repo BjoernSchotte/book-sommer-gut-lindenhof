@@ -2,6 +2,7 @@
 id: ralf-steinhagen
 type: character
 summary: Ralf Steinhagen, Ende vierzig, Projektentwickler der erfundenen Hotelgruppe Weidenkamp Hotels, will im Sommer 2026 Gut Lindenhof zum Wellnesshotel umbauen, sieht im Rosengarten nur die ebene Fläche für den Parkplatz und bringt Jonas Behrendt den notariellen Vorvertrag, glatt und höflich, aber kein Bösewicht, der den Rücktritt am Ende sachlich hinnimmt.
+aliases: [Ralf, Steinhagen]
 links: [jonas-behrendt, marie-albers, grete-paulsen, hannes-kroeger, lena-hansen, grundlage, praemisse]
 ---
 

@@ -2,6 +2,7 @@
 id: hannes-kroeger
 type: character
 summary: Hannes Kröger, Anfang sechzig, Nachbarbauer von Gut Lindenhof und Sprecher des Erntefest-Ausschusses von Klein Lindau, packt im Sommer 2026 mit Trecker und Händen im verwilderten Rosengarten an, fragt Jonas Behrendt geradeheraus, ob das Erntefest auf dem Gut bleibt, und steht für das Dorf als Gemeinschaft, die Marie trägt und Jonas am Ende aufnimmt.
+aliases: [Hannes, Kröger]
 links: [marie-albers, jonas-behrendt, grete-paulsen, lena-hansen, ralf-steinhagen, grundlage, praemisse]
 ---
 
