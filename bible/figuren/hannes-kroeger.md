@@ -92,7 +92,6 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch03/s02 · „Sonnabend bring ich den Trecker, Deern. Halb acht.“ · Sagt Marie den Trecker für Sonnabend halb acht zu (#4f7a40)
 - ch03/s02 · „Er steckte zwei Finger in den Mund und pfiff.“ · Pfeift Kalle herbei und fährt (#4f7a40)
 - ch03/s02 · „Hannes wartete und fragte nicht nach.“ · Wartet Jonas' ausweichende Antwort ab, ohne zu drängen (#4f7a40)
-- ch04/s02 · „Kurz darauf kratzte ihre Schaufel wieder im Kies, im selben Takt wie die von Hannes.“ · Schaufelt während der Besprechung weiter Kies, Marie im selben Takt (#20f88b)
 - ch04/s01 · „Hannes stand oben auf dem Hänger, den er rückwärts bis ans schmiedeeiserne Tor gesetzt hatte“ · Bringt Kies mit dem Hänger und schaufelt mit Marie im Takt (#57a434)
 - ch04/s01 · „Noch zwei Fuhren“ · Duzt Marie; noch zwei Fuhren bis zur Sonnenuhr (#57a434)
 - ch04/s01 · „hielt neben Hannes' verbeultem Pick-up. Auf der Ladefläche fuhr Kalle hoch und bellte den fremden Wagen an.“ · Kalle bellt auf der Ladefläche des Pick-ups Steinhagens Wagen an (#57a434)
@@ -102,3 +101,4 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch04/s01 · „Dann kletterte er zurück auf den Hänger, nahm die Schaufel und machte weiter.“ · Setzt die Mütze auf und schaufelt wortlos weiter (#57a434)
 - ch04/s01 · „Hannes nannte knapp seinen Namen“ · Stellt sich Steinhagen knapp vor (#57a434)
 - ch04/s01 · „Kalle sprang von der Ladefläche und lief zur Küchentür“ · Kalle springt vom Pick-up und läuft zu Gretes Küchentür (#57a434)
+- ch04/s02 · „Kurz darauf kratzte ihre Schaufel wieder im Kies, im selben Takt wie die von Hannes.“ · Schaufelt während der Besprechung weiter Kies, Marie im selben Takt (#80692c)
