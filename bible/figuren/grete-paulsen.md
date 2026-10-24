@@ -94,3 +94,5 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch02/s03 · „Grete sagt, wie zwei ertrunkene Mäuse.“ · Ihr Spott über Jonas' Socken auf der Freitreppe wird von Marie bei Lena weitererzählt (#07e654)
 - ch03/s01 · „Gretes Kuchen hat mir gefallen. Eine Stunde Unkraut, ein Stück Streuselkuchen.“ · Laut Marie zahlte Grete der kleinen Marie eine Stunde Unkraut mit einem Stück Streuselkuchen aus (#2b0244)
 - ch03/s01 · „Jeden Dienstag und jeden Freitag. Grete hat Buch geführt, auf der Rückseite vom Kalender.“ · Gab den Kuchenlohn dienstags und freitags und führte auf der Kalenderrückseite Buch; wer schummelte, bekam nur den Rand (#2b0244)
+- ch03/s02 · „zu Gretes Küchentür, wo es um diese Zeit Kuchenränder gab“ · An ihrer Küchentür gibt es morgens Kuchenränder; Hannes' Hund Kalle läuft sofort dorthin (#834740)
+- ch03/s02 · „Grete sagt, du nimmst Milch.“ · Hat Jonas gesagt, dass Marie Kaffee mit Milch nimmt (#834740)

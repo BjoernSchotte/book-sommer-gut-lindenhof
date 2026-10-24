@@ -1,0 +1,251 @@
+source: manuscript/ch03/s02.md
+source_hash: "834740"
+extracted_by: bb-ingest
+end_actual: dialogue
+end_quote: "„Der Kaffee wird kalt“, sagte er."
+items:
+  - kind: event
+    who: hannes-kroeger
+    quote: "Hannes Kröger stieg aus dem Pick-up, bevor der Motor ganz verstummt war."
+    status: fact
+    about: [hannes-kroeger]
+    tags: []
+    fact: { subject: hannes-kroeger, predicate: has_object, value: "verbeulter Pick-up" }
+  - kind: object_fact
+    quote: "Der Wagen hatte an beiden Kotflügeln Beulen, und auf der Ladefläche stand Kalle, schwarzweiß und grau um die Schnauze."
+    status: fact
+    about: [hannes-kroeger]
+    tags: []
+  - kind: event
+    quote: "Mit einem Satz war der alte Hund unten und lief schnurstracks über den Hof zu Gretes Küchentür, wo es um diese Zeit Kuchenränder gab."
+    status: fact
+    about: [hannes-kroeger, grete-paulsen]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "„Moin“, sagte Hannes und tippte an die Mütze."
+    status: fact
+    about: [hannes-kroeger, marie-albers]
+    tags: []
+  - kind: time
+    quote: "Der Juli hatte mit einem Morgen angefangen, der aussah wie frisch gewaschen."
+    status: fact
+    about: [garten]
+    tags: []
+    fact: { subject: "ch03/s02@besuch", predicate: at_time, value: "Anfang Juli, Morgen" }
+  - kind: place_fact
+    quote: "In den Pfützen auf dem Plattenweg lag der Himmel, und aus der Allee wehte noch immer Lindenduft herüber, dünner als vor dem Gewitter, aber süß genug."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "Das schmiedeeiserne Tor quietschte, als sie es aufzog."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: "Hannes trat hindurch, blieb stehen und hakte die Daumen in den Hosenbund."
+    status: fact
+    about: [hannes-kroeger, garten]
+    tags: []
+    fact: { subject: "ch03/s02@besuch", predicate: at_place, value: garten }
+  - kind: place_fact
+    quote: "Sein Blick ging über den freien Hauptweg, über die Buchskanten bis zum Laubengang, wo die 'Ghislaine' wieder an ihren Bögen hing."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "„Dat löppt, Deern“, sagte er."
+    status: claim
+    about: [garten, marie-albers]
+    tags: []
+  - kind: narrator_claim
+    quote: "Marie wurden die Ohren warm, denn von Hannes war das so gut wie ein Orden."
+    status: fact
+    about: [marie-albers, hannes-kroeger]
+    tags: []
+  - kind: place_fact
+    quote: "Rings um die Sonnenuhr hatte sich der Kies an drei Stellen gehoben wie Brotteig im Ofen."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "Darunter saßen die alten Holunderstubben, knorrig und dick wie Melkeimer, und an der Westseite der Brombeerwurzelstock, dem sie seit drei Tagen mit der Hacke kam, ohne dass er sich rührte."
+    status: fact
+    about: [garten, marie-albers]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "„Mit dem Spaten wird das nix“, sagte Hannes."
+    status: claim
+    about: [garten]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "Kette drum, Trecker auf den Querweg, dann langsam anziehen. Ruckzuck ist der raus."
+    status: claim
+    about: [garten, hannes-kroeger]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "„Langsam ist gut. Ruckzuck nicht.“"
+    status: claim
+    about: [garten, hannes-kroeger]
+    tags: []
+  - kind: place_fact
+    quote: "Die 'Rosa Mundi' hing voller rot-weiß gestreifter Blüten, keinen Meter vom Stubben entfernt."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "„Wenn der Ballen zu ihr hin kippt, reißt er sie mit.“"
+    status: claim
+    about: [garten]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "„Dann ziehen wir nach Norden. Zum Tor hin.“"
+    status: claim
+    about: [garten, hannes-kroeger]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "„Rosen nicht.“"
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Jonas kam die Freitreppe herunter und über die Querachse, in jeder Hand einen Becher Kaffee, und trug sie so vorsichtig, als hätte Grete ihm den Inhalt abgezählt."
+    status: fact
+    about: [jonas-behrendt, garten, grete-paulsen]
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: "Die Stiefel aus der Remise waren ihm immer noch eine Nummer zu groß."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: has_object, value: "Gummistiefel aus der Remise, eine Nummer zu groß" }
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "„Mit Milch“, sagte er und hielt Marie einen Becher hin. „Grete sagt, du nimmst Milch.“"
+    status: fact
+    about: [jonas-behrendt, marie-albers, grete-paulsen]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Marie trinkt Kaffee mit Milch (von Grete)" }
+  - kind: relationship
+    who: marie-albers
+    quote: "„Danke. Das ist nett von Ih…“ Sie schluckte die Silbe herunter. „Von dir.“"
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: narrator_claim
+    quote: "Gestern im Regen war das Du ganz leicht gewesen. Heute, im hellen Licht und vor Zeugen, stolperte sie darüber wie über eine Wurzel im Weg."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: time
+    quote: "Gestern im Regen war das Du ganz leicht gewesen."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "„Herr Kröger. Ich hoffe, schwarz ist recht.“"
+    status: fact
+    about: [jonas-behrendt, hannes-kroeger]
+    tags: []
+  - kind: belief
+    who: hannes-kroeger
+    quote: "Hannes trank einen Schluck und sah über den Becherrand von Jonas zu Marie und wieder zurück. Er sagte nichts, nur die Lachfalten um seine hellen Augen wurden tiefer."
+    status: belief
+    about: [hannes-kroeger, marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: hannes-kroeger, predicate: believes, value: "zwischen Marie und Jonas ist etwas" }
+  - kind: speech
+    who: hannes-kroeger
+    quote: "„Hat bei Hedwig auch gehalten. Den Fliederbusch an der Remise hab ich ihr mit derselben rausgeholt.“"
+    status: claim
+    about: [hannes-kroeger]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Für sich selbst hatte er keinen Kaffee mitgebracht."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: "Dann stellte Hannes den Becher auf den Sockel der Sonnenuhr, nahm die Mütze ab und drehte sie in den großen, rissigen Händen, einmal ganz herum, am Schirm entlang."
+    status: fact
+    about: [hannes-kroeger, garten]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "„Herr Behrendt.“ Hannes räusperte sich. „Das Erntefest. Bleibt das auf dem Gut?“"
+    status: fact
+    about: [hannes-kroeger, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "„Das kann ich jetzt noch nicht sagen“, sagte er. „Da hängt einiges dran. Gutachten fürs Dach und für die Fenster. Was das alles kostet. Und Fristen, die ich selbst noch nicht kenne.“"
+    status: claim
+    about: [jonas-behrendt, hannes-kroeger]
+    tags: []
+  - kind: knowledge_gain
+    who: hannes-kroeger
+    quote: "Hannes nickte einmal, setzte die Mütze wieder auf und zog den Schirm zurecht."
+    status: fact
+    about: [hannes-kroeger, jonas-behrendt]
+    tags: []
+    fact: { subject: hannes-kroeger, predicate: knows, value: "Jonas sagt nicht zu, dass das Erntefest auf dem Gut bleibt" }
+  - kind: belief
+    who: marie-albers
+    quote: "Marie zählte die Streifen einer Blüte an der 'Rosa Mundi' und hoffte auf einen Satz von Jonas, der nach Ja klang."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "„Fest ist am ersten Samstag im September“, sagte er. „Wie immer.“"
+    status: fact
+    about: [hannes-kroeger, jonas-behrendt]
+    tags: []
+    fact: { subject: "ch03/s02@erntefest", predicate: at_time, value: "erster Samstag im September" }
+  - kind: speech
+    who: hannes-kroeger
+    quote: "„Sonnabend bring ich den Trecker, Deern. Halb acht.“"
+    status: claim
+    about: [hannes-kroeger, marie-albers, garten]
+    tags: []
+    fact: { subject: "ch03/s02@trecker", predicate: at_time, value: "Sonnabend 07:30" }
+  - kind: event
+    who: hannes-kroeger
+    quote: "Um die Hausecke kam Kalle geschossen, ein Stück Kuchenrand im Maul, und das Tor quietschte hinter den beiden zu."
+    status: fact
+    about: [hannes-kroeger, garten]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Sie sah Jonas an und wartete auf ein Wort an sie, irgendeins, das ihr erklärte, was Hannes eben nicht zu hören bekommen hatte."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: narrator_claim
+    quote: "Gestern unter den Rosen hatte sein Arm eine Handbreit neben ihrem gelegen."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "„Der Kaffee wird kalt“, sagte er."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+gaps:
+  - "Die Frist des Erntefest-Ausschusses (Ausweichort, Zelt) bleibt in der Szene ungenannt; belegt sind nur Hannes' Frage und der Festtermin."
+  - "Welcher Sonnabend gemeint ist (Datum), bleibt offen; ebenso das genaue Datum des Szenentags im Juli."
