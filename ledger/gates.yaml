@@ -8,3 +8,19 @@
   findings:
     error: 0
     warn: 1
+- gate: foundation
+  approved: 2026-10-24T13:54:34.441Z
+  by: factory:kuestenherzen
+  inputs:
+    bible/figuren/grete-paulsen.md: 63c89c
+    bible/figuren/hannes-kroeger.md: 78140b
+    bible/figuren/jonas-behrendt.md: b63a1d
+    bible/figuren/lena-hansen.md: a09f92
+    bible/figuren/marie-albers.md: 883c9c
+    bible/figuren/ralf-steinhagen.md: 8f1c69
+    bible/welt/grundlage.md: 94c49e
+    bible/welt/praemisse.md: b378bf
+  hold: error
+  findings:
+    error: 0
+    warn: 0
