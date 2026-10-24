@@ -15,22 +15,22 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "bf9352",
+    "hash": "9678ea",
     "by": "apply",
-    "at": "2026-10-24T17:31:05.073Z",
-    "unit": "ch03/s03"
+    "at": "2026-10-24T18:00:24.666Z",
+    "unit": "ch04/s01"
   },
   "bible/figuren/hannes-kroeger.md": {
-    "hash": "f180c9",
+    "hash": "8f4577",
     "by": "apply",
-    "at": "2026-10-24T17:48:04.175Z",
-    "unit": "ch03/s02"
+    "at": "2026-10-24T18:00:24.666Z",
+    "unit": "ch04/s01"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "af67e6",
+    "hash": "e7a22e",
     "by": "apply",
-    "at": "2026-10-24T17:48:04.175Z",
-    "unit": "ch03/s02"
+    "at": "2026-10-24T18:00:24.666Z",
+    "unit": "ch04/s01"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "17799d",
@@ -39,16 +39,16 @@
     "unit": "ch02/s03"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "61329c",
+    "hash": "287637",
     "by": "apply",
-    "at": "2026-10-24T17:48:04.175Z",
-    "unit": "ch03/s02"
+    "at": "2026-10-24T18:00:24.666Z",
+    "unit": "ch04/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "0af751",
+    "hash": "5f288f",
     "by": "apply",
-    "at": "2026-10-24T17:31:05.073Z",
-    "unit": "ch03/s03"
+    "at": "2026-10-24T18:00:24.666Z",
+    "unit": "ch04/s01"
   },
   "bible/orte/arbeitszimmer.md": {
     "hash": "992219",
@@ -56,10 +56,10 @@
     "at": "2026-10-24T14:41:57.723Z"
   },
   "bible/orte/garten.md": {
-    "hash": "656f3e",
+    "hash": "41be99",
     "by": "apply",
-    "at": "2026-10-24T17:24:41.108Z",
-    "unit": "ch03/s02"
+    "at": "2026-10-24T18:00:24.666Z",
+    "unit": "ch04/s01"
   },
   "bible/orte/gutshaus.md": {
     "hash": "cf9ec2",
@@ -210,6 +210,12 @@
     "by": "apply",
     "at": "2026-10-24T17:31:05.073Z",
     "unit": "ch03/s03"
+  },
+  "ledger/observations/ch04-s01.yaml": {
+    "hash": "e5d36c",
+    "by": "apply",
+    "at": "2026-10-24T18:00:24.666Z",
+    "unit": "ch04/s01"
   },
   "manuscript/ch01/s01.md": {
     "hash": "b7e437",
