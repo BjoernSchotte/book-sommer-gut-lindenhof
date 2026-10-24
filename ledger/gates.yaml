@@ -57,3 +57,15 @@
   findings:
     error: 0
     warn: 5
+- gate: sketches
+  approved: 2026-10-24T14:55:19.156Z
+  by: factory:kuestenherzen
+  inputs:
+    STORYBOARD.md: bc4fba
+    plan/ch01.md: "9e1664"
+    plan/tests/ch01.yaml: 52e1c3
+  scope: ch01
+  hold: error
+  findings:
+    error: 0
+    warn: 1
