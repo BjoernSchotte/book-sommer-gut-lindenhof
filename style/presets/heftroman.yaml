@@ -1,5 +1,7 @@
 # Stilvorlage Liebes-Heftroman (specs/heftroman/design.md § 4.4). Startwerte aus zwei gemessenen
 # Heftromanen (research/handwerk/heftroman.md § 6), nach dem ersten Lauf nacheichen.
+# Buchkopie „Sommer auf Gut Lindenhof“: pov.main gesetzt, Nebenperspektive nach Plan geeicht
+# (18 Marie-, 9 Jonas-Szenen; drei Jonas-Szenen in Folge ch06/s02–ch07/s01, siehe style/decisions.md).
 name: heftroman
 based_on: [basener-2010]
 targets:
@@ -12,12 +14,14 @@ targets:
     pull_share: ">= 0.85"
     cliffhanger_share: [0.20, 0.50]
   pov:
-    main: null # die Heldin (couple[0] im STORYBOARD), im Buch setzen
+    main: marie-albers
     voice_main: third/past
-    secondary_share: [0.30, 0.50]
+    secondary_share: [0.25, 0.40]
     secondary_voice: third/past
-    max_run_secondary: 2
+    max_run_secondary: 3
 moves:
   - { move: "Abschnitt endet mit einer offenen Frage zwischen den beiden", effect: "Sog zum nächsten Treffen", when: "nach jeder Annäherung", failure: "jede Szene endet gleich" }
   - { move: "Perspektivwechsel Heldin/Held im Wechsel", effect: "beide Herzen sichtbar", when: "durchgehend", failure: "Kopfspringen in einer Szene" }
-avoid: ["Missverständnis, das ein Gespräch löst", "expliziter Sex", "Religion und Politik"]
+  - { move: "Gartenbild der Jahreszeit am Kapitelanfang", effect: "Countdown zum Erntefest spürbar", when: "jeder Kapitelanfang", failure: "Wetterbericht ohne Figur" }
+  - { move: "Streit als kurzer Schlagabtausch mit umgedrehtem Wort", effect: "Schmunzeln, Funken", when: "Begegnungen des Paars in Akt 1 und 2", failure: "Herabsetzung, Zynismus" }
+avoid: ["Missverständnis, das ein Gespräch löst", "expliziter Sex", "Religion und Politik", "Meer, Küste, Insel", "Bösewicht oder Zufallsrettung"]

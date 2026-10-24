@@ -185,14 +185,14 @@
     "at": "2026-10-24T14:55:18.766Z"
   },
   "style/audience.md": {
-    "hash": "824e8b",
-    "by": "author",
-    "at": "2026-10-24T13:40:08.287Z"
+    "hash": "6792f8",
+    "by": "apply",
+    "at": "2026-10-24T14:59:52.398Z"
   },
   "style/decisions.md": {
-    "hash": "58dfab",
-    "by": "author",
-    "at": "2026-10-24T13:40:08.287Z"
+    "hash": "c7634e",
+    "by": "apply",
+    "at": "2026-10-24T14:59:52.398Z"
   },
   "style/dictionary.txt": {
     "hash": "e3b0c4",
@@ -245,9 +245,9 @@
     "at": "2026-10-24T13:40:08.287Z"
   },
   "style/presets/heftroman.yaml": {
-    "hash": "0bf030",
-    "by": "author",
-    "at": "2026-10-24T13:40:08.287Z"
+    "hash": "c43f08",
+    "by": "apply",
+    "at": "2026-10-24T14:59:52.398Z"
   },
   "style/presets/krimi-mix.yaml": {
     "hash": "5c2157",
@@ -255,13 +255,13 @@
     "at": "2026-10-24T13:40:08.287Z"
   },
   "style/style.md": {
-    "hash": "0f2c7d",
-    "by": "author",
-    "at": "2026-10-24T13:40:08.287Z"
+    "hash": "f35f06",
+    "by": "apply",
+    "at": "2026-10-24T14:59:52.398Z"
   },
   "style/voice.md": {
-    "hash": "8db0a7",
-    "by": "author",
-    "at": "2026-10-24T13:40:08.287Z"
+    "hash": "1269f1",
+    "by": "apply",
+    "at": "2026-10-24T14:59:52.398Z"
   }
 }
