@@ -15,22 +15,22 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "cef525",
+    "hash": "d9b418",
     "by": "apply",
-    "at": "2026-10-24T21:43:46.699Z",
-    "unit": "ch09/s02"
+    "at": "2026-10-24T22:01:05.960Z",
+    "unit": "ch10/s01"
   },
   "bible/figuren/hannes-kroeger.md": {
-    "hash": "849aa9",
+    "hash": "210a3e",
     "by": "apply",
-    "at": "2026-10-24T21:43:46.699Z",
-    "unit": "ch09/s02"
+    "at": "2026-10-24T22:01:05.960Z",
+    "unit": "ch10/s01"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "5b2c6a",
+    "hash": "988e45",
     "by": "apply",
-    "at": "2026-10-24T21:43:46.699Z",
-    "unit": "ch09/s02"
+    "at": "2026-10-24T22:01:05.960Z",
+    "unit": "ch10/s01"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "a22ff3",
@@ -39,10 +39,10 @@
     "unit": "ch08/s03"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "fe8879",
+    "hash": "5cecbc",
     "by": "apply",
-    "at": "2026-10-24T21:43:46.699Z",
-    "unit": "ch09/s02"
+    "at": "2026-10-24T22:01:05.960Z",
+    "unit": "ch10/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
     "hash": "78ec1e",
@@ -81,9 +81,10 @@
     "unit": "ch09/s01"
   },
   "bible/orte/lindenallee.md": {
-    "hash": "4ff204",
+    "hash": "a34a8b",
     "by": "apply",
-    "at": "2026-10-24T14:51:23.934Z"
+    "at": "2026-10-24T22:01:05.960Z",
+    "unit": "ch10/s01"
   },
   "bible/orte/notariat.md": {
     "hash": "ceb15f",
@@ -340,6 +341,12 @@
     "by": "apply",
     "at": "2026-10-24T21:43:46.699Z",
     "unit": "ch09/s02"
+  },
+  "ledger/observations/ch10-s01.yaml": {
+    "hash": "267e46",
+    "by": "apply",
+    "at": "2026-10-24T22:01:05.960Z",
+    "unit": "ch10/s01"
   },
   "manuscript/ch01/s01.md": {
     "hash": "b7e437",

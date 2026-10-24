@@ -28,3 +28,12 @@ links: []
 - Die Allee gehört zum Gut (nicht zur Gemeinde); das Dorf darf sie für das Fest seit jeher nutzen, ohne dass es aufgeschrieben ist.
 - Netz ist auch hier schwach; Telefonate führt Jonas weiterhin auf dem Hügel hinter der Scheune, nicht in der Allee.
 - Keine Unfälle, keine Gewalt; der Trecker fährt im Schritttempo.
+
+## Verlauf
+- ch10/s01 · „Am frühen Nachmittag stand sie am Rand der Lindenallee und zupfte am Saum.“ · Am Erntefest, Samstag, 5. September, stehen die Zuschauer am frühen Nachmittag am Rand der Allee (#7366a9)
+- ch10/s01 · „Links von ihr standen die Landfrauen mit ihren Körben, rechts die Feuerwehr in Uniform, die Jüngsten mit sonnenroten Ohren.“ · Landfrauen und Feuerwehr säumen die Allee (#7366a9)
+- ch10/s01 · „Gelbes Lindenlaub lag im Staub der Bankette.“ · Gelbes Lindenlaub auf den Banketten (#7366a9)
+- ch10/s01 · „Vom Feldweg her kam Blasmusik, erst leise, dann so laut, dass ein kleines Mädchen auf den Schultern seines Vaters zu klatschen anfing.“ · Der Umzug mit Blasmusik kommt vom Feldweg her (#7366a9)
+- ch10/s01 · „Trecker rollten im Schritttempo heran, blank gewaschen, mit Bändern an den Spiegeln.“ · Trecker fahren im Schritttempo, dahinter Erntewagen mit Garben und Kinder mit Kornblumen (#7366a9)
+- ch10/s01 · „Ganz vorn fuhr Hedwigs alter Trecker.“ · Hedwigs alter Trecker mit der Erntekrone fährt an der Spitze, Jonas am Steuer, Hannes daneben (#7366a9)
+- ch10/s01 · „Der alte Motor tuckerte dem Gut entgegen, und die Musik zog hinterher.“ · Der Umzug zieht durch die Allee zum Gut (#7366a9)
