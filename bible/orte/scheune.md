@@ -19,10 +19,10 @@ links: []
 **Grenzen:** Die Scheune ist kein Schauplatz des Konflikts, keine Gefahr, kein Brand, keine Baufälligkeit, die eine Handlung trägt. Sie ist warm, voll und gemeinschaftlich. Im Hotelplan des Investors spielt sie keine eigene Rolle; der Parkplatz liegt auf dem Rosengarten.
 
 ## Verlauf
-- ch10/s02 · „In der Scheune summte das halbe Dorf.“ · Am Festnachmittag voll mit dem halben Dorf (#43ff06)
-- ch10/s02 · „Unter den dunklen Balken standen Bänke und Tische in langen Reihen, das Tor war weit offen“ · Bänke und Tische in Reihen, Tor offen, Kaffeeduft (#43ff06)
-- ch10/s02 · „Auf Lenas Tresen warteten Gretes Bleche“ · Lenas Tresen mit Gretes Butterkuchen und Bienenstich (#43ff06)
-- ch10/s02 · „Drüben an der Kaffeemaschine stand Grete in ihrer dunkelblauen Bluse.“ · Kaffeemaschine, an der Grete steht (#43ff06)
-- ch10/s02 · „An der Rückwand standen Stelltafeln aus hellem Holz, Mats' Arbeit, sauber verzapft.“ · Mats' Stelltafeln an der Rückwand mit Dutzenden alten Fotos (#43ff06)
-- ch10/s02 · „Hedwig hob lachend die Erntekrone über den Kopf.“ · Fotos: Hedwig mit Erntekrone, mit Grete am Kuchentisch, Lampions der Siebziger (#43ff06)
-- ch10/s02 · „Ganz am Ende, fast schon in der Ecke, hing ein kleiner Abzug mit weißem Zackenrand“ · Am Ende das verblichene Foto von Hedwig, dem Jungen und dem Mädchen auf der Mauer (#43ff06)
+- ch10/s02 · „In der Scheune summte das halbe Dorf.“ · Am Festnachmittag voll mit dem halben Dorf (#37edaf)
+- ch10/s02 · „Unter den dunklen Balken standen Bänke und Tische in langen Reihen, das Tor war weit offen“ · Bänke und Tische in Reihen, Tor offen, Kaffeeduft (#37edaf)
+- ch10/s02 · „Auf Lenas Tresen warteten Gretes Bleche“ · Lenas Tresen mit Gretes Butterkuchen und Bienenstich (#37edaf)
+- ch10/s02 · „Drüben an der Kaffeemaschine stand Grete in ihrer dunkelblauen Bluse.“ · Kaffeemaschine, an der Grete steht (#37edaf)
+- ch10/s02 · „Ganz am Ende, fast schon in der Ecke, hing ein kleiner Abzug mit weißem Zackenrand“ · Am Ende das verblichene Foto von Hedwig, dem Jungen und dem Mädchen auf der Mauer (#37edaf)
+- ch10/s02 · „An der Rückwand standen Stelltafeln aus hellem Holz, Mats' Arbeit, sauber verzapft.“ · Mats' Stelltafeln an der Rückwand mit Dutzenden alten Fotos (#37edaf)
+- ch10/s02 · „Hedwig hob lachend die Erntekrone über den Kopf.“ · Fotos: Hedwig mit Erntekrone, mit Grete am Kuchentisch, Lampions der Siebziger (#37edaf)
