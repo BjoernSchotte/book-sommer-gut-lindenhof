@@ -1,0 +1,78 @@
+---
+id: grete-paulsen
+type: character
+summary: Grete Paulsen, Anfang siebzig, seit über vierzig Jahren Haushälterin auf Gut Lindenhof und mit lebenslangem Wohnrecht im kleinen Haus neben der Remise, ist das warme Herz des Hauses, hütet Hedwigs Gartenbuch und Erinnerungen und gibt im Sommer 2026 Hedwigs Wünsche und Jonas' Kindersommer an Marie und Jonas weiter, als Vertraute beider, die mit Kuchen und klaren Worten mehr bewegt, als sie zugibt.
+links: [marie-albers, jonas-behrendt, hannes-kroeger, lena-hansen, ralf-steinhagen, grundlage, praemisse]
+---
+
+## Fest
+
+**Rolle:** Nebenfigur und Vertraute von Heldin und Held. Sie hat keine eigene Perspektive; die Leserin sieht sie durch Maries und durch Jonas' Augen. Sie ist die Brücke zu Hedwig: was Hedwig wollte, erfährt man meist über Grete.
+
+**Eckdaten:**
+- Grete Paulsen, 72 Jahre alt, geboren in einem Nachbardorf, als junge Frau mit Anfang dreißig als Haushälterin nach Gut Lindenhof gekommen und geblieben. Über vierzig Jahre an Hedwigs Seite, zuletzt mehr Freundin als Angestellte.
+- Verwitwet seit langem; ihr Mann Karl, früher Melker auf dem Gut, als der Kuhstall noch belegt war, ist vor fast zwanzig Jahren gestorben. Kinder hat sie keine. Eine Nichte in der Kreisstadt ruft sonntags an.
+- Wohnt im kleinen Backsteinhaus neben der Remise, mit lebenslangem Wohnrecht, das Hedwig ihr schon vor Jahren notariell gesichert hat. Ein Verkauf des Guts nähme ihr das Recht nicht, wohl aber das Haus, wie sie es kennt.
+- Kocht und backt weiter in der großen Küche des Gutshauses, „weil der Herd da besser zieht“: der alte Kachelherd für Brot und Bratäpfel, der moderne Herd für alles Schnelle. Die Küche ist ihr Reich.
+- Gesund und rüstig für ihr Alter; das Knie meldet sich bei Regenwetter, die Treppe nimmt sie langsamer als früher. Keine Krankheit, keine Sorge darum in der Handlung.
+- Fährt nicht Auto, aber ein altes schwarzes Damenrad mit Korb, mit dem sie zum Hofladen ins Dorf fährt.
+
+**Äußeres:** klein und rundlich, aufrechte Haltung. Kurzes weißes Haar mit Dauerwelle, die sie im Sommer „nachwachsen lässt“. Hellblaue, wache Augen hinter einer Lesebrille an einer Kette. Geblümte Kittelschürze über Rock und Bluse, im Garten eine alte Strickjacke, am Erntefest die gute dunkelblaue Bluse mit der Brosche, die Hedwig ihr geschenkt hat. Mehlstaub an den Händen, Lavendelgeruch an den Kleidern.
+
+**Wesen:**
+- Warmherzig und fürsorglich auf die nördliche, wortkarge Art: sie zeigt Liebe durch Kuchen, eine Wärmflasche, einen hingestellten Teller, nicht durch Reden.
+- Geradeheraus: sie sagt, was sie denkt, und schont niemanden, auch Jonas nicht, aber nie verletzend. Mit über siebzig nimmt sie sich das Recht heraus.
+- Beobachterin: sie sieht mehr, als sie sagt, und merkt früh, was zwischen Marie und Jonas wächst. Sie mischt sich ein, aber selten und dann gezielt.
+- Trauert um Hedwig still und tapfer; manchmal deckt sie aus Gewohnheit noch für zwei, und dann lacht sie über sich selbst.
+- Humor trocken und herzlich; sie lacht gern über Jonas' Lederschuhe und über Maries Sturheit.
+- Schwäche: sie hält Dinge zurück, bis sie meint, die Zeit sei reif, und entscheidet damit über den Kopf anderer hinweg, ganz wie Jonas. Das sieht sie an ihm, nicht an sich.
+
+**Bindung an Gut Lindenhof und Hedwig:**
+- Das Gut ist ihr Zuhause, Hedwig war ihre engste Freundin. Sie hat Hedwig in den letzten Jahren gepflegt, als die Kraft nachließ, und ist an ihrem Bett gewesen.
+- Sie weiß von Hedwigs Gartenbuch im Arbeitszimmer, kennt die Geschichte vieler Rosen aus Hedwigs Erzählungen beim Abendbrot und weiß, wo Hedwig was aufbewahrt hat. Gärtnern kann sie selbst kaum; sie kennt die Rosen „von der Küchenseite“, nach Duft und Geschichte.
+- Sie kennt Hedwigs Wunsch aus dem Testament, dass der Rosengarten zum Erntefest wieder in altem Glanz blüht, und gibt ihn an Marie weiter.
+- Sie hat Jonas als Jungen jeden Sommer gefüttert, ihm die Knie verbunden (die Narbe vom Mauersturz kennt sie) und ihn barfuß zum Steg laufen sehen. Dass er Hedwig später kaum besucht hat, hat sie ihm übelgenommen und ihm doch verziehen, bevor er kam.
+- Marie kennt sie seit deren Schulzeit, als das Mädchen mit dem Fahrrad kam und Hedwig gegen Kuchen half. Für Marie ist sie fast eine zweite Großmutter.
+- Das Erntefest hat sie mit Hedwig jahrzehntelang ausgerichtet; ihre Butterkuchen und ihre Bienenstiche gehören für Klein Lindau zum Fest wie die Erntekrone.
+
+## Absicht
+
+- **Äußeres Ziel:** dass das Gut ein lebendiges Haus bleibt und das Erntefest auf dem Gut stattfindet, wie Hedwig es wollte. Dafür hält sie Küche und Haus in Gang, versorgt alle, die im Garten arbeiten, und backt für das Fest, als stünde es nie in Frage.
+- **Was sie in Szenen will:** dass Marie und Jonas essen, sich hinsetzen und miteinander reden statt übereinander; dass Jonas sich erinnert; dass Marie nicht klein beigibt.
+- **Inneres Bedürfnis:** Hedwigs Tod annehmen und darauf vertrauen, dass das Gut auch ohne Hedwig ein Zuhause bleibt, und lernen, loszulassen, was sie nicht in der Hand hat.
+
+## Motivation
+
+- Treue zu Hedwig: sie hat Hedwig versprochen, „nach dem Rechten zu sehen“, und meint damit Haus, Garten und den Jungen.
+- Liebe zu beiden: Jonas ist für sie fast ein eigener Enkel, Marie die Tochter, die sie nie hatte. Sie wünscht sich die beiden zusammen, lange bevor die beiden es selbst tun.
+- Eigenes Zuhause: das Wohnrecht schützt ihr kleines Haus, aber nicht das Leben darum herum. Ein Wellnesshotel mit Parkplatz im Rosengarten wäre für sie eine fremde Welt vor der Tür. Sie sagt das nicht, um Jonas keine Schuld aufzuladen.
+- Pflichtgefühl gegenüber dem Dorf: das Erntefest auf dem Gut ist auch ihr Lebenswerk.
+
+## Geheimnis
+
+- Hedwig hat auch Grete gesagt, dass sie sich Marie als die wünscht, die den Garten einmal weiterführt. Grete weiß es und ahnt, dass Marie es ebenfalls weiß. Sie schweigt, weil es Maries Sache ist, es zu sagen, und weil sie Jonas nicht drängen will.
+- In einer alten Keksdose in ihrem Küchenschrank verwahrt sie die Briefe und Bilder, die Jonas als Kind nach jedem Sommer an Hedwig geschickt hat, und die wenigen Postkarten danach. Hedwig hat sie aufgehoben; Grete hat sie nach ihrem Tod an sich genommen. Sie gibt sie Jonas erst, als er bereit ist, sie zu lesen, nicht als Druckmittel. Die Dose bewegt ihn, entscheidet aber nichts für ihn: der Rücktritt vom Vorvertrag bleibt sein eigener Entschluss.
+- Sie hat im Sommer gemerkt, dass Jonas mit einem Mann aus der Stadt (Steinhagen) verhandelt, und ihn einmal danach gefragt; er ist ausgewichen. Sie hat es Marie nicht gesagt, weil sie hoffte, er werde es selbst tun. Als Marie den Vorvertrag findet, gesteht Grete ihr, dass sie etwas geahnt hat, und bittet um Verzeihung. Kein schwerer Bruch: ein kurzer, ehrlicher Moment in der Küche, der Marie zeigt, dass Schweigen aus Rücksicht ein Fehler ist, den auch gute Menschen machen.
+- Kein dunkles Geheimnis, kein Trauma: was Grete zurückhält, ist Takt, der manchmal zu weit geht.
+
+## Stimme im Dialog
+
+- Kurze, klare Sätze, norddeutsch, mit Fragen, die eigentlich Aufforderungen sind: „Hast du schon gegessen? Nee. Setz dich.“
+- Duzt Marie und Jonas, nennt Jonas „Jung“ und Marie „Deern“ oder „Kind“. Sonst kein Platt auf der Seite, höchstens ein „Nu“ oder „Na, denn“.
+- Spricht über Gefühle lieber über Dinge: über den Kuchen, das Wetter, Hedwigs Rosen. „Hedwig hätte gesagt, der Giersch hat mehr Ausdauer als du.“
+- Zitiert gern Hedwig, mit „Hedwig hat immer gesagt …“, und gibt so Hedwigs Wünsche weiter, ohne zu predigen.
+- Wenn sie ernst wird, hört sie auf zu arbeiten, wischt sich die Hände an der Schürze ab und setzt sich. Dann wissen alle, dass jetzt etwas kommt.
+- Mit Jonas liebevoll-streng wie mit einem Jungen, der zu spät zum Essen kommt; mit Marie warm und neckend; mit Hannes vertraut-ruppig seit Jahrzehnten; mit Lena herzlich; mit Steinhagen höflich, mit Kaffee und ohne Kuchen.
+
+## Beziehungen
+
+- **Marie Albers** (`marie-albers`): fast eine Enkelin seit den Kindersommern im Garten. Grete versorgt sie mit Kaffee und Kuchen, erzählt ihr von Hedwigs Rosen und vom Jungen Jonas und ahnt Maries Geheimnis. Nach dem Fund des Vorvertrags ist ihre Küche der Ort, an dem Marie weinen darf.
+- **Jonas Behrendt** (`jonas-behrendt`): der Junge der Kindersommer, den sie „Jung“ nennt. Sie füttert ihn, schont ihn nicht, weist ihn auf Hedwigs Gartenbuch hin und gibt ihm die Keksdose mit seinen Kinderbriefen. Sie sagt ihm ins Gesicht, dass er Hedwig zu selten besucht hat, und auch, dass Hedwig ihn trotzdem geliebt hat.
+- **Hannes Kröger** (`hannes-kroeger`): Nachbar und Weggefährte seit Jahrzehnten; sie streiten über Kuchenmengen und Festzeiten wie ein altes Ehepaar, ohne eins zu sein. Gemeinsam halten sie die Tradition des Erntefests.
+- **Lena Hansen** (`lena-hansen`): Grete kauft in Lenas Hofladen ein und tauscht mit ihr Dorfneuigkeiten; die beiden verbünden sich heimlich für Marie.
+- **Ralf Steinhagen** (`ralf-steinhagen`): der höfliche Mann aus der Stadt, dem sie Kaffee hinstellt, aber keinen Kuchen. Sie ist zu anständig, ihn unfreundlich zu behandeln, und zu klug, ihm zu trauen.
+- **Hedwig Behrendt** (verstorben, keine eigene Seite): Freundin, Herrin, Lebensmenschin über vierzig Jahre. Grete trägt Hedwigs Stimme weiter.
+
+## Bogen in Kürze
+
+Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise wandelt sie sich von der Trauernden, die Hedwigs Haus festhält, zur Frau, die es loslassen und den Jungen und die Deern ihren eigenen Weg finden lassen kann. Am Erntefest steht sie mit ihrem Butterkuchen im blühenden Rosengarten und weiß, dass Hedwigs Gut in guten Händen ist.
