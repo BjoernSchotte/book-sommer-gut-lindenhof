@@ -146,3 +146,7 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch07/s01 · „Ich hatte Termine in der Stadt. Büro. Nichts Besonderes.“ · Bekommt von Jonas eine Ausrede statt der Wahrheit (#5adfe8)
 - ch07/s01 · „Die Lesebrille hing an der Kette, die Hände lagen im Schoß“ · Sieht Jonas lange schweigend an, wie früher vor dem Pflaster auf seine Knie (#5adfe8)
 - ch07/s01 · „Na, denn, Jung“ · Sagt nur „Na, denn, Jung“ und geht zum Herd (#5adfe8)
+- ch07/s02 · „Mittags brachte Grete Butterkuchen auf die Bank, dazu Kaffee, Marie ihren mit Milch.“ · Bringt mittags Butterkuchen und Kaffee zur Bank unter der Kletterrose (#3f30b8)
+- ch07/s02 · „Ihr Blick hing einen Augenblick zu lange an Jonas, dann ging sie wieder hinauf.“ · Sieht Jonas einen Augenblick zu lange an und geht wortlos wieder hinauf (#3f30b8)
+- ch07/s02 · „Grete musterte jeden so, der zu wenig aß.“ · Laut Marie mustert sie jeden so, der zu wenig isst (#3f30b8)
+- ch07/s02 · „Kalle kam von der Küchentür zurück, ohne Kuchen und ohne Eile.“ · Gibt Kalle an ihrer Küchentür diesmal keinen Kuchen (#3f30b8)
