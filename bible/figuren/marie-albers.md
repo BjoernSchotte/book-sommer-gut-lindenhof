@@ -300,3 +300,7 @@ Von der Gärtnerin, die einen Garten verteidigt und sich selbst kleinmacht, zur 
 - ch08/s03 · „Sie dachte an die zwei Stecklinge hinten im Hinterhof der alten Schmiede, unter der Folie, an allen vier Ecken festgesteckt.“ · Zwei Stecklinge der Lindenhof-Rose unter Folie im Hinterhof sind noch grün (#f83e7f)
 - ch08/s03 · „Den Garten wollte sie, seit Hedwig ihre Hand genommen hatte.“ · Will den Garten; was sie mit Jonas will, weiß sie nicht (#f83e7f)
 - ch08/s03 · „Konnte sie morgen früh trotzdem wieder durch das schmiedeeiserne Tor gehen?“ · Fragt sich, ob sie morgen wieder aufs Gut gehen kann (#f83e7f)
+- ch09/s01 · „Seit Donnerstag stand Maries weißer Kastenwagen nicht mehr am Tor.“ · Ist seit Donnerstag nicht mehr aufs Gut gekommen (#540e01)
+- ch09/s01 · „Auf keine war eine Antwort gekommen.“ · Hat auf Jonas' vier Nachrichten nicht geantwortet (#540e01)
+- ch09/s01 · „Auf einem anderen Blatt stand ein Mädchen mit Zopf auf einer Mauer, die Fäuste in die Seiten gestemmt.“ · Erscheint als Mädchen mit Zopf auf der Mauer in Jonas' Kinderzeichnung (#540e01)
+- ch09/s01 · „Sag Marie nichts. Bitte. Das muss ich selbst.“ · Soll von Hannes nichts über Rücktritt und Fest erfahren; Jonas will es ihr selbst sagen (#540e01)

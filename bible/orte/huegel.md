@@ -38,3 +38,8 @@ links: [grundlage, jonas-behrendt, marie-albers, ralf-steinhagen]
 - ch03/s03 · „Jonas ging an der Eiche vorbei, zwei Schritte zum Hang, bis die Balken kamen.“ · Netz erst an der Eiche vorbei zum Hang hin (#26e365)
 - ch03/s03 · „Unter ihm lag das Scheunendach mit Moos in den Fugen und einer Reihe verrutschter Pfannen.“ · Blick aufs Scheunendach mit Moos, verrutschten Pfannen und Laub in der Rinne (#26e365)
 - ch03/s03 · „Ralf Steinhagen, Weidenkamp Hotels.“ · Ort von Steinhagens Anruf mit dem Besichtigungstermin (#26e365)
+- ch09/s01 · „Vier Nachrichten hatte er ihr geschickt, jede vom Hügel aus, wo das Netz reichte.“ · Von hier schickt Jonas Marie seit Donnerstag seine Nachrichten (#540e01)
+- ch09/s01 · „Jonas stieg den Trampelpfad an der Scheunenwand hinauf, die Hosenbeine nass bis zu den Knien.“ · Jonas steigt am Dienstagmorgen durch nasses Gras hinauf (#540e01)
+- ch09/s01 · „Oben stand die Eiche dunkel im Weißen, und vom See war nichts zu sehen.“ · Morgennebel; die Eiche dunkel im Weißen, der See unsichtbar (#540e01)
+- ch09/s01 · „Zwei Schritte an ihr vorbei zum Hang, dann kamen die Balken.“ · Netz erst zwei Schritte an der Eiche vorbei zum Hang hin (#540e01)
+- ch09/s01 · „Ich ziehe das Rücktrittsrecht“ · Ort des telefonischen Rücktritts vom Vorvertrag (#540e01)

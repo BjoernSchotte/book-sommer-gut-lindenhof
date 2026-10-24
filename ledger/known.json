@@ -15,22 +15,22 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "d54218",
+    "hash": "96df50",
     "by": "apply",
-    "at": "2026-10-24T21:09:18.915Z",
-    "unit": "ch08/s03"
+    "at": "2026-10-24T21:24:01.605Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/hannes-kroeger.md": {
-    "hash": "a5cf11",
+    "hash": "4d02e0",
     "by": "apply",
-    "at": "2026-10-24T20:57:35.471Z",
-    "unit": "ch08/s03"
+    "at": "2026-10-24T21:24:01.605Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "7ca552",
+    "hash": "2bcc76",
     "by": "apply",
-    "at": "2026-10-24T21:09:18.915Z",
-    "unit": "ch08/s03"
+    "at": "2026-10-24T21:24:01.605Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "a22ff3",
@@ -39,16 +39,16 @@
     "unit": "ch08/s03"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "eee3b4",
+    "hash": "972cc5",
     "by": "apply",
-    "at": "2026-10-24T20:57:35.471Z",
-    "unit": "ch08/s03"
+    "at": "2026-10-24T21:24:01.605Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "694dbd",
+    "hash": "78ec1e",
     "by": "apply",
-    "at": "2026-10-24T20:07:07.693Z",
-    "unit": "ch07/s01"
+    "at": "2026-10-24T21:24:01.605Z",
+    "unit": "ch09/s01"
   },
   "bible/orte/arbeitszimmer.md": {
     "hash": "640ade",
@@ -75,10 +75,10 @@
     "unit": "ch08/s03"
   },
   "bible/orte/huegel.md": {
-    "hash": "d7c4d3",
+    "hash": "75d6f6",
     "by": "apply",
-    "at": "2026-10-24T17:31:05.073Z",
-    "unit": "ch03/s03"
+    "at": "2026-10-24T21:24:01.605Z",
+    "unit": "ch09/s01"
   },
   "bible/orte/lindenallee.md": {
     "hash": "4ff204",
@@ -322,6 +322,12 @@
     "by": "apply",
     "at": "2026-10-24T21:09:18.915Z",
     "unit": "ch08/s03"
+  },
+  "ledger/observations/ch09-s01.yaml": {
+    "hash": "3e1331",
+    "by": "apply",
+    "at": "2026-10-24T21:24:01.605Z",
+    "unit": "ch09/s01"
   },
   "manuscript/ch01/s01.md": {
     "hash": "b7e437",
