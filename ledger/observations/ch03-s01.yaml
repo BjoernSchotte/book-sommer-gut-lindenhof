@@ -1,5 +1,5 @@
 source: manuscript/ch03/s01.md
-source_hash: 11f0c4
+source_hash: 8e6e2f
 extracted_by: bb-ingest
 gaps:
   - Keine Uhrzeit und kein Wochentag im Text; die Szene liegt nach dem Morgen ('stärker als am Morgen') und etwa eine Woche nach dem Betonieren ('Seit einer Woche'). Daher kein strukturierter Zeiteintrag.
@@ -204,7 +204,7 @@ items:
     tags: []
   - kind: event
     who: marie-albers
-    quote: Marie zupfte ihm ein Blütenblatt von der Schulter.
+    quote: Marie zupfte ihm ein Blütenblatt aus den Strähnen über der Stirn.
     status: fact
     about:
       - marie-albers
@@ -306,7 +306,23 @@ items:
       value: Hedwigs alte Schere mit rotem Griff
   - kind: speech
     who: marie-albers
-    quote: Und Hedwig hat mit den Rosen geredet. Laut, den ganzen Tag, mit einer tiefen, rauen Stimme, die man bis zum Tor hörte.
+    quote: Und Hedwig hat mit den Rosen geredet.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Marie legte die Hand an die nasse Ranke.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Laut, mit einer tiefen, rauen Stimme, die man bis zum Tor hörte.
     status: fact
     about:
       - marie-albers
@@ -319,6 +335,13 @@ items:
     about:
       - marie-albers
       - garten
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Ich dachte, alle Erwachsenen machen das.
+    status: fact
+    about:
+      - marie-albers
     tags: []
   - kind: speech
     who: jonas-behrendt
