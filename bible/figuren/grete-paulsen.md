@@ -135,3 +135,8 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch06/s02 · „Jonas? Willst du noch einen Tee?“ · Bietet Jonas von unten Tee an und fragt, ob er etwas gefunden hat (#382439)
 - ch06/s02 · „Dann schloss sich unten eine Tür.“ · Schließt nach Jonas' knapper Antwort unten eine Tür (#382439)
 - ch06/s02 · „Er würde es ihr nicht erzählen.“ · Erfährt nichts von Jonas' Fund im Gartenbuch (#382439)
+- ch06/s03 · „Zehn Eier und ein Glas Rosengelee. Dazu Kartoffeln und Rindfleisch für Mittwoch.“ · Schickt Jonas mit einem Einkaufszettel zum Hofladen (#e1f9c8)
+- ch06/s03 · „Darunter stand, doppelt unterstrichen: Nicht vergessen zu bezahlen.“ · Mahnt auf dem Zettel doppelt unterstrichen ans Bezahlen (#e1f9c8)
+- ch06/s03 · „Fünf Minuten mit dem Auto, hatte Grete gesagt. Mit dem Rad zwanzig.“ · Nennt die Strecke zum Hofladen: fünf Minuten mit dem Auto, zwanzig mit dem Rad (#e1f9c8)
+- ch06/s03 · „Sie fuhr die Strecke seit Jahrzehnten“ · Fährt die Strecke zum Hofladen seit Jahrzehnten (#e1f9c8)
+- ch06/s03 · „Für Grete mach ich montags auf“ · Lena öffnet für sie seit Jahren montags (#e1f9c8)

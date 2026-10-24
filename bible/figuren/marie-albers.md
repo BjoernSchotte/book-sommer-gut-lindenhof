@@ -236,3 +236,6 @@ Von der Gärtnerin, die einen Garten verteidigt und sich selbst kleinmacht, zur 
 - ch06/s01 · „Die Rosen fragen das nicht. Die wissen das.“ · Antwortet auf Jonas' Nachricht, ob sie morgen wiederkommt, mit einem Rätselsatz (#5200cf)
 - ch06/s02 · „Marie hat das Gartenbuch hiergelassen. Da gehört's auch hin.“ · Hat das Gartenbuch laut Grete ins Arbeitszimmer zurückgebracht (#382439)
 - ch06/s02 · „Marie auch nicht, morgen nicht und später nicht.“ · Soll von Jonas nichts über seinen Fund im Gartenbuch erfahren (#382439)
+- ch06/s03 · „Tante Rosen hat mir eine Dahlie geschenkt“ · Hat Frieda eine rote Dahlie geschenkt (laut Frieda) (#e1f9c8)
+- ch06/s03 · „Marie ist keine, mit der man einen Sommer spielt, Herr Behrendt“ · Lena stellt sich Jonas gegenüber schützend vor sie (#e1f9c8)
+- ch06/s03 · „Das müssen Sie Marie schon selbst fragen.“ · Was sie Lena über Jonas gesagt hat, bleibt verborgen (#e1f9c8)
