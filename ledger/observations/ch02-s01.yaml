@@ -1,0 +1,247 @@
+source: manuscript/ch02/s01.md
+source_hash: "c90415"
+extracted_by: bb-ingest
+end_actual: emotional
+end_quote: "Da lächelte er, kurz und jünger, und für einen Moment war er gar nicht mehr Herr Behrendt mit der Tabelle. Marie sah schnell wieder ins Buch."
+items:
+  - kind: event
+    who: marie-albers
+    quote: "Marie saß auf dem Sockel der Sonnenuhr, Hedwigs Gartenbuch auf den Knien."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: "ch02/s01@sonnenuhr", predicate: at_place, value: garten }
+  - kind: object_fact
+    who: marie-albers
+    quote: "Marie saß auf dem Sockel der Sonnenuhr, Hedwigs Gartenbuch auf den Knien."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: has_object, value: "Hedwigs Gartenbuch" }
+  - kind: object_fact
+    who: grete-paulsen
+    quote: "Grete hatte es ihr am Morgen aus dem Arbeitszimmer geholt, zwei Tage nach dem Auftrag"
+    status: fact
+    about: [grete-paulsen, marie-albers]
+    tags: []
+    fact: { subject: "ch02/s01@gartenbuch-uebergabe", predicate: at_time, value: "zwei Tage nach dem Auftrag, morgens" }
+  - kind: speech
+    who: grete-paulsen
+    quote: "Nicht mit nassen Fingern."
+    status: claim
+    about: [grete-paulsen, marie-albers]
+    tags: []
+  - kind: time
+    quote: "zwei Tage nach dem Auftrag"
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: "ch02/s01@szene", predicate: at_time, value: "zwei Tage nach dem Auftrag" }
+  - kind: time
+    quote: "Ein klarer Junivormittag, voller Bienen und Lindenduft."
+    status: fact
+    about: [garten]
+    tags: []
+    fact: { subject: "ch02/s01@szene", predicate: at_time, value: "Vormittag im Juni" }
+  - kind: place_fact
+    quote: "Auf dem Kies lag noch Tau, obwohl die Sonne längst über der Mauer stand."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: narrator_claim
+    quote: "Hedwigs blaue Schrift lief schräg über die Seiten und wurde zum Rand hin immer eiliger."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Auf einer Doppelseite hatte sie den Laubengang gezeichnet, Bogen für Bogen, und an die siebte und achte Stelle geschrieben: 'Ghislaine de Féligonde', gepflanzt 1974."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "'Ghislaine de Féligonde' an Bogen 7 und 8 des Laubengangs, gepflanzt 1974" }
+  - kind: place_fact
+    quote: "Am anderen Ende des Gartens lagen an der Ostmauer die zwei rostbraunen Rankbögen im Giersch wie umgeknickte Grashalme."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "Die Rose war mit dem Eisen zu Boden gegangen und trieb trotzdem lange grüne Ruten voller Knospen"
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Wir kriegen dich wieder hoch"
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: place_fact
+    quote: "Das Tor quietschte."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Jonas Behrendt kam den Hauptweg herunter, den Laptop unter dem Arm und ein Blatt Papier in der Hand."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+    fact: { subject: "ch02/s01@jonas-kommt", predicate: at_place, value: garten }
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Die Lederschuhe glänzten wieder; er musste sie die halbe Nacht auf der Freitreppe gebürstet haben."
+    status: belief
+    about: [jonas-behrendt]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "An der Senke hinter dem Tor machte er diesmal einen weiten Bogen über das Beet."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: "Ganz oben stand: Hauptweg frei bis Ende Juni. Weiter unten, in der Zeile Laubengang: Entsorgung, Ersatz verzinkt."
+    status: fact
+    about: [jonas-behrendt, marie-albers, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: has_object, value: "Projekttabelle: Hauptweg frei bis Ende Juni, Laubengang Entsorgung" }
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Die Bögen sind hinüber. Verzinkter Stahl steht dreißig Jahre ohne Pflege. Ich habe schon ein Angebot."
+    status: claim
+    about: [jonas-behrendt, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: believes, value: "Rankbögen sind hinüber, Ersatz verzinkt" }
+  - kind: speech
+    who: marie-albers
+    quote: "An dem Eisen hängt seit über fünfzig Jahren eine Rose."
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Die Rose ist um das Gestell herumgewachsen. Ziehen Sie das eine raus, reißen Sie das andere mit."
+    status: claim
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Frau Albers, ich plane seit zwölf Jahren Parkhäuser."
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Das da ist statisch Unsinn."
+    status: claim
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Hat trotzdem länger gehalten als Ihre Parkhäuser."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "dann kniete er sich in seiner hellen Chino ins nasse Gras."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Ein Stück rostiger Stab kam aus der Erde, kahl und glatt, kein Krümel Mörtel daran."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Rankbögen stehen ohne Fundament im Boden" }
+  - kind: place_fact
+    quote: "Kein Fundament“, sagte er. „Das steckte einfach im Boden. Fünfzig Jahre lang."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Zweiundfünfzig."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Rankbögen und Rose stehen seit 52 Jahren" }
+  - kind: event
+    who: jonas-behrendt
+    quote: "Er drehte die Tabelle um. Aus der Hemdtasche zog er einen Kugelschreiber, und auf der leeren Rückseite entstand ein Kasten im Boden"
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Vierzig mal vierzig“, murmelte er. „Achtzig tief, wegen Frost. Je Fuß ein Punktfundament."
+    status: claim
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Ich wollte das nicht zeichnen."
+    status: claim
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: "Ich weiß“, sagte Marie. „Sie machen das trotzdem gut."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Das heißt, ich bestelle Beton. Und die Rose binden Sie selbst wieder an, ich fasse die nicht an."
+    status: fact
+    about: [jonas-behrendt, marie-albers, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Rankbögen bleiben, bekommen Punktfundamente; Marie bindet die Rose an" }
+  - kind: event
+    who: jonas-behrendt
+    quote: "Dafür halten Sie mir den Hauptweg. Ende Juni frei, vom Tor bis zur Pforte. Kein Tag später."
+    status: fact
+    about: [jonas-behrendt, marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Hauptweg muss Ende Juni frei sein, Tor bis Pforte" }
+  - kind: belief
+    who: marie-albers
+    quote: "Hinter dem Laubengang wartete außerdem der Stock unter den Brombeeren, und für all das blieb ihr kaum Zeit."
+    status: belief
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Für Hauptweg, Giersch und Lindenhof-Rose bleibt kaum Zeit" }
+  - kind: speech
+    who: marie-albers
+    quote: "Ende Juni“, sagte sie. „Mit Fotos. Meinetwegen mit Zollstock daneben."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Die Chino war hin, und er ging darüber hinweg wie über eine Zahl, die nicht in seine Rechnung passte."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Unter Schädlinge. Hilft Geduld und Brennnesseljauche."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: relationship
+    who: jonas-behrendt
+    quote: "Da lächelte er, kurz und jünger, und für einen Moment war er gar nicht mehr Herr Behrendt mit der Tabelle."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: "Marie sah schnell wieder ins Buch."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+gaps: []

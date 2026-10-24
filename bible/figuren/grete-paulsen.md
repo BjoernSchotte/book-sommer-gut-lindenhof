@@ -89,3 +89,5 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch01/s03 · „Im Arbeitszimmer liegt ihr Gartenbuch. Auf dem Schreibtisch unterm Fenster.“ · Weist Marie auf Hedwigs Gartenbuch hin (#73023d)
 - ch01/s03 · „Der Giersch hat mehr Ausdauer als du.“ · Zitiert Hedwig, um Marie aufzumuntern (#73023d)
 - ch01/s03 · „Die Socken hat er mir auf die Treppe gelegt wie zwei ertrunkene Mäuse.“ · Hat Jonas auf der Terrasse beobachtet, wie er Marie nachsah; neckt Marie damit (#73023d)
+- ch02/s01 · „Grete hatte es ihr am Morgen aus dem Arbeitszimmer geholt, zwei Tage nach dem Auftrag“ · Holt Marie zwei Tage nach dem Auftrag morgens Hedwigs Gartenbuch aus dem Arbeitszimmer (#c90415)
+- ch02/s01 · „Nicht mit nassen Fingern.“ · Gibt das Gartenbuch nur mit einer knappen Mahnung weiter (#c90415)
