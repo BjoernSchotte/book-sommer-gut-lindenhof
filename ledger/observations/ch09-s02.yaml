@@ -1,0 +1,244 @@
+source: manuscript/ch09/s02.md
+source_hash: "247592"
+extracted_by: bb-ingest
+end_actual: question
+end_quote: "Und konnte sie hier stehen, zwischen ihren Rosen, wenn Jonas durch das Tor kam, am Samstag?"
+items:
+  - kind: event
+    who: marie-albers
+    quote: "Marie hob die Folie an der vorderen Ecke an, wie jeden Morgen seit Juni, und hielt den Atem an."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: time
+    quote: "Es war Mittwoch, der zweite September, kurz nach fünf."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: ch09/s02@stecklinge, predicate: at_time, value: "Mittwoch, 2. September, kurz nach fünf" }
+  - kind: place_fact
+    quote: "Über dem Hinterhof der alten Schmiede lag noch das Grau vor Sonnenaufgang, und auf dem Kirchdach zankten die Dohlen."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Beide Stecklinge der Lindenhof-Rose hatten getrieben."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "beide Stecklinge der Lindenhof-Rose sind angewachsen" }
+  - kind: object_fact
+    quote: "Feine weiße Wurzeln hielten die Erde zusammen, dünn wie Zwirn, bis an den Rand."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Dann lachte sie, laut, allein zwischen Geranien und Thymian, und zugleich liefen ihr die Tränen übers Gesicht."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: narrator_claim
+    quote: "Den Einzigen, dem sie es außerdem gern gezeigt hätte, rief sie nicht an."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: "Den kräftigeren Topf bettete sie in eine Kiste mit Zeitungspapier und stellte sie hinten in den Kastenwagen."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: has_object, value: "kräftigerer Steckling der Lindenhof-Rose in Kiste im Kastenwagen" }
+  - kind: object_fact
+    quote: "Der andere blieb unter der Folie, an allen vier Ecken festgesteckt."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Auf dem Gutshof stand Jonas' Kombi nicht."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Die Erleichterung kam sofort. Gleich dahinter kam etwas Kleineres, das sie nicht haben wollte."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: place_fact
+    quote: "Das schmiedeeiserne Tor quietschte."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Marie stach die Kanten nach, wo der Rasen seit letzter Woche über die Wege gekrochen war, Spatenbreite um Spatenbreite, ohne Schnur."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Am Laubengang putzte sie die verblühten Dahlien aus."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: place_fact
+    quote: "An den Damaszenerrosen am Rondell leuchteten die Hagebutten, orangerot und prall, genau wie sie es im Juli versprochen hatte."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: time
+    quote: "Gegen sieben kam Grete die Freitreppe herunter, die Strickjacke über der Kittelschürze."
+    status: fact
+    about: [grete-paulsen, garten]
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: "In der einen Hand trug sie einen Becher Kaffee, in der anderen einen Teller mit Butterkuchen. Beides stellte sie auf die Bank unter der Kletterrose."
+    status: fact
+    about: [grete-paulsen, marie-albers, garten]
+    tags: []
+  - kind: narrator_claim
+    quote: "Grete fragte nichts."
+    status: fact
+    about: [grete-paulsen, marie-albers]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "die Deern hat mehr Ausdauer als der Giersch."
+    status: claim
+    about: [grete-paulsen, marie-albers]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Marie biss in den Kuchen, damit sie nicht antworten musste."
+    status: fact
+    about: [marie-albers, grete-paulsen]
+    tags: []
+  - kind: narrator_claim
+    quote: "Das hätte sie Grete schon am Freitag sagen sollen."
+    status: fact
+    about: [marie-albers, grete-paulsen]
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: "Grete stand auf, strich ihr einmal über den Zopf und nahm die Treppe wieder hinauf, jede Stufe einzeln."
+    status: fact
+    about: [grete-paulsen, marie-albers]
+    tags: []
+  - kind: place_fact
+    quote: "Die Knospe aus dem August hatte sich geöffnet. Eine einzige Blüte, zartrosa und gefüllt"
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Eine Handbreit daneben grub Marie mit der Pflanzschaufel ein Loch, doppelt so tief wie der Topf."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: ch09/s02@pflanzung, predicate: at_place, value: garten }
+  - kind: event
+    who: marie-albers
+    quote: "Zuletzt drückte sie die Erde mit beiden Händen fest, rings um den dünnen Stiel."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Auf dem Lageplan lag über diesem Winkel von Hedwigs Garten ein graues Kästchen, das hatte sie mit eigenen Augen gesehen."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Stellplatz im Lageplan über dem Winkel der Lindenhof-Rose" }
+  - kind: belief
+    who: marie-albers
+    quote: "Man setzte in die Erde, was man liebte, und Gewähr gab einem keiner, die Rosen nicht und Hedwig auch nicht."
+    status: belief
+    about: [marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Jetzt bist du zu Hause. Mach was draus."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: "Hannes setzte den Hänger rückwärts ans Tor, ohne einmal nachzusetzen, beladen mit hellem Kies für das Rondell."
+    status: fact
+    about: [hannes-kroeger, garten]
+    tags: []
+  - kind: event
+    quote: "Kalle sprang von der Kabine und lief zu Gretes Küchentür."
+    status: fact
+    about: [hannes-kroeger, grete-paulsen]
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: "Sie schaufelten zusammen, im selben Takt wie im Juli, und keiner sagte viel."
+    status: fact
+    about: [hannes-kroeger, marie-albers]
+    tags: []
+  - kind: knowledge_gain
+    who: hannes-kroeger
+    quote: "Er sah den Steckling neben dem alten Stock, die frische dunkle Erde, die offene Blüte darüber."
+    status: fact
+    about: [hannes-kroeger, garten]
+    tags: []
+    fact: { subject: hannes-kroeger, predicate: knows, value: "Marie hat einen Steckling neben den alten Stock gepflanzt" }
+  - kind: speech
+    who: hannes-kroeger
+    quote: "Mach man weiter, Deern"
+    status: claim
+    about: [hannes-kroeger, marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Woher willst du das wissen?"
+    status: fact
+    about: [marie-albers, hannes-kroeger]
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: "Sein Blick ging an ihr vorbei, zur Mauer, zu den Dahlien, in den Himmel, überallhin, nur nicht in ihr Gesicht."
+    status: fact
+    about: [hannes-kroeger, marie-albers]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "Weiß man eben"
+    status: claim
+    about: [hannes-kroeger, marie-albers]
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: "Kurz darauf rollte der Trecker mit dem leeren Hänger die Lindenallee hinunter, bis die Stämme ihn verdeckten."
+    status: fact
+    about: [hannes-kroeger]
+    tags: []
+  - kind: place_fact
+    quote: "über der Bank hing die 'New Dawn' in ihrer zweiten Blüte, und der neue Kies leuchtete hell um die Sonnenuhr."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Heute hatte er den Dahlien geantwortet."
+    status: belief
+    about: [marie-albers, hannes-kroeger]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Hannes verschweigt ihr etwas" }
+  - kind: belief
+    who: marie-albers
+    quote: "Was wusste Hannes, das sie nicht wusste?"
+    status: belief
+    about: [marie-albers, hannes-kroeger, jonas-behrendt]
+    tags: []
+gaps:
+  - Wo Jonas am Mittwoch ist, sagt die Szene nicht; nur dass sein Kombi nicht auf dem Hof steht.
+  - Woher Marie weiß oder annimmt, dass Jonas am Samstag durch das Tor kommt, bleibt offen.
+  - Ob Marie Jonas' Nachrichten gelesen hat, bleibt weiter offen.
