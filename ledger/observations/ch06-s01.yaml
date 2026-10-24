@@ -1,10 +1,11 @@
 source: manuscript/ch06/s01.md
-source_hash: "714312"
+source_hash: 52ef43
 extracted_by: bb-ingest
 gaps:
   - Ob Jonas tatsächlich auf dem Hügel unter der Eiche steht, ist nur Maries Schluss und Vorstellung.
   - Ob „schon um neun“ den Szenenbeginn markiert oder die Hitze dieser Tage allgemein beschreibt, lässt der Satz offen; als Szenenzeit 09:00 verankert.
   - Warum die Rosmarinstöcke der Mutter seit dem letzten Winter bei Marie stehen und ob sie zurückgehen, lässt der Absatz offen.
+  - Welche Sorten die Büsche am Rondell mit den welken Köpfen sind, sagt Absatz 6 nur als „Gleiche Familie“; dass sie einmalblühend sind, folgt aus dem Zusammenhang, nicht wörtlich.
 items:
   - kind: event
     who: marie-albers
@@ -54,16 +55,39 @@ items:
     tags: []
   - kind: speech
     who: marie-albers
-    quote: Die Gallica sind dran und die Damaszener
+    quote: Die Gallica sind dran und die Damaszener am Tor
     status: claim
     about:
       - garten
     tags: []
   - kind: speech
     who: marie-albers
-    quote: Der bleibt, wie er ist. Der setzt Hagebutten an. Im September hängt er voll davon, rot wie kleine Laternen.
+    quote: Die blühen nur einmal im Jahr. Jetzt kriegen sie Luft.
     status: claim
     about:
+      - garten
+    tags: []
+  - kind: place_fact
+    who: jonas-behrendt
+    quote: Er nickte zu den Büschen am Rondell, an denen die welken Köpfe noch hingen.
+    status: fact
+    about:
+      - garten
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Gleiche Familie. Die bleiben, wie sie sind, und setzen Hagebutten an. Im September hängen sie voll davon, rot wie kleine Laternen.
+    status: claim
+    about:
+      - garten
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas sah hinüber, als zählte er die Früchte im Voraus.
+    status: fact
+    about:
+      - jonas-behrendt
       - garten
     tags: []
   - kind: belief
@@ -285,13 +309,6 @@ items:
       subject: ch06/s01@hinterhof
       predicate: at_place
       value: Hinterhof der alten Schmiede, Klein Lindau
-  - kind: object_fact
-    who: marie-albers
-    quote: Die Rosmarinstöcke ihrer Mutter standen seit dem letzten Winter bei ihr und bekamen ihren Teil.
-    status: fact
-    about:
-      - marie-albers
-    tags: []
   - kind: object_fact
     who: marie-albers
     quote: Ganz hinten an der Wand, im Schatten, standen drei kleine Töpfe unter Folie.
