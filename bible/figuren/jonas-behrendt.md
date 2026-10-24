@@ -74,3 +74,14 @@ links: [marie-albers, grete-paulsen, hannes-kroeger, ralf-steinhagen, lena-hanse
 ## Bogen in Kürze
 
 Vom Hamburger Ingenieur, der ein Erbe abwickeln will und seine Wurzeln verdrängt hat, zum Mann, der sich zu einem Ort und einem Menschen bekennt: Er lernt, dass nicht alles, was trägt, aus Beton ist, und dass man die Menschen, die man liebt, in seine Entscheidungen hineinnimmt. Er tritt aus eigenem Entschluss vom Vorvertrag zurück, nimmt die Kosten auf sich, bleibt mit einem eigenen Plan für das Gut (Gutshaus erhalten, Erntefest und Rosengarten für das Dorf, Arbeit als Ingenieur zum Teil von hier aus) und gesteht Marie am Erntefest im blühenden Rosengarten seine Liebe. Ausgearbeitet in der Einheit `arc:jonas-behrendt`.
+
+## Verlauf
+- ch01/s01 · „Ein Mann trat herein, groß, in einem hellen Hemd mit ordentlich gebügeltem Kragen.“ · Jonas betritt den Rosengarten durch das Tor, im hellen Hemd (#b7e437)
+- ch01/s01 · „Seine braunen Lederschuhe sanken ein, bis der Matsch über die Sohle quoll.“ · Braune Lederschuhe versinken in der Senke hinter dem Tor (#b7e437)
+- ch01/s01 · „Der Weg gehört planiert, mit Splitt drauf.“ · Will den Weg planieren und das Gestrüpp in zwei Tagen mit Bagger entfernen (#b7e437)
+- ch01/s01 · „Sie sind vermutlich die Gärtnerin.“ · Hält Marie für die Gärtnerin; trockener Humor im Streit (#b7e437)
+- ch01/s01 · „Ich rechne in Tagen, weil ich nicht dreißig Jahre habe.“ · Denkt in Tagen und Fristen gegen Maries Jahre (#b7e437)
+- ch01/s01 · „Einen Moment lang war sein Gesicht ganz still und weit weg.“ · Stutzt beim Blick auf die bröckelnde Mauerkrone nahe dem Tor und weicht mit „Nichts“ aus (#b7e437)
+- ch01/s01 · „Ich bin der Erbe.“ · Stellt sich als Jonas Behrendt und Erbe vor (#b7e437)
+- ch01/s01 · „Frau Albers.“ · Siezt Marie und nennt sie „Frau Albers“ (#b7e437)
+- ch01/s01 · „Kommen Sie in einer halben Stunde auf die Terrasse?“ · Bestellt Marie zu einem Gespräch über den Garten auf die Terrasse, „mit Zahlen“ (#b7e437)

@@ -34,3 +34,14 @@ links: []
 **Sinne:** Erde und nasser Giersch, Rosenduft (am stärksten morgens und nach Regen), Lindenblüte, Kies unter Gummistiefeln, Bienen im Laubengang, warme Backsteine am Abend, Schilf und Wasser hinter der Pforte.
 
 **Regeln:** keine Küste, kein Meer. Kein Gewächshaus, kein Teich im Garten selbst; Wasser gibt es am Hahn an der Mauer und unten am Gutssee. Maries Stecklinge der Lindenhof-Rose stehen nicht hier, sondern in ihrem Hinterhof im Dorf, bis sie einen neben den alten Stock pflanzt.
+
+## Verlauf
+- ch01/s01 · „Von der Allee hing Lindenduft über der Backsteinmauer, dicht wie Honig im Glas.“ · Lindenduft von der Allee über der Mauer im Juni (#b7e437)
+- ch01/s01 · „doch der Weg lag unter Laub und Matsch verschüttet“ · Hauptweg zwischen Tor und Sonnenuhr verschüttet, darunter knirscht der alte Kies (#b7e437)
+- ch01/s01 · „Sie hing voller rot-weiß gestreifter Blüten, halb erstickt von Wildtrieben“ · 'Rosa Mundi' blüht, von Wildtrieben überwuchert (#b7e437)
+- ch01/s01 · „Das schmiedeeiserne Tor quietschte“ · Das Tor quietscht beim Öffnen und Schließen (#b7e437)
+- ch01/s01 · „wo das Regenwasser seit Jahren keinen Abfluss fand“ · Nasse Senke gleich hinter dem Tor, ohne trockenen Stein (#b7e437)
+- ch01/s01 · „Daran saßen zartrosa Blüten, offen und duftend.“ · Eine Ranke der 'New Dawn' hängt über den Weg und blüht zartrosa (#b7e437)
+- ch01/s01 · „Die 'New Dawn' hat dreißig Jahre gebraucht, um so auszusehen. Die Buchskanten noch länger.“ · Laut Marie ist die 'New Dawn' rund dreißig Jahre alt, die Buchskanten älter (#b7e437)
+- ch01/s01 · „Nahe beim Tor bröckelte dort die Krone, und ein Stein stand ein Stück aus der Reihe vor.“ · Bröckelnde Mauerkrone und vorstehender Stein nahe dem Tor; Jonas stutzt beim Anblick (#b7e437)
+- ch01/s01 · „Hier kommt sonst keiner einfach so rein.“ · Laut Marie betritt sonst niemand den Garten unangemeldet (#b7e437)

@@ -74,3 +74,15 @@ links: [jonas-behrendt, grete-paulsen, lena-hansen, hannes-kroeger, ralf-steinha
 ## Bogen in Kürze
 
 Von der Gärtnerin, die einen Garten verteidigt und sich selbst kleinmacht, zur Frau, die für ihr Herz einsteht: Sie lernt, Jonas zu vertrauen und ihm zugleich zu sagen, was sie will, statt nur zu kämpfen oder zu schweigen. Am Erntefest blüht der Garten, die Lindenhof-Rose lebt weiter, und Marie hat ihren Platz auf dem Gut, an Jonas' Seite. Ausgearbeitet in der Einheit `arc:marie-albers`.
+
+## Verlauf
+- ch01/s01 · „Sie kniete mitten auf dem Hauptweg, irgendwo zwischen Tor und Sonnenuhr“ · Marie arbeitet am Morgen allein im Rosengarten, mit Rosenschere gegen Brombeeren und Giersch (#b7e437)
+- ch01/s01 · „Drei von sechs. Das ist mehr, als ich dir zugetraut hätte.“ · Spricht halblaut mit der 'Rosa Mundi' (#b7e437)
+- ch01/s01 · „die Dornen zogen eine feine Spur über ihren Unterarm“ · Neuer Dornenkratzer am Unterarm; flucht „Mistzeug“ (#b7e437)
+- ch01/s01 · „bevor der Erbe aus Hamburg kam und mitredete“ · Weiß, dass der Erbe aus Hamburg an diesem Tag kommt, will vorher den Weg frei haben (#b7e437)
+- ch01/s01 · „Ihre grünen Gummistiefel trugen eine dicke Schicht Erde“ · Trägt grüne Gummistiefel (#b7e437)
+- ch01/s01 · „Rosen haben keinen Projektplan.“ · Streitet schlagfertig mit dem Fremden über Splitt, Bagger und die 'New Dawn' (#b7e437)
+- ch01/s01 · „Nichts an ihm kam ihr bekannt vor“ · Erkennt Jonas nicht wieder (#b7e437)
+- ch01/s01 · „Ausgerechnet ihm hatte sie eben das Gießen abgesprochen.“ · Erfährt, dass der Fremde der Erbe ist, und ist verlegen (#b7e437)
+- ch01/s01 · „Marie Albers.“ · Stellt sich Jonas mit Nachnamen vor; beide siezen sich (#b7e437)
+- ch01/s01 · „Nach zwei Tagen Splitt wäre der alte Kies verloren.“ · Fürchtet um den alten Kies und um Hedwigs Garten (#b7e437)
