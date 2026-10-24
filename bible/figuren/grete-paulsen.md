@@ -109,3 +109,8 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch04/s01 · „Kalle sprang von der Ladefläche und lief zur Küchentür, wo Grete erschienen war, die Hände in der Schürze.“ · Erscheint an der Küchentür, die Hände in der Schürze; Kalle läuft zu ihr (#57a434)
 - ch04/s01 · „Grete schenkte beiden ein und stellte die Kanne ab. Sonst stand nichts auf dem Tablett.“ · Schenkt Steinhagen und Jonas Kaffee ein, bringt aber keinen Kuchen (#57a434)
 - ch04/s01 · „Ohne sich umzusehen, ging sie zurück ins Haus.“ · Geht ohne Umsehen zurück ins Haus (#57a434)
+- ch05/s01 · „Grete kam die Freitreppe herunter, zwei Bleche Butterkuchen übereinander“ · Bringt Butterkuchen und Kaffee auf den Terrassentisch (#d2031b)
+- ch05/s01 · „damit diesmal keiner mit leerem Teller dastand“ · Holt ein drittes Blech, damit diesmal keiner ohne Kuchen bleibt (#d2031b)
+- ch05/s01 · „Grete trug eine zweite Kanne Kaffee über die Terrasse.“ · Bringt am späten Vormittag eine zweite Kanne Kaffee (#d2031b)
+- ch05/s01 · „Wer jetzt keinen Kuchen isst, kriegt nachher den Rand!“ · Ruft den Helfern neckend zu, Kuchen zu essen (#d2031b)
+- ch05/s01 · „an Gretes Küchentür bellte Kalle“ · Kalle wartet an ihrer Küchentür (#d2031b)
