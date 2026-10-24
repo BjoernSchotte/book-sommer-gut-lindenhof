@@ -240,3 +240,5 @@ Von der Gärtnerin, die einen Garten verteidigt und sich selbst kleinmacht, zur 
 - ch06/s01 · „Die Rosen fragen das nicht. Die wissen das.“ · Antwortet auf Jonas' Nachricht, ob sie morgen wiederkommt, mit einem Rätselsatz (#714312)
 - ch06/s01 · „Am Abend in Klein Lindau hing die Tageshitze noch im Hinterhof der alten Schmiede.“ · Gießt am Abend im Hinterhof der alten Schmiede Geranien und Thymian (#714312)
 - ch06/s01 · „Die Rosmarinstöcke ihrer Mutter standen seit dem letzten Winter bei ihr und bekamen ihren Teil.“ · Hat seit dem letzten Winter die Rosmarinstöcke ihrer Mutter bei sich stehen und gießt sie mit (#714312)
+- ch07/s01 · „Marie stieg aus, zog die Schiebetür auf und hob eine Kiste mit Töpfen heraus, ohne den Kopf zum Hügel zu heben.“ · Kommt am Morgen im weißen Kastenwagen ans Tor und lädt Töpfe aus, ohne zum Hügel zu sehen (#5adfe8)
+- ch07/s01 · „Vorher musste es keiner wissen, Marie nicht und Grete nicht.“ · Soll von Jonas vorerst nichts vom Vorvertrag erfahren (#5adfe8)

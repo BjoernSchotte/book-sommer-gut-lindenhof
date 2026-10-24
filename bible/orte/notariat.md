@@ -21,3 +21,11 @@ links: [grundlage, jonas-behrendt, ralf-steinhagen]
 **Wirkung im Buch:** Gegenwelt zum Gut: Ordnung, Glas, Papier und Kühle statt Rosenduft, Erde und Sommerhitze. Der Ort steht für die „vernünftige Formalie“, hinter der Jonas sein Zögern versteckt. Er erscheint nur in ch07/s01 als Schauplatz; später wird er höchstens erwähnt (Rücktritt in ch09 per Telefon vom Hügel, nicht vor Ort).
 
 **Wiederkehrende Bilder:** die Mappe mit dem Lageplan (sie wandert in die unterste Schublade von Hedwigs Schreibtisch), Steinhagens Kugelschreiber, die kühle Luft hinter den Jalousien.
+
+## Verlauf
+- ch07/s01 · „Bis in die Kreisstadt war es eine halbe Stunde.“ · Liegt eine halbe Autostunde vom Gut in der Kreisstadt (#5adfe8)
+- ch07/s01 · „Im Notariat war es kühl, die Jalousien waren heruntergelassen, und das Licht lag in Streifen auf dem langen hellen Tisch.“ · Kühl, heruntergelassene Jalousien, Lichtstreifen auf dem langen hellen Tisch (#5adfe8)
+- ch07/s01 · „In der Luft hing der Geruch von Papier und von Kaffee aus der Maschine.“ · Riecht nach Papier und Maschinenkaffee (#5adfe8)
+- ch07/s01 · „Der Notar war ein älterer Mann mit ruhiger Stimme.“ · Der Notar, älter und ruhig, liest den Vorvertrag ohne Betonung vor (#5adfe8)
+- ch07/s01 · „An der Wand tickte eine Uhr.“ · Wanduhr tickt (#5adfe8)
+- ch07/s01 · „Dann unterschrieb er, ohne abzusetzen, und legte den Kugelschreiber zurück auf den Tisch.“ · Jonas unterschreibt hier den Vorvertrag in Steinhagens Beisein (#5adfe8)
