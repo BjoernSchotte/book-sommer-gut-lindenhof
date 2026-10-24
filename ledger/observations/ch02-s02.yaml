@@ -1,0 +1,220 @@
+source: manuscript/ch02/s02.md
+source_hash: "01e72a"
+extracted_by: bb-ingest
+end_actual: emotional
+end_quote: "Jonas rührte sich nicht. Das Telefon lag in seiner Hand, bis das Display dunkel wurde. Sein Blick blieb unten am Steg, und er ließ ihn dort."
+items:
+  - kind: event
+    who: jonas-behrendt
+    quote: "Jonas stieg den Trampelpfad an der Scheunenwand hinauf, das Telefon schon in der Hand."
+    status: fact
+    about: [jonas-behrendt, huegel]
+    tags: []
+    fact: { subject: "ch02/s02@telefonat", predicate: at_place, value: huegel }
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: "Auf seiner Chino saßen noch die Grasflecken vom Vormittag, an jedem Knie einer. Eine zweite Hose hatte er nicht eingepackt."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: time
+    quote: "Auf seiner Chino saßen noch die Grasflecken vom Vormittag"
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: "ch02/s02@szene", predicate: at_time, value: "Tag von ch02/s01, nach dem Vormittag" }
+  - kind: place_fact
+    quote: "Oben am Knick stand die alte Feldeiche. Er ging an ihr vorbei, zwei Schritte zum Hang, einen zurück, bis die Balken kamen."
+    status: fact
+    about: [huegel]
+    tags: []
+  - kind: world_rule
+    quote: "Der Hügel hinter der Scheune war der einzige Platz am Gut mit Netz. Im Haus brach jedes Gespräch nach drei Sätzen ab."
+    status: fact
+    about: [huegel]
+    tags: []
+  - kind: speech
+    quote: "Donnerstag brauchen wir dich in Hamburg“, sagte die Projektleiterin. „Abnahme Parkdeck, neun Uhr."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Donnerstag 9 Uhr Abnahme Parkdeck in Hamburg" }
+  - kind: time
+    quote: "Abnahme Parkdeck, neun Uhr."
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: "ch02/s02@abnahme-parkdeck", predicate: at_time, value: "Donnerstag 09:00" }
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: "Er zog einen Briefumschlag aus der Hemdtasche, legte ihn aufs Knie und schrieb: Do., 9 Uhr."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: has_object, value: "Briefumschlag mit Terminnotizen" }
+  - kind: speech
+    quote: "Und denk an die Einlage, Jonas. Für die Partnerschaft. Ganz ohne Druck, nur damit du es auf dem Zettel hast."
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Er hatte es auf dem Zettel, seit Wochen."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Einlage für die Partnerschaft im Büro fällig" }
+  - kind: event
+    who: jonas-behrendt
+    quote: "Der Makler rief zwei Minuten später an, pünktlich wie verabredet."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    quote: "Herr Behrendt, gute Nachrichten. Es gibt Interesse. Aus der Hotelbranche."
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Noch ohne Namen. Die schauen erst, bevor sie sich zeigen."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Interessent aus der Hotelbranche, noch ohne Namen" }
+  - kind: speech
+    quote: "Eindruck. Das Haus kennen sie von den Fotos, das Dach rechnen die ohnehin mit ein. Machen Sie mir den Garten vorzeigbar, dann reden wir über andere Zahlen."
+    status: claim
+    about: [jonas-behrendt, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Makler will den Garten vorzeigbar für einen besseren Preis" }
+  - kind: speech
+    quote: "Wege, auf denen man mit guten Schuhen gehen kann. Blüten, wo man vom Haus aus hinsieht. Keine Ecke, die nach Arbeit aussieht."
+    status: claim
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: "Ende Juni der freie Hauptweg, mit Zollstock und Fotos, so wie Frau Albers es zugesagt hatte. Danach ein Käufer bis zum Herbst und die Einlage zum Jahresende"
+    status: belief
+    about: [jonas-behrendt, marie-albers, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: believes, value: "Hauptweg Ende Juni, Käufer bis Herbst, Einlage zum Jahresende" }
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Alles passte in seinen Plan wie Lasten in ein Tragwerk: Jedes Stück fand seinen Platz, jede Frist ihr Auflager, und nichts hing frei."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: place_fact
+    quote: "Von hier oben sah man über das Scheunendach hinweg in den ummauerten Garten, der zwischen seinen Backsteinwänden lag wie eine Schublade, die jemand offen gelassen hatte."
+    status: fact
+    about: [huegel, garten]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Sie stand zwischen den Bögen, hatte einen Brombeertrieb mit beiden Armen gepackt und zog"
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: "ch02/s02@marie-brombeeren", predicate: at_place, value: garten }
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Marie. Er erkannte sie am Strohhut und an den grünen Stiefeln, noch bevor er ihr Gesicht hätte sehen können."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Dann gab der Trieb nach, und sie stolperte zwei Schritte über den Kies, fing sich und schüttelte die Arme aus."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: relationship
+    who: jonas-behrendt
+    quote: "Jonas sah hin. Er sah weiter hin, und das ärgerte ihn, weil es dort unten nichts zu sehen gab, nur eine Gärtnerin bei der Arbeit, die er nach Stunden bezahlte."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: time
+    quote: "warf die Ranke auf einen Haufen, der seit dem Vormittag gewachsen war."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Entschuldigung. Das Netz."
+    status: lie
+    about: [jonas-behrendt]
+    tags: []
+  - kind: narrator_claim
+    quote: "Die Balken standen alle vier."
+    status: fact
+    about: [jonas-behrendt, huegel]
+    tags: []
+  - kind: speech
+    quote: "Ob wir Ende Juli Fotos machen können. Vom Garten, mit gutem Licht. Ich schicke einen Fotografen."
+    status: claim
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: place_fact
+    quote: "Hinter der Gartenmauer fiel die Wiese zum Gutssee ab, hohes Gras voller Margeriten, darin eine Spur, die keiner mehr ging."
+    status: fact
+    about: [huegel]
+    tags: []
+  - kind: place_fact
+    quote: "Unten lag der Steg grau im Schilf. Zwei Bretter fehlten, und das Wasser dahinter war glatt wie ein Blech."
+    status: fact
+    about: [huegel]
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Und plötzlich war ein Bild da. Er hatte es nicht gerufen."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Kindheitserinnerung: Floß am Gutssee, Hedwig ruft zum Kuchen" }
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Ein Floß aus Brettern, mit Seil verschnürt, das in den Händen scheuerte. Nasse Füße auf rutschigem Holz."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    quote: "Jonas! Komm rein, es gibt Kuchen!"
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Der letzte Freitag. Das passt."
+    status: claim
+    about: [jonas-behrendt, garten]
+    tags: []
+    fact: { subject: "ch02/s02@fototermin", predicate: at_time, value: "letzter Freitag im Juli" }
+  - kind: event
+    who: jonas-behrendt
+    quote: "Der Umschlag steckte wieder in der Hemdtasche, der Kugelschreiber daneben. Den Freitag schrieb er nicht dazu."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: place_fact
+    quote: "Warm strich der Wind über die Kuppe, voller Lindenblüte aus der Allee. Irgendwo über dem Weizen stieg eine Lerche."
+    status: fact
+    about: [huegel]
+    tags: []
+  - kind: place_fact
+    quote: "Hinter ihm rauschte die Eiche, die damals schon dort gestanden hatte."
+    status: fact
+    about: [huegel, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Sein Blick blieb unten am Steg, und er ließ ihn dort."
+    status: fact
+    about: [jonas-behrendt, huegel]
+    tags: []
+gaps:
+  - "Wochentag und Datum der Szene sind nicht genannt; nur 'Tag von ch02/s01, nach dem Vormittag' ist belegt. Welcher Donnerstag gemeint ist, bleibt offen."
+  - "Projektleiterin, Partner und Makler bleiben namenlos; der Makler hat keine Wiki-Seite."
+  - "Gutssee und Steg haben keine eigene Wiki-Seite; die Ortsfakten hängen am Hügel (Blick)."

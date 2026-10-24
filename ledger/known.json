@@ -26,10 +26,10 @@
     "at": "2026-10-24T15:09:25.588Z"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "be70a6",
+    "hash": "189931",
     "by": "apply",
-    "at": "2026-10-24T16:38:44.211Z",
-    "unit": "ch02/s01"
+    "at": "2026-10-24T16:45:26.389Z",
+    "unit": "ch02/s02"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "5a4ee0",
@@ -37,10 +37,10 @@
     "at": "2026-10-24T15:09:25.588Z"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "e6e56c",
+    "hash": "5adc36",
     "by": "apply",
-    "at": "2026-10-24T16:38:44.211Z",
-    "unit": "ch02/s01"
+    "at": "2026-10-24T16:45:26.389Z",
+    "unit": "ch02/s02"
   },
   "bible/figuren/ralf-steinhagen.md": {
     "hash": "4122f4",
@@ -70,9 +70,10 @@
     "at": "2026-10-24T14:32:45.231Z"
   },
   "bible/orte/huegel.md": {
-    "hash": "013eeb",
+    "hash": "c77335",
     "by": "apply",
-    "at": "2026-10-24T14:31:30.190Z"
+    "at": "2026-10-24T16:45:26.389Z",
+    "unit": "ch02/s02"
   },
   "bible/orte/lindenallee.md": {
     "hash": "4ff204",
@@ -163,6 +164,12 @@
     "by": "apply",
     "at": "2026-10-24T16:38:44.211Z",
     "unit": "ch02/s01"
+  },
+  "ledger/observations/ch02-s02.yaml": {
+    "hash": "1d150c",
+    "by": "apply",
+    "at": "2026-10-24T16:45:26.389Z",
+    "unit": "ch02/s02"
   },
   "manuscript/ch01/s01.md": {
     "hash": "b7e437",

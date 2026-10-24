@@ -119,3 +119,7 @@ Von der Gärtnerin, die einen Garten verteidigt und sich selbst kleinmacht, zur 
 - ch02/s01 · „Mit Fotos. Meinetwegen mit Zollstock daneben.“ · Verspricht Fotos als Nachweis (#c90415)
 - ch02/s01 · „Unter Schädlinge. Hilft Geduld und Brennnesseljauche.“ · Neckt Jonas mit einem erfundenen Eintrag im Gartenbuch (#c90415)
 - ch02/s01 · „Marie sah schnell wieder ins Buch.“ · Wird von Jonas' Lächeln verlegen und schaut weg (#c90415)
+- ch02/s02 · „Er erkannte sie am Strohhut und an den grünen Stiefeln“ · Arbeitet mit Strohhut und grünen Stiefeln im Garten; Jonas erkennt sie vom Hügel aus (#01e72a)
+- ch02/s02 · „Sie stand zwischen den Bögen, hatte einen Brombeertrieb mit beiden Armen gepackt und zog“ · Reißt am Laubengang einen Brombeertrieb mit ganzem Körpergewicht heraus (#01e72a)
+- ch02/s02 · „Dann gab der Trieb nach, und sie stolperte zwei Schritte über den Kies“ · Stolpert, als der Trieb nachgibt, fängt sich und schüttelt die Arme aus (#01e72a)
+- ch02/s02 · „Sie tat es, mit dem Handrücken, und warf die Ranke auf einen Haufen, der seit dem Vormittag gewachsen war.“ · Rückt den Hut zurecht; der Brombeerhaufen wächst seit dem Vormittag (#01e72a)
