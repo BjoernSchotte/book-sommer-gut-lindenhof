@@ -1,271 +1,373 @@
 source: manuscript/ch06/s01.md
-source_hash: "5200cf"
+source_hash: "714312"
 extracted_by: bb-ingest
-end_actual: dialogue
-end_quote: "Dann summte es wieder. „Ich bin nicht so klug wie deine Rosen.“"
-items:
-  - kind: event
-    who: marie-albers
-    quote: "Marie schnitt den verblühten Trieb über dem dritten Blatt ab und warf ihn hinter sich."
-    status: fact
-    about: [marie-albers, garten]
-    tags: []
-    fact: { subject: ch06/s01@rueckschnitt, predicate: at_place, value: garten }
-  - kind: place_fact
-    quote: "Braune Blütenblätter lagen auf dem neuen Kies, dünn wie Seidenpapier."
-    status: fact
-    about: [garten]
-    tags: []
-  - kind: time
-    quote: "Es war Dienstag, Ende Juli"
-    status: fact
-    about: [garten]
-    tags: []
-    fact: { subject: ch06/s01@rueckschnitt, predicate: at_time, value: "Dienstag, Ende Juli" }
-  - kind: time
-    quote: "über der Mauer flimmerte schon um neun die Hitze"
-    status: fact
-    about: [garten]
-    tags: []
-    event: rueckschnitt
-    day: "+0"
-    at: "09:00"
-    place: garten
-  - kind: object_fact
-    who: jonas-behrendt
-    quote: "Jonas schob sie in den geliehenen Gummistiefeln, die bei jedem Schritt schmatzten, obwohl der Boden staubtrocken war."
-    status: fact
-    about: [jonas-behrendt, garten]
-    tags: []
-  - kind: speech
-    who: marie-albers
-    quote: "Die Gallica sind dran und die Damaszener"
-    status: claim
-    about: [garten]
-    tags: []
-  - kind: speech
-    who: marie-albers
-    quote: "Der bleibt, wie er ist. Der setzt Hagebutten an. Im September hängt er voll davon, rot wie kleine Laternen."
-    status: claim
-    about: [garten]
-    tags: []
-  - kind: belief
-    who: jonas-behrendt
-    quote: "Ich dachte, zum Fest sieht hier alles aus wie im Juni."
-    status: belief
-    about: [jonas-behrendt, garten]
-    tags: []
-    fact: { subject: jonas-behrendt, predicate: believes, value: "Garten sieht zum Fest aus wie im Juni" }
-  - kind: speech
-    who: marie-albers
-    quote: "Das Junibild kommt nicht wieder."
-    status: claim
-    about: [garten]
-    tags: []
-  - kind: knowledge_gain
-    who: jonas-behrendt
-    quote: "Glanz im September ist was anderes. Die 'New Dawn' blüht nach. Davor Lavendel und Katzenminze, Frauenmantel an den Kanten, Astern. Und am Laubengang Dahlien, in Reihen."
-    status: fact
-    about: [jonas-behrendt, marie-albers, garten]
-    tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "Glanz im September heißt Nachblüte, Stauden, Dahlien, nicht Junibild" }
-  - kind: event
-    who: jonas-behrendt
-    quote: "Jonas zog einen Zollstock aus der Gesäßtasche und klappte ihn auf."
-    status: fact
-    about: [jonas-behrendt]
-    tags: []
-    fact: { subject: jonas-behrendt, predicate: has_object, value: Zollstock }
-  - kind: speech
-    who: jonas-behrendt
-    quote: "Vierzig Zentimeter, hast du gesagt."
-    status: claim
-    about: [jonas-behrendt, marie-albers]
-    tags: []
-  - kind: speech
-    who: marie-albers
-    quote: "Katzenminze wächst nicht nach Zentimetern. Die wächst, wohin sie will."
-    status: claim
-    about: [marie-albers]
-    tags: []
-  - kind: relationship
-    who: marie-albers
-    quote: "Im Juni hätte sie ihm das Ding aus der Hand genommen. Seit dem Steg war das anders."
-    status: fact
-    about: [marie-albers, jonas-behrendt]
-    tags: []
-  - kind: relationship
-    who: marie-albers
-    quote: "Es dauerte bloß zwei Sätze, dann lachte einer von beiden."
-    status: fact
-    about: [marie-albers, jonas-behrendt]
-    tags: []
-  - kind: event
-    who: grete-paulsen
-    quote: "Mittags kam Grete die Freitreppe herunter, einen Krug Buttermilch in der Hand und auf dem Arm ein Blech Johannisbeerkuchen."
-    status: fact
-    about: [grete-paulsen, garten]
-    tags: []
-  - kind: place_fact
-    quote: "Sie stellte beides auf die Bank unter der Kletterrose, wo die 'New Dawn' schon wieder feste kleine Knospen schob."
-    status: fact
-    about: [garten]
-    tags: []
-  - kind: event
-    who: grete-paulsen
-    quote: "Dann sah sie von Marie zu Jonas und wieder zurück, lange genug, dass Marie die Schere ins Holster steckte."
-    status: fact
-    about: [grete-paulsen, marie-albers, jonas-behrendt]
-    tags: []
-  - kind: object_fact
-    who: grete-paulsen
-    quote: "Ohne ein Wort richtete Grete die Lesebrille an der Kette und ging zurück zum Haus."
-    status: fact
-    about: [grete-paulsen]
-    tags: []
-  - kind: narrator_claim
-    who: grete-paulsen
-    quote: "Auf der Treppe nahm sie jede Stufe einzeln."
-    status: fact
-    about: [grete-paulsen]
-    tags: []
-  - kind: relationship
-    who: marie-albers
-    quote: "Die Bank war schmal, und ihre Knie berührten sich. Marie rückte nicht zur Seite."
-    status: fact
-    about: [marie-albers, jonas-behrendt]
-    tags: []
-  - kind: speech
-    who: marie-albers
-    quote: "Das meldet sich nur bei Regen. Sagt sie."
-    status: claim
-    about: [grete-paulsen]
-    tags: []
-  - kind: belief
-    who: marie-albers
-    quote: "Heute ist sie bloß müde vom Backen."
-    status: belief
-    about: [grete-paulsen]
-    tags: []
-  - kind: speech
-    who: jonas-behrendt
-    quote: "Lena hat mich für Samstag schon eingetragen. Mit Uhrzeit."
-    status: claim
-    about: [lena-hansen, jonas-behrendt]
-    tags: []
-  - kind: speech
-    who: jonas-behrendt
-    quote: "Mit zwei. Ankunft und Abfahrt."
-    status: claim
-    about: [lena-hansen]
-    tags: []
-  - kind: speech
-    who: marie-albers
-    quote: "Sie misstraut jedem ohne Klemmbrett."
-    status: claim
-    about: [lena-hansen]
-    tags: []
-  - kind: event
-    who: marie-albers
-    quote: "Sie ließ ihn, weil es schöner war, ihm dabei zuzusehen, und sagte es ihm erst beim dritten Versuch."
-    status: fact
-    about: [marie-albers, jonas-behrendt]
-    tags: []
-  - kind: event
-    who: jonas-behrendt
-    quote: "Nach dem Essen schob Jonas die Karre mit dem Schnittgut zum Schuppen."
-    status: fact
-    about: [jonas-behrendt, garten]
-    tags: []
-  - kind: place_fact
-    quote: "Marie nahm die Gießkanne und ging den Laubengang hinunter, an den jungen Dahlien vorbei, bis an sein Südende."
-    status: fact
-    about: [garten, marie-albers]
-    tags: []
-  - kind: place_fact
-    quote: "In der Mauerecke stand der alte Stock der Lindenhof-Rose, kniehoch und krumm. Die Brombeeren waren fort, und das Licht kam bis an den Boden."
-    status: fact
-    about: [garten]
-    tags: []
-  - kind: event
-    quote: "Unten, dicht über der Erde, schoben sich zwei neue Triebe aus dem Holz, rötlich und weich, kaum fingerlang."
-    status: fact
-    about: [garten]
-    tags: []
-  - kind: event
-    who: marie-albers
-    quote: "Marie goss langsam, damit nichts wegspülte."
-    status: fact
-    about: [marie-albers, garten]
-    tags: []
-  - kind: time
-    quote: "Am Abend in Klein Lindau hing die Tageshitze noch im Hinterhof der alten Schmiede."
-    status: fact
-    about: [marie-albers]
-    tags: []
-    fact: { subject: ch06/s01@hinterhof, predicate: at_time, value: "Abend" }
-  - kind: world_rule
-    who: marie-albers
-    quote: "Die Rosmarinstöcke ihrer Mutter überwinterten jedes Jahr bei ihr und bekamen ihren Teil."
-    status: fact
-    about: [marie-albers]
-    tags: []
-  - kind: object_fact
-    who: marie-albers
-    quote: "Ganz hinten an der Wand, im Schatten, standen drei kleine Töpfe unter Folie."
-    status: fact
-    about: [marie-albers]
-    tags: []
-  - kind: object_fact
-    who: marie-albers
-    quote: "Zwei waren grün, die Blätter straff, an einem zeigte sich sogar ein Auge, das sich zu dehnen begann. Der dritte war schwarz geworden, vom Schnitt bis zur Spitze."
-    status: fact
-    about: [marie-albers]
-    tags: []
-    fact: { subject: marie-albers, predicate: has_object, value: "zwei lebende Stecklinge der Lindenhof-Rose" }
-  - kind: event
-    who: marie-albers
-    quote: "Dann legte sie ihn auf den Kompost und die Folie zurück über die beiden anderen, sorgfältig, an allen vier Ecken."
-    status: fact
-    about: [marie-albers]
-    tags: []
-  - kind: narrator_claim
-    who: marie-albers
-    quote: "Niemand wusste davon. Lena nicht, Grete nicht, Jonas erst recht nicht."
-    status: fact
-    about: [marie-albers, lena-hansen, grete-paulsen, jonas-behrendt]
-    tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "als Einzige von den Stecklingen" }
-  - kind: belief
-    who: marie-albers
-    quote: "Aus Haus und Garten kam keine Nachricht durch, er musste also oben auf dem Hügel hinter der Scheune sein."
-    status: belief
-    about: [jonas-behrendt]
-    tags: []
-    fact: { subject: marie-albers, predicate: believes, value: "Jonas schreibt vom Hügel hinter der Scheune" }
-  - kind: world_rule
-    quote: "Aus Haus und Garten kam keine Nachricht durch"
-    status: fact
-    about: [garten]
-    tags: []
-  - kind: speech
-    who: jonas-behrendt
-    quote: "Kommst du morgen wieder?"
-    status: claim
-    about: [marie-albers]
-    tags: []
-  - kind: speech
-    who: marie-albers
-    quote: "Die Rosen fragen das nicht. Die wissen das."
-    status: claim
-    about: [jonas-behrendt]
-    tags: []
-  - kind: speech
-    who: jonas-behrendt
-    quote: "Ich bin nicht so klug wie deine Rosen."
-    status: claim
-    about: [marie-albers]
-    tags: []
 gaps:
   - Ob Jonas tatsächlich auf dem Hügel unter der Eiche steht, ist nur Maries Schluss und Vorstellung.
   - Ob „schon um neun“ den Szenenbeginn markiert oder die Hitze dieser Tage allgemein beschreibt, lässt der Satz offen; als Szenenzeit 09:00 verankert.
+  - Warum die Rosmarinstöcke der Mutter seit dem letzten Winter bei Marie stehen und ob sie zurückgehen, lässt der Absatz offen.
+items:
+  - kind: event
+    who: marie-albers
+    quote: Marie schnitt den verblühten Trieb über dem dritten Blatt ab und warf ihn hinter sich.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: ch06/s01@rueckschnitt
+      predicate: at_place
+      value: garten
+  - kind: place_fact
+    quote: Braune Blütenblätter lagen auf dem neuen Kies, dünn wie Seidenpapier.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: time
+    quote: Es war Dienstag, Ende Juli
+    status: fact
+    about:
+      - garten
+    tags: []
+    fact:
+      subject: ch06/s01@rueckschnitt
+      predicate: at_time
+      value: Dienstag, Ende Juli
+  - kind: time
+    quote: über der Mauer flimmerte schon um neun die Hitze
+    status: fact
+    about:
+      - garten
+    tags: []
+    event: rueckschnitt
+    day: "+0"
+    at: 09:00
+    place: garten
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Jonas schob sie in den geliehenen Gummistiefeln, die bei jedem Schritt schmatzten, obwohl der Boden staubtrocken war.
+    status: fact
+    about:
+      - jonas-behrendt
+      - garten
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Die Gallica sind dran und die Damaszener
+    status: claim
+    about:
+      - garten
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Der bleibt, wie er ist. Der setzt Hagebutten an. Im September hängt er voll davon, rot wie kleine Laternen.
+    status: claim
+    about:
+      - garten
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: Ich dachte, zum Fest sieht hier alles aus wie im Juni.
+    status: belief
+    about:
+      - jonas-behrendt
+      - garten
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Garten sieht zum Fest aus wie im Juni
+  - kind: speech
+    who: marie-albers
+    quote: Das Junibild kommt nicht wieder.
+    status: claim
+    about:
+      - garten
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Glanz im September ist was anderes. Die 'New Dawn' blüht nach. Davor Lavendel und Katzenminze, Frauenmantel an den Kanten, Astern. Und am Laubengang Dahlien, in Reihen.
+    status: fact
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Glanz im September heißt Nachblüte, Stauden, Dahlien, nicht Junibild
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas zog einen Zollstock aus der Gesäßtasche und klappte ihn auf.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: Zollstock
+  - kind: speech
+    who: jonas-behrendt
+    quote: Vierzig Zentimeter, hast du gesagt.
+    status: claim
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Katzenminze wächst nicht nach Zentimetern. Die wächst, wohin sie will.
+    status: claim
+    about:
+      - marie-albers
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: Im Juni hätte sie ihm das Ding aus der Hand genommen. Seit dem Steg war das anders.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: Es dauerte bloß zwei Sätze, dann lachte einer von beiden.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: Mittags kam Grete die Freitreppe herunter, einen Krug Buttermilch in der Hand und auf dem Arm ein Blech Johannisbeerkuchen.
+    status: fact
+    about:
+      - grete-paulsen
+      - garten
+    tags: []
+  - kind: place_fact
+    quote: Sie stellte beides auf die Bank unter der Kletterrose, wo die 'New Dawn' schon wieder feste kleine Knospen schob.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: Dann sah sie von Marie zu Jonas und wieder zurück, lange genug, dass Marie die Schere ins Holster steckte.
+    status: fact
+    about:
+      - grete-paulsen
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: object_fact
+    who: grete-paulsen
+    quote: Ohne ein Wort richtete Grete die Lesebrille an der Kette und ging zurück zum Haus.
+    status: fact
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: narrator_claim
+    who: grete-paulsen
+    quote: Auf der Treppe nahm sie jede Stufe einzeln.
+    status: fact
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: Die Bank war schmal, und ihre Knie berührten sich. Marie rückte nicht zur Seite.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Das meldet sich nur bei Regen. Sagt sie.
+    status: claim
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: Heute ist sie bloß müde vom Backen.
+    status: belief
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Lena hat mich für Samstag schon eingetragen. Mit Uhrzeit.
+    status: claim
+    about:
+      - lena-hansen
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Mit zwei. Ankunft und Abfahrt.
+    status: claim
+    about:
+      - lena-hansen
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Sie misstraut jedem ohne Klemmbrett.
+    status: claim
+    about:
+      - lena-hansen
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Sie ließ ihn, weil es schöner war, ihm dabei zuzusehen, und sagte es ihm erst beim dritten Versuch.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Nach dem Essen schob Jonas die Karre mit dem Schnittgut zum Schuppen.
+    status: fact
+    about:
+      - jonas-behrendt
+      - garten
+    tags: []
+  - kind: place_fact
+    quote: Marie nahm die Gießkanne und ging den Laubengang hinunter, an den jungen Dahlien vorbei, bis an sein Südende.
+    status: fact
+    about:
+      - garten
+      - marie-albers
+    tags: []
+  - kind: place_fact
+    quote: In der Mauerecke stand der alte Stock der Lindenhof-Rose, kniehoch und krumm. Die Brombeeren waren fort, und das Licht kam bis an den Boden.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    quote: Unten, dicht über der Erde, schoben sich zwei neue Triebe aus dem Holz, rötlich und weich, kaum fingerlang.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Marie goss langsam, damit nichts wegspülte.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: time
+    quote: Am Abend in Klein Lindau hing die Tageshitze noch im Hinterhof der alten Schmiede.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+    fact:
+      subject: ch06/s01@hinterhof
+      predicate: at_time
+      value: Abend
+  - kind: event
+    who: marie-albers
+    quote: Marie zog den Schlauch zu den Geranien und zum Thymian.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+    fact:
+      subject: ch06/s01@hinterhof
+      predicate: at_place
+      value: Hinterhof der alten Schmiede, Klein Lindau
+  - kind: object_fact
+    who: marie-albers
+    quote: Die Rosmarinstöcke ihrer Mutter standen seit dem letzten Winter bei ihr und bekamen ihren Teil.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: Ganz hinten an der Wand, im Schatten, standen drei kleine Töpfe unter Folie.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: Zwei waren grün, die Blätter straff, an einem zeigte sich sogar ein Auge, das sich zu dehnen begann. Der dritte war schwarz geworden, vom Schnitt bis zur Spitze.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: has_object
+      value: zwei lebende Stecklinge der Lindenhof-Rose
+  - kind: event
+    who: marie-albers
+    quote: Dann legte sie ihn auf den Kompost und die Folie zurück über die beiden anderen, sorgfältig, an allen vier Ecken.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Niemand wusste davon. Lena nicht, Grete nicht, Jonas erst recht nicht.
+    status: fact
+    about:
+      - marie-albers
+      - lena-hansen
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: als Einzige von den Stecklingen
+  - kind: belief
+    who: marie-albers
+    quote: Aus Haus und Garten kam keine Nachricht durch, er musste also oben auf dem Hügel hinter der Scheune sein.
+    status: belief
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: believes
+      value: Jonas schreibt vom Hügel hinter der Scheune
+  - kind: world_rule
+    quote: Aus Haus und Garten kam keine Nachricht durch
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Kommst du morgen wieder?
+    status: claim
+    about:
+      - marie-albers
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Die Rosen fragen das nicht. Die wissen das.
+    status: claim
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Ich bin nicht so klug wie deine Rosen.
+    status: claim
+    about:
+      - marie-albers
+    tags: []
+end_actual: dialogue
+end_quote: Dann summte es wieder. „Ich bin nicht so klug wie deine Rosen.“

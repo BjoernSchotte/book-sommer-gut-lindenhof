@@ -39,10 +39,10 @@
     "unit": "ch06/s03"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "24e633",
+    "hash": "d3efaf",
     "by": "apply",
-    "at": "2026-10-24T19:33:22.985Z",
-    "unit": "ch06/s03"
+    "at": "2026-10-24T19:48:52.671Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
     "hash": "413935",
@@ -263,9 +263,9 @@
     "unit": "ch05/s03"
   },
   "ledger/observations/ch06-s01.yaml": {
-    "hash": "e0d7da",
+    "hash": "ea4b7c",
     "by": "apply",
-    "at": "2026-10-24T19:20:13.404Z",
+    "at": "2026-10-24T19:48:52.671Z",
     "unit": "ch06/s01"
   },
   "ledger/observations/ch06-s02.yaml": {
