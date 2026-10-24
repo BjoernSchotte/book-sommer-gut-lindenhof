@@ -27,9 +27,9 @@
     "unit": "ch04/s01"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "edb706",
+    "hash": "fba301",
     "by": "apply",
-    "at": "2026-10-24T18:16:07.872Z",
+    "at": "2026-10-24T18:24:18.033Z",
     "unit": "ch04/s01"
   },
   "bible/figuren/lena-hansen.md": {
@@ -45,9 +45,9 @@
     "unit": "ch04/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "1350c5",
+    "hash": "a136dd",
     "by": "apply",
-    "at": "2026-10-24T18:16:07.872Z",
+    "at": "2026-10-24T18:24:18.033Z",
     "unit": "ch04/s01"
   },
   "bible/orte/arbeitszimmer.md": {
@@ -56,9 +56,9 @@
     "at": "2026-10-24T14:41:57.723Z"
   },
   "bible/orte/garten.md": {
-    "hash": "ee0a9d",
+    "hash": "f3eefc",
     "by": "apply",
-    "at": "2026-10-24T18:16:07.872Z",
+    "at": "2026-10-24T18:24:18.033Z",
     "unit": "ch04/s01"
   },
   "bible/orte/gutshaus.md": {
@@ -219,9 +219,9 @@
     "unit": "ch03/s03"
   },
   "ledger/observations/ch04-s01.yaml": {
-    "hash": "4a9009",
+    "hash": "16ceeb",
     "by": "apply",
-    "at": "2026-10-24T18:16:07.872Z",
+    "at": "2026-10-24T18:24:18.033Z",
     "unit": "ch04/s01"
   },
   "ledger/observations/ch04-s02.yaml": {

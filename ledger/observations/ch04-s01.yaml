@@ -1,10 +1,11 @@
 source: manuscript/ch04/s01.md
-source_hash: 57a434
+source_hash: 997f0a
 extracted_by: bb-ingest
 gaps:
   - Der Wochentag des Besuchs wird in der Szene nicht genannt; laut ch03/s03 war die Besichtigung für den übernächsten Montag, Mitte Juli, vereinbart.
   - Welche Unterlagen Steinhagen mitbringt und von welchen Fotos er spricht, bleibt offen; der Parkplatz-Plan wird nicht ausgesprochen.
   - Wovon Jonas und Steinhagen auf der Terrasse sprechen, bleibt außerhalb von Maries Hörweite.
+  - Wonach Steinhagen die Zufahrt hinunterschaut, bleibt offen; ein Bezug zur „Stellplatzlösung“ aus ch03/s03 wird nicht ausgesprochen.
 items:
   - kind: event
     who: marie-albers
@@ -267,22 +268,32 @@ items:
       - hannes-kroeger
     tags: []
   - kind: time
-    quote: Nach einer halben Stunde kamen die Männer um die Hausecke.
+    quote: Nach einer halben Stunde verschwanden die Männer durch die Flügeltüren.
     status: fact
     about:
       - jonas-behrendt
       - ralf-steinhagen
     tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Kurz darauf traten sie vorn aus der Haustür, und Steinhagen sah eine Weile die Zufahrt hinunter.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
   - kind: place_fact
-    quote: Jonas ging voraus, am Hänger vorbei durch das offene Tor.
+    who: jonas-behrendt
+    quote: Dann führte Jonas ihn durch das offene Tor.
     status: fact
     about:
       - garten
       - jonas-behrendt
+      - ralf-steinhagen
     tags: []
   - kind: object_fact
     who: ralf-steinhagen
-    quote: Steinhagen folgte mit einer Ledermappe unter dem Arm und setzte die Slipper behutsam zwischen die verstreuten Steine.
+    quote: Eine Ledermappe unter dem Arm, setzte Steinhagen die Slipper behutsam zwischen die verstreuten Steine.
     status: fact
     about:
       - ralf-steinhagen
@@ -435,21 +446,14 @@ items:
       - jonas-behrendt
       - marie-albers
     tags: []
-  - kind: event
-    who: ralf-steinhagen
-    quote: Steinhagen nickte Jonas zu, so freundlich wie den ganzen Vormittag.
-    status: fact
-    about:
-      - ralf-steinhagen
-      - jonas-behrendt
-    tags: []
   - kind: speech
     who: ralf-steinhagen
-    quote: „Herr Behrendt, wollen wir in den Salon gehen?“, fragte er. „Dann können wir die Unterlagen in Ruhe durchgehen.“
+    quote: „Herr Behrendt“, sagte Steinhagen, so freundlich wie den ganzen Vormittag. „Wollen wir in den Salon gehen? Dann können wir die Unterlagen in Ruhe durchgehen.“
     status: fact
     about:
       - ralf-steinhagen
       - jonas-behrendt
-    tags: []
+    tags:
+      - threat
 end_actual: threat
-end_quote: „Herr Behrendt, wollen wir in den Salon gehen?“, fragte er. „Dann können wir die Unterlagen in Ruhe durchgehen.“
+end_quote: „Wollen wir in den Salon gehen? Dann können wir die Unterlagen in Ruhe durchgehen.“
