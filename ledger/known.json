@@ -498,6 +498,11 @@
     "by": "apply",
     "at": "2026-10-24T20:00:20.486Z"
   },
+  "plan/tests/ch08.yaml": {
+    "hash": "3a2984",
+    "by": "apply",
+    "at": "2026-10-24T20:35:49.764Z"
+  },
   "style/audience.md": {
     "hash": "6792f8",
     "by": "apply",

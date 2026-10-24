@@ -1,0 +1,70 @@
+ch08/s01:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: jonas-behrendt }   # participant
+    - { pattern: "Arbeitszimmers?" }   # place arbeitszimmer (Seite ohne aliases)
+    - { pattern: "Gartenbuch(?:s|es)?" }
+    - { pattern: "Vorvertrag(?:s|es)?" }
+    - { pattern: "Lageplan(?:s|es)?" }
+    - { pattern: "dieses Jahr" }
+  reveal:
+    - { term: { pattern: "Vorvertrag(?:s|es)?" }, not_before: b2 }
+    - { term: { pattern: "dieses Jahr" }, not_before: b2 }
+  ends_on: { pattern: "nicht erklärt", max_after: 40 }   # end: dialogue — „Und den Parkplatz hast du mir nicht erklärt.“
+  forbids:
+    - { pattern: "Keksdosen?" }   # erst ch09
+    - { pattern: "zurückgetreten" }   # Rücktritt erst ch09
+  beats:
+    b1: { must: [{ alias_of: marie-albers }, { pattern: "Schubladen?" }, { pattern: "Dachrechnungen" }, { pattern: "Weidenkamp" }, { pattern: "Mappe" }] }
+    b2: { must: [{ alias_of: jonas-behrendt }, { alias_of: hannes-kroeger }, { alias_of: marie-albers }, { pattern: "Lindenhof-Rose" }, { pattern: "Unterschrift" }, { pattern: "Stellpl(?:a|ä)tz(?:e|en)?" }] }
+    b3: { must: [{ alias_of: jonas-behrendt }, { alias_of: marie-albers }, { pattern: "Rücktrittsrecht(?:s|es)?" }, { pattern: "Steg(?:s|es)?" }] }
+    b4: { must: [{ alias_of: marie-albers }, { pattern: "Parkplatz" }] }
+  judge:
+    - "Bleibt Marie leise und klar, ohne Schreien und ohne Tränen, und wird deutlich, dass sie Jonas' Schweigen schwerer trifft als der Parkplatz?"
+    - "Erklärt Jonas sachlich und zu schnell, ohne Paragrafen und Juristendeutsch, und bleibt er sympathisch genug, dass die Leserin dem guten Ende weiter traut?"
+    - "Verbindet Marie das Datum der Unterschrift hörbar mit Hannes' Zusage „dieses Jahr“ aus ch07/s02, ohne dass die Szene es breit nacherzählt?"
+    - "Deutet nichts an, dass Jonas schon zurücktreten will (kein Vorgriff auf ch09)?"
+
+ch08/s02:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: grete-paulsen }   # participant
+    - { pattern: "Küche" }   # place gutshaus (Seite ohne aliases), Szene in Gretes Küche
+    - { pattern: "Butterkuchen(?:s)?" }
+  ends_on: { pattern: "Garten", max_after: 40 }   # end: emotional — „… nicht so verteidigt wie einen Garten.“
+  forbids:
+    - { pattern: "Erbschleicherei" }   # Maries Geständnis erst in s03 bei Lena
+    - { pattern: "Keksdosen?" }   # Gretes Dose erst ch09
+  beats:
+    b1: { must: [{ alias_of: grete-paulsen }, { alias_of: marie-albers }, { pattern: "Schürze" }, { pattern: "Setz dich, Deern" }, { pattern: "Parkplatz" }] }
+    b2: { must: [{ alias_of: grete-paulsen }, { alias_of: marie-albers }, { pattern: "geahnt" }, { pattern: "Verzeihung" }, { pattern: "Teller" }] }
+    b3: { must: [{ alias_of: grete-paulsen }, { alias_of: marie-albers }, { pattern: "Hedwig(?:s)?" }] }
+    b4: { must: [{ alias_of: grete-paulsen }, { alias_of: marie-albers }, { pattern: "Papier" }, { pattern: "Rücksicht" }] }
+  judge:
+    - "Bittet Grete ohne Ausrede um Verzeihung, und bleibt der Moment kurz und warm, ohne Bruch zwischen den beiden?"
+    - "Deutet Grete Hedwigs Wunsch nur an (wen Hedwig sich für den Garten wünscht), ohne ihn auszubuchstabieren, sodass Maries volles Geständnis bei Lena bleibt?"
+    - "Ist Maries Weinen der erste Ausbruch des Tages, und erkennt sie am Ende ihr eigenes Schweigen, ohne dass es wie eine Predigt klingt?"
+
+ch08/s03:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: lena-hansen }   # participant
+    - { pattern: "Hansen-Hofs?|Hofladens?" }   # place hofladen (Seite ohne aliases), Küche hinter dem Laden
+    - { pattern: "weiterführ(?:t|en|e|te)" }
+  time: { from: "23:30", to: "01:30" }   # „kurz vor Mitternacht“
+  reveal:
+    - { term: { pattern: "weiterführ(?:t|en|e|te)" }, not_before: b2 }
+  ends_on: { pattern: "Tor(?:s|es)?", max_after: 30 }   # end: question — ob sie morgen wieder durch das schmiedeeiserne Tor gehen kann
+  forbids:
+    - { pattern: "Ausstellung(?:en)?" }   # Lenas Fotoüberraschung erst ch10
+    - { pattern: "angewachsen" }   # Stecklinge erst ch09
+  beats:
+    b1: { must: [{ alias_of: marie-albers }, { alias_of: lena-hansen }, { alias_of: grete-paulsen }, { pattern: "Fotos?" }, { pattern: "Geschirrtuch" }, { pattern: "Liebeskummer" }] }
+    b2: { must: [{ alias_of: marie-albers }, { alias_of: lena-hansen }, { pattern: "Bank" }, { pattern: "Kletterrose" }, { pattern: "Testament(?:s|es)?" }, { pattern: "Erbschleicherei" }] }
+    b3: { must: [{ alias_of: lena-hansen }, { alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Dösbaddel" }] }
+    b4: { must: [{ alias_of: lena-hansen }, { alias_of: marie-albers }, { pattern: "Und was willst du\\?" }, { pattern: "Stecklinge?" }] }
+  judge:
+    - "Bleibt Lenas Kränkung kurz und verzeiht sie im selben Atemzug, und ist ihr Zorn auf Jonas danach größer als Maries, ohne grob zu werden?"
+    - "Bleibt das Foto-Geheimnis gewahrt: Marie sieht die Fotos kaum, fragt nicht, und nichts verrät eine Ausstellung?"
+    - "Ist dies spürbar der tiefste Punkt der Liebesgeschichte, und endet die Szene trotzdem mit einer offenen Frage statt mit Verzweiflung (warmer Heftroman-Ton)?"
+    - "Hält Marie die Sache bewusst vom Dorf fern, sodass die Entscheidung bei ihr bleibt?"
