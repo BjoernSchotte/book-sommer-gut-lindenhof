@@ -303,3 +303,15 @@
   findings:
     error: 0
     warn: 131
+- gate: sketches
+  approved: 2026-10-24T18:31:21.856Z
+  by: factory:kuestenherzen
+  inputs:
+    STORYBOARD.md: c2fd49
+    plan/ch05.md: "419365"
+    plan/tests/ch05.yaml: 8e2e52
+  scope: ch05
+  hold: error
+  findings:
+    error: 0
+    warn: 0
