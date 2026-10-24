@@ -483,3 +483,15 @@
   findings:
     error: 0
     warn: 264
+- gate: sketches
+  approved: 2026-10-24T21:18:53.836Z
+  by: factory:kuestenherzen
+  inputs:
+    STORYBOARD.md: ab7009
+    plan/ch09.md: 58e9ab
+    plan/tests/ch09.yaml: 38a776
+  scope: ch09
+  hold: error
+  findings:
+    error: 0
+    warn: 0
