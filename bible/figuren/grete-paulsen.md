@@ -104,3 +104,7 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch04/s01 · „Dabei hatte schon am frühen Morgen Butterkuchenduft über dem Hof gelegen“ · Hat am frühen Morgen Butterkuchen gebacken (#0fdf1c)
 - ch04/s01 · „Der Teller kam nicht.“ · Stellt Steinhagen Kaffee hin, aber keinen Kuchen, und geht ohne Umsehen (#0fdf1c)
 - ch04/s01 · „Einen Kuchenrand hatte es heute offenbar gegeben, wenn auch nur für ihn.“ · Hat Kalle offenbar einen Kuchenrand gegeben (#0fdf1c)
+- ch04/s02 · „Steinhagen schob Gretes Vase ein Stück zur Seite“ · Ihre Vase steht auf Hedwigs Tisch im Salon (#20f88b)
+- ch04/s02 · „Frau Paulsen hat ein lebenslanges Wohnrecht.“ · Ihr lebenslanges Wohnrecht bleibt laut Steinhagen bestehen; die Hotelgruppe sieht eine Abfindung bei freiwilligem Auszug vor (#20f88b)
+- ch04/s02 · „Grete hatte ihm in all den Kindersommern keine Tasse ohne Kuchen hingestellt, bis heute Morgen.“ · Hat Jonas am Morgen erstmals Kaffee ohne Kuchen hingestellt (#20f88b)
+- ch04/s02 · „Sie hatte mehr geahnt als er.“ · Hat laut Jonas mehr geahnt als er (#20f88b)

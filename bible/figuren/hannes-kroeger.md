@@ -100,3 +100,4 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch04/s01 · „Und das Erntefest?“ · Fragt Steinhagen, wo das Erntefest dann hin soll (#0fdf1c)
 - ch04/s01 · „Wir hätten eine Veranstaltungsfläche gegen Gebühr.“ · Bekommt als Antwort eine Veranstaltungsfläche gegen Gebühr (#0fdf1c)
 - ch04/s01 · „Dann kletterte er zurück auf den Hänger, nahm die Schaufel und machte weiter.“ · Setzt die Mütze auf und schaufelt wortlos weiter (#0fdf1c)
+- ch04/s02 · „Kurz darauf kratzte ihre Schaufel wieder im Kies, im selben Takt wie die von Hannes.“ · Schaufelt während der Besprechung weiter Kies, Marie im selben Takt (#20f88b)

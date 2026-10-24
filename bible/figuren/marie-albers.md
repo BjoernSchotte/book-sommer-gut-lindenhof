@@ -181,3 +181,8 @@ Von der Gärtnerin, die einen Garten verteidigt und sich selbst kleinmacht, zur 
 - ch04/s01 · „Eine Fläche ist das nicht“ · Korrigiert Steinhagen höflich und kühl: ein Garten aus den Dreißigerjahren, keine Fläche (#0fdf1c)
 - ch04/s01 · „Die 'Rosa Mundi' da drüben ist älter als wir beide zusammen, Herr Steinhagen.“ · Verteidigt die alte 'Rosa Mundi' vor Steinhagen (#0fdf1c)
 - ch04/s01 · „Sie wartete auf ein Wort von ihm, auf ein Kopfschütteln, auf irgendetwas, das nach Nein klang.“ · Wartet vergeblich auf ein Nein von Jonas (#0fdf1c)
+- ch04/s02 · „leuchtete Maries Zopf zwischen den Büschen am Rondell“ · Arbeitet während der Besprechung am Rondell, von Jonas durch die offene Tür gesehen (#20f88b)
+- ch04/s02 · „Erde klebte ihr bis an die Handgelenke, im Zopf hing ein trockener Halm.“ · Steht mit Erde bis an die Handgelenke und einem Halm im Zopf in der Terrassentür (#20f88b)
+- ch04/s02 · „Wer war das?“ · Fragt Jonas, wer der Besucher war, und hört nur „Ein Interessent“ (#20f88b)
+- ch04/s02 · „Marie nickte. Sie wischte die Hände an der Arbeitshose ab, was nichts nützte, und lächelte ihm kurz zu.“ · Nimmt die Antwort hin und lächelt Jonas kurz zu (#20f88b)
+- ch04/s02 · „Kurz darauf kratzte ihre Schaufel wieder im Kies, im selben Takt wie die von Hannes.“ · Schaufelt danach wieder mit Hannes Kies (#20f88b)

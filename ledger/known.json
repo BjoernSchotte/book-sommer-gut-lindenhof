@@ -15,22 +15,22 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "9678ea",
+    "hash": "a38005",
     "by": "apply",
-    "at": "2026-10-24T18:00:24.666Z",
-    "unit": "ch04/s01"
+    "at": "2026-10-24T18:07:48.763Z",
+    "unit": "ch04/s02"
   },
   "bible/figuren/hannes-kroeger.md": {
-    "hash": "8f4577",
+    "hash": "869cc5",
     "by": "apply",
-    "at": "2026-10-24T18:00:24.666Z",
-    "unit": "ch04/s01"
+    "at": "2026-10-24T18:07:48.763Z",
+    "unit": "ch04/s02"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "e7a22e",
+    "hash": "15d288",
     "by": "apply",
-    "at": "2026-10-24T18:00:24.666Z",
-    "unit": "ch04/s01"
+    "at": "2026-10-24T18:07:48.763Z",
+    "unit": "ch04/s02"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "17799d",
@@ -39,16 +39,16 @@
     "unit": "ch02/s03"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "287637",
+    "hash": "42846a",
     "by": "apply",
-    "at": "2026-10-24T18:00:24.666Z",
-    "unit": "ch04/s01"
+    "at": "2026-10-24T18:07:48.763Z",
+    "unit": "ch04/s02"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "5f288f",
+    "hash": "be5a95",
     "by": "apply",
-    "at": "2026-10-24T18:00:24.666Z",
-    "unit": "ch04/s01"
+    "at": "2026-10-24T18:07:48.763Z",
+    "unit": "ch04/s02"
   },
   "bible/orte/arbeitszimmer.md": {
     "hash": "992219",
@@ -90,9 +90,10 @@
     "at": "2026-10-24T14:44:08.790Z"
   },
   "bible/orte/salon.md": {
-    "hash": "5f6910",
+    "hash": "ab857b",
     "by": "apply",
-    "at": "2026-10-24T14:36:08.469Z"
+    "at": "2026-10-24T18:07:48.763Z",
+    "unit": "ch04/s02"
   },
   "bible/orte/scheune.md": {
     "hash": "2f52ec",
@@ -216,6 +217,12 @@
     "by": "apply",
     "at": "2026-10-24T18:00:24.666Z",
     "unit": "ch04/s01"
+  },
+  "ledger/observations/ch04-s02.yaml": {
+    "hash": "988a48",
+    "by": "apply",
+    "at": "2026-10-24T18:07:48.763Z",
+    "unit": "ch04/s02"
   },
   "manuscript/ch01/s01.md": {
     "hash": "b7e437",
