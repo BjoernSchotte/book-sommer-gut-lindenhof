@@ -1,0 +1,25 @@
+# Stilvorlage nach Vorbildern (Konzept § 7.14). Zielwerte vorläufig (research/stil/).
+name: krimi-mix
+based_on: [robotham, patterson]
+targets:
+  scene_words: { min: 800, max: 2000 }
+  # variation: Streuung der Satzlängen (Standardabweichung / Mittel); and_chain_max: höchster Anteil
+  # Sätze mit „, und“-Ketten. Beide vorläufig, geeicht am Prequel Kap. 1 (18.10.2026).
+  sentence_words: { mean: [9, 13], short_share: [0.40, 0.60], variation: [0.5, 1.2] }
+  and_chain_max: 0.05
+  # Streuung der Absatzlängen im Erzähltext (ab 8 Absätzen), Startwert
+  paragraph_words: { variation: [0.4, 1.3] }
+  dialogue_share: [0.20, 0.35]
+  end:
+    pull_share: ">= 0.85"
+    cliffhanger_share: [0.15, 0.40]
+  pov:
+    main: null # Figuren-ID der Hauptperspektive, im Buch setzen
+    voice_main: first/present
+    secondary_share: [0.15, 0.30]
+    secondary_voice: third/past
+    max_run_secondary: 1
+moves:
+  - { move: "Kapitel endet auf Dialogzeile mit Gewicht", effect: "Sog über Figuren", when: "Hauptstrang", failure: "jede Szene gleich gebaut" }
+  - { move: "Kurzes Gegenkapitel aus Täterperspektive", effect: "Leser weiß mehr als Ermittlerin", when: "nach Wendungen", failure: "Täter wird Karikatur" }
+avoid: ["sexualisierte Gewalt als Effekt", "Klischeefiguren", "Erklärdialoge"]

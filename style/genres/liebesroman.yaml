@@ -1,0 +1,20 @@
+# Genre-Standard: Liebesroman. Erbt roman; schaltet die Romance-Verträge ein (specs/heftroman/design.md § 4.1, § 5).
+name: liebesroman
+extends: roman
+params: { heat: 1 } # 0 nur Kuss, 1 Tür zu, 2 sinnlich ohne Detail, 3 explizit
+rules:
+  plan.couple-missing: { severity: warn }
+  plan.couple-late: { severity: warn, max_share: 0.20 }
+  plan.couple-gap: { severity: warn, max_scenes: 4 }
+  plan.pov-couple: { severity: warn, share_main: [0.5, 0.7] }
+  plan.ending-hea: { severity: warn }
+factcheck:
+  domains: [medicine, place, time]
+hints:
+  - Jede Szene bringt die Geschichte des Paars voran.
+  - Der Konflikt liegt innen; kein Missverständnis, das ein ehrliches Gespräch sofort löst.
+  - Das Ende ist glücklich und verdient, beide sind in der letzten Szene.
+  - { text: "Heldin und Held treffen früh aufeinander; die erste Begegnung hat Funken, auch wenn sie schiefgeht.", when: first-scene }
+scaffold:
+  voice: { person: third, tense: past }
+  flags: { crime_tools: false }

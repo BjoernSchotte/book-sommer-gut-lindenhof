@@ -1,0 +1,12 @@
+# bookbench merges the ledger itself (bookbench doctor --fix)
+ledger/*.jsonl merge=bookbench
+ledger/annotations/*.json merge=bookbench
+ledger/gates.yaml merge=bookbench
+ledger/known.json merge=bookbench
+ledger/branch.yaml merge=bookbench
+ledger/timeline.json merge=bookbench
+ledger/observations/* merge=bookbench
+ledger/knowledge/* merge=bookbench
+plan/calendar.yaml merge=bookbench
+style/lessons.md merge=bookbench
+bible/**/*.md merge=bookbench

@@ -1,0 +1,100 @@
+# Genre-Standard: allgemeiner Roman (Basis aller Genres). specs/genre/design.md § 5–7.
+# Schwellen sind Startwerte; nach jedem Kapitel mit `bookbench check --measure` eichen.
+# Abweichungen des Buchs gehören in book.yaml → rules (mit reason), nicht in diese Datei.
+name: roman
+rules:
+  craft.same-opener: { run: 3 }
+  craft.filter-verbs: { max_per_1000: 6 }
+  craft.emotion-label: { max_per_1000: 2 }
+  craft.said-bookism: { max_per_1000: 3 }
+  craft.inquit-adverb: { max_per_1000: 1 }
+  craft.exclamation: { min: 2, max_per_1000: 1 }
+  craft.echo-word: { window: 40, min_letters: 5 }
+  craft.prologue: { severity: info }
+  craft.dialect-density: off # nur Regionalkrimi
+  craft.profanity-density: { max_per_1000: 2 }
+  craft.gore-lexicon: { max_per_1000: 3 }
+  style.book-echo: { min_scenes: 4 }
+  # Fachwörter je 100 Wörter (Liste: style/fachwoerter.yaml und lists.jargon). Geeicht 20.10.2026 an
+  # einer Testleser-Klage „Fachsprache zu dicht“: Szene vorher 1,3 Erzähltext / 3,1 Rede, nach der
+  # Überarbeitung 0,3 / 1,1.
+  style.jargon-density: { narration_max: 0.5, speech_max: 1.5 }
+  plan.question-gap: { max_chapters: 1 }
+  # Genre-Verträge: schalten krimi und thriller ein
+  case.culprit-late: off
+  case.herring-unresolved: off
+  case.detective-culprit: off
+  case.culprit-pov: off
+  case.suspect-count: off
+  plan.private-share: off
+  plan.deadline-missing: off
+  plan.antagonist-gap: off
+  # Romance-Verträge: schaltet liebesroman ein
+  plan.couple-missing: off
+  plan.couple-late: off
+  plan.couple-gap: off
+  plan.pov-couple: off
+  plan.ending-hea: off
+lists:
+  # Fachsprache des Genres; das Buch ergänzt sie in style/fachwoerter.yaml (bookbench jargon add)
+  jargon: []
+  # Grundformen genügen: der Wortschlüssel (Stamm + Verbtabelle) trifft alle Formen.
+  inquit_neutral: [sagen, fragen, antworten, rufen, flüstern, meinen]
+  inquit_expressive:
+    [zischen, knurren, hauchen, fauchen, schnauben, säuseln, raunen, kreischen, jammern, grollen,
+     blaffen, keifen, wispern, schnarren, poltern, giften, ätzen, zetern, quieken, japsen]
+  filter_verbs: [sehen, hören, spüren, fühlen, bemerken, merken, riechen, beobachten, registrieren, wahrnehmen]
+  feel_verbs: [spüren, fühlen, empfinden, verspüren]
+  emotions:
+    [Angst, Wut, Zorn, Freude, Trauer, Scham, Panik, Furcht, Erleichterung, Eifersucht, Hass,
+     Sehnsucht, Verzweiflung, Ekel, Schuld, Unruhe, Glück, Hoffnung, Enttäuschung, Neid, Stolz,
+     Mitleid, Reue, Beklemmung, Unbehagen, Traurigkeit, Nervosität, Aufregung, Ärger, Verlegenheit]
+  motion_verbs:
+    [steigen, aufsteigen, kriechen, durchfluten, überkommen, erfassen, packen, ausbreiten, schnüren,
+     durchzucken, überfluten, aufwallen, durchströmen, überrollen, ergreifen, befallen]
+  adverbs:
+    [leise, laut, wütend, ärgerlich, sanft, scharf, kalt, trocken, knapp, spöttisch, ironisch,
+     bitter, freundlich, ruhig, nervös, zögernd, zögerlich, hastig, gereizt, müde, kühl, sarkastisch,
+     vorwurfsvoll, beschwichtigend, aufgeregt, verärgert, besorgt, nachdenklich, triumphierend]
+  weather: [Regen, Nebel, Schnee, Sonne, Wind, Himmel, Wolken, Gewitter, Hitze, Kälte, Frost, Sturm, Hagel, Dämmerung, Nieselregen]
+  profanity: [Scheiße, scheiß, verdammt, Arschloch, Arsch, ficken, Wichser, Hure, Fotze, Kacke, beschissen, Drecksau, Hurensohn, Mistkerl]
+  gore: [Blutlache, Eingeweide, Gedärm, Gedärme, Hirnmasse, aufschlitzen, verstümmeln, zerfetzen, Schädeldecke, Knochensplitter, Blutfontäne, ausweiden, Innereien]
+  # Wörter, die sich wiederholen dürfen (craft.echo-word, style.book-echo): Funktionswörter,
+  # Hilfs- und Modalverben, häufige Partikeln. Präpositionen bleiben: sie tragen Bilder („über die
+  # Narbe“). Namen der Figuren sind immer ausgenommen.
+  echo_ignore:
+    [immer, wieder, einmal, nicht, nichts, etwas, alles, schon, noch, diese, dieser, dieses, diesem,
+     diesen, einen, einem, einer, eines, keine, keinen, keiner, seine, seinen, seiner, seinem, ihren,
+     ihrer, ihrem, ihnen, meine, meinen, meiner, meinem, deine, unser, unsere, euch, unter, zwischen,
+     durch, gegen, sondern, dabei, damit, dafür, darauf, danach, davon, darin, daran, dann, wenn,
+     weil, obwohl, während, haben, sein, werden, können, müssen, sollen, wollen, dürfen, mögen,
+     lassen, sagen, fragen, jemand, niemand, jeder, jede, jedes, beide, beiden, selbst, ganz, genau,
+     gerade, vielleicht, wirklich, einfach, natürlich, bisschen, zurück, heute, morgen,
+     gestern, später, vorher, nachher, manchmal, irgendwie, irgendwo, sofort, endlich,
+     zusammen, allein, andere, anderen, anderer, anders, welche, welcher, welches, solche, eigentlich,
+     sich, aber, auch, dass, doch, oder, ihre, eine, denn, sehr, mehr, kaum, fast, hier, dort, bald,
+     also, eben, eher, erst, gern, halt, jetzt, nein, kein, viel, wohl, dazu, mich, dich, euer,
+     denen, deren, dessen, jeden, jedem, jener, allem, allen, einige, einigen, viele, vielen, wenig,
+     weniger, bereits, sogar, deshalb, trotzdem, jedoch, ebenso, genauso, darüber, darunter, davor,
+     dahinter, hinter, neben, vorbei, nachdem, bevor, seitdem, sodass, damals]
+taboo:
+  - id: weather-opener
+    where: first-sentence
+    # Wetterwort als Subjekt am Satzanfang, kein Personalpronomen im Satz
+    pattern: "^(?![^.!?]*(?<![\\p{L}])(?:ich|du|er|sie|wir|ihr|mich|mir|uns|ihm|ihn)(?![\\p{L}]))(?:(?:Der|Die|Das|Ein|Eine|Kein|Feiner|Dichter|Kalter|Grauer)\\s+)?(?:Regen|Nebel|Schnee|Wind|Himmel|Sonne|Wolken|Gewitter|Sturm|Hagel|Frost|Nieselregen|Dämmerung)(?![\\p{L}])"
+    why: Der erste Satz einer Szene ist der teuerste; Wetter ohne Figur verschiebt den Einstieg in die Handlung.
+    instead: Mit einer Figur in Bewegung beginnen; Wetter darf folgen, als Wahrnehmung oder Hindernis der Figur.
+# Faktenprüfung (lektorat § 5.3): was gezogen und recherchiert wird; book.yaml kann überschreiben
+factcheck:
+  density: risky
+  kinds: [real, era, computed, quote]
+  domains: [profession, place, medicine, law]
+hints:
+  - Jeder Satz zeigt die Figur oder bringt die Handlung voran; was eine Leserin überspringen würde, fällt weg.
+  - Ein genaues, eigenes Detail trägt mehr als drei austauschbare.
+  - Beschreibung kommt aus dem Blick einer Figur und trägt ihre Wertung.
+  - Spannung entsteht aus dem, was die Leserin weiß und die Figur fürchtet, nicht aus vorenthaltenem Wissen.
+  - Figuren erzählen einander nichts, was beide schon wissen.
+  - { text: "In der ersten Szene der Hauptfigur bekommt die Leserin einen Grund, auf ihrer Seite zu stehen: eine Wunde, ein Können, ein erlittenes Unrecht oder Wärme gegenüber anderen.", when: pov-main-first }
+  - Vorgeschichte kommt in kleinen Dosen und in Handlung eingebettet, nie als Block vor dem ersten Ereignis.
+  - "Entscheidungen kosten etwas, Verbündete reiben sich, nicht alles wird repariert; Dialog klingt gesprochen, mit Unterbrechungen und Auslassungen."

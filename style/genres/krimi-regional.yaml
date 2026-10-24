@@ -1,0 +1,7 @@
+# Genre-Standard: Regionalkrimi. Erbt krimi; Dialekt dosiert (Liste `dialect` je Buch in book.yaml).
+name: krimi-regional
+extends: krimi
+rules:
+  craft.dialect-density: { severity: info, max_per_1000: 8 }
+hints:
+  - "Der Ort wirkt mit: Gesellschaft, Arbeit und Sprache der Region treiben die Handlung; keine Reiseführer-Absätze."

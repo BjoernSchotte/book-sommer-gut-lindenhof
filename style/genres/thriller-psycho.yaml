@@ -1,0 +1,6 @@
+# Genre-Standard: Psychothriller. Erbt thriller; Bedrohung im Nahraum.
+name: thriller-psycho
+extends: thriller
+hints:
+  - Ein unzuverlässiger Erzähler hat einen Grund für seine Verzerrung, der in der Figur liegt.
+  - Die Bedrohung liegt im Nahraum, im Innenleben und in vertrauten Beziehungen; Action ist die Ausnahme.

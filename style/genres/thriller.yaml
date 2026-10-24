@@ -1,0 +1,15 @@
+# Genre-Standard: Thriller. Erbt roman; tickende Uhr und präsenter Gegner.
+name: thriller
+extends: roman
+rules:
+  craft.prologue: off # Gegnerprolog ist im Thriller üblich
+  plan.deadline-missing: { severity: info }
+  plan.antagonist-gap: { severity: warn, max_chapters: 3 }
+factcheck:
+  domains: [law, police, medicine, weapons, place, time]
+hints:
+  - Die Leserin weiß von der Gefahr, bevor die Figur sie kennt.
+  - Der Gegner bleibt spürbar, auch in Kapiteln, in denen er nicht auftritt.
+  - "Auch ruhige Szenen tragen Unruhe: ein offener Konflikt, eine Frist, ein Misstrauen."
+scaffold:
+  flags: { crime_tools: true, timeline: light }

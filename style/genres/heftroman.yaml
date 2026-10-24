@@ -1,0 +1,19 @@
+# Genre-Standard: Liebes-Heftroman (rund 25.000 Wörter, 24–28 Szenen). Erbt liebesroman
+# (specs/heftroman/design.md § 4.2; research/handwerk/heftroman.md).
+name: heftroman
+extends: liebesroman
+params: { heat: 1 }
+rules:
+  craft.prologue: { severity: warn }
+  craft.profanity-density: { severity: warn, max_per_1000: 0 }
+  craft.gore-lexicon: { severity: warn, max_per_1000: 0 }
+  style.jargon-density: { narration_max: 0.3 }
+hints:
+  - Kein Prolog; die Geschichte beginnt bei der Heldin.
+  - Kurze Sätze, wenig Fremdwörter, warme, klare Sprache.
+  - Jeder Abschnitt endet mit einem Haken, der zum nächsten zieht.
+  - Keine Religion, keine Politik, keine gesellschaftlichen Reizthemen.
+  - Episches Präteritum, dritte Person; eine Perspektive je Szene, nur Heldin oder Held.
+scaffold:
+  style_preset: heftroman
+  scene_words: 950

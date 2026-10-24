@@ -1,0 +1,22 @@
+type: novel
+title: ""
+pen_name: "Testautorin"
+language: de-DE
+target_words: 25000
+scene_words: 950
+length_tolerance: 0.15
+mode: collaborative
+gates:
+  chapter: first
+profile:
+  genre: "heftroman"
+  voice: third/past
+  style_preset: heftroman
+  knowledge_access: limited
+  structure: three_act
+  ending: closed
+  flags:
+    character_arcs: true
+    crime_tools: false
+  world_aspects: [ setting ]
+  craft: heftroman

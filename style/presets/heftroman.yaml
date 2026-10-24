@@ -1,0 +1,23 @@
+# Stilvorlage Liebes-Heftroman (specs/heftroman/design.md § 4.4). Startwerte aus zwei gemessenen
+# Heftromanen (research/handwerk/heftroman.md § 6), nach dem ersten Lauf nacheichen.
+name: heftroman
+based_on: [basener-2010]
+targets:
+  scene_words: { min: 400, max: 1600 }
+  sentence_words: { mean: [9, 14], short_share: [0.35, 0.60], variation: [0.5, 1.2] }
+  and_chain_max: 0.06
+  paragraph_words: { variation: [0.4, 1.3] }
+  dialogue_share: [0.15, 0.45]
+  end:
+    pull_share: ">= 0.85"
+    cliffhanger_share: [0.20, 0.50]
+  pov:
+    main: null # die Heldin (couple[0] im STORYBOARD), im Buch setzen
+    voice_main: third/past
+    secondary_share: [0.30, 0.50]
+    secondary_voice: third/past
+    max_run_secondary: 2
+moves:
+  - { move: "Abschnitt endet mit einer offenen Frage zwischen den beiden", effect: "Sog zum nächsten Treffen", when: "nach jeder Annäherung", failure: "jede Szene endet gleich" }
+  - { move: "Perspektivwechsel Heldin/Held im Wechsel", effect: "beide Herzen sichtbar", when: "durchgehend", failure: "Kopfspringen in einer Szene" }
+avoid: ["Missverständnis, das ein Gespräch löst", "expliziter Sex", "Religion und Politik"]
