@@ -1,271 +1,429 @@
 source: manuscript/ch01/s02.md
-source_hash: "fa5fe8"
+source_hash: d6a4af
 extracted_by: bb-ingest
-end_actual: dialogue
-end_quote: "Ob Sie ihn verdient haben, sehen wir im September."
+gaps:
+  - Keine Uhrzeit des Gesprächs genannt; nach ch01/s01 liegt es etwa eine halbe Stunde nach der Begegnung im Garten, am selben Junitag.
+  - Höhe des Geldvermächtnisses, Stundensatz und Materialbudget bleiben unbeziffert.
+  - "Höhe des Geldvermächtnisses für die Gartenarbeit bleibt unbeziffert (Absatz 3: „sauber beziffert“, aber ohne Betrag)."
 items:
   - kind: event
     who: jonas-behrendt
-    quote: "Jonas schob den Laptop aus der Sonne, bis der Bildschirm wieder etwas zeigte. Hinter ihm standen die Flügeltüren zum Salon offen"
+    quote: Jonas schob den Laptop aus der Sonne, bis der Bildschirm wieder etwas zeigte. Hinter ihm standen die Flügeltüren zum Salon offen
     status: fact
-    about: [jonas-behrendt, gutshaus]
+    about:
+      - jonas-behrendt
+      - gutshaus
     tags: []
-    fact: { subject: "ch01/s02@verhandlung", predicate: at_place, value: gutshaus }
+    fact:
+      subject: ch01/s02@verhandlung
+      predicate: at_place
+      value: gutshaus
   - kind: object_fact
     who: jonas-behrendt
-    quote: "Jonas schob den Laptop aus der Sonne"
+    quote: Jonas schob den Laptop aus der Sonne
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
-    fact: { subject: jonas-behrendt, predicate: has_object, value: "Laptop" }
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: Laptop
   - kind: place_fact
-    quote: "aus dem Raum wehte der Geruch von altem Polster und Bohnerwachs"
+    quote: aus dem Raum wehte der Geruch von altem Polster und Bohnerwachs
     status: fact
-    about: [gutshaus]
+    about:
+      - gutshaus
     tags: []
   - kind: object_fact
     who: jonas-behrendt
-    quote: "Seine Lederschuhe lagen auf der untersten Stufe der Freitreppe, die Socken daneben."
+    quote: Seine Lederschuhe lagen auf der untersten Stufe der Freitreppe, die Socken daneben.
     status: fact
-    about: [jonas-behrendt, gutshaus]
+    about:
+      - jonas-behrendt
+      - gutshaus
     tags: []
   - kind: time
-    quote: "Sie dampften in der Junisonne wie zwei kleine Komposthaufen."
+    quote: Sie dampften in der Junisonne wie zwei kleine Komposthaufen.
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: place_fact
     quote: "Fenster, Erdgeschoss, Gartenseite: sieben Stück, die Rahmen undicht, zwei Flügel verzogen."
     status: fact
-    about: [gutshaus, jonas-behrendt]
+    about:
+      - gutshaus
+      - jonas-behrendt
     tags: []
   - kind: place_fact
-    quote: "Am Morgen hatte er mit dem Daumen gegen das Holz gedrückt, und es hatte nachgegeben wie nasser Karton."
+    quote: Am Morgen hatte er mit dem Daumen gegen das Holz gedrückt, und es hatte nachgegeben wie nasser Karton.
     status: fact
-    about: [gutshaus, jonas-behrendt]
+    about:
+      - gutshaus
+      - jonas-behrendt
     tags: []
   - kind: place_fact
     quote: "Darunter kam das Dach. Dafür setzte er vorerst nur ein Fragezeichen und eine Frist ein: Angebot vom Dachdecker bis Ende Juni."
     status: fact
-    about: [gutshaus, jonas-behrendt]
+    about:
+      - gutshaus
+      - jonas-behrendt
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Hedwig hatte für die Gartenarbeit eine Summe festgelegt, sauber beziffert, in ihrer steilen Handschrift unter dem Testament.
+    status: fact
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: "Jonas teilte den Betrag durch Wochen, dann durch Stunden. Er reichte für einen Sommer Pflege."
+    quote: Jonas teilte den Betrag durch Wochen, dann durch Stunden. Er reichte für einen Sommer Pflege.
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "Geldvermächtnis reicht für einen Sommer Gartenpflege" }
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Geldvermächtnis reicht für einen Sommer Gartenpflege
   - kind: belief
     who: jonas-behrendt
-    quote: "doch bis dahin hatte das Haus ohnehin einen Käufer"
+    quote: doch bis dahin hatte das Haus ohnehin einen Käufer
     status: belief
-    about: [jonas-behrendt, gutshaus]
+    about:
+      - jonas-behrendt
+      - gutshaus
     tags: []
-    fact: { subject: jonas-behrendt, predicate: believes, value: "Gut ist bis Sommerende verkauft" }
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Gut ist bis Sommerende verkauft
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: "Ein Gut war ein Bauwerk wie jedes andere: Man prüfte, was es trug, was es kostete und wann etwas fällig wurde."
+    quote: "Mit solchen Rechnungen kam er zurecht. Ein Gut war ein Bauwerk wie jedes andere: Man prüfte, was es trug, was es kostete und wann etwas fällig wurde."
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: "Hedwigs Satz über den Rosengarten, der zum Erntefest wieder blühen sollte, schrieb er in keine Spalte."
+    quote: Hedwigs Satz über den Rosengarten, der zum Erntefest wieder blühen sollte, schrieb er in keine Spalte.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "Hedwigs Wunsch: Rosengarten blüht zum Erntefest" }
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: "Hedwigs Wunsch: Rosengarten blüht zum Erntefest"
+  - kind: event
+    who: jonas-behrendt
+    quote: Eine Weile blinkte der Cursor in der leeren Zelle, bis Jonas die Datei speicherte.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
   - kind: object_fact
     who: marie-albers
-    quote: "Marie Albers kam in ihren grünen Gummistiefeln die Treppe herauf"
+    quote: Marie Albers kam in ihren grünen Gummistiefeln die Treppe herauf
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
-    fact: { subject: marie-albers, predicate: has_object, value: "grüne Gummistiefel" }
+    fact:
+      subject: marie-albers
+      predicate: has_object
+      value: grüne Gummistiefel
   - kind: event
     who: marie-albers
-    quote: "stieg um seine Schuhe herum und betrachtete sie einen Moment zu lange"
+    quote: stieg um seine Schuhe herum und betrachtete sie einen Moment zu lange
     status: fact
-    about: [marie-albers, jonas-behrendt, gutshaus]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - gutshaus
     tags: []
-    fact: { subject: marie-albers, predicate: at_place, value: gutshaus }
+    fact:
+      subject: marie-albers
+      predicate: at_place
+      value: gutshaus
   - kind: narrator_claim
     who: marie-albers
-    quote: "In ihrem Zopf steckte ein Blatt, klein und gezackt, vermutlich von einer Rose."
+    quote: In ihrem Zopf steckte ein Blatt, klein und gezackt, vermutlich von einer Rose.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Sie hatten Zahlen versprochen. Da wollte ich nichts verpassen."
+    quote: Sie hatten Zahlen versprochen. Da wollte ich nichts verpassen.
     status: claim
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Ich möchte, dass Sie den Rosengarten herrichten. Bis zum Erntefest am 5. September."
+    quote: Ich möchte, dass Sie den Rosengarten herrichten. Bis zum Erntefest am 5. September.
     status: fact
-    about: [jonas-behrendt, marie-albers, garten]
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - garten
     tags: []
   - kind: knowledge_gain
     who: marie-albers
-    quote: "Ich möchte, dass Sie den Rosengarten herrichten. Bis zum Erntefest am 5. September. Wege begehbar, Beete sauber, alles, was man vom Haus aus sieht."
+    quote: Ich möchte, dass Sie den Rosengarten herrichten. Bis zum Erntefest am 5. September. Wege begehbar, Beete sauber, alles, was man vom Haus aus sieht.
     status: fact
-    about: [marie-albers, jonas-behrendt, garten]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - garten
     tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "Auftrag: Rosengarten bis Erntefest am 5. September" }
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: "Auftrag: Rosengarten bis Erntefest am 5. September"
   - kind: time
-    quote: "Bis zum Erntefest am 5. September."
+    quote: Bis zum Erntefest am 5. September.
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Weil ein gepflegtes Gut einen besseren Preis bringt."
+    quote: Weil ein gepflegtes Gut einen besseren Preis bringt.
     status: claim
-    about: [jonas-behrendt, gutshaus, garten]
-    tags: [threat]
+    about:
+      - jonas-behrendt
+      - gutshaus
+      - garten
+    tags:
+      - threat
+  - kind: event
+    who: marie-albers
+    quote: Marie zog einen Stuhl heran und setzte sich, ohne dass er sie dazu aufgefordert hätte.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
   - kind: knowledge_gain
     who: marie-albers
-    quote: "Verkauf. Keiner hatte es ausgesprochen, und keiner nahm es zurück."
+    quote: Verkauf. Keiner hatte es ausgesprochen, und keiner nahm es zurück.
     status: fact
-    about: [marie-albers, jonas-behrendt, gutshaus]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - gutshaus
     tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "Jonas will das Gut verkaufen" }
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: Jonas will das Gut verkaufen
   - kind: speech
     who: marie-albers
-    quote: "Mein Stundensatz steht auf meiner Rechnung“, sagte sie. „Der ist nicht verhandelbar. Material kommt extra, nach Beleg."
+    quote: Mein Stundensatz steht auf meiner Rechnung“, sagte sie. „Der ist nicht verhandelbar. Material kommt extra, nach Beleg.
     status: claim
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Material nach Budget. Ich setze einen Rahmen, und den halten wir."
+    quote: Material nach Budget. Ich setze einen Rahmen, und den halten wir.
     status: claim
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Alte Rosen fressen Mist wie Pferde."
+    quote: Alte Rosen fressen Mist wie Pferde.
     status: claim
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Und ich will Zwischenstände. Alle zwei Wochen, mit Fotos."
+    quote: Und ich will Zwischenstände. Alle zwei Wochen, mit Fotos.
     status: claim
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Fotos von Wegen, die fertig sind."
+    quote: Fotos von Wegen, die fertig sind.
     status: claim
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: belief
     who: jonas-behrendt
-    quote: "Auf einer Baustelle gab es ohne Abnahmen keine Zahlung, und er sah keinen Grund, warum ein Garten anders funktionieren sollte."
+    quote: Auf einer Baustelle gab es ohne Abnahmen keine Zahlung, und er sah keinen Grund, warum ein Garten anders funktionieren sollte.
     status: belief
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Aber bei allem, was gewachsen ist, habe ich freie Hand. Kein alter Stock wird gerodet und kein Weg planiert, ohne dass ich gefragt werde."
+    quote: Aber bei allem, was gewachsen ist, habe ich freie Hand. Kein alter Stock wird gerodet und kein Weg planiert, ohne dass ich gefragt werde.
     status: claim
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Dann sage ich Ihnen das. Sie erkennen es nicht."
+    quote: Dann sage ich Ihnen das. Sie erkennen es nicht.
     status: claim
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Ich erkenne, wenn etwas nichts mehr trägt."
+    quote: Ich erkenne, wenn etwas nichts mehr trägt.
     status: claim
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: belief
     who: jonas-behrendt
-    quote: "eine Firma aus der Kreisstadt, Anfahrt, Angebot, Einarbeitung, und der Juni wäre vorbei, bevor dort jemand eine Schere in die Hand nahm"
+    quote: eine Firma aus der Kreisstadt, Anfahrt, Angebot, Einarbeitung, und der Juni wäre vorbei, bevor dort jemand eine Schere in die Hand nahm
     status: belief
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: belief
     who: jonas-behrendt
-    quote: "Diese Frau kannte den Garten. Das war ein Vorteil, so ärgerlich er ihn fand."
+    quote: Diese Frau kannte den Garten. Das war ein Vorteil, so ärgerlich er ihn fand.
     status: belief
-    about: [jonas-behrendt, marie-albers, garten]
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - garten
     tags: []
-    fact: { subject: jonas-behrendt, predicate: believes, value: "Marie kennt den Garten" }
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Marie kennt den Garten
   - kind: speech
     who: jonas-behrendt
-    quote: "Das Budget bleibt, wie es ist“, sagte er. „Wenn Ihre Rosen mehr kosten, fehlt es woanders."
+    quote: Das Budget bleibt, wie es ist“, sagte er. „Wenn Ihre Rosen mehr kosten, fehlt es woanders.
     status: claim
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Dann fehlt es woanders. Bei den Rosen nicht."
+    quote: Dann fehlt es woanders. Bei den Rosen nicht.
     status: claim
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Das Blatt in ihrem Zopf hatte sich gelockert und hing jetzt schief über ihrem Ohr.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: relationship
+    who: jonas-behrendt
+    quote: Seit einem halben Satz ruhten seine Augen darauf statt auf der Tabelle.
+    status: fact
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+  - kind: place_fact
+    quote: Beim Dach standen noch immer nur ein Fragezeichen und eine Frist.
+    status: fact
+    about:
+      - gutshaus
+      - jonas-behrendt
     tags: []
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: "Er hatte zwölf Jahre lang Lasten gerechnet, Brücken, Parkdecks, Decken über vierzig Meter"
+    quote: Er hatte zwölf Jahre lang Lasten gerechnet, Brücken, Parkdecks, Decken über vierzig Meter
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: relationship
     who: jonas-behrendt
-    quote: "und jetzt brachte ihn ein Stück Grün aus dem Takt. Das ärgerte ihn mehr als die nassen Socken auf der Treppe, und es ging die Frau nichts an."
+    quote: und jetzt brachte ihn ein Stück Grün aus dem Takt. Das ärgerte ihn mehr als die nassen Socken auf der Treppe, und es ging die Frau nichts an.
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "„Einverstanden“, sagte er. „Freie Hand bei den Rosen. Über die Wege reden wir.“"
+    quote: „Einverstanden“, sagte er. „Freie Hand bei den Rosen. Über die Wege reden wir.“
     status: fact
-    about: [jonas-behrendt, marie-albers, garten]
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - garten
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "„Über die Wege reden wir“, wiederholte sie, als prüfe sie den Satz auf Dornen."
+    quote: „Über die Wege reden wir“, wiederholte sie, als prüfe sie den Satz auf Dornen.
     status: claim
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Er stand auf und streckte ihr die Hand hin, weil man so etwas abschloss. Marie wischte die Finger an der Arbeitshose ab, was nichts nützte, und schlug ein."
+    quote: Er stand auf und streckte ihr die Hand hin, weil man so etwas abschloss. Marie wischte die Finger an der Arbeitshose ab, was nichts nützte, und schlug ein.
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: relationship
     who: jonas-behrendt
-    quote: "Ein paar Krümel Erde wechselten dabei den Besitzer, und trotzdem ließ er nicht als Erster los."
+    quote: Ein paar Krümel Erde wechselten dabei den Besitzer, und trotzdem ließ er nicht als Erster los.
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: relationship
     who: marie-albers
-    quote: "Den Garten kriegen Sie, Herr Behrendt."
+    quote: Den Garten kriegen Sie, Herr Behrendt.
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Ob Sie ihn verdient haben, sehen wir im September."
+    quote: Ob Sie ihn verdient haben, sehen wir im September.
     status: claim
-    about: [marie-albers, jonas-behrendt, garten]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: event
     who: marie-albers
-    quote: "stapfte sie über den Rasen davon, und Jonas stand auf der Terrasse, die Hand noch halb in der Luft"
+    quote: stapfte sie über den Rasen davon, und Jonas stand auf der Terrasse, die Hand noch halb in der Luft
     status: fact
-    about: [marie-albers, jonas-behrendt, gutshaus]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - gutshaus
     tags: []
-gaps:
-  - "Keine Uhrzeit des Gesprächs genannt; nach ch01/s01 liegt es etwa eine halbe Stunde nach der Begegnung im Garten, am selben Junitag."
-  - "Höhe des Geldvermächtnisses, Stundensatz und Materialbudget bleiben unbeziffert."
+end_actual: dialogue
+end_quote: Ob Sie ihn verdient haben, sehen wir im September.
