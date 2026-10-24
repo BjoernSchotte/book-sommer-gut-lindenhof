@@ -30,3 +30,16 @@ links: []
 - Badeort und Sitzplatz, kein Bootssteg mit Betrieb, keine Gäste, keine Fremden.
 - Keine Gefahr: niemand ertrinkt, niemand fällt ins Wasser, kein Gewitter auf dem See. Das abgesoffene Floß ist eine komische Erinnerung, kein Unglück.
 - Der Weg zurück zum Haus führt durch den Rosengarten, an der Bank unter der Kletterrose vorbei.
+
+## Verlauf
+- ch05/s03 · „Am Rand war der See lauwarm, weiter unten kühler.“ · Am Rand lauwarmes, weiter unten kühleres Wasser; Marie sitzt mit den Füßen im See (#700825)
+- ch05/s03 · „Über die Wiese hinweg brannte in Gretes Küche Licht“ · Vom Steg aus sieht man über die Wiese das Licht in Gretes Küche (#700825)
+- ch05/s03 · „links und rechts vom Steg raschelte das Schilf, obwohl kaum ein Lüftchen ging“ · Schilf zu beiden Seiten, Heuduft vom gemähten Hang (#700825)
+- ch05/s03 · „Hinter ihr knarrte ein Brett.“ · Die alten Planken knarren (#700825)
+- ch05/s03 · „Draußen sprang ein Fisch, und die Ringe liefen bis an die Pfähle.“ · Ein Fisch springt; die Ringe laufen bis an die Pfähle (#700825)
+- ch05/s03 · „Hier hab ich Flöße gebaut“ · Jonas hat hier als Junge Flöße gebaut; eins ist mitten auf dem See abgesoffen (#700825)
+- ch05/s03 · „Hinter dem Buchenwald am anderen Ufer ging die Sonne unter.“ · Sonnenuntergang hinter dem Buchenwald, das Wasser wird golden und kupferfarben, unter den Brettern gluckst es (#700825)
+- ch05/s03 · „Im Schilf fingen die Frösche an.“ · Nach Sonnenuntergang beginnen die Frösche im Schilf (#700825)
+- ch05/s03 · „Dann küssten sie sich.“ · Ort des ersten Kusses von Marie und Jonas (#700825)
+- ch05/s03 · „Es roch nach Seewasser und nassem Holz, und von der Gartenmauer wehte ein Hauch Rosen herüber.“ · Geruch nach Seewasser, nassem Holz und Rosen von der Gartenmauer (#700825)
+- ch05/s03 · „Durch die Pforte in der Mauer kamen sie in den Garten.“ · Der Rückweg führt über die Wiese und durch die Pforte in den Rosengarten (#700825)

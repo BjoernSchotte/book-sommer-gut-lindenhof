@@ -98,3 +98,7 @@ Lena hat keinen großen eigenen Bogen; sie ist Maries Halt und die Stimme des Do
 - ch05/s01 · „Ihr drei harkt die Wege. Ihr nehmt den Giersch an der Westmauer.“ · Teilt die Helfer ohne langes Überlegen ein (#d2031b)
 - ch05/s01 · „Guten Morgen. Wie schön, dass Sie es einrichten konnten. Darf ich Sie eintragen?“ · Siezt Jonas betont höflich im Vertreter-Ton und trägt ihn ein (#d2031b)
 - ch05/s01 · „Den will Kalle!“ · Ruft Grete den Kuchenrand für Kalle zu und lacht (#d2031b)
+- ch05/s03 · „Lena hatte zum Abschied mit dem Klemmbrett gewinkt.“ · Winkt zum Abschied mit dem Klemmbrett (#700825)
+- ch05/s03 · „Lena hat mich den ganzen Tag gesiezt. Mit dem Klemmbrett vor der Brust, wie ein Schild.“ · Hat Jonas den ganzen Tag gesiezt (laut Jonas) (#700825)
+- ch05/s03 · „Um fünf hat sie mich gefragt, ob ich nächsten Samstag Zeit habe.“ · Hat Jonas um fünf für den nächsten Helfersamstag gewonnen (laut Jonas) (#700825)
+- ch05/s03 · „Mats hat sie auch so gekriegt.“ · Hat laut Marie auch Mats so überrumpelt (#700825)

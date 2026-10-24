@@ -119,3 +119,4 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch05/s02 · „Er zog die Handschuhe aus, erst den rechten, dann den linken, schob sie in die Gesäßtasche und hielt ihm die Hand hin.“ · Gibt Jonas nach der letzten Fuhre am späten Nachmittag die Hand (#a7d897)
 - ch05/s02 · „Gut gemacht, Jonas“ · Wechselt zum Du und nennt Jonas beim Vornamen (#a7d897)
 - ch05/s02 · „tippte an die Mütze und ging zu seinem Trecker“ · Verabschiedet sich mit Tippen an die Mütze (#a7d897)
+- ch05/s03 · „Hannes' Trecker hatte als Letzter die Allee hinuntergebrummt“ · Fährt am Abend des Helfersamstags als Letzter mit dem Trecker die Allee hinunter (#700825)
