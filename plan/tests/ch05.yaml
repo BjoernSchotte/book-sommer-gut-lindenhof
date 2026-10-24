@@ -1,0 +1,88 @@
+ch05/s01:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: lena-hansen }   # participant
+    - { alias_of: hannes-kroeger }   # participant
+    - { alias_of: grete-paulsen }   # participant
+    - { alias_of: jonas-behrendt }   # participant
+    - { pattern: "(?:Rosengarten|Garten|Rondell)(?:s|es)?" }   # place garten (Ortsseite ohne aliases)
+    - { pattern: "Klemmbrett(?:s|es)?" }
+    - { pattern: "Chefin" }
+  forbids:
+    - { pattern: "Lagepl(?:an|ans|äne|änen)" }   # Marie weiß nichts vom Plan (erst ch08)
+    - { pattern: "Parkpl(?:atz|atzes|ätze|ätzen)" }
+    - { pattern: "Abfindung(?:en)?" }
+    - { pattern: "Vorvertr(?:ag|ags|ages|äge|ägen)" }   # erst Mitte August (ch07)
+    - { pattern: "Zelt(?:e|es|s)?" }   # Ausweichplan des Ausschusses erst in ch06
+    - { pattern: "Feuerwehrhaus(?:es)?" }
+    - { pattern: "Steckling(?:e|en|s)?" }   # Saat s-stecklinge erst in ch06/s01
+    - { pattern: "(?:Kuss|Küsse|küsste|küssten)" }   # der erste Kuss gehört s03
+  ends_on: { pattern: "(?:Zettel|Zetteln|nachzuzählen|nachgezählt)", max_after: 40 }   # end: emotional, sie lässt die Zettel hängen
+  beats:
+    b1: { must: [{ alias_of: marie-albers }, { alias_of: lena-hansen }, { alias_of: hannes-kroeger }, { pattern: "Zettel(?:n|s)?" }, { pattern: "Klemmbrett(?:s|es)?" }, { pattern: "Trecker(?:s|n)?" }, { pattern: "Timo" }, { pattern: "Kies(?:es)?" }] }
+    b2: { must: [{ alias_of: lena-hansen }, { alias_of: grete-paulsen }, { alias_of: jonas-behrendt }, { pattern: "Mats" }, { pattern: "Bank" }, { pattern: "Butterkuchen(?:s)?" }, { pattern: "Gummistiefel(?:n|s)?" }, { pattern: "Herr Behrendt" }, { pattern: "Brombeer(?:en|ranken)" }] }
+    b3: { must: [{ alias_of: marie-albers }, { alias_of: hannes-kroeger }, { pattern: "Ole" }, { pattern: "Maiden.s Blush" }, { pattern: "Chefin" }] }
+    b4: { must: [{ alias_of: marie-albers }, { alias_of: lena-hansen }, { alias_of: grete-paulsen }, { pattern: "Sonnenuhr" }, { pattern: "Kalle" }, { pattern: "Giersch(?:es)?" }, { pattern: "Zettel(?:n|s)?" }] }
+  judge:
+    - "Spürt die Leserin Maries Anspannung (Namenszettel an jedem Stock, kaum Schlaf), bevor sie loslässt, ohne dass die Szene es erklärt?"
+    - "Bleibt Lena im Ton neckend und schnell, mit der Frage, die sie sich selbst beantwortet, und gegenüber Jonas betont höflich?"
+    - "Siezt Hannes Jonas hier noch als „Herr Behrendt“, mit leisem Spott, und überlässt im Garten klar Marie die Führung?"
+    - "Ist der Moment am Rondell leise und warm erzählt, mit Bildern aus dem Garten statt benannter Gefühle, und kippt er nicht ins Pathos?"
+
+ch05/s02:
+  requires:
+    - { alias_of: jonas-behrendt }   # participant
+    - { alias_of: hannes-kroeger }   # participant
+    - { alias_of: marie-albers }   # participant
+    - { pattern: "(?:Rosengarten|Garten|Mauer|Gartenmauer)(?:s|es|n)?" }   # place garten (Ortsseite ohne aliases)
+    - { pattern: "Hänger(?:s|n)?" }
+    - { pattern: "Gut gemacht, Jonas" }
+  reveal:
+    - { term: { pattern: "Gut gemacht, Jonas" }, not_before: b4 }   # Hannes duzt ihn erst am Ende
+  forbids:
+    - { pattern: "Vorvertr(?:ag|ags|ages|äge|ägen)" }   # erst Mitte August (ch07)
+    - { pattern: "Rücktrittsrecht(?:s|es)?" }
+    - { pattern: "Zelt(?:e|es|s)?" }   # Hannes nennt die Frist erst in ch06/s03
+    - { pattern: "Feuerwehrhaus(?:es)?" }
+    - { pattern: "Steckling(?:e|en|s)?" }   # Hedwigs Notiz findet Jonas erst in ch06/s02
+    - { pattern: "(?:Kuss|Küsse|küsste|küssten)" }   # der erste Kuss gehört s03
+  ends_on: { pattern: "(?:mitgerechnet|dazuzugehören|dazugehören)", max_after: 30 }   # end: emotional, an einem Ort mitgerechnet
+  beats:
+    b1: { must: [{ alias_of: jonas-behrendt }, { alias_of: hannes-kroeger }, { pattern: "Brombeer(?:en|ranken|ranke)" }, { pattern: "Hänger(?:s|n)?" }, { pattern: "Dornen" }, { pattern: "Lagepl(?:an|ans)" }] }
+    b2: { must: [{ alias_of: hannes-kroeger }, { alias_of: jonas-behrendt }, { pattern: "Lütten" }, { pattern: "Stoppeln" }, { pattern: "Diesel(?:s)?" }] }
+    b3: { must: [{ alias_of: jonas-behrendt }, { alias_of: marie-albers }, { pattern: "Forke" }, { pattern: "Ghislaine" }] }
+    b4: { must: [{ alias_of: hannes-kroeger }, { alias_of: jonas-behrendt }, { pattern: "Handschuhe" }, { pattern: "Gut gemacht, Jonas" }] }
+  judge:
+    - "Denkt Jonas beim Schuften in Bildern aus seinem Beruf (Kubikmeter, Fuhren, Lasten) und hört sichtbar auf zu rechnen, ohne dass es gesagt wird?"
+    - "Bleibt der Gedanke an den Lageplan ein kurzer Stich, den er wegschiebt, ohne dass er etwas beschließt?"
+    - "Erinnert sich Jonas an Diesel und Stroh, aber nicht an Hannes, und schämt sich leise dafür?"
+    - "Wirkt Hannes' Du als Geste der Aufnahme durch das Dorf, wortkarg und ohne Rührseligkeit?"
+
+ch05/s03:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: jonas-behrendt }   # participant
+    - { pattern: "(?:Steg|Stegs|Stege|Gutssee|Gutssees)" }   # place steg (Ortsseite ohne aliases)
+    - { pattern: "(?:Kuss|küssten|küsste|küsst)" }
+    - { pattern: "Ich weiß es nicht" }
+  reveal:
+    - { term: { pattern: "(?:Kuss|küssten|küsste|küsst)" }, not_before: b3 }   # erst nach der Flößerinnerung
+    - { term: { pattern: "Ich weiß es nicht" }, not_before: b4 }
+  forbids:
+    - { pattern: "Lagepl(?:an|ans|äne|änen)" }   # Marie weiß nichts vom Plan (erst ch08)
+    - { pattern: "Parkpl(?:atz|atzes|ätze|ätzen)" }
+    - { pattern: "Abfindung(?:en)?" }
+    - { pattern: "Vorvertr(?:ag|ags|ages|äge|ägen)" }
+    - { pattern: "Steckling(?:e|en|s)?" }   # Saat erst in ch06/s01
+    - { pattern: "Zelt(?:e|es|s)?" }
+  ends_on: { pattern: "Wurzeln", max_after: 30 }   # end: question, ob ein Sommer reicht, um Wurzeln zu schlagen
+  beats:
+    b1: { must: [{ alias_of: grete-paulsen }, { alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Schilf(?:s|es)?" }, { pattern: "Bier(?:e|es)?" }, { pattern: "Sonnenbrand(?:s|es)?" }] }
+    b2: { must: [{ alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Flö(?:ß|ße|ßen|ßes)" }, { pattern: "Remise" }, { pattern: "Hedwig(?:s)?" }] }
+    b3: { must: [{ alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Buchenwald(?:s|es)?" }, { pattern: "(?:Kuss|küssten|küsste|küsst)" }, { pattern: "Gewitter(?:s)?" }, { pattern: "Ich auch" }] }
+    b4: { must: [{ alias_of: marie-albers }, { pattern: "Bank" }, { pattern: "Herbst(?:es)?" }, { pattern: "Ich weiß es nicht" }, { pattern: "Wurzeln" }] }
+  judge:
+    - "Bleibt der Kuss zart und zurückhaltend (heat 1), mit Herzklopfen, Seewasser und Rosenduft, ohne explizite Körperlichkeit?"
+    - "Denkt Marie an den dünnen Jungen auf der Gartenmauer, ohne es auszusprechen, sodass keine Kindheitsbegegnung aufgelöst wird?"
+    - "Bleibt die Frage nach dem Herbst offen und schmerzt leise, ohne dass Jonas den Verkauf oder Steinhagen erwähnt?"
+    - "Ist die Komik am Anfang (Sonnenbrand, Lenas Klemmbrett, das abgesoffene Floß) warm und trägt in die Stille über?"
