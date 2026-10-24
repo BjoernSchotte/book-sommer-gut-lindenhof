@@ -102,3 +102,7 @@ Lena hat keinen großen eigenen Bogen; sie ist Maries Halt und die Stimme des Do
 - ch05/s03 · „Lena hat mich den ganzen Tag gesiezt. Mit dem Klemmbrett vor der Brust, wie ein Schild.“ · Hat Jonas den ganzen Tag gesiezt (laut Jonas) (#700825)
 - ch05/s03 · „Um fünf hat sie mich gefragt, ob ich nächsten Samstag Zeit habe.“ · Hat Jonas um fünf für den nächsten Helfersamstag gewonnen (laut Jonas) (#700825)
 - ch05/s03 · „Mats hat sie auch so gekriegt.“ · Hat laut Marie auch Mats so überrumpelt (#700825)
+- ch06/s01 · „Lena hat mich für Samstag schon eingetragen. Mit Uhrzeit.“ · Hat Jonas für Samstag mit Uhrzeit eingetragen (laut Jonas) (#5200cf)
+- ch06/s01 · „Mit zwei. Ankunft und Abfahrt.“ · Führt in ihrer Liste Spalten für Ankunft und Abfahrt (laut Jonas) (#5200cf)
+- ch06/s01 · „Sie misstraut jedem ohne Klemmbrett.“ · Misstraut laut Marie jedem ohne Klemmbrett (#5200cf)
+- ch06/s01 · „Niemand wusste davon. Lena nicht, Grete nicht, Jonas erst recht nicht.“ · Weiß nichts von Maries Stecklingen (#5200cf)
