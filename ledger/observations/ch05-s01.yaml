@@ -1,272 +1,419 @@
 source: manuscript/ch05/s01.md
-source_hash: "d2031b"
+source_hash: 8154a9
 extracted_by: bb-ingest
-end_actual: emotional
-end_quote: "Dann holte sie sich eine neue Hacke aus dem Schuppen, ging zu den anderen und ließ die Zettel an den Stöcken hängen, ohne sie noch einmal nachzuzählen."
+gaps:
+  - Ob dies der Sonnabend ist, für den Hannes in ch03/s02 den Trecker um halb acht zugesagt hat, bleibt offen; hier kommt er schon kurz nach sechs (Anfang Juli zugesagt, jetzt Mitte Juli).
+  - Wie viele Leute insgesamt kommen und wer die Liste mit Lena vorbereitet hat, nennt die Szene nicht.
+  - Ob Jonas und Marie an diesem Vormittag miteinander sprechen, bleibt offen; Jonas sieht nicht zu ihr herüber.
+  - Absatz 1 und 20 nennen nicht, was in der namenlosen Mauerecke hinter dem Südende des Laubengangs steht; laut Wiki (garten, Fest) ist es die letzte Lindenhof-Rose. Der Text lässt es offen.
+  - Absatz 20 sagt nicht, warum Marie Jonas nachsieht und schweigt (Schutz der Ecke vor ihm/den Helfern ist nur angedeutet).
 items:
   - kind: event
     who: marie-albers
-    quote: "Marie zog den Bast fest, und das Pappschild drehte sich an der 'Rosa Mundi' einmal um sich selbst."
+    quote: Marie zog den Bast fest, und das Pappschild drehte sich an der 'Rosa Mundi' einmal um sich selbst.
     status: fact
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
-    fact: { subject: ch05/s01@schilder, predicate: at_place, value: garten }
+    fact:
+      subject: ch05/s01@schilder
+      predicate: at_place
+      value: garten
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Sie hatte die Namen in Druckbuchstaben geschrieben, groß genug für jeden, der in Eile war.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
   - kind: event
     who: marie-albers
-    quote: "An jedem Stock, der stehen bleiben musste, hing jetzt so ein Zettel, vom Tor bis zur Pforte."
+    quote: An jedem Stock, der stehen bleiben musste, hing jetzt so ein Zettel, vom Tor bis zur Pforte.
     status: fact
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: place_fact
+    quote: Nur die Mauerecke hinter dem Südende des Laubengangs trug keinen Namen.
+    status: fact
+    about:
+      - garten
+      - marie-albers
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Dort hatte sie im Dunkeln die Brombeeren selbst zurückgeschnitten und einen Pfahl mit einem leeren Schild davorgesetzt.
+    status: fact
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: narrator_claim
     who: marie-albers
-    quote: "Geschlafen hatte sie kaum. Um vier hatte sie aufgehört, es zu versuchen, und Pappe zugeschnitten."
+    quote: Geschlafen hatte sie kaum. Um vier hatte sie aufgehört, es zu versuchen, und Pappe zugeschnitten.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: time
-    quote: "Es war Samstag, Mitte Juli, kurz nach sechs."
+    quote: Es war Samstag, Mitte Juli, kurz nach sechs.
     status: fact
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
-    fact: { subject: ch05/s01@arbeitseinsatz, predicate: at_time, value: "Samstag Mitte Juli, kurz nach 06:00" }
+    fact:
+      subject: ch05/s01@arbeitseinsatz
+      predicate: at_time
+      value: Samstag Mitte Juli, kurz nach 06:00
     event: arbeitseinsatz
     day: "+0"
-    at: ["06:00", "06:20"]
+    at:
+      - 06:00
+      - 06:20
     place: garten
   - kind: place_fact
-    quote: "Von den Feldern hinter der Allee zog Heugeruch über die Mauer, und der Tau machte die Schilder weich."
+    quote: Von den Feldern hinter der Allee zog Heugeruch über die Mauer, und der Tau machte die Schilder weich.
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
   - kind: event
     who: lena-hansen
-    quote: "Am schmiedeeisernen Tor stand Lena, das Klemmbrett unter dem Arm, den Stiftebecher aus dem Laden in der Hand."
+    quote: Am schmiedeeisernen Tor stand Lena, das Klemmbrett unter dem Arm, den Stiftebecher aus dem Laden in der Hand.
     status: fact
-    about: [lena-hansen, garten]
+    about:
+      - lena-hansen
+      - garten
     tags: []
-    fact: { subject: lena-hansen, predicate: at_place, value: garten }
+    fact:
+      subject: lena-hansen
+      predicate: at_place
+      value: garten
   - kind: event
     who: lena-hansen
     quote: "Sie hakte die Leute ab, so schnell, wie sie kamen: drei Landfrauen mit Hacken, vier Mann von der Feuerwehr, die Nachbarn vom Dorfteich mit eigenen Schubkarren."
     status: fact
-    about: [lena-hansen, garten]
+    about:
+      - lena-hansen
+      - garten
     tags: []
   - kind: speech
     who: lena-hansen
-    quote: "Du hast deinen Rosen Namensschilder gemacht?"
+    quote: Du hast deinen Rosen Namensschilder gemacht?
     status: claim
-    about: [lena-hansen, marie-albers]
+    about:
+      - lena-hansen
+      - marie-albers
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Damit keiner was rausreißt."
+    quote: Damit keiner was rausreißt.
     status: claim
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: speech
     who: lena-hansen
-    quote: "Marie. Das sind Landfrauen. Die stechen Giersch, seit du laufen kannst."
+    quote: Marie. Das sind Landfrauen. Die stechen Giersch, seit du laufen kannst.
     status: claim
-    about: [lena-hansen, marie-albers]
+    about:
+      - lena-hansen
+      - marie-albers
     tags: []
   - kind: event
     who: hannes-kroeger
-    quote: "Hannes rollte mit dem großen grünen Trecker heran, den leeren Hänger hinten dran, Kalle neben sich in der Kabine."
+    quote: Hannes rollte mit dem großen grünen Trecker heran, den leeren Hänger hinten dran, Kalle neben sich in der Kabine.
     status: fact
-    about: [hannes-kroeger, garten]
+    about:
+      - hannes-kroeger
+      - garten
     tags: []
-    fact: { subject: hannes-kroeger, predicate: has_object, value: großer grüner Trecker mit leerem Hänger }
+    fact:
+      subject: hannes-kroeger
+      predicate: has_object
+      value: großer grüner Trecker mit leerem Hänger
   - kind: event
     who: hannes-kroeger
-    quote: "Dahinter folgte Timo mit dem zweiten Gespann, voll Kies für die Seitenwege."
+    quote: Dahinter folgte Timo mit dem zweiten Gespann, voll Kies für die Seitenwege.
     status: fact
-    about: [hannes-kroeger, garten]
+    about:
+      - hannes-kroeger
+      - garten
     tags: []
   - kind: speech
     who: lena-hansen
-    quote: "Ihr drei harkt die Wege. Ihr nehmt den Giersch an der Westmauer. Die Feuerwehr schaufelt Kies, ihr habt die Arme dafür."
+    quote: Ihr drei harkt die Wege. Ihr nehmt den Giersch an der Westmauer. Die Feuerwehr schaufelt Kies, ihr habt die Arme dafür.
     status: claim
-    about: [lena-hansen, garten]
+    about:
+      - lena-hansen
+      - garten
     tags: []
   - kind: event
-    quote: "Er strich mit dem Daumen über das graue Holz, wo die weiße Farbe in Fetzen hing, und zog den ersten Schraubenzieher aus der Tasche."
+    quote: Er strich mit dem Daumen über das graue Holz, wo die weiße Farbe in Fetzen hing, und zog den ersten Schraubenzieher aus der Tasche.
     status: fact
-    about: [garten]
-    tags: []
-  - kind: event
-    who: grete-paulsen
-    quote: "Grete kam die Freitreppe herunter, zwei Bleche Butterkuchen übereinander, und stellte sie auf den Terrassentisch neben die große Kanne."
-    status: fact
-    about: [grete-paulsen]
+    about:
+      - garten
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: "Dann ging sie noch einmal hinein und holte ein drittes, damit diesmal keiner mit leerem Teller dastand."
+    quote: Grete kam die Freitreppe herunter, zwei Bleche Butterkuchen übereinander, und stellte sie auf den Terrassentisch neben die große Kanne.
     status: fact
-    about: [grete-paulsen]
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: Dann ging sie noch einmal hinein und holte ein drittes, damit diesmal keiner mit leerem Teller dastand.
+    status: fact
+    about:
+      - grete-paulsen
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Aus der Remise kam Jonas, in den geliehenen Gummistiefeln, die Ärmel schon aufgekrempelt."
+    quote: Aus der Remise kam Jonas, in den geliehenen Gummistiefeln, die Ärmel schon aufgekrempelt.
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
-    fact: { subject: jonas-behrendt, predicate: has_object, value: geliehene Gummistiefel aus der Remise }
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: geliehene Gummistiefel aus der Remise
   - kind: speech
     who: lena-hansen
-    quote: "Guten Morgen. Wie schön, dass Sie es einrichten konnten. Darf ich Sie eintragen?"
+    quote: Guten Morgen. Wie schön, dass Sie es einrichten konnten. Darf ich Sie eintragen?
     status: claim
-    about: [lena-hansen, jonas-behrendt]
+    about:
+      - lena-hansen
+      - jonas-behrendt
     tags: []
   - kind: belief
     who: marie-albers
-    quote: "Marie kannte diesen Ton aus dem Hofladen, wenn ein Vertreter vor der Theke stand."
+    quote: Marie kannte diesen Ton aus dem Hofladen, wenn ein Vertreter vor der Theke stand.
     status: belief
-    about: [marie-albers, lena-hansen]
+    about:
+      - marie-albers
+      - lena-hansen
     tags: []
   - kind: speech
     who: hannes-kroeger
-    quote: "Wollen Sie anfassen, Herr Behrendt?"
+    quote: Wollen Sie anfassen, Herr Behrendt?
     status: claim
-    about: [hannes-kroeger, jonas-behrendt]
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Deshalb bin ich hier."
+    quote: Deshalb bin ich hier.
     status: claim
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: hannes-kroeger
-    quote: "Dann die Brombeeren an der Mauer. Da kommt mein Hänger hin."
+    quote: Dann die Brombeeren an der Südmauer, westlich von der Pforte.
     status: claim
-    about: [hannes-kroeger, jonas-behrendt, garten]
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Er sah nicht zu Marie herüber. Sie sah ihm trotzdem nach, bis er hinter dem Laubengang verschwand."
+    quote: Hannes wies mit dem Daumen nach Süden, und Jonas ging.
     status: fact
-    about: [jonas-behrendt, marie-albers]
-    tags: []
-  - kind: time
-    quote: "Gegen neun stand die Sonne über der Mauer."
-    status: fact
-    about: [marie-albers, garten]
-    tags: []
-    fact: { subject: ch05/s01@maidens-blush, predicate: at_time, value: "gegen 09:00" }
-    event: maidens-blush
-    day: "+0"
-    at: ["08:45", "09:15"]
-    place: garten
-  - kind: event
-    quote: "Ole, einer von den jungen Feuerwehrleuten, kaum zwanzig, hatte beide Hände in einen Busch gegraben und zog."
-    status: fact
-    about: [garten]
-    tags: []
-    fact: { subject: ch05/s01@maidens-blush, predicate: at_place, value: garten }
-  - kind: place_fact
-    quote: "Die 'Maiden's Blush'. Ihr Schild hing auf der anderen Seite."
-    status: fact
-    about: [garten]
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: event
-    who: hannes-kroeger
-    quote: "Bevor sie den ersten Schritt getan hatte, gellte ein Pfiff über den Garten, zwei Finger im Mund, so wie Hannes sonst seinen Hund rief."
+    who: jonas-behrendt
+    quote: Er sah nicht zu Marie herüber.
     status: fact
-    about: [hannes-kroeger, marie-albers]
-    tags: []
-  - kind: speech
-    who: hannes-kroeger
-    quote: "Im Garten ist Marie die Chefin. Wer das nicht weiß, fragt sie."
-    status: claim
-    about: [hannes-kroeger, marie-albers]
-    tags: []
-  - kind: relationship
-    who: marie-albers
-    quote: "Ihre Finger waren nicht ganz ruhig. Chefin."
-    status: fact
-    about: [marie-albers, hannes-kroeger]
-    tags: []
-  - kind: speech
-    who: marie-albers
-    quote: "Die ist älter als dein Opa"
-    status: claim
-    about: [marie-albers, garten]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Sie zeigte ihm, wo die Giersch-Ausläufer unter die Rose krochen, und gab ihm ihre Hacke."
+    quote: Sie sah ihm trotzdem nach, bis er unten nach rechts abbog, fort von der Ecke am Laubengang.
     status: fact
-    about: [marie-albers]
-    tags: []
-  - kind: time
-    quote: "Der Schatten des Zeigers lag kurz vor der Elf, und der Stein war warm unter ihrer Hand."
-    status: fact
-    about: [marie-albers, garten]
-    tags: []
-    fact: { subject: ch05/s01@sonnenuhr, predicate: at_time, value: "kurz vor 11:00" }
-    event: sonnenuhr
-    day: "+0"
-    at: ["10:40", "11:00"]
-    place: garten
-  - kind: place_fact
-    quote: "Die neuen Kieswege leuchteten hell zwischen den Buchskanten, frisch geharkt bis an die Mauer."
-    status: fact
-    about: [garten]
-    tags: []
-  - kind: event
-    quote: "Hinten krachte eine Brombeerranke auf den Hänger, dann noch eine."
-    status: fact
-    about: [garten]
-    tags: []
-  - kind: event
-    who: grete-paulsen
-    quote: "Grete trug eine zweite Kanne Kaffee über die Terrasse."
-    status: fact
-    about: [grete-paulsen]
-    tags: []
-  - kind: speech
-    who: grete-paulsen
-    quote: "Wer jetzt keinen Kuchen isst, kriegt nachher den Rand!"
-    status: claim
-    about: [grete-paulsen]
-    tags: []
-  - kind: speech
-    who: lena-hansen
-    quote: "Den will Kalle!"
-    status: claim
-    about: [lena-hansen, hannes-kroeger]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: narrator_claim
     who: marie-albers
-    quote: "Seit Juni hatte Marie hier jeden Morgen allein gekniet."
+    quote: Warum, sagte sie keinem.
     status: fact
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+    tags: []
+  - kind: time
+    quote: Gegen neun stand die Sonne über der Mauer.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: ch05/s01@maidens-blush
+      predicate: at_time
+      value: gegen 09:00
+    event: maidens-blush
+    day: "+0"
+    at:
+      - 08:45
+      - 09:15
+    place: garten
+  - kind: event
+    quote: Ole, einer von den jungen Feuerwehrleuten, kaum zwanzig, hatte beide Hände in einen Busch gegraben und zog.
+    status: fact
+    about:
+      - garten
+    tags: []
+    fact:
+      subject: ch05/s01@maidens-blush
+      predicate: at_place
+      value: garten
+  - kind: place_fact
+    quote: Die 'Maiden's Blush'. Ihr Schild hing auf der anderen Seite.
+    status: fact
+    about:
+      - garten
     tags: []
   - kind: event
-    quote: "Jetzt stachen ihn drei Landfrauen an der Westmauer im selben Takt, und keine sah dabei auf."
+    who: hannes-kroeger
+    quote: Bevor sie den ersten Schritt getan hatte, gellte ein Pfiff über den Garten, zwei Finger im Mund, so wie Hannes sonst seinen Hund rief.
     status: fact
-    about: [garten]
+    about:
+      - hannes-kroeger
+      - marie-albers
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: Im Garten ist Marie die Chefin. Wer das nicht weiß, fragt sie.
+    status: claim
+    about:
+      - hannes-kroeger
+      - marie-albers
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Die ist älter als dein Opa
+    status: claim
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Marie schluckte. Etwas saß ihr eng im Hals."
+    quote: Sie zeigte ihm, wo die Giersch-Ausläufer unter die Rose krochen, und gab ihm ihre Hacke.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: Ihre Finger waren nicht ganz ruhig. Chefin.
+    status: fact
+    about:
+      - marie-albers
+      - hannes-kroeger
+    tags: []
+  - kind: time
+    quote: Der Schatten des Zeigers lag kurz vor der Elf, und der Stein war warm unter ihrer Hand.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: ch05/s01@sonnenuhr
+      predicate: at_time
+      value: kurz vor 11:00
+    event: sonnenuhr
+    day: "+0"
+    at:
+      - 10:40
+      - 11:00
+    place: garten
+  - kind: place_fact
+    quote: Die neuen Kieswege leuchteten hell zwischen den Buchskanten, frisch geharkt bis an die Mauer.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    quote: Hinten krachte eine Brombeerranke auf den Hänger, dann noch eine.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: Grete trug eine zweite Kanne Kaffee über die Terrasse.
+    status: fact
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: Wer jetzt keinen Kuchen isst, kriegt nachher den Rand!
+    status: claim
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: Den will Kalle!
+    status: claim
+    about:
+      - lena-hansen
+      - hannes-kroeger
+    tags: []
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Seit Juni hatte Marie hier jeden Morgen allein gekniet.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: event
+    quote: Jetzt stachen ihn drei Landfrauen an der Westmauer im selben Takt, und keine sah dabei auf.
+    status: fact
+    about:
+      - garten
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Sie hob die Hand danach, aus Gewohnheit, und ließ sie wieder sinken."
+    quote: Marie schluckte. Etwas saß ihr eng im Hals.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Dann holte sie sich eine neue Hacke aus dem Schuppen, ging zu den anderen und ließ die Zettel an den Stöcken hängen, ohne sie noch einmal nachzuzählen."
+    quote: Sie hob die Hand danach, aus Gewohnheit, und ließ sie wieder sinken.
     status: fact
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
     tags: []
-gaps:
-  - "Ob dies der Sonnabend ist, für den Hannes in ch03/s02 den Trecker um halb acht zugesagt hat, bleibt offen; hier kommt er schon kurz nach sechs (Anfang Juli zugesagt, jetzt Mitte Juli)."
-  - "Wie viele Leute insgesamt kommen und wer die Liste mit Lena vorbereitet hat, nennt die Szene nicht."
-  - "Ob Jonas und Marie an diesem Vormittag miteinander sprechen, bleibt offen; Jonas sieht nicht zu ihr herüber."
+  - kind: event
+    who: marie-albers
+    quote: Dann holte sie sich eine neue Hacke aus dem Schuppen, ging zu den anderen und ließ die Zettel an den Stöcken hängen, ohne sie noch einmal nachzuzählen.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+end_actual: emotional
+end_quote: Dann holte sie sich eine neue Hacke aus dem Schuppen, ging zu den anderen und ließ die Zettel an den Stöcken hängen, ohne sie noch einmal nachzuzählen.
