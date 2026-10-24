@@ -27,3 +27,10 @@ links: [grundlage, marie-albers, jonas-behrendt, grete-paulsen, ralf-steinhagen]
 **Funktion in der Geschichte:** Ort der Verhandlung (Auftrag auf der Terrasse, ch01), der Wärme (Gretes Küche), der Erinnerung (Arbeitszimmer mit Gartenbuch und Hedwigs Notiz, ch06) und des Vertrauensbruchs (Fund des Vorvertrags im Arbeitszimmer, ch08). Das Haus steht für das, was Jonas verkaufen will und am Ende behält.
 
 **Grenzen:** keine Gewalt, kein Einbruch, keine Polizei. Hamburg wird hier nur am Telefon oder in Gedanken genannt.
+
+## Verlauf
+- ch01/s02 · „Hinter ihm standen die Flügeltüren zum Salon offen“ · Verhandlung auf der Terrasse vor dem Salon; Flügeltüren offen, Geruch von altem Polster und Bohnerwachs (#fa5fe8)
+- ch01/s02 · „Seine Lederschuhe lagen auf der untersten Stufe der Freitreppe, die Socken daneben.“ · Jonas' nasse Schuhe und Socken trocknen auf der Freitreppe zum Garten (#fa5fe8)
+- ch01/s02 · „Fenster, Erdgeschoss, Gartenseite: sieben Stück, die Rahmen undicht, zwei Flügel verzogen.“ · Sieben undichte Fenster im Erdgeschoss zur Gartenseite, Holz morsch (#fa5fe8)
+- ch01/s02 · „Angebot vom Dachdecker bis Ende Juni.“ · Dach noch unbeziffert, Dachdecker-Angebot bis Ende Juni erwartet (#fa5fe8)
+- ch01/s02 · „bis dahin hatte das Haus ohnehin einen Käufer“ · Jonas rechnet mit einem Käufer für das Haus bis Sommerende (#fa5fe8)
