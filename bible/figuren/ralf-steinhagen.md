@@ -72,3 +72,15 @@ links: [jonas-behrendt, marie-albers, grete-paulsen, hannes-kroeger, lena-hansen
 ## Bogen in Kürze
 
 Steinhagen hat keinen eigenen Bogen. Er kommt im Juli freundlich mit einem Angebot, bringt Mitte August den Vorvertrag und nimmt Jonas' Rücktritt rund um das Erntefest höflich hin. Er geht ohne Groll, und die Leserin weiß: niemand ist zu Schaden gekommen, das Gut hat nur den richtigen Menschen gefunden.
+
+## Verlauf
+- ch03/s03 · „Ralf Steinhagen, Weidenkamp Hotels.“ · Ruft Jonas aus Hamburg an und stellt sich als Ralf Steinhagen von Weidenkamp Hotels vor (#26e365)
+- ch03/s03 · „Ihr Makler war so freundlich, mir Ihre Nummer zu geben.“ · Hat Jonas' Nummer vom Makler (#26e365)
+- ch03/s03 · „Der Mann klang ruhig und warm, wie einer, der in Besprechungsräumen mit Wasserkaraffen auf dem Tisch zu Hause war.“ · Klingt ruhig, warm und geschäftsgewandt (#26e365)
+- ch03/s03 · „Er nannte die Zahl der Zimmer im Gutshaus, ohne nachzusehen, und sie stimmte.“ · Kennt Zimmerzahl, Scheunenfläche und Baujahr des Guts auswendig (#26e365)
+- ch03/s03 · „Ein Haus mit Geschichte“ · Spricht vom „Haus mit Geschichte“ für die Gäste (#26e365)
+- ch03/s03 · „Wir denken an Zimmer im Haupthaus und in der Scheune, dazu ein kleiner Spa.“ · Nennt den Plan: Zimmer in Haupthaus und Scheune, ein kleines Spa, „alles behutsam“ (#26e365)
+- ch03/s03 · „Da hätten wir eine Stellplatzlösung im Kopf.“ · Verschiebt die „Stellplatzlösung“ auf das Gespräch vor Ort (#26e365)
+- ch03/s03 · „Übernächsten Montag, wenn Ihnen das recht ist. Ganz unverbindlich, Herr Behrendt.“ · Vereinbart eine unverbindliche Besichtigung des Guts am übernächsten Montag, Mitte Juli (#26e365)
+- ch03/s03 · „Ich schicke Ihnen heute noch eine kurze Bestätigung.“ · Kündigt eine schriftliche Bestätigung für denselben Tag an (#26e365)
+- ch03/s03 · „Er drehte keine Mütze in den Händen.“ · Spricht Jonas' Sprache aus Flächen und Fristen, im Gegensatz zu Hannes (#26e365)

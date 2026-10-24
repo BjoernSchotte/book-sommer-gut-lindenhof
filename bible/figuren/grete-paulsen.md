@@ -96,3 +96,4 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch03/s01 · „Jeden Dienstag und jeden Freitag. Grete hat Buch geführt, auf der Rückseite vom Kalender.“ · Gab den Kuchenlohn dienstags und freitags und führte auf der Kalenderrückseite Buch; wer schummelte, bekam nur den Rand (#2b0244)
 - ch03/s02 · „zu Gretes Küchentür, wo es um diese Zeit Kuchenränder gab“ · An ihrer Küchentür gibt es morgens Kuchenränder; Hannes' Hund Kalle läuft sofort dorthin (#834740)
 - ch03/s02 · „Grete sagt, du nimmst Milch.“ · Hat Jonas gesagt, dass Marie Kaffee mit Milch nimmt (#834740)
+- ch03/s03 · „Grete hatte ihm das Mittagessen ohne ein Wort hingestellt.“ · Stellt Jonas nach Hannes' Frage das Mittagessen wortlos hin (#26e365)

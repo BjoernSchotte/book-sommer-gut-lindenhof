@@ -166,3 +166,6 @@ Von der Gärtnerin, die einen Garten verteidigt und sich selbst kleinmacht, zur 
 - ch03/s02 · „hoffte auf einen Satz von Jonas, der nach Ja klang“ · Hofft, dass Jonas Hannes das Erntefest auf dem Gut zusagt; es kommt nichts (#834740)
 - ch03/s02 · „Sonnabend bring ich den Trecker, Deern. Halb acht.“ · Bekommt von Hannes den Trecker für Sonnabend halb acht zugesagt (#834740)
 - ch03/s02 · „wartete auf ein Wort an sie, irgendeins, das ihr erklärte, was Hannes eben nicht zu hören bekommen hatte“ · Wartet vergeblich auf eine Erklärung von Jonas (#834740)
+- ch03/s03 · „Sie hatte dagestanden, in jeder Hand einen Becher, und auf ein Wort von ihm gewartet.“ · Hat nach Hannes' Frage vergeblich auf ein Wort von Jonas gewartet (aus Jonas' Sicht) (#26e365)
+- ch03/s03 · „Marie kniete am Rondell, den Strohhut neben sich im Kies, und ihr Zopf pendelte bei jedem Handgriff.“ · Arbeitet am späten Nachmittag kniend am Rondell, Strohhut im Kies (#26e365)
+- ch03/s03 · „Marie war aufgestanden. Sie klopfte sich die Knie ab und sah nicht herauf.“ · Steht auf, klopft sich die Knie ab und schaut nicht zum Hügel hinauf (#26e365)

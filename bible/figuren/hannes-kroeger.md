@@ -90,3 +90,5 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch03/s02 · „Fest ist am ersten Samstag im September“ · Stellt ohne Härte fest: das Fest ist am ersten Samstag im September, wie immer (#834740)
 - ch03/s02 · „Sonnabend bring ich den Trecker, Deern. Halb acht.“ · Sagt Marie den Trecker für Sonnabend halb acht zu (#834740)
 - ch03/s02 · „Er steckte zwei Finger in den Mund und pfiff.“ · Pfeift Kalle herbei und fährt (#834740)
+- ch03/s03 · „Er hatte nur einmal genickt und die Mütze wieder aufgesetzt, und das wog schwerer als jede zweite Frage.“ · Sein stummes Nicken nach der Erntefest-Frage wiegt für Jonas schwerer als Nachfragen (#26e365)
+- ch03/s03 · „Drüben, jenseits des Feldes, stand die Scheune vom Kröger-Hof, das große Tor offen, davor ein Trecker in der Sonne.“ · Scheune des Kröger-Hofs ist vom Hügel aus jenseits des Feldes zu sehen, Trecker davor (#26e365)
