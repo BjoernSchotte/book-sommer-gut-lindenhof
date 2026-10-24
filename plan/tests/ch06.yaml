@@ -1,0 +1,129 @@
+ch06/s01:
+  requires:
+    - { alias_of: marie-albers }
+    - { alias_of: jonas-behrendt }
+    - { alias_of: grete-paulsen }
+    - { pattern: "(?:Rosengartens?|Gartens?)" }
+    - { pattern: "Lindenhof-Rosen?" }
+    - { pattern: "Stecklinge?n?" }
+  ends_on: { pattern: "klug wie deine Rosen", max_after: 30 }
+  forbids:
+    - { pattern: "Lageplans?" }
+    - { pattern: "Vorvertrags?" }
+  beats:
+    b1:
+      must:
+        - { alias_of: marie-albers }
+        - { alias_of: jonas-behrendt }
+        - { pattern: "Zollstocks?" }
+        - { pattern: "New Dawn" }
+        - { pattern: "Dahlien" }
+    b2:
+      must:
+        - { alias_of: grete-paulsen }
+        - { alias_of: jonas-behrendt }
+        - { alias_of: marie-albers }
+        - { pattern: "Johannisbeerkuchens?" }
+        - { pattern: "Kletterrosen?" }
+        - { pattern: "Lindenhof-Rosen?" }
+    b3:
+      after: "+6 h"
+      must:
+        - { alias_of: marie-albers }
+        - { alias_of: jonas-behrendt }
+        - { pattern: "Hinterhofs?" }
+        - { pattern: "Stecklinge?n?" }
+        - { pattern: "Folien?" }
+        - { pattern: "Die Rosen fragen das nicht" }
+  judge:
+    - "Bleiben die Stecklinge Maries Geheimnis: erzählt sie weder Jonas noch Grete davon, auch nicht in der Nachricht am Abend?"
+    - "Stimmt der Gartenstand für Ende Juli: Rückschnitt nur der einmal blühenden Gallica- und Damaszenerrosen, Blüten an den Hagebuttensorten stehen gelassen, Pflanzung für September statt Junibild?"
+    - "Sind die Streitereien seit dem Steg spürbar weicher, und bleibt die Nähe bei heat 1 (Knie, Blicke, keine expliziten Szenen)?"
+    - "Sieht Grete die beiden nur an, ohne etwas zu sagen, statt das Paar auszusprechen?"
+
+ch06/s02:
+  requires:
+    - { alias_of: jonas-behrendt }
+    - { alias_of: grete-paulsen }
+    - { pattern: "Arbeitszimmers?" }
+    - { pattern: "Gartenbuchs?" }
+    - { pattern: "Erster Steckling" }
+    - { pattern: "Lageplans?" }
+  reveal:
+    - { term: { pattern: "Erster Steckling" }, not_before: b2 }
+  forbids:
+    - { pattern: "Keksdosen?" }
+    - { pattern: "Kinderbriefen?" }
+  beats:
+    b1:
+      must:
+        - { alias_of: jonas-behrendt }
+        - { alias_of: grete-paulsen }
+        - { alias_of: marie-albers }
+        - { pattern: "Ordnern?" }
+        - { pattern: "Gutachters?" }
+        - { pattern: "Gartenbuchs?" }
+    b2:
+      must:
+        - { alias_of: jonas-behrendt }
+        - { pattern: "Erster Steckling" }
+        - { pattern: "Lindenhof-Rosen?" }
+        - { pattern: "Joghurtbechers?" }
+        - { pattern: "Lineals?" }
+    b3:
+      must:
+        - { alias_of: grete-paulsen }
+        - { alias_of: marie-albers }
+        - { pattern: "Lageplans?" }
+        - { pattern: "Tees?" }
+  judge:
+    - "Schlägt Jonas das Gartenbuch erst auf, nachdem Grete gegangen ist, und liest er die Notiz allein?"
+    - "Erzählt Jonas Grete nichts von der Notiz und nimmt er sich vor, auch Marie nichts zu sagen, ohne dass die Szene seine Gründe auflöst (Scham oder das Einzige, was ihm hier gehört)?"
+    - "Kommt die Kindheitserinnerung als sinnliche Szene (nasse Erde, Hedwigs Hand über seiner) und nicht als Bericht?"
+    - "Verknüpft Jonas den Lageplan mit genau diesem Beet, ohne dass ein Entschluss gegen den Verkauf fällt?"
+
+ch06/s03:
+  requires:
+    - { alias_of: jonas-behrendt }
+    - { alias_of: lena-hansen }
+    - { alias_of: hannes-kroeger }
+    - { pattern: "(?:Hofladens?|Ladens?)" }
+    - { pattern: "Feuerwehrhaus(?:es)?" }
+    - { pattern: "Einlagen?" }
+  ends_on: { pattern: "Fristen", max_after: 25 }
+  forbids:
+    - { pattern: "Vorvertrags?" }
+    - { pattern: "Notars?" }
+  beats:
+    b1:
+      must:
+        - { alias_of: lena-hansen }
+        - { alias_of: grete-paulsen }
+        - { pattern: "Frieda" }
+        - { pattern: "Tante Rosen" }
+        - { pattern: "Hamburg hat ja auch Eier" }
+    b2:
+      must:
+        - { alias_of: marie-albers }
+        - { alias_of: jonas-behrendt }
+        - { pattern: "Sommers?" }
+    b3:
+      must:
+        - { alias_of: hannes-kroeger }
+        - { alias_of: jonas-behrendt }
+        - { alias_of: grete-paulsen }
+        - { pattern: "Kalle" }
+        - { pattern: "Mützen?" }
+        - { pattern: "vierzehnten" }
+        - { pattern: "Zelte?s?" }
+        - { pattern: "Feuerwehrhaus(?:es)?" }
+    b4:
+      must:
+        - { alias_of: jonas-behrendt }
+        - { pattern: "Knicks?" }
+        - { pattern: "Einlagen?" }
+  judge:
+    - "Verrät Lena nichts von Maries Gefühlen, und bleibt ihr Satz über Marie ein einziger, leiser Satz statt einer Rede?"
+    - "Siezt Lena Jonas und bleibt sie betont höflich mit Spitzen; nennt Hannes ihn seit dem Brombeertag Jonas?"
+    - "Nennt Hannes die Frist ruhig und ausdrücklich nicht als Drohung, mit der Mütze in den Händen, und sagt Jonas nur eine Antwort bis dahin zu, keine Zusage?"
+    - "Endet die Szene auf der offenen Frage, welche der beiden Fristen Jonas halten wird, ohne sie zu beantworten?"
