@@ -77,3 +77,15 @@ links: [marie-albers, jonas-behrendt, hannes-kroeger, lena-hansen, ralf-steinhag
 ## Bogen in Kürze
 
 Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise wandelt sie sich von der Trauernden, die Hedwigs Haus festhält, zur Frau, die es loslassen und den Jungen und die Deern ihren eigenen Weg finden lassen kann. Am Erntefest steht sie mit ihrem Butterkuchen im blühenden Rosengarten und weiß, dass Hedwigs Gut in guten Händen ist.
+
+## Verlauf
+- ch01/s03 · „Grete stand am alten Kachelherd, die Lesebrille an der Kette vor der geblümten Brust“ · Steht in der großen Küche des Gutshauses am Kachelherd, Lesebrille an der Kette (#73023d)
+- ch01/s03 · „Hast du schon gegessen?“ · Versorgt Marie mit Kaffee und warmem Butterkuchen (#73023d)
+- ch01/s03 · „zog den Stuhl gegenüber heraus und nahm selbst Platz. Das tat sie sonst nie, wenn es Kaffee gab.“ · Setzt sich zu Marie, Zeichen, dass etwas Ernstes kommt (#73023d)
+- ch01/s03 · „In altem Glanz, so steht es da.“ · Gibt Marie Hedwigs Testamentswunsch weiter: Rosengarten soll zum Erntefest am 5. September in altem Glanz blühen (#73023d)
+- ch01/s03 · „Das ist sein Wort. Ihres war ein anderes.“ · Stellt Hedwigs Wunsch gegen Jonas' „fertig“ (#73023d)
+- ch01/s03 · „Für die Arbeit hat sie Geld hingelegt“ · Erklärt: Geld nur für die Arbeit, für den Rest nur der Wunsch (#73023d)
+- ch01/s03 · „Das ist seine Sache, Deern. Der Garten ist deine.“ · Nennt Marie „Deern“ und stärkt ihr den Rücken (#73023d)
+- ch01/s03 · „Im Arbeitszimmer liegt ihr Gartenbuch. Auf dem Schreibtisch unterm Fenster.“ · Weist Marie auf Hedwigs Gartenbuch hin (#73023d)
+- ch01/s03 · „Der Giersch hat mehr Ausdauer als du.“ · Zitiert Hedwig, um Marie aufzumuntern (#73023d)
+- ch01/s03 · „Die Socken hat er mir auf die Treppe gelegt wie zwei ertrunkene Mäuse.“ · Hat Jonas auf der Terrasse beobachtet, wie er Marie nachsah; neckt Marie damit (#73023d)

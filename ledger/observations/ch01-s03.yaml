@@ -1,0 +1,247 @@
+source: manuscript/ch01/s03.md
+source_hash: "73023d"
+extracted_by: bb-ingest
+end_actual: emotional
+end_quote: "Ich rette ihn, Hedwig. Versprochen."
+items:
+  - kind: object_fact
+    who: marie-albers
+    quote: "Marie trat die Gummistiefel an der Hintertür ab, fester als nötig."
+    status: fact
+    about: [marie-albers, gutshaus]
+    tags: []
+    fact: { subject: marie-albers, predicate: has_object, value: "Gummistiefel" }
+  - kind: belief
+    who: marie-albers
+    quote: "Verkaufsfertig hieß das, auch wenn er das Wort nicht in den Mund genommen hatte."
+    status: belief
+    about: [marie-albers, jonas-behrendt, gutshaus]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Jonas will das Gut verkaufsfertig machen" }
+  - kind: event
+    who: marie-albers
+    quote: "In der großen Küche des Gutshauses roch es nach Kaffee und warmer Butter."
+    status: fact
+    about: [marie-albers, grete-paulsen, gutshaus]
+    tags: []
+    fact: { subject: "ch01/s03@kueche", predicate: at_place, value: gutshaus }
+  - kind: narrator_claim
+    who: grete-paulsen
+    quote: "Grete stand am alten Kachelherd, die Lesebrille an der Kette vor der geblümten Brust"
+    status: fact
+    about: [grete-paulsen, gutshaus]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "„Hast du schon gegessen?“, fragte sie. „Nee. Setz dich.“"
+    status: claim
+    about: [grete-paulsen, marie-albers]
+    tags: []
+  - kind: narrator_claim
+    who: marie-albers
+    quote: "An diesem Tisch hatte sie als Schulkind gesessen, mit Erde unter den Nägeln und einem Stück Kuchen als Lohn für eine Stunde Unkrautzupfen."
+    status: fact
+    about: [marie-albers, grete-paulsen, gutshaus]
+    tags: []
+  - kind: place_fact
+    quote: "Das Wachstuch war neu. Die Kerben im Holz darunter kannte sie noch."
+    status: fact
+    about: [gutshaus]
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: "Dann wischte sie sich die Hände an der Schürze ab, zog den Stuhl gegenüber heraus und nahm selbst Platz. Das tat sie sonst nie, wenn es Kaffee gab."
+    status: fact
+    about: [grete-paulsen, marie-albers]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Hedwig hat da was ins Testament geschrieben“, sagte Grete. „Für dich, auch wenn dein Name nicht drinsteht."
+    status: fact
+    about: [grete-paulsen, marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Ich weiß. Der Garten soll bis zum Fest fertig sein."
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Das ist sein Wort. Ihres war ein anderes."
+    status: claim
+    about: [grete-paulsen, jonas-behrendt]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Der Rosengarten soll zum Erntefest am 5. September wieder blühen. In altem Glanz, so steht es da."
+    status: fact
+    about: [marie-albers, grete-paulsen, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Hedwigs Testament: Rosengarten soll zum Erntefest am 5. September in altem Glanz blühen" }
+  - kind: knowledge_gain
+    who: grete-paulsen
+    quote: "Der Rosengarten soll zum Erntefest am 5. September wieder blühen. In altem Glanz, so steht es da."
+    status: fact
+    about: [grete-paulsen, garten]
+    tags: []
+    fact: { subject: grete-paulsen, predicate: knows, value: "Hedwigs Testament: Rosengarten soll zum Erntefest am 5. September in altem Glanz blühen" }
+  - kind: time
+    quote: "Der Rosengarten soll zum Erntefest am 5. September wieder blühen."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: narrator_claim
+    who: marie-albers
+    quote: "Sie sah Hedwig vor sich, den Strohhut schief, die Schere in der Kitteltasche, wie sie einem Mädchen mit Zahnlücke zeigte, wo man über dem Auge schneidet."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Für die Arbeit hat sie Geld hingelegt“, sagte Grete. „Für den Rest nur den Wunsch. Den kann keiner einfordern. Den muss einer wollen."
+    status: fact
+    about: [grete-paulsen, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Er will verkaufen."
+    status: claim
+    about: [marie-albers, jonas-behrendt, gutshaus]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Das ist seine Sache, Deern. Der Garten ist deine."
+    status: claim
+    about: [grete-paulsen, marie-albers, garten]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Im Arbeitszimmer liegt ihr Gartenbuch. Auf dem Schreibtisch unterm Fenster. Pläne, Notizen, zu jeder Rose was."
+    status: fact
+    about: [marie-albers, grete-paulsen, gutshaus]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Hedwigs Gartenbuch liegt im Arbeitszimmer auf dem Schreibtisch unterm Fenster" }
+  - kind: object_fact
+    who: grete-paulsen
+    quote: "Im Arbeitszimmer liegt ihr Gartenbuch. Auf dem Schreibtisch unterm Fenster."
+    status: fact
+    about: [grete-paulsen, gutshaus]
+    tags: []
+    fact: { subject: grete-paulsen, predicate: knows, value: "Hedwigs Gartenbuch liegt im Arbeitszimmer auf dem Schreibtisch unterm Fenster" }
+  - kind: speech
+    who: grete-paulsen
+    quote: "Und wenn sie dich jetzt sähe, mit der Miene, würde sie sagen: Der Giersch hat mehr Ausdauer als du."
+    status: claim
+    about: [grete-paulsen, marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Ich hab heute drei Schubkarren Giersch rausgefahren."
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Der stand vorhin noch eine ganze Weile auf der Terrasse und hat dir nachgeguckt."
+    status: claim
+    about: [grete-paulsen, jonas-behrendt, marie-albers, gutshaus]
+    tags: []
+  - kind: object_fact
+    who: grete-paulsen
+    quote: "Die Socken hat er mir auf die Treppe gelegt wie zwei ertrunkene Mäuse."
+    status: claim
+    about: [grete-paulsen, jonas-behrendt, gutshaus]
+    tags: []
+  - kind: narrator_claim
+    who: grete-paulsen
+    quote: "Ihre hellblauen Augen blitzten. „Ich sag ja nichts. Ich sag nie was.“"
+    status: fact
+    about: [grete-paulsen, marie-albers]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Marie griff nach dem Kuchen und biss hinein, damit sie nicht antworten musste."
+    status: fact
+    about: [marie-albers, grete-paulsen]
+    tags: []
+  - kind: time
+    quote: "Am Abend lag langes Licht über der Lindenallee"
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "als Marie noch einmal durch das schmiedeeiserne Tor ging, das wie am Morgen quietschte"
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: "ch01/s03@abendgang", predicate: at_place, value: garten }
+  - kind: place_fact
+    quote: "Marie lief den halb freien Hauptweg hinunter, an der Sonnenuhr vorbei"
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "die 'Rosa Mundi', die 'New Dawn' über dem Kies, ein paar Büsche, deren Namen Hedwig ihr beigebracht hatte, und zu viele, unter denen nur noch Wildtriebe grünten"
+    status: fact
+    about: [garten, marie-albers]
+    tags: []
+  - kind: place_fact
+    quote: "Hinter dem Laubengang wucherten die Brombeeren mannshoch, ein Wall aus Stacheln und Laub."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Die Dornen rissen ihr feine rote Linien über die Unterarme, bis es zu bluten anfing. Sie machte weiter."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: object_fact
+    quote: "Darunter, im Schatten, stand ein Stock, kaum kniehoch. Drei dünne Triebe, ein paar matte Blätter. An einem davon saß eine einzige Knospe, fest geschlossen, mit einem Hauch Rosa an der Spitze."
+    status: fact
+    about: [garten, marie-albers]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Sie erkannte ihn eher an der Stelle als am Wuchs."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "letzter Stock der Lindenhof-Rose steht hinter dem Laubengang unter Brombeeren" }
+  - kind: name_fact
+    who: marie-albers
+    quote: "Die steht in keinem Katalog. Bei uns heißt sie Lindenhof-Rose."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: narrator_claim
+    quote: "Zartrosa war sie gewesen, gefüllt, mit einem Duft, für den man in die Knie ging. Hedwig hatte sie selbst gezogen."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "nirgends im Garten hatte Marie eine zweite gesehen. Die letzte Lindenhof-Rose stand unter Brombeeren und wartete."
+    status: belief
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "der Stock ist die letzte Lindenhof-Rose" }
+  - kind: belief
+    who: marie-albers
+    quote: "Von der Terrasse aus sah man diesen Winkel gar nicht, und in seiner Tabelle kam er bestimmt nicht vor."
+    status: belief
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Ich hol dich da raus“, sagte Marie halblaut. „Ich rette ihn, Hedwig. Versprochen."
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+gaps:
+  - "Keine Uhrzeit: Küchenszene am Nachmittag des Erzähltags (nach ch01/s02, „vorhin“, „heute“), Gartengang „am Abend“ desselben Tags; beides nur ungefähr."
+  - "„Ich rette ihn“ lässt offen, ob „ihn“ den Garten oder den Rosenstock meint; gelesen als Garten (Hedwigs Wunsch)."
+  - "Die Lindenhof-Rose hat keine Wiki-ID im Paket; name_fact und Stockfund ohne eigenes fact-subject (siehe note.md)."
+  - "Hedwig Behrendt hat keine eigene Wiki-Seite; ihre Erinnerungsszene (Junitag, „Das ist meine“) ist nur über marie-albers belegt."

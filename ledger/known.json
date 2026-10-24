@@ -15,9 +15,10 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "f92acb",
-    "by": "author",
-    "at": "2026-10-24T15:09:25.588Z"
+    "hash": "b3ee50",
+    "by": "apply",
+    "at": "2026-10-24T16:09:20.188Z",
+    "unit": "ch01/s03"
   },
   "bible/figuren/hannes-kroeger.md": {
     "hash": "842d07",
@@ -36,10 +37,10 @@
     "at": "2026-10-24T15:09:25.588Z"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "43b6b4",
+    "hash": "1b0ab0",
     "by": "apply",
-    "at": "2026-10-24T16:04:00.652Z",
-    "unit": "ch01/s02"
+    "at": "2026-10-24T16:09:20.188Z",
+    "unit": "ch01/s03"
   },
   "bible/figuren/ralf-steinhagen.md": {
     "hash": "4122f4",
@@ -144,6 +145,12 @@
     "by": "apply",
     "at": "2026-10-24T16:04:00.652Z",
     "unit": "ch01/s02"
+  },
+  "ledger/observations/ch01-s03.yaml": {
+    "hash": "41e4d8",
+    "by": "apply",
+    "at": "2026-10-24T16:09:20.188Z",
+    "unit": "ch01/s03"
   },
   "manuscript/ch01/s01.md": {
     "hash": "b7e437",
