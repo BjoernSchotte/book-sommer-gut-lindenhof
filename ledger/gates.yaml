@@ -180,3 +180,15 @@
   findings:
     error: 0
     warn: 44
+- gate: sketches
+  approved: 2026-10-24T17:07:54.371Z
+  by: factory:kuestenherzen
+  inputs:
+    STORYBOARD.md: 279f19
+    plan/ch03.md: dff402
+    plan/tests/ch03.yaml: 3f330c
+  scope: ch03
+  hold: error
+  findings:
+    error: 0
+    warn: 1
