@@ -1,5 +1,5 @@
 type: novel
-title: ""
+title: "Sommer auf Gut Lindenhof"
 pen_name: "Testautorin"
 language: de-DE
 target_words: 25000
@@ -8,8 +8,16 @@ length_tolerance: 0.15
 mode: collaborative
 gates:
   chapter: first
+params:
+  heat:
+    value: 1
+    reason: "Heftroman für Leserinnen 40 plus: Küsse und Herzklopfen, keine expliziten Szenen."
 profile:
   genre: "heftroman"
+  setting:
+    place: "Gut Lindenhof (erfunden), Holsteinische Schweiz, Binnenland"
+    year: 2026
+  perspective: "Marie überwiegend, wenige Szenen aus Jonas' Sicht"
   voice: third/past
   style_preset: heftroman
   knowledge_access: limited

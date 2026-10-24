@@ -1,0 +1,102 @@
+{
+  "BRIEF.md": {
+    "hash": "773c4f",
+    "by": "apply",
+    "at": "2026-10-24T13:41:31.736Z"
+  },
+  "IDEA.md": {
+    "hash": "63d010",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "STORYBOARD.md": {
+    "hash": "dccda2",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "book.yaml": {
+    "hash": "f2b6f1",
+    "by": "apply",
+    "at": "2026-10-24T13:41:31.736Z"
+  },
+  "style/audience.md": {
+    "hash": "824e8b",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/decisions.md": {
+    "hash": "58dfab",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/dictionary.txt": {
+    "hash": "e3b0c4",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/genres/heftroman.yaml": {
+    "hash": "f820e6",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/genres/krimi-cozy.yaml": {
+    "hash": "cd1bd2",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/genres/krimi-regional.yaml": {
+    "hash": "201945",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/genres/krimi.yaml": {
+    "hash": "f635fa",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/genres/liebesroman.yaml": {
+    "hash": "88162b",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/genres/roman.yaml": {
+    "hash": "fc1dda",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/genres/thriller-psycho.yaml": {
+    "hash": "25f2db",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/genres/thriller.yaml": {
+    "hash": "3a3da7",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/lessons.md": {
+    "hash": "14c84e",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/presets/heftroman.yaml": {
+    "hash": "0bf030",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/presets/krimi-mix.yaml": {
+    "hash": "5c2157",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/style.md": {
+    "hash": "0f2c7d",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  },
+  "style/voice.md": {
+    "hash": "8db0a7",
+    "by": "author",
+    "at": "2026-10-24T13:40:08.287Z"
+  }
+}
