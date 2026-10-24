@@ -1,0 +1,292 @@
+source: manuscript/ch06/s02.md
+source_hash: "382439"
+extracted_by: bb-ingest
+end_actual: emotional
+end_quote: "Oder ob er bloß etwas festhielt, das hier als Einziges ihm allein gehörte."
+items:
+  - kind: event
+    who: jonas-behrendt
+    quote: "Jonas stellte ihn zurück und zog den nächsten aus dem untersten Fach."
+    status: fact
+    about: [jonas-behrendt, arbeitszimmer]
+    tags: []
+    fact: { subject: ch06/s02@ordnersuche, predicate: at_place, value: arbeitszimmer }
+  - kind: place_fact
+    quote: "Heizung, stand auf dem Rücken, in blauer Tinte, darunter zwei Jahreszahlen."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Der Gutachter kam am Montag zur Wertermittlung und wollte jede Rechnung sehen, am liebsten mit Datum und Firmenstempel."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Gutachter kommt Montag zur Wertermittlung" }
+  - kind: time
+    quote: "Es war Donnerstag, spät am Abend."
+    status: fact
+    about: [jonas-behrendt, arbeitszimmer]
+    tags: []
+    fact: { subject: ch06/s02@ordnersuche, predicate: at_time, value: "Donnerstag, spät am Abend" }
+  - kind: place_fact
+    quote: "Draußen in der Wiese sirrten die Grillen."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: place_fact
+    quote: "Er hatte die Flügel mit der Schulter aufdrücken wollen, wie bei allen Fenstern im Haus, und sie waren nach einer Handbreit stecken geblieben."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: place_fact
+    quote: "Unter der grünen Lampe roch es nach Papier und, wenn er sich nicht täuschte, nach Rosen."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Er kniete vor dem Regal, die Hefter neben sich auf dem Läufer, wie Bauteile vor der Montage."
+    status: fact
+    about: [jonas-behrendt, arbeitszimmer]
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: "Grete stand im Türrahmen, die Lesebrille an der Kette, eine Strickjacke über der Kittelschürze."
+    status: fact
+    about: [grete-paulsen, arbeitszimmer]
+    tags: []
+    fact: { subject: grete-paulsen, predicate: at_place, value: arbeitszimmer }
+  - kind: speech
+    who: grete-paulsen
+    quote: "Du suchst im Dunkeln"
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: object_fact
+    quote: "Dort lag ein dickes Buch in grauem Leinen, die Ecken abgestoßen."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Marie hat das Gartenbuch hiergelassen. Da gehört's auch hin."
+    status: claim
+    about: [marie-albers, arbeitszimmer]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Kannst ruhig mal reinsehen. Hedwig hätte das gewollt."
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Ich brauch die Rechnungen fürs Dach"
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Die laufen dir nicht weg."
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: "Dann ging sie, und er hörte sie auf der Treppe, Stufe für Stufe."
+    status: fact
+    about: [grete-paulsen]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Eine Viertelstunde später lag das Dach auf dem Stapel, Umdeckung Nordseite, mit Stempel."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: has_object, value: "Dachrechnung Umdeckung Nordseite" }
+  - kind: event
+    who: jonas-behrendt
+    quote: "Er schlug es auf, nur kurz, nur um es danach wieder zuklappen zu können."
+    status: fact
+    about: [jonas-behrendt, arbeitszimmer]
+    tags: []
+  - kind: object_fact
+    quote: "Hedwigs Handschrift lief schräg über die Seiten, blau und eilig."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: object_fact
+    quote: "Hinter der 'Ghislaine' stand ein Ausrufezeichen."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: name_fact
+    quote: "Darüber stand: Lindenhof-Rose."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: object_fact
+    quote: "Darunter, kleiner, ein Datum aus einem Juli vor sechsundzwanzig Jahren."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Erster Steckling, Jonas hat das Loch gegraben und gegossen, er wollte ihn jeden Morgen messen."
+    status: fact
+    about: [jonas-behrendt, arbeitszimmer]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Notiz im Gartenbuch: er half beim ersten Steckling der Lindenhof-Rose" }
+  - kind: event
+    who: jonas-behrendt
+    quote: "Dann las er ihn noch einmal, mit dem Finger unter der Zeile, wie ein Erstklässler."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Er kniete im Beet, die Hose dreckig, und eine Hand lag über seiner, groß und trocken, mit Erde in den Falten."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    quote: "Nicht drücken"
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    quote: "Größer als du, wenn du ihr Zeit lässt."
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    quote: "Mehr, als du Geduld hast, mein Lieber. Darum gießt du sie jeden Morgen, dann merkst du's nicht."
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: object_fact
+    quote: "Der Steckling hatte in einem Joghurtbecher gestanden, Erdbeer, das Etikett halb abgekratzt."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Danach war er jeden Morgen barfuß durchs nasse Gras gelaufen, das Lineal aus dem Federmäppchen in der Faust, und hatte es neben das Stöckchen gestellt."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Am fünften Tag dreieinhalb, und er war brüllend zur Küche gerannt."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Er hatte das weggepackt wie ein Werkzeug in einen Kasten, den man nie wieder aufmacht."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "erinnert sich wieder an das Pflanzen des ersten Stecklings mit Hedwig" }
+  - kind: event
+    who: jonas-behrendt
+    quote: "Er legte es zurück neben die Lampe, ein wenig schräg zur Tischkante, genau so, wie es gelegen hatte."
+    status: fact
+    about: [jonas-behrendt, arbeitszimmer]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Dann knipste er das Licht aus und setzte sich doch, auf Hedwigs Stuhl."
+    status: fact
+    about: [jonas-behrendt, arbeitszimmer]
+    tags: []
+  - kind: place_fact
+    quote: "Durch den Spalt im Fenster sah er die Mauer als dunkleren Strich und darüber den Himmel."
+    status: fact
+    about: [arbeitszimmer, garten]
+    tags: []
+  - kind: knowledge_loss
+    who: jonas-behrendt
+    quote: "Wo genau, wusste er nicht mehr."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: object_fact
+    quote: "Im Salon lag der Laptop auf Hedwigs Tisch und darunter der Lageplan mit seinen nummerierten Kästchen über dem ganzen Garten."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: "Eines davon lag über dem Loch, das er gegraben hatte. Er hätte ausrechnen können, welches. Er tat es nicht."
+    status: belief
+    about: [jonas-behrendt, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: believes, value: "ein Stellplatz des Lageplans liegt über seinem Pflanzloch" }
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Hedwig hatte ihm geschrieben, jahrelang, und er hatte selten geantwortet."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Zu Weihnachten ein Anruf, zehn Minuten, dann wieder ein Jahr nichts."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "In ihren letzten Jahren war er zweimal hier gewesen. Vielleicht dreimal."
+    status: unreliable
+    about: [jonas-behrendt]
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: "Unten klapperte der Teekessel."
+    status: fact
+    about: [grete-paulsen]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Jonas? Willst du noch einen Tee?"
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: "Hast du was gefunden?"
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Die Dachrechnungen."
+    status: claim
+    about: [grete-paulsen]
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: "Dann schloss sich unten eine Tür."
+    status: fact
+    about: [grete-paulsen]
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Er würde es ihr nicht erzählen. Marie auch nicht, morgen nicht und später nicht."
+    status: fact
+    about: [jonas-behrendt, grete-paulsen, marie-albers]
+    tags: []
+    fact: { subject: grete-paulsen, predicate: knows, value: "nichts von Jonas' Fund im Gartenbuch" }
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: "Er saß im Dunkeln, die Finger auf dem rauen Leinen, und wusste nicht, ob es Scham war."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+gaps:
+  - Szenenzeit nur „Donnerstag, spät am Abend“, keine Uhrzeit; daher keine Struktur für die Zeitleiste. Welcher Donnerstag (nach ch06/s01, Dienstag Ende Juli) sagt der Text nicht.
+  - Hedwigs Sätze in der Erinnerung haben kein `who`, weil Hedwig keine Wiki-Seite hat.
+  - Das Datum der Notiz („ein Juli vor sechsundzwanzig Jahren“) passt nur zu Jonas' Alter von 35, wenn er beim Steckling etwa neun war; der Text nennt sein Alter damals nicht.
+  - Ob Marie schon wusste, dass das Buch im Arbeitszimmer liegt, oder Grete es dorthin legte, bleibt offen; Grete sagt nur, Marie habe es „hiergelassen“.

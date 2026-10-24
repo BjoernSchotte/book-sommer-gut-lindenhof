@@ -234,3 +234,5 @@ Von der Gärtnerin, die einen Garten verteidigt und sich selbst kleinmacht, zur 
 - ch06/s01 · „Der dritte war schwarz geworden, vom Schnitt bis zur Spitze.“ · Von drei Stecklingen der Lindenhof-Rose leben zwei; den schwarzen wirft sie auf den Kompost (#5200cf)
 - ch06/s01 · „Niemand wusste davon. Lena nicht, Grete nicht, Jonas erst recht nicht.“ · Hält die Stecklinge weiter vor allen geheim (#5200cf)
 - ch06/s01 · „Die Rosen fragen das nicht. Die wissen das.“ · Antwortet auf Jonas' Nachricht, ob sie morgen wiederkommt, mit einem Rätselsatz (#5200cf)
+- ch06/s02 · „Marie hat das Gartenbuch hiergelassen. Da gehört's auch hin.“ · Hat das Gartenbuch laut Grete ins Arbeitszimmer zurückgebracht (#382439)
+- ch06/s02 · „Marie auch nicht, morgen nicht und später nicht.“ · Soll von Jonas nichts über seinen Fund im Gartenbuch erfahren (#382439)
