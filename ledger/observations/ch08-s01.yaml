@@ -1,0 +1,208 @@
+source: manuscript/ch08/s01.md
+source_hash: "231c47"
+extracted_by: bb-ingest
+end_actual: emotional
+end_quote: "Dann ging sie an ihm vorbei durch die Tür, und er hielt sie nicht auf."
+items:
+  - kind: event
+    who: marie-albers
+    quote: "Marie nahm die knarrende Treppe in zwei Sätzen, die Hände noch voller Erde vom Rondell."
+    status: fact
+    about: [marie-albers, arbeitszimmer]
+    tags: []
+  - kind: place_fact
+    quote: "Draußen hatten die ersten Astern aufgemacht, und über der Bank stand die 'New Dawn' in ihrer zweiten Blüte."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: time
+    quote: "Es war Donnerstag, der siebenundzwanzigste August, später Nachmittag."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: ch08/s01@szene, predicate: at_time, value: "Do. 27. August, später Nachmittag" }
+  - kind: place_fact
+    quote: "Über den Stoppelfeldern hinter der Allee hing der Erntestaub so dicht, dass die Sonne darin gelb wurde."
+    status: fact
+    about: []
+    tags: []
+  - kind: narrator_claim
+    quote: "Sie wollte nur eine Seite nachsehen: welche Hagebuttenrosen Hedwig für den September vermerkt hatte und welche man darum nicht mehr schneiden durfte."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: object_fact
+    quote: "Im Arbeitszimmer aber fehlte es auf seinem Platz am Fenster."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: place_fact
+    quote: "Neben der grünen Lampe lag nur die Lupe."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: place_fact
+    quote: "Darin fand sie Briefpapier und Gummiringe. In der zweiten steckten Saatguttüten, jede beschriftet."
+    status: fact
+    about: [arbeitszimmer]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Marie kniete sich auf den Läufer davor und zog, bis die Schublade mit einem Ruck nachgab"
+    status: fact
+    about: [marie-albers, arbeitszimmer]
+    tags: []
+    fact: { subject: ch08/s01@fund, predicate: at_place, value: arbeitszimmer }
+  - kind: object_fact
+    quote: "Darunter lag eine Mappe aus festem Karton mit einem schmalen silbernen Schriftzug: Weidenkamp Hotels."
+    status: fact
+    about: [arbeitszimmer, jonas-behrendt]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Marie kannte ihn von der Autotür des Mannes, der im Juli den Garten ein Pfund genannt hatte."
+    status: fact
+    about: [marie-albers, ralf-steinhagen]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Mappe stammt von Weidenkamp Hotels, Steinhagens Firma" }
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Stellplätze. Sie reichten bis an den Backstein, bis in den Winkel hinter dem letzten Bogen."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Lageplan: Parkplatz auf dem Rosengarten bis in die Ecke hinter dem Laubengang" }
+  - kind: place_fact
+    quote: "Genau darunter stand die Lindenhof-Rose, kniehoch und krumm, mit einer Knospe, die seit zwei Wochen jeden Tag ein bisschen dicker wurde."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Auf der letzten Seite fand sie Jonas' Unterschrift, gerade und ohne Zögern, daneben das Datum."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Jonas hat den Vorvertrag unterschrieben" }
+  - kind: time
+    quote: "Der dreizehnte August, ein Donnerstag, heute vor zwei Wochen."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: ch07/s01@unterschrift, predicate: at_time, value: "Do. 13. August" }
+  - kind: narrator_claim
+    quote: "Am Tag darauf hatte Hannes am Tor die Mütze in den Händen gedreht und nach der Antwort gefragt."
+    status: fact
+    about: [hannes-kroeger, jonas-behrendt]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Jetzt hörte Marie das „dieses Jahr“."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Jonas' Zusage galt nur für dieses Jahr" }
+  - kind: event
+    who: jonas-behrendt
+    quote: "Jonas kam herein, in den Remisenstiefeln, das Handy noch in der Hand, wie jedes Mal, wenn er vom Hügel herunterkam."
+    status: fact
+    about: [jonas-behrendt, arbeitszimmer]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: at_place, value: arbeitszimmer }
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Sein Blick ging von der offenen Schublade zur Mappe. Unter der Sommerbräune wurde er blass."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Marie hat den Vorvertrag gefunden" }
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Das ist ein Vorvertrag"
+    status: claim
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Im Büro bieten sie mir eine Partnerschaft an, dafür muss ich eine Einlage bringen, bis Monatsende."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Partnerschaft im Büro, Einlage bis Monatsende" }
+  - kind: speech
+    who: jonas-behrendt
+    quote: "die Nordseite, die Rinnen, das Haupthaus ist schlimmer als die Scheune"
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Ich hab ein Rücktrittsrecht, bis nach dem Fest."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Rücktrittsrecht bis nach dem Fest" }
+  - kind: speech
+    who: marie-albers
+    quote: "Irgendwem."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Ich wollte dir das nicht halb sagen"
+    status: claim
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: object_fact
+    quote: "Ihre Finger hatten auf dem Plan einen Erdrand hinterlassen, genau über der Sonnenuhr, mitten auf einem grauen Kästchen."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Den Garten hätte ich dir notfalls hergegeben"
+    status: claim
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Nicht hinter meinem Rücken. Nicht nach dem Steg."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Ob sie stimmten, war ihm selbst nicht klar, das stand ihm im Gesicht, und es traf sie schwerer als jeder Satz."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Jonas weiß selbst nicht, ob noch nichts entschieden ist" }
+  - kind: belief
+    who: marie-albers
+    quote: "Er war so still wie vor zwei Wochen in der Mauerecke vor der kleinen Knospe, und diesmal hielt sie es nicht mehr für Rührung."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Jonas' Schweigen vor der Lindenhof-Rose war keine Rührung" }
+  - kind: event
+    who: marie-albers
+    quote: "Sie legte die Mappe auf das dunkle Holz, den Lageplan obenauf, die graue Fläche nach oben, und strich ihn einmal glatt."
+    status: fact
+    about: [marie-albers, arbeitszimmer]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Und den Parkplatz hast du mir nicht erklärt."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: "Dann ging sie an ihm vorbei durch die Tür, und er hielt sie nicht auf."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+gaps:
+  - "Wo das Gartenbuch geblieben ist, sagt die Szene nicht; es fehlt auf seinem Platz am Fenster."
+  - "Ob Jonas wusste, dass der Parkplatz die Lindenhof-Rose trifft, spricht keiner aus."
