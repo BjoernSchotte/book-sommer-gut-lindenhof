@@ -135,3 +135,15 @@
   findings:
     error: 0
     warn: 23
+- gate: sketches
+  approved: 2026-10-24T16:25:10.442Z
+  by: factory:kuestenherzen
+  inputs:
+    STORYBOARD.md: e7ad68
+    plan/ch02.md: 8f81e4
+    plan/tests/ch02.yaml: 63e3e8
+  scope: ch02
+  hold: error
+  findings:
+    error: 0
+    warn: 1
