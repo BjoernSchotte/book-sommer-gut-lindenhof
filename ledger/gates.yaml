@@ -1,0 +1,10 @@
+- gate: brief
+  approved: 2026-10-24T13:41:31.983Z
+  by: factory:kuestenherzen
+  inputs:
+    BRIEF.md: 773c4f
+    book.yaml: f2b6f1
+  hold: error
+  findings:
+    error: 0
+    warn: 1
