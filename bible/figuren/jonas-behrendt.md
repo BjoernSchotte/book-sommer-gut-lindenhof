@@ -126,3 +126,8 @@ Vom Hamburger Ingenieur, der ein Erbe abwickeln will und seine Wurzeln verdräng
 - ch02/s02 · „Der letzte Freitag. Das passt.“ · Sagt dem Makler Gartenfotos am letzten Freitag im Juli zu (#01e72a)
 - ch02/s02 · „Den Freitag schrieb er nicht dazu.“ · Notiert den Fototermin nicht auf dem Umschlag (#01e72a)
 - ch02/s02 · „Sein Blick blieb unten am Steg, und er ließ ihn dort.“ · Bleibt nach dem Telefonat reglos auf dem Hügel, den Blick am Steg (#01e72a)
+- ch02/s03 · „Budget, Meilensteine, Spalten mit Daten.“ · Seine Tabelle wird von Marie bei Lena als Beispiel für sein Planen vorgeführt (#07e654)
+- ch02/s03 · „Der muss die halbe Nacht gebürstet haben.“ · Marie lästert über seine frisch geputzten Lederschuhe (#07e654)
+- ch02/s03 · „Die Hose ist hin, Lena. Grün an beiden Knien.“ · Laut Marie ist seine helle Hose seit dem Knien im Gras grün an beiden Knien (#07e654)
+- ch02/s03 · „wie er vor dem Bogen gehockt hatte, die Skizze vom Fundament auf dem Knie, und danach dieses kurze Lächeln“ · Marie erinnert sich an sein kurzes Lächeln vor dem Bogen, jünger als sonst (#07e654)
+- ch02/s03 · „nur einer, der über ihren dummen Witz mit der Brennnesseljauche lachen musste“ · Hat über Maries Witz mit der Brennnesseljauche gelacht (#07e654)

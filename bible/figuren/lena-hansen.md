@@ -76,3 +76,17 @@ links: [marie-albers, jonas-behrendt, grete-paulsen, hannes-kroeger, ralf-steinh
 ## Bogen in Kürze
 
 Lena hat keinen großen eigenen Bogen; sie ist Maries Halt und die Stimme des Dorfs, die mit anpackt. Leise wandelt sie sich von der Freundin, die Marie beschützen und für sie urteilen will, zu einer, die Marie ihre eigene Entscheidung lässt und Jonas eine zweite Chance gibt. Am Erntefest steht sie mit Mats und Frieda unter den Lampions im Rosengarten, sieht Marie und Jonas tanzen und sagt: „Hab ich doch gleich gesagt.“
+
+## Verlauf
+- ch02/s03 · „Lena stand hinter der Theke und zählte die Kasse.“ · Zählt kurz vor Ladenschluss die Kasse im Hofladen (#07e654)
+- ch02/s03 · „Moin“ · Begrüßt Marie, ohne aufzusehen (#07e654)
+- ch02/s03 · „Mats kriegt Brot. Iss.“ · Gibt Marie den Butterkuchen, der für Mats gedacht war (#07e654)
+- ch02/s03 · „Ein Stein. Am Weg.“ · Hört Maries Wut über Jonas' Tabelle mit knappen Antworten („Aha“, „Nee“) an (#07e654)
+- ch02/s03 · „Ihr breiter Mund zuckte.“ · Sieht zur Uhr über der Tür und lässt sich Zeit, bevor sie antwortet (#07e654)
+- ch02/s03 · „Du redest seit zwanzig Minuten über seine Schuhe. Das ist kein gutes Zeichen.“ · Sagt Marie auf den Kopf zu, dass Jonas ihr nicht gleichgültig ist (#07e654)
+- ch02/s03 · „Oder ein sehr gutes.“ · Hält Maries Ärger für ein mögliches Zeichen von Verliebtheit (#07e654)
+- ch02/s03 · „Und jetzt malt er dir Fundamente.“ · Neckt Marie mit Jonas' Fundamentskizze (#07e654)
+- ch02/s03 · „Für den Ärger“ · Packt Marie ein zweites Stück Butterkuchen in Butterbrotpapier ein (#07e654)
+- ch02/s03 · „Dann für morgen. Ärger hält sich.“ · Lässt Maries Ausrede nicht gelten (#07e654)
+- ch02/s03 · „Lena prustete in ihre Ladenschürze.“ · Lacht über Friedas Frage, ob Marie verliebt ist (#07e654)
+- ch02/s03 · „Grüß die Schuhe“ · Ruft Marie zum Abschied eine Spitze über Jonas nach (#07e654)

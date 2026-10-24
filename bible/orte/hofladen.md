@@ -27,3 +27,13 @@ links: [lena-hansen, marie-albers, jonas-behrendt, grete-paulsen, hannes-kroeger
 **Funktion im Buch:** Maries Zufluchtsort außerhalb des Guts und das Ohr des Dorfs. Hier spricht Marie aus, was sie im Garten nicht sagt, und Lena sagt es ihr auf den Kopf zu (ch02/s03). Hier spricht Lena Jonas beim Einkauf auf Marie an, ohne Maries Gefühle zu verraten (ch06). Hier trinkt Steinhagen einmal einen Kaffee, ohne dass Lena weiß, wer er ist. Gegenwelt zu Hamburg: man kennt die Leute, denen man etwas verkauft.
 
 **Grenzen:** Kein Schauplatz für Streit mit Jonas oder für die Krise selbst; die Nacht nach dem Fund des Vorvertrags (ch08) spielt in Lenas Küche hinter dem Laden, nicht im Laden. Kein Meer, keine Küste in Sicht- oder Hörweite: der Dorfteich ist das einzige Wasser.
+
+## Verlauf
+- ch02/s03 · „Marie stellte das Rad vor dem Hoftor ab, zehn Minuten vor Ladenschluss, und ging durch die offene Diele.“ · Marie kommt am Abend kurz vor Ladenschluss mit dem Rad; die Diele steht offen (#07e654)
+- ch02/s03 · „Hinter ihr lag der Dorfteich still im Abendlicht, zwei Enten zogen helle Streifen hinein“ · Dorfteich mit Enten vor dem Hof, Lenas Hühner gackern hinter der Scheune (#07e654)
+- ch02/s03 · „Im Laden roch es nach reifen Erdbeeren, nach Erde an den Kartoffeln und nach dem letzten Kaffee aus der Kanne“ · Geruch nach Erdbeeren, Kartoffelerde und altem Kaffee von der Platte (#07e654)
+- ch02/s03 · „Lena stand hinter der Theke und zählte die Kasse.“ · Lena zählt kurz vor Ladenschluss die Kasse, Münzen in Türmen auf der Theke (#07e654)
+- ch02/s03 · „Am Kindertisch dahinter saß Frieda und malte mit dem roten Stift eine Rose“ · Frieda malt am Kindertisch hinter der Theke (#07e654)
+- ch02/s03 · „Sie hob die Kuchenglocke, nahm ein Stück Butterkuchen heraus“ · Butterkuchen unter der Kuchenglocke auf der Theke, an einem Werktag (#07e654)
+- ch02/s03 · „zur runden Uhr über der Tür“ · Über der Tür hängt eine runde Uhr (#07e654)
+- ch02/s03 · „Marie griff ins Regal nach einem Eierkarton“ · Eier in Kartons im Regal; Lena tippt den Preis in die Kasse (#07e654)

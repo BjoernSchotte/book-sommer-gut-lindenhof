@@ -1,0 +1,279 @@
+source: manuscript/ch02/s03.md
+source_hash: "07e654"
+extracted_by: bb-ingest
+end_actual: question
+end_quote: "Und wenn Lena recht hatte?"
+items:
+  - kind: event
+    who: marie-albers
+    quote: "Marie stellte das Rad vor dem Hoftor ab, zehn Minuten vor Ladenschluss, und ging durch die offene Diele."
+    status: fact
+    about: [marie-albers, hofladen]
+    tags: []
+    fact: { subject: "ch02/s03@einkauf", predicate: at_place, value: hofladen }
+  - kind: time
+    quote: "zehn Minuten vor Ladenschluss"
+    status: fact
+    about: [marie-albers, hofladen]
+    tags: []
+    fact: { subject: "ch02/s03@einkauf", predicate: at_time, value: "zehn Minuten vor Ladenschluss, Abend" }
+  - kind: place_fact
+    quote: "Hinter ihr lag der Dorfteich still im Abendlicht, zwei Enten zogen helle Streifen hinein, und von irgendwo hinter der Scheune gackerten Lenas Hühner"
+    status: fact
+    about: [hofladen]
+    tags: []
+  - kind: place_fact
+    quote: "Im Laden roch es nach reifen Erdbeeren, nach Erde an den Kartoffeln und nach dem letzten Kaffee aus der Kanne, der schon eine Weile auf der Platte stand."
+    status: fact
+    about: [hofladen]
+    tags: []
+  - kind: event
+    who: lena-hansen
+    quote: "Lena stand hinter der Theke und zählte die Kasse. Die Münzen lagen schon in kleinen Türmen auf dem Holz, nach Größe sortiert."
+    status: fact
+    about: [lena-hansen, hofladen]
+    tags: []
+    fact: { subject: lena-hansen, predicate: at_place, value: hofladen }
+  - kind: event
+    quote: "Am Kindertisch dahinter saß Frieda und malte mit dem roten Stift eine Rose, die ein Gesicht hatte und sehr breit lachte."
+    status: fact
+    about: [lena-hansen, hofladen]
+    tags: []
+  - kind: event
+    who: lena-hansen
+    quote: "Sie hob die Kuchenglocke, nahm ein Stück Butterkuchen heraus und schob es auf einer Serviette zu Marie hinüber."
+    status: fact
+    about: [lena-hansen, marie-albers, hofladen]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Mats kriegt Brot. Iss."
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: "An ihren Knien klebte noch Erde vom Laubengang, unter den Nägeln saß der halbe Garten."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Budget, Meilensteine, Spalten mit Daten. Und beim Laubengang steht: Entsorgung. Der Rankbogen von der 'Ghislaine', alle beide."
+    status: fact
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Jonas' Tabelle sah Entsorgung beider Rankbögen der 'Ghislaine' vor" }
+  - kind: speech
+    who: marie-albers
+    quote: "Zweiundfünfzig Jahre alt, und er schreibt das daneben wie bei einem kaputten Kühlschrank."
+    status: claim
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Und dann kommt er den Weg runter, in Lederschuhen. Geputzt! Der muss die halbe Nacht gebürstet haben."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Stakt durch den Giersch wie ein Storch, damit bloß nichts an die Sohlen kommt."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "In heller Hose, ins nasse Gras, mitten vor den Bogen. Als wäre das gar nichts."
+    status: fact
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Rüttelt am Eisen, sagt ‚kein Fundament‘ und malt mir eins auf die Rückseite seiner Tabelle. Vierzig mal vierzig. Achtzig tief, wegen Frost."
+    status: fact
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+    fact: { subject: lena-hansen, predicate: knows, value: "Jonas hat Fundamente 40×40, 80 tief für die Rankbögen skizziert" }
+  - kind: speech
+    who: marie-albers
+    quote: "Die Hose ist hin, Lena. Grün an beiden Knien."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Am ersten Tag hat er sie auf der Freitreppe trocknen lassen, ich hab sie selbst gesehen, die Socken daneben."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Grete sagt, wie zwei ertrunkene Mäuse."
+    status: claim
+    about: [marie-albers, grete-paulsen, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: lena-hansen
+    quote: "Dann sah sie hoch, an Marie vorbei, zur runden Uhr über der Tür, und ließ sich Zeit damit. Ihr breiter Mund zuckte."
+    status: fact
+    about: [lena-hansen, hofladen]
+    tags: []
+  - kind: place_fact
+    quote: "zur runden Uhr über der Tür"
+    status: fact
+    about: [hofladen]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Du redest seit zwanzig Minuten über seine Schuhe. Das ist kein gutes Zeichen."
+    status: claim
+    about: [lena-hansen, marie-albers, jonas-behrendt]
+    tags: []
+  - kind: time
+    quote: "Du redest seit zwanzig Minuten über seine Schuhe."
+    status: claim
+    about: [marie-albers, lena-hansen]
+    tags: []
+  - kind: belief
+    who: lena-hansen
+    quote: "Oder ein sehr gutes."
+    status: belief
+    about: [lena-hansen, marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: lena-hansen, predicate: believes, value: "Marie hat Gefühle für Jonas" }
+  - kind: speech
+    who: marie-albers
+    quote: "Das ist Ärger“, sagte Marie. „Nichts sonst. Der Mann wollte Hedwigs Bögen auf den Schrott fahren."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Weil ich ihn dazu gebracht hab."
+    status: claim
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Marie griff ins Regal nach einem Eierkarton, so fest wie nach der Rosenschere, wenn ein Wildtrieb nicht nachgeben wollte."
+    status: fact
+    about: [marie-albers, hofladen]
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: "Zehn Stück. Für morgen früh."
+    status: fact
+    about: [marie-albers, hofladen]
+    tags: []
+    fact: { subject: marie-albers, predicate: has_object, value: "Karton mit zehn Eiern aus dem Hofladen" }
+  - kind: object_fact
+    who: lena-hansen
+    quote: "nahm noch einmal die Glocke hoch und wickelte ein zweites Stück in Butterbrotpapier. Das Päckchen legte sie oben auf den Karton."
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: has_object, value: "Butterkuchen in Butterbrotpapier von Lena" }
+  - kind: speech
+    who: lena-hansen
+    quote: "Dann für morgen. Ärger hält sich."
+    status: claim
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: speech
+    quote: "Tante Rosen, bist du verliebt?"
+    status: claim
+    about: [marie-albers]
+    tags: []
+  - kind: name_fact
+    quote: "Tante Rosen"
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: named, value: "Tante Rosen (von Frieda)" }
+  - kind: event
+    who: marie-albers
+    quote: "Marie merkte, wie ihr die Ohren warm wurden, und beugte sich über das Bild."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Das ist eine sehr schöne Rose“, sagte sie. „Aber sie hat zu viele Zähne."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: speech
+    quote: "Rosen haben Dornen“, sagte Frieda. „Keine Zähne."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Bis Freitag, Lena."
+    status: claim
+    about: [marie-albers, lena-hansen]
+    tags: []
+    fact: { subject: "ch02/s03@naechster-besuch", predicate: at_time, value: "Freitag" }
+  - kind: speech
+    who: lena-hansen
+    quote: "Grüß die Schuhe"
+    status: fact
+    about: [lena-hansen, marie-albers, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Hinter der Kirche bog sie auf den Feldweg, der in einem weiten Bogen um die Weiden zur alten Schmiede führte, zwischen hohen Knicks, in denen der Holunder blühte."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: "ch02/s03@heimweg", predicate: at_place, value: "Feldweg um die Weiden zur alten Schmiede" }
+  - kind: time
+    quote: "Der Juniabend wollte nicht enden, die Sonne stand noch eine Handbreit über dem Weizen"
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: "ch02/s03@heimweg", predicate: at_time, value: "Juniabend, kurz vor Sonnenuntergang" }
+  - kind: object_fact
+    who: marie-albers
+    quote: "Im Korb am Lenker klapperten die Eier bei jedem Schlagloch, also fuhr sie langsamer, das Kuchenpäckchen obendrauf wie einen Deckel."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Ärger, sagte sie sich. Das war ein Mann mit einer Tabelle, der alles entsorgen wollte, was älter war als er"
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "was sie für Jonas empfindet, ist nur Ärger" }
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Dann war es trotzdem da, ohne dass sie es gerufen hätte: wie er vor dem Bogen gehockt hatte, die Skizze vom Fundament auf dem Knie, und danach dieses kurze Lächeln."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: "Für einen Moment war da kein Herr Behrendt gewesen, nur einer, der über ihren dummen Witz mit der Brennnesseljauche lachen musste."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Sie trat fester in die Pedale, bis die Eier im Korb protestierten, und hörte trotzdem Lenas Stimme über dem Klappern."
+    status: fact
+    about: [marie-albers, lena-hansen]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Und wenn Lena recht hatte?"
+    status: belief
+    about: [marie-albers, lena-hansen, jonas-behrendt]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Lena könnte recht haben: sie empfindet mehr als Ärger für Jonas" }
+gaps:
+  - "Keine Uhrzeit im Text: 'zehn Minuten vor Ladenschluss' ergäbe mit dem Wiki (werktags bis halb sieben) etwa 18:20, ist aber nicht belegt; daher kein strukturierter Zeiteintrag."
+  - "Wochentag nicht genannt; nur, dass es nicht Freitag ist ('Bis Freitag') und dass es der Abend nach der Arbeit am Laubengang ist (Erde an den Knien)."
+  - "Frieda und Mats haben keine eigene Wiki-Seite; Friedas Beobachtungen hängen an marie-albers/hofladen."
+  - "Feldweg, alte Schmiede, Kirche und Dorfteich haben keine eigene Wiki-Seite."
