@@ -1,0 +1,45 @@
+ch07/s01:
+  requires:
+    - { alias_of: jonas-behrendt }   # participant
+    - { alias_of: ralf-steinhagen }   # participant
+    - { alias_of: grete-paulsen }   # participant
+    - { pattern: "Notar(?:iat)?(?:s|es)?" }   # place notariat (Seite ohne aliases)
+    - { pattern: "Kreisstadt" }
+    - { pattern: "Vorvertrag(?:s|es)?" }
+    - { pattern: "Rücktrittsrecht(?:s|es)?" }
+  reveal:
+    - { term: { pattern: "Vorvertrag(?:s|es)?" }, not_before: b2 }
+  ends_on: { pattern: "Kartoffeln", max_after: 80 }   # end: emotional — „Er schmeckt die Kartoffeln nicht.“
+  beats:
+    b1: { must: [{ alias_of: jonas-behrendt }, { alias_of: marie-albers }, { pattern: "Hügel" }, { pattern: "Kastenwagen" }, { pattern: "Dachdecker" }] }
+    b2: { must: [{ alias_of: ralf-steinhagen }, { alias_of: jonas-behrendt }, { pattern: "zehnten September" }, { pattern: "Lageplan(?:s|es)?" }, { pattern: "Formalie" }, { pattern: "Kugelschreiber(?:s)?" }, { pattern: "Lindenhof-Rose" }] }
+    b3: { must: [{ alias_of: grete-paulsen }, { alias_of: jonas-behrendt }, { pattern: "Schublade" }, { pattern: "Dachrechnungen" }, { pattern: "Bratkartoffeln" }, { pattern: "Na, denn, Jung" }] }
+  judge:
+    - "Bleibt Steinhagen höflich und fair, ohne Trick und ohne Bösewicht-Ton, und nennt er das Rücktrittsrecht selbst eine Formalie?"
+    - "Spürt die Leserin Jonas' Zögern unter der sachlichen Fassade, ohne dass er seinen Entschluss schon bereut oder den Rücktritt vorwegnimmt?"
+    - "Weicht Jonas Grete aus, ohne direkt zu lügen über den Vertrag, und bleibt die Szene ohne Paragrafen und Juristendeutsch?"
+    - "Erfährt außer Jonas, Steinhagen und dem Notar niemand von der Unterschrift (weder Grete noch Marie)?"
+
+ch07/s02:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: jonas-behrendt }   # participant
+    - { alias_of: hannes-kroeger }   # participant
+    - { pattern: "(?:Rosen)?[Gg]artens?" }   # place garten (Seite ohne aliases)
+    - { pattern: "dieses Jahr" }
+  reveal:
+    - { term: { pattern: "dieses Jahr" }, not_before: b3 }
+  ends_on: { pattern: "Die Rosen wussten das schon", max_after: 40 }   # end: dialogue
+  forbids:
+    - { pattern: "Vorvertrag(?:s|es)?" }   # Marie ahnt nichts
+    - { pattern: "Notar(?:iat)?(?:s|es)?" }
+    - { pattern: "Lageplan(?:s|es)?" }
+  beats:
+    b1: { must: [{ alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "New Dawn" }, { pattern: "Lindenhof-Rose" }, { pattern: "Knospen?" }] }
+    b2: { must: [{ alias_of: grete-paulsen }, { alias_of: jonas-behrendt }, { alias_of: marie-albers }, { pattern: "Rosenschere" }, { pattern: "Gummistiefeln?" }] }
+    b3: { must: [{ alias_of: hannes-kroeger }, { alias_of: jonas-behrendt }, { pattern: "Mütze" }, { pattern: "Wie immer" }] }
+  judge:
+    - "Liest die Leserin die Szene als Glück vor dem Fall: Sind Jonas' Schweigen an der Knospe und sein halbes Lachen sichtbar, während Marie sie als Rührung deutet?"
+    - "Fällt „dieses Jahr“ in Jonas' Zusage hörbar, ohne dass Marie es bemerkt oder kommentiert?"
+    - "Bleibt die Szene konsequent in Maries Wissen, ohne Hinweis auf Unterschrift, Mappe oder Parkplatz aus ihrer Sicht?"
+    - "Bleibt die Zärtlichkeit bei heat 1 (Küsse auf die Finger, Umarmung) und wirkt Hannes wortkarg, mit Mütze in der Hand?"
