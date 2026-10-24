@@ -138,3 +138,8 @@ Lena hat keinen großen eigenen Bogen; sie ist Maries Halt und die Stimme des Do
 - ch10/s02 · „Lena schob sich zwischen die beiden, den Kranz verrutscht, die Wangen rot.“ · Schiebt sich zwischen Marie und Jonas (#43ff06)
 - ch10/s02 · „Du traust dich was. Nach allem?“ · Geht Jonas an (#43ff06)
 - ch10/s02 · „Schließlich trat sie zur Seite, gerade so weit, dass ihr kein Wort entging.“ · Fügt sich Maries „meine Sache“, bleibt aber in Hörweite (#43ff06)
+- ch10/s03 · „Lena kam mit einem leeren Tablett vorbei, blieb stehen und gab Jonas die Hand.“ · Gibt Jonas am Festabend die Hand (#18fdf8)
+- ch10/s03 · „Willkommen, Jonas“ · Duzt Jonas und heißt ihn willkommen (#18fdf8)
+- ch10/s03 · „Pass mir gut auf sie auf.“ · Bittet Jonas, gut auf Marie aufzupassen (#18fdf8)
+- ch10/s03 · „Dann stellte sie sich zu Mats an den Laubengang.“ · Steht mit Mats und der schläfrigen Frieda am Laubengang (#18fdf8)
+- ch10/s03 · „Hab ich doch gleich gesagt.“ · Sagt laut, sie habe es gleich gesagt (#18fdf8)

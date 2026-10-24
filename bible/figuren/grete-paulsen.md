@@ -196,3 +196,6 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch10/s02 · „Der Brief lag in Gretes Keksdose“ · Jonas' Kinderbrief lag laut Jonas in ihrer Keksdose (#43ff06)
 - ch10/s02 · „Drüben an der Kaffeemaschine stand Grete in ihrer dunkelblauen Bluse.“ · Steht in der dunkelblauen Bluse an der Kaffeemaschine der Scheune (#43ff06)
 - ch10/s02 · „Sie hob den Kopf zu ihnen, senkte ihn rasch zur Kanne und lächelte in den Dampf hinein.“ · Sieht Marie und Jonas vor dem Foto und lächelt still in sich hinein (#43ff06)
+- ch10/s03 · „Gretes Haus bleibt Gretes Haus.“ · Ihr Haus bleibt laut Jonas ihr Haus (#18fdf8)
+- ch10/s03 · „Bist du nicht klug, in unserm Alter?“ · Schimpft, als Hannes sie zum Tanz auffordert (#18fdf8)
+- ch10/s03 · „Dann legte sie ihre Hand in seine und tanzte doch.“ · Tanzt am Festabend doch mit Hannes (#18fdf8)

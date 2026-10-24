@@ -172,3 +172,7 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch10/s02 · „Zwei Butter, ein Bienenstich für Tisch vier“ · Seine Frau Anke teilt in der Scheune die Kuchen aus (#43ff06)
 - ch10/s02 · „an Kalle vorbei, der unter einem Tisch auf Abfall wartete.“ · Kalle wartet in der Scheune unter einem Tisch auf Abfall (#43ff06)
 - ch10/s02 · „aus Hannes' Ausschusskiste“ · Fotos für Lenas Ausstellung stammen auch aus seiner Ausschusskiste (#43ff06)
+- ch10/s03 · „Das also hatte Hannes am Mittwoch gewusst, als er den Dahlien antwortete statt ihr.“ · Wusste am Mittwoch vom Rücktritt; Marie versteht es jetzt (#18fdf8)
+- ch10/s03 · „Daher die Weste um fünf.“ · Seine Weste um fünf erklärt sich für Marie (#18fdf8)
+- ch10/s03 · „Kalle mittendrin, auf der Suche nach heruntergefallenem Kuchen“ · Kalle sucht zwischen den Tanzenden nach Kuchen (#18fdf8)
+- ch10/s03 · „Hannes trat vor Grete hin, nahm die Mütze ab und hielt ihr die Hand hin.“ · Fordert Grete mit abgenommener Mütze zum Tanz auf (#18fdf8)
