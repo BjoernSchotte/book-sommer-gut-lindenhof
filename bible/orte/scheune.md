@@ -17,3 +17,12 @@ links: []
 **Fotoausstellung (ch10):** An der Rückwand stehen Mats' Stelltafeln mit Lenas Ausstellung alter Erntefest-Fotos von Gut Lindenhof, gesammelt aus Dorfalben, aus Hedwigs Schubladen und aus Hannes' Ausschusskiste: Hedwig mit der Erntekrone, Hedwig mit Grete am Kuchentisch, Lampions im Rosengarten der Siebziger. Ganz am Ende ein kleines verblichenes Bild: Hedwig an der Gartenmauer, daneben ein dünner Junge mit zerschrammtem Knie (Jonas), oben auf der Mauer ein Mädchen mit Zopf, die Arme in die Hüften gestemmt (Marie). Das Foto ist die Auflösung der vergessenen Kindheitsbegegnung; vor ch10 hängt es nicht in der Scheune.
 
 **Grenzen:** Die Scheune ist kein Schauplatz des Konflikts, keine Gefahr, kein Brand, keine Baufälligkeit, die eine Handlung trägt. Sie ist warm, voll und gemeinschaftlich. Im Hotelplan des Investors spielt sie keine eigene Rolle; der Parkplatz liegt auf dem Rosengarten.
+
+## Verlauf
+- ch10/s02 · „In der Scheune summte das halbe Dorf.“ · Am Festnachmittag voll mit dem halben Dorf (#43ff06)
+- ch10/s02 · „Unter den dunklen Balken standen Bänke und Tische in langen Reihen, das Tor war weit offen“ · Bänke und Tische in Reihen, Tor offen, Kaffeeduft (#43ff06)
+- ch10/s02 · „Auf Lenas Tresen warteten Gretes Bleche“ · Lenas Tresen mit Gretes Butterkuchen und Bienenstich (#43ff06)
+- ch10/s02 · „Drüben an der Kaffeemaschine stand Grete in ihrer dunkelblauen Bluse.“ · Kaffeemaschine, an der Grete steht (#43ff06)
+- ch10/s02 · „An der Rückwand standen Stelltafeln aus hellem Holz, Mats' Arbeit, sauber verzapft.“ · Mats' Stelltafeln an der Rückwand mit Dutzenden alten Fotos (#43ff06)
+- ch10/s02 · „Hedwig hob lachend die Erntekrone über den Kopf.“ · Fotos: Hedwig mit Erntekrone, mit Grete am Kuchentisch, Lampions der Siebziger (#43ff06)
+- ch10/s02 · „Ganz am Ende, fast schon in der Ecke, hing ein kleiner Abzug mit weißem Zackenrand“ · Am Ende das verblichene Foto von Hedwig, dem Jungen und dem Mädchen auf der Mauer (#43ff06)

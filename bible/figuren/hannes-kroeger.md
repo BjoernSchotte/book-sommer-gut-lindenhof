@@ -169,3 +169,6 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch10/s01 · „Neben dem Vorderrad ging Hannes in Weste, die Ehrennadel am Revers, die Mütze in der Hand.“ · Geht im Umzug in Weste mit Ehrennadel, die Mütze in der Hand, neben Jonas' Trecker (#7366a9)
 - ch10/s01 · „Früher hatte er an derselben Stelle neben Hedwig Schritt gehalten“ · Ging früher an derselben Stelle neben Hedwig (#7366a9)
 - ch10/s01 · „Und was hatte Hannes am Mittwoch gewusst?“ · Marie vermutet, dass er ihr am Mittwoch etwas verschwiegen hat (#7366a9)
+- ch10/s02 · „Zwei Butter, ein Bienenstich für Tisch vier“ · Seine Frau Anke teilt in der Scheune die Kuchen aus (#43ff06)
+- ch10/s02 · „an Kalle vorbei, der unter einem Tisch auf Abfall wartete.“ · Kalle wartet in der Scheune unter einem Tisch auf Abfall (#43ff06)
+- ch10/s02 · „aus Hannes' Ausschusskiste“ · Fotos für Lenas Ausstellung stammen auch aus seiner Ausschusskiste (#43ff06)

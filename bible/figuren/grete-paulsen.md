@@ -191,3 +191,8 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch10/s01 · „Grete sagt, so hat er seit Jahren nicht ausgesehen.“ · Hat laut Anke gesagt, der Garten habe seit Jahren nicht so ausgesehen (#7366a9)
 - ch10/s01 · „Grete sagt fast nie was.“ · Lobt laut Anke fast nie (#7366a9)
 - ch10/s01 · „Es roch nach Diesel, nach Stroh und nach Gretes Butterkuchen, der von der Scheune herüberzog.“ · Ihr Butterkuchen duftet beim Umzug von der Scheune her (#7366a9)
+- ch10/s02 · „Auf Lenas Tresen warteten Gretes Bleche“ · Ihre Bleche mit Butterkuchen (saftige Mandeln) und kühlem Bienenstich stehen auf Lenas Tresen (#43ff06)
+- ch10/s02 · „Am Kuchentisch stand sie mit Grete, beide in Kittelschürzen, Grete noch mit dunklem Haar.“ · Erscheint auf einem alten Foto mit Hedwig am Kuchentisch, noch mit dunklem Haar (#43ff06)
+- ch10/s02 · „Der Brief lag in Gretes Keksdose“ · Jonas' Kinderbrief lag laut Jonas in ihrer Keksdose (#43ff06)
+- ch10/s02 · „Drüben an der Kaffeemaschine stand Grete in ihrer dunkelblauen Bluse.“ · Steht in der dunkelblauen Bluse an der Kaffeemaschine der Scheune (#43ff06)
+- ch10/s02 · „Sie hob den Kopf zu ihnen, senkte ihn rasch zur Kanne und lächelte in den Dampf hinein.“ · Sieht Marie und Jonas vor dem Foto und lächelt still in sich hinein (#43ff06)
