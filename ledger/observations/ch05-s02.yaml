@@ -1,204 +1,309 @@
 source: manuscript/ch05/s02.md
-source_hash: "a7d897"
+source_hash: "0e6764"
 extracted_by: bb-ingest
-end_actual: emotional
-end_quote: "Er stand nur da, im Staub, mit zerkratzten Armen, und hatte das fremde, warme Gefühl, an einem Ort mitgerechnet zu werden."
+gaps:
+  - Ob Jonas Hannes' Erinnerung an die Hängerfahrt wirklich teilt oder das Bild teils erfindet, lässt die Szene offen („selbst die dachte er sich gerade erst aus“).
+  - Ob die 'Ghislaine' an der Südmauer derselbe Stock ist wie über der Mauer oder ein eigener alter Stock, sagt die Szene nicht.
 items:
   - kind: event
     who: jonas-behrendt
-    quote: "Er gabelte sie auf den Hänger zu den anderen Brombeerranken."
+    quote: Er gabelte sie auf den Hänger zu den anderen Brombeerranken.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
-    fact: { subject: ch05/s02@brombeeren, predicate: at_place, value: garten }
+    fact:
+      subject: ch05/s02@brombeeren
+      predicate: at_place
+      value: garten
   - kind: time
-    quote: "Früher Nachmittag, und die Backsteinmauer gab die Hitze zurück wie ein Ofen."
+    quote: Früher Nachmittag, und die Backsteinmauer gab die Hitze zurück wie ein Ofen.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
-    fact: { subject: ch05/s02@brombeeren, predicate: at_time, value: "früher Nachmittag" }
+    fact:
+      subject: ch05/s02@brombeeren
+      predicate: at_time
+      value: früher Nachmittag
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: "Die Dornen hatten ihm die Unterarme zerkratzt, feine rote Striche kreuz und quer"
+    quote: Die Dornen hatten ihm die Unterarme zerkratzt, feine rote Striche kreuz und quer
     status: fact
-    about: [jonas-behrendt]
-    tags: []
-  - kind: narrator_claim
-    who: jonas-behrendt
-    quote: "Bei der dritten Ladung fing er wieder an zu zählen und wusste nicht mehr, wo er stehen geblieben war."
-    status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: place_fact
-    quote: "Zwanzig Meter Mauer, davor ein Wall aus Ranken, schulterhoch und zwei Schritte tief."
+    quote: Zwanzig Meter Mauer, davor ein Wall aus Ranken, schulterhoch und zwei Schritte tief.
     status: fact
-    about: [garten]
+    about:
+      - garten
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: Bei der dritten Ladung fing er wieder an zu zählen und wusste nicht mehr, wo er stehen geblieben war.
+    status: fact
+    about:
+      - jonas-behrendt
     tags: []
   - kind: event
     who: hannes-kroeger
-    quote: "Hannes kam mit dem leeren Gespann zurück und setzte es rückwärts an die Mauer, ohne einmal nachzusetzen."
+    quote: Hannes kam mit dem leeren Gespann zurück und setzte es rückwärts an die Mauer, ohne einmal nachzusetzen.
     status: fact
-    about: [hannes-kroeger, garten]
+    about:
+      - hannes-kroeger
+      - garten
     tags: []
   - kind: speech
     who: hannes-kroeger
-    quote: "Fester“, sagte er. „Sonst fahren Sie Luft durchs Dorf."
+    quote: Fester“, sagte er. „Sonst fahren Sie Luft durchs Dorf.
     status: fact
-    about: [hannes-kroeger, jonas-behrendt]
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+    tags: []
+  - kind: object_fact
+    quote: Drinnen lag der Laptop auf Hedwigs Tisch, darunter der Lageplan.
+    status: fact
+    about:
+      - jonas-behrendt
     tags: []
   - kind: belief
     who: jonas-behrendt
-    quote: "Dessen nummerierte Kästchen reihten sich genau dort, wo er grub."
+    quote: Dessen nummerierte Kästchen reihten sich genau dort, wo er grub.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "Parkplatz des Lageplans liegt dort, wo er gräbt" }
-  - kind: object_fact
-    quote: "Drinnen lag der Laptop auf Hedwigs Tisch, darunter der Lageplan."
-    status: fact
-    about: [jonas-behrendt]
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Parkplatz des Lageplans liegt dort, wo er gräbt
+  - kind: speech
+    who: hannes-kroeger
+    quote: Der Lütten von Hedwig“, sagte er. „Der ist mal bei mir auf dem Hänger mitgefahren. Über die Stoppeln, nach der Gerste.
+    status: claim
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: hannes-kroeger
+      predicate: knows
+      value: Jonas fuhr als Kind auf seinem Hänger mit
+  - kind: speech
+    who: hannes-kroeger
+    quote: Hedwig musste ihn mit Kuchen vom Hänger locken.
+    status: claim
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: hannes-kroeger
-    quote: "Der Lütten von Hedwig“, sagte er. „Der ist mal bei mir auf dem Hänger mitgefahren. Über die Stoppeln, nach der Gerste."
+    quote: Barfuß war er“, sagte Hannes. „Hedwig hat geschimpft.
     status: claim
-    about: [hannes-kroeger, jonas-behrendt]
-    tags: []
-    fact: { subject: hannes-kroeger, predicate: knows, value: "Jonas fuhr als Kind auf seinem Hänger mit" }
-  - kind: speech
-    who: hannes-kroeger
-    quote: "Hedwig musste ihn mit Kuchen vom Hänger locken."
-    status: claim
-    about: [hannes-kroeger, jonas-behrendt]
-    tags: []
-  - kind: speech
-    who: hannes-kroeger
-    quote: "Barfuß war er“, sagte Hannes. „Hedwig hat geschimpft."
-    status: claim
-    about: [hannes-kroeger, jonas-behrendt]
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
     tags: []
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: "Dann kam es zurück, zuerst als Geruch. Diesel, warm und schwer, und Stroh, das in der Sonne staubte."
+    quote: Dann kam es zurück, zuerst als Geruch. Diesel, warm und schwer, und Stroh, das in der Sonne staubte.
     status: fact
-    about: [jonas-behrendt, hannes-kroeger]
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "erinnert sich an Diesel und Stroh der Hängerfahrt" }
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: erinnert sich an Diesel und Stroh der Hängerfahrt
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: "Und Jonas hatte nicht einmal sein Gesicht behalten."
+    quote: Und Jonas hatte nicht einmal sein Gesicht behalten.
     status: fact
-    about: [jonas-behrendt, hannes-kroeger]
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Den Diesel weiß ich noch"
+    quote: Den Diesel weiß ich noch
     status: fact
-    about: [jonas-behrendt, hannes-kroeger]
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
     tags: []
   - kind: time
-    quote: "Gegen vier kam die Mitte der Südmauer dran, nicht weit von der Pforte."
+    quote: Gegen vier kam die Mitte der Südmauer dran, nicht weit von der Pforte.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
-    fact: { subject: ch05/s02@rosenfund, predicate: at_time, value: "gegen 16:00" }
+    fact:
+      subject: ch05/s02@rosenfund
+      predicate: at_time
+      value: gegen 16:00
   - kind: place_fact
-    quote: "Unter den letzten Ranken drückten sich dünne grüne Triebe an den Backstein und suchten mit den Spitzen Halt in den Fugen."
+    quote: Unter den letzten Ranken drückten sich dünne grüne Triebe an den Backstein und suchten mit den Spitzen Halt in den Fugen.
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
-    fact: { subject: ch05/s02@rosenfund, predicate: at_place, value: garten }
+    fact:
+      subject: ch05/s02@rosenfund
+      predicate: at_place
+      value: garten
   - kind: event
     who: jonas-behrendt
-    quote: "Jonas hatte die Forke schon angesetzt. Er ließ sie sinken."
+    quote: Jonas hatte die Forke schon angesetzt. Er ließ sie sinken.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: "Diese kleinen, glänzenden Blätter kannte er von den Bögen im Laubengang, die er im Juni hatte verschrotten wollen."
+    quote: Diese kleinen, glänzenden Blätter kannte er von den Bögen im Laubengang, die er im Juni hatte verschrotten wollen.
     status: fact
-    about: [jonas-behrendt, garten]
+    about:
+      - jonas-behrendt
+      - garten
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "Triebe an der Südmauer gleichen der Rose am Laubengang" }
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Triebe an der Südmauer gleichen der Rose am Laubengang
   - kind: event
     who: marie-albers
-    quote: "Sie lief über den Kies heran, eine Hacke in der Hand, den Strohhut im Nacken."
+    quote: Sie lief über den Kies heran, eine Hacke in der Hand, den Strohhut im Nacken.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
+    tags: []
+  - kind: place_fact
+    quote: folgte ihm bis zum alten Stamm, der grau und dick wie ein Handgelenk aus der Erde kam
+    status: fact
+    about:
+      - garten
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Eine 'Ghislaine de Féligonde'“, sagte sie. „Hier unten. Die hat keiner mehr gesehen, seit Jahren."
+    quote: Eine 'Ghislaine de Féligonde'“, sagte sie. „Hier unten. Die hat keiner mehr gesehen, seit Jahren.
     status: fact
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "an der Südmauer wächst eine 'Ghislaine de Féligonde'" }
-  - kind: place_fact
-    quote: "folgte ihm bis zum alten Stamm, der grau und dick wie ein Handgelenk aus der Erde kam"
-    status: fact
-    about: [garten]
-    tags: []
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: an der Südmauer wächst eine 'Ghislaine de Féligonde'
   - kind: speech
     who: jonas-behrendt
-    quote: "Ich hab nur aufgehört zu ziehen"
+    quote: Ich hab nur aufgehört zu ziehen
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Das reicht meistens."
+    quote: Das reicht meistens.
     status: fact
-    about: [marie-albers, jonas-behrendt]
-    tags: []
-  - kind: place_fact
-    quote: "Von der Pforte bis zur Ecke lag die Mauer frei, das Moos zog grüne Flecken über den roten Stein."
-    status: fact
-    about: [garten]
-    tags: []
-  - kind: event
-    who: marie-albers
-    quote: "Marie hatte die jungen Triebe unten lose mit Bast angebunden."
-    status: fact
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: event
     who: hannes-kroeger
-    quote: "Am späten Nachmittag fuhr Hannes die letzte Fuhre ab und kam zu Fuß zurück."
+    quote: Am späten Nachmittag fuhr Hannes die letzte Fuhre ab und kam zu Fuß zurück.
     status: fact
-    about: [hannes-kroeger, garten]
+    about:
+      - hannes-kroeger
+      - garten
+    tags: []
+  - kind: place_fact
+    quote: Von der Pforte nach Westen bis hinüber zum alten Geräteschuppen in der Ecke lag die ganze Mauer frei.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Marie hatte die jungen Triebe unten lose mit Bast angebunden.
+    status: fact
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: relationship
     who: hannes-kroeger
-    quote: "Er zog die Handschuhe aus, erst den rechten, dann den linken, schob sie in die Gesäßtasche und hielt ihm die Hand hin."
+    quote: Er zog die Handschuhe aus, erst den rechten, dann den linken, schob sie in die Gesäßtasche und hielt ihm die Hand hin.
     status: fact
-    about: [hannes-kroeger, jonas-behrendt]
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
     tags: []
   - kind: relationship
     who: hannes-kroeger
-    quote: "Gut gemacht, Jonas“, sagte Hannes. „Morgen tut dir alles weh."
+    quote: Gut gemacht, Jonas“, sagte Hannes. „Morgen tut dir alles weh.
     status: fact
-    about: [hannes-kroeger, jonas-behrendt]
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Das fängt jetzt schon an"
+    quote: Das fängt jetzt schon an
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas rührte sich nicht. Das Hemd war steif von Schweiß.
+    status: fact
+    about:
+      - jonas-behrendt
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: "Von der Terrasse kam Lachen, und Grete rief nach Kalle."
+    quote: Von der Terrasse rief Grete nach Kalle.
     status: fact
-    about: [grete-paulsen]
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: relationship
+    who: jonas-behrendt
+    quote: Jonas. Dir. Zwei kleine Wörter.
+    status: fact
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Er rechnete nicht nach, was sie wogen.
+    status: fact
+    about:
+      - jonas-behrendt
     tags: []
   - kind: belief
     who: jonas-behrendt
-    quote: "hatte das fremde, warme Gefühl, an einem Ort mitgerechnet zu werden"
+    quote: hatte das fremde, warme Gefühl, an einem Ort mitgerechnet zu werden
     status: belief
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
-    fact: { subject: jonas-behrendt, predicate: believes, value: "gehört auf dem Gut dazu" }
-gaps:
-  - "Ob Jonas Hannes' Erinnerung an die Hängerfahrt wirklich teilt oder das Bild teils erfindet, lässt die Szene offen („selbst die dachte er sich gerade erst aus“)."
-  - "Ob die 'Ghislaine' an der Südmauer derselbe Stock ist wie über der Mauer oder ein eigener alter Stock, sagt die Szene nicht."
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: gehört auf dem Gut dazu
+end_actual: emotional
+end_quote: Er stand nur da, im Staub, mit zerkratzten Armen, und hatte das fremde, warme Gefühl, an einem Ort mitgerechnet zu werden.
