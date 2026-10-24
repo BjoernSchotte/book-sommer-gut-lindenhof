@@ -92,3 +92,5 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch02/s01 · „Grete hatte es ihr am Morgen aus dem Arbeitszimmer geholt, zwei Tage nach dem Auftrag“ · Holt Marie zwei Tage nach dem Auftrag morgens Hedwigs Gartenbuch aus dem Arbeitszimmer (#c90415)
 - ch02/s01 · „Nicht mit nassen Fingern.“ · Gibt das Gartenbuch nur mit einer knappen Mahnung weiter (#c90415)
 - ch02/s03 · „Grete sagt, wie zwei ertrunkene Mäuse.“ · Ihr Spott über Jonas' Socken auf der Freitreppe wird von Marie bei Lena weitererzählt (#07e654)
+- ch03/s01 · „Gretes Kuchen hat mir gefallen. Eine Stunde Unkraut, ein Stück Streuselkuchen.“ · Laut Marie zahlte Grete der kleinen Marie eine Stunde Unkraut mit einem Stück Streuselkuchen aus (#2b0244)
+- ch03/s01 · „Jeden Dienstag und jeden Freitag. Grete hat Buch geführt, auf der Rückseite vom Kalender.“ · Gab den Kuchenlohn dienstags und freitags und führte auf der Kalenderrückseite Buch; wer schummelte, bekam nur den Rand (#2b0244)

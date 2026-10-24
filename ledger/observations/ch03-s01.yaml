@@ -1,0 +1,292 @@
+source: manuscript/ch03/s01.md
+source_hash: "2b0244"
+extracted_by: bb-ingest
+end_actual: emotional
+end_quote: "Marie merkte, dass sie nicht gehen wollte, und blieb."
+items:
+  - kind: event
+    who: marie-albers
+    quote: "Marie zog den Bast mit den Zähnen straff und knotete ihn ums Eisen."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: "ch03/s01@aufbinden", predicate: at_place, value: garten }
+  - kind: place_fact
+    quote: "Die 'Ghislaine de Féligonde' hing schwer von Blüten, cremeweiß mit einem Hauch Aprikose, und jede Rute, die sie an den Bogen legte, schüttete ihr Blätter in den Kragen."
+    status: fact
+    about: [garten, marie-albers]
+    tags: []
+  - kind: place_fact
+    quote: "Seit einer Woche saß sein Fuß fest im Beton."
+    status: fact
+    about: [garten, jonas-behrendt]
+    tags: []
+  - kind: place_fact
+    quote: "Von der Lindenallee zog ein Duft herüber, so süß und schwer, dass man ihn fast kauen konnte."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "Im Westen, über dem Buchenwald, türmte sich eine Wolkenwand, blauschwarz an der Unterkante."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Noch zwei Ruten, dann kam der achte Bogen dran."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Jonas kam den Laubengang herunter, in grünen Gummistiefeln aus der Remise, eine Nummer zu groß, die bei jedem Schritt schmatzten."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: has_object, value: "grüne Gummistiefel aus der Remise, eine Nummer zu groß" }
+  - kind: narrator_claim
+    quote: "Seit ein paar Tagen trug er sie, und keiner von beiden hatte bisher ein Wort darüber verloren."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Er packte das Eisen mit beiden Händen und rüttelte. Nichts gab nach, nicht einmal die Ranken zitterten."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Wie eine Eins."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Herr Behrendt."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Sie zog den Knoten fester als nötig und hoffte, dass er das als Abschied verstand."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: event
+    quote: "Der erste Donnerschlag kam, bevor sie fertig war. Er rollte über den Wald heran und brach über der Mauer, so laut, dass ihr das Bastbündel aus der Hand fiel."
+    status: fact
+    about: [garten, marie-albers]
+    tags: []
+  - kind: event
+    quote: "Gleich darauf prasselte es los, mit einem Schlag, und der Kies spritzte hoch."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Jonas zog sie am Ärmel tiefer unter die Bögen, wo die Rosen am dichtesten wuchsen."
+    status: fact
+    about: [jonas-behrendt, marie-albers, garten]
+    tags: []
+    fact: { subject: "ch03/s01@gewitter", predicate: at_place, value: garten }
+  - kind: place_fact
+    quote: "Trotzdem rann Wasser durch das Laub und lief ihnen in den Nacken."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    quote: "Nach einer Minute klebte Marie das Hemd am Rücken, und seines war dunkel bis zum Gürtel. Ihm hing das Haar in die Stirn."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: relationship
+    quote: "Sein Ellbogen lag an ihrem Arm, und keiner rückte ab."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Ihr Herz schlug schneller, und sie schob es aufs Gewitter."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "ihr Herzklopfen bei Jonas kommt vom Gewitter" }
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Sie haben da eine Rose im Haar."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: "Sie fasste nach ihrem Zopf und fand eine halbe Blüte, nass und zerdrückt, im Bast verfangen."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: event
+    quote: "Sie lachte. Er lachte mit, erst leise, dann so, dass er sich ans Eisen lehnen musste."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Lass sie drin"
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Du hast selbst eine."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: relationship
+    quote: "Wer von den beiden mit dem Du angefangen hatte, wusste hinterher keiner mehr."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: place_fact
+    quote: "Der Regen hing wie ein grauer Vorhang vor dem Laubengang, und auf den Wegen sammelten sich Pfützen."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Mit zehn hab ich hier meinen ersten Rosenschnitt gemacht"
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: "ch03/s01@erster-rosenschnitt", predicate: at_time, value: "Marie mit zehn Jahren" }
+  - kind: speech
+    who: marie-albers
+    quote: "Hedwig stand hinter mir und hat mir die Hand geführt. Über dem Auge, schräg, damit das Wasser abläuft."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Rosenschnitt von Hedwig gelernt: über dem Auge, schräg" }
+  - kind: speech
+    who: marie-albers
+    quote: "Gretes Kuchen hat mir gefallen. Eine Stunde Unkraut, ein Stück Streuselkuchen."
+    status: fact
+    about: [marie-albers, grete-paulsen]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Jeden Dienstag und jeden Freitag. Grete hat Buch geführt, auf der Rückseite vom Kalender. Wer schummelt, kriegt den Rand."
+    status: fact
+    about: [marie-albers, grete-paulsen]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Ich hab nie geschummelt. Fast nie."
+    status: claim
+    about: [marie-albers]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Ein Tropfen fiel ihm aufs Hemd, genau auf die Brusttasche, und er sah hinunter, als müsste er ihn notieren."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Im ersten Sommer bin ich jeden Tag mit dem Rad gekommen"
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: "Hedwig hat sie mir geschenkt. Die alte, mit dem roten Griff. Ich hab sie heute noch, sie schneidet besser als jede neue."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: has_object, value: "Hedwigs alte Schere mit rotem Griff" }
+  - kind: speech
+    who: marie-albers
+    quote: "Und Hedwig hat mit den Rosen geredet. Laut, den ganzen Tag, mit einer tiefen, rauen Stimme, die man bis zum Tor hörte."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Mit der 'Rosa Mundi' hat sie geschimpft, wenn die Läuse hatte. Die hier hat sie gelobt, jeden Juni, als hätte die Rose ein Zeugnis verdient."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Du machst es auch."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "Marie spricht mit den Rosen" }
+  - kind: speech
+    who: marie-albers
+    quote: "Ich weiß."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: place_fact
+    quote: "Dort stand die Bank unter der 'New Dawn', verwittert, die weiße Farbe in Fetzen."
+    status: fact
+    about: [garten]
+    tags: []
+    fact: { subject: "ch03/s01@bank-gespraech", predicate: at_place, value: garten }
+  - kind: narrator_claim
+    quote: "Im letzten Herbst hatte Hedwig da gesessen, eine Wolldecke über den Knien, und nach Maries Hand gegriffen."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: "ch03/s01@bank-gespraech", predicate: at_time, value: "letzter Herbst" }
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Was sie dann gesagt hatte, trug Marie seither mit sich herum wie ein Samenkorn in der Hosentasche, das man nicht verlieren will und noch nicht in die Erde bringt."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "was Hedwig im letzten Herbst auf der Bank zu ihr gesagt hat" }
+  - kind: speech
+    who: marie-albers
+    quote: "Da saß sie am liebsten"
+    status: fact
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Jonas folgte ihrem Blick. Er fragte nicht weiter."
+    status: fact
+    about: [jonas-behrendt, marie-albers, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "die Bank unter der 'New Dawn' war Hedwigs Lieblingsplatz" }
+  - kind: event
+    quote: "Er trommelte nicht mehr, er tropfte nur noch, und hinter der Mauer zog das Grollen über die Felder davon. Aus den Beeten stieg Dampf."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "Der Garten roch nach nasser Erde und nach Rosen, stärker als am Morgen, dazu nach warmem Backstein."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: relationship
+    quote: "Er stand nur neben ihr, die Hände in den Taschen, und schaute mit ihr hinaus. Sein Arm war eine Handbreit von ihrem entfernt."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: object_fact
+    quote: "Draußen im Kies lag das Bastbündel. Der achte Bogen wartete."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: "Marie merkte, dass sie nicht gehen wollte, und blieb."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+gaps:
+  - "Keine Uhrzeit und kein Wochentag im Text; die Szene liegt nach dem Morgen ('stärker als am Morgen') und etwa eine Woche nach dem Betonieren ('Seit einer Woche'). Daher kein strukturierter Zeiteintrag."
+  - "Hedwig Behrendt hat keine eigene Wiki-Seite; ihre Stimme ('tiefe, raue Stimme'), die geschenkte Schere und die Bank-Erinnerung hängen an marie-albers bzw. garten."
+  - "Remise, Lindenallee und Buchenwald haben keine eigene Wiki-Seite."
+  - "Die Szene sagt nicht, welcher Bogen gerade gebunden wird; nur, dass danach 'der achte Bogen' folgt."
