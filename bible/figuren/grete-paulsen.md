@@ -164,3 +164,5 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch08/s02 · „Gretes Finger waren warm und rochen nach Mehl.“ · Legt ihre Hand auf Maries Faust (#999c3a)
 - ch08/s02 · „Für unterwegs“ · Gibt Marie eine heiße Ecke Kuchen in Papier mit (#999c3a)
 - ch08/s02 · „Ob er zu süß ist, sagst du mir morgen. Und die Astern am Rondell gießt sonst keiner, Deern.“ · Bittet Marie, morgen wiederzukommen (#999c3a)
+- ch08/s03 · „Gretes Butterkuchen, längst kalt.“ · Ihr mitgegebener Butterkuchen wird nachts bei Lena geteilt (#f83e7f)
+- ch08/s03 · „An Gretes Satz von den Astern am Rondell, die sonst keiner goss.“ · Marie denkt an Gretes Bitte, die Astern zu gießen (#f83e7f)

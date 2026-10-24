@@ -48,3 +48,7 @@ links: [lena-hansen, marie-albers, jonas-behrendt, grete-paulsen, hannes-kroeger
 - ch06/s03 · „Die Theke war aus altem Holz, sauber verzapft, ohne eine einzige Schraube.“ · Theke aus altem Holz, verzapft, ohne Schraube (#6b1ec3)
 - ch06/s03 · „Dann ging sie in die Kaffeeecke, goss zwei Becher voll und stellte sie ungefragt auf den Tisch am Fenster.“ · Kaffeeecke mit Tisch am Fenster (#6b1ec3)
 - ch06/s03 · „Draußen zog ein Trecker durchs Dorf, und der Staub hing danach lange über dem Teich.“ · Vom Fenster der Kaffeeecke sieht man Dorf und Teich (#6b1ec3)
+- ch08/s03 · „Hinter ihr lag der Hofladen dunkel, und der Dorfteich glänzte schwarz wie ein Stück Teerpappe.“ · Nachts liegt der Hofladen dunkel, der Dorfteich schwarz (#f83e7f)
+- ch08/s03 · „Vom Kirchturm hatte es eben Viertel vor zwölf geschlagen.“ · Der Kirchturm schlägt die Viertelstunden bis zum Hof hörbar (#f83e7f)
+- ch08/s03 · „Oben schlief Frieda. Durch die angelehnte Tür kam ihr leises Schnaufen.“ · Friedas Zimmer liegt oben über der Küche, hörbar durch die Decke (#f83e7f)
+- ch08/s03 · „Die Küchenuhr über dem Herd zeigte zehn nach zwölf.“ · Küche des Hansen-Hofs mit Herd, Küchenuhr, Fliesenboden und Fenster (#f83e7f)

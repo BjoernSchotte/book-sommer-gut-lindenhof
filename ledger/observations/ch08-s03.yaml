@@ -1,0 +1,249 @@
+source: manuscript/ch08/s03.md
+source_hash: "f83e7f"
+extracted_by: bb-ingest
+end_actual: question
+end_quote: "Konnte sie morgen früh trotzdem wieder durch das schmiedeeiserne Tor gehen?"
+items:
+  - kind: event
+    who: marie-albers
+    quote: "Marie klopfte zweimal an die Küchentür des Hansen-Hofs, leise, damit oben keiner wach wurde."
+    status: fact
+    about: [marie-albers, lena-hansen, hofladen]
+    tags: []
+    fact: { subject: ch08/s03@ankunft, predicate: at_place, value: hofladen }
+  - kind: time
+    quote: "Vom Kirchturm hatte es eben Viertel vor zwölf geschlagen."
+    status: fact
+    about: [marie-albers, hofladen]
+    tags: []
+    event: ankunft
+    day: "+0"
+    at: "23:45"
+    place: hofladen
+    who: marie-albers
+    fact: { subject: ch08/s03@ankunft, predicate: at_time, value: "23:45" }
+  - kind: place_fact
+    quote: "Hinter ihr lag der Hofladen dunkel, und der Dorfteich glänzte schwarz wie ein Stück Teerpappe."
+    status: fact
+    about: [hofladen]
+    tags: []
+  - kind: event
+    who: lena-hansen
+    quote: "Lena öffnete im gestreiften Schlafanzug, die Locken auf einer Seite vom Kissen platt gedrückt."
+    status: fact
+    about: [lena-hansen]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Rein mit dir."
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: event
+    quote: "Mats stand schon in Socken am Herd und setzte Wasser auf."
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: place_fact
+    quote: "Oben schlief Frieda. Durch die angelehnte Tür kam ihr leises Schnaufen."
+    status: fact
+    about: [hofladen, lena-hansen]
+    tags: []
+  - kind: object_fact
+    who: lena-hansen
+    quote: "Auf dem Küchentisch lagen Stapel alter Fotos, mit weißem Rand und gewellten Ecken. Lena zog ein Geschirrtuch darüber, schneller als nötig, und strich es glatt."
+    status: fact
+    about: [lena-hansen]
+    tags: []
+    fact: { subject: lena-hansen, predicate: has_object, value: "Stapel alter Fotos, vor Marie verdeckt" }
+  - kind: belief
+    who: marie-albers
+    quote: "Was einer heute Nacht für sich behalten wollte, ging sie nichts an."
+    status: belief
+    about: [marie-albers, lena-hansen]
+    tags: []
+  - kind: knowledge_gain
+    who: lena-hansen
+    quote: "Vom Lageplan, auf dem graue Kästchen über dem Rosengarten lagen, bis an die Mauer. Von Jonas' Unterschrift, gerade und ohne Zögern."
+    status: fact
+    about: [lena-hansen, jonas-behrendt, marie-albers]
+    tags: []
+    fact: { subject: lena-hansen, predicate: knows, value: "Jonas hat Vorvertrag mit Parkplatz im Rosengarten unterschrieben" }
+  - kind: knowledge_gain
+    who: lena-hansen
+    quote: "Vom Abend am Steg, von dem Lena bis heute nichts gewusst hatte."
+    status: fact
+    about: [lena-hansen, marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: lena-hansen, predicate: knows, value: "Kuss von Marie und Jonas am Steg" }
+  - kind: knowledge_gain
+    who: lena-hansen
+    quote: "Und von dem „dieses Jahr“, das Hannes vor zwei Wochen am Tor zu hören bekommen hatte und das sie für ein Versprechen gehalten hatte."
+    status: fact
+    about: [lena-hansen, hannes-kroeger, jonas-behrendt, marie-albers]
+    tags: []
+    fact: { subject: lena-hansen, predicate: knows, value: "Jonas' Zusage an Hannes galt nur für dieses Jahr" }
+  - kind: event
+    who: lena-hansen
+    quote: "Gretes Butterkuchen, längst kalt. Sie wickelte ihn aus dem Papier, holte ein Messer und schnitt ihn mitten durch."
+    status: fact
+    about: [lena-hansen, marie-albers, grete-paulsen]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Das ist mindestens ein Liebeskummer mit zwei Stück"
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Da ist noch was. Das hab ich nicht mal dir erzählt."
+    status: fact
+    about: [marie-albers, lena-hansen]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Sie hat meine Hand genommen und gesagt, sie wünscht sich, dass ich den Garten einmal weiterführe. Wenn sie nicht mehr kann."
+    status: fact
+    about: [marie-albers, lena-hansen]
+    tags: []
+  - kind: knowledge_gain
+    who: lena-hansen
+    quote: "Letzten Herbst war ich bei Hedwig zum Tee. Wir saßen auf der Bank unter der Kletterrose"
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+    fact: { subject: lena-hansen, predicate: knows, value: "Hedwig wünschte sich Marie als Nachfolgerin im Garten" }
+  - kind: speech
+    who: marie-albers
+    quote: "Nirgends. Nicht im Testament, auf keinem Zettel. Sie hat es bloß gesagt."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Zwanzig Jahre"
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Seit dem Regenwurm. Und das erfahr ich nachts um zwölf."
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Weil es nach Erbschleicherei klingt"
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Ich hab mich geschämt, bevor überhaupt einer was gesagt hat."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: relationship
+    who: lena-hansen
+    quote: "Dann beugte sie sich über den Tisch und strich Marie eine Strähne aus der Stirn, wie früher auf dem Schulhof."
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Du hast der Frau seit deinem zehnten Jahr den Giersch gestochen. Wer dir so was nachsagt, kriegt es mit mir zu tun."
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Dieser Hamburger Dösbaddel mit seinen geputzten Schuhen!"
+    status: claim
+    about: [lena-hansen, jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Reißt am Samstag Brombeeren raus, trinkt Gretes Kaffee, lässt sich von allen auf die Schulter klopfen, und dabei liegt der Vertrag schon in der Schublade."
+    status: claim
+    about: [lena-hansen, jonas-behrendt, grete-paulsen]
+    tags: []
+  - kind: narrator_claim
+    quote: "Sie selbst war den ganzen Abend nicht laut geworden, oben im Arbeitszimmer nicht und bei Grete auch nicht."
+    status: fact
+    about: [marie-albers, grete-paulsen]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Morgen früh ruf ich Hannes an"
+    status: claim
+    about: [lena-hansen, hannes-kroeger]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Ich hab die Helferliste, Marie, ich hab jede Nummer."
+    status: fact
+    about: [lena-hansen]
+    tags: []
+    fact: { subject: lena-hansen, predicate: has_object, value: Helferliste }
+  - kind: speech
+    who: marie-albers
+    quote: "Das ist meine Sache, Lena. Nicht die vom Dorf."
+    status: fact
+    about: [marie-albers, lena-hansen]
+    tags: []
+  - kind: time
+    quote: "Die Küchenuhr über dem Herd zeigte zehn nach zwölf."
+    status: fact
+    about: [marie-albers, lena-hansen, hofladen]
+    tags: []
+    event: kuechenuhr
+    day: "+0"
+    at: "00:10"
+    place: hofladen
+    fact: { subject: ch08/s03@kuechenuhr, predicate: at_time, value: "00:10" }
+  - kind: relationship
+    who: lena-hansen
+    quote: "Dann setzte sich Lena wieder, zog ihren Stuhl dicht heran und nahm Maries Hand, die mit den Dornenkratzern."
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: "Und was willst du?"
+    status: fact
+    about: [lena-hansen, marie-albers]
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: "Sie dachte an die zwei Stecklinge hinten im Hinterhof der alten Schmiede, unter der Folie, an allen vier Ecken festgesteckt. Grün waren sie noch."
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: has_object, value: "zwei lebende Stecklinge der Lindenhof-Rose im Hinterhof der alten Schmiede" }
+  - kind: belief
+    who: marie-albers
+    quote: "Den Garten wollte sie, seit Hedwig ihre Hand genommen hatte."
+    status: belief
+    about: [marie-albers]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Was sie mit Jonas wollte, und ob das eine ohne das andere zu haben war, wusste sie nicht."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: narrator_claim
+    quote: "Niemand würde ihr das abnehmen, nicht Lena, nicht Grete, nicht das Dorf."
+    status: fact
+    about: [marie-albers, lena-hansen, grete-paulsen]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Konnte sie morgen früh trotzdem wieder durch das schmiedeeiserne Tor gehen?"
+    status: fact
+    about: [marie-albers]
+    tags: []
+gaps:
+  - "Ob Marie Lena von ihren Stecklingen erzählt, bleibt offen; die Szene zeigt sie nur in Maries Gedanken."
+  - "Was auf Lenas Fotos zu sehen ist, wird nicht gesagt; Marie sieht bewusst weg."
