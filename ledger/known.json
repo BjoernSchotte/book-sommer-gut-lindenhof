@@ -165,6 +165,12 @@
     "at": "2026-10-24T18:27:53.936Z",
     "unit": "ch04"
   },
+  "ledger/knowledge/ch05.yaml": {
+    "hash": "a7f863",
+    "by": "apply",
+    "at": "2026-10-24T18:52:08.215Z",
+    "unit": "ch05"
+  },
   "ledger/observations/ch01-s01.yaml": {
     "hash": "b23be1",
     "by": "apply",

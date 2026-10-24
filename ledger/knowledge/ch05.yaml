@@ -1,0 +1,400 @@
+based_on: ["ch04#56809c", "ch05/s01#d2031b", "ch05/s02#a7d897", "ch05/s03#700825"]
+characters:
+  grete-paulsen:
+    knows:
+      - text: "Hedwigs Testament: Der Rosengarten soll zum Erntefest am 5. September in altem Glanz wieder blühen."
+        from: ch01/s03
+      - text: "Hedwig hat für die Gartenarbeit Geld hinterlegt, für den Rest nur den Wunsch, den keiner einfordern kann."
+        from: ch01/s03
+      - text: "Jonas will, dass der Garten bis zum Fest fertig ist; das ist sein Wort, nicht Hedwigs."
+        from: ch01/s03
+      - text: "Marie sagt, Jonas will das Gut verkaufen."
+        from: ch01/s03
+      - text: "Jonas hat nach dem Gespräch noch eine Weile auf der Terrasse gestanden und Marie nachgesehen."
+        from: ch01/s03
+      - text: "Sie hat Marie zwei Tage nach dem Auftrag morgens Hedwigs Gartenbuch aus dem Arbeitszimmer geholt; Marie hat es jetzt."
+        from: ch02/s01
+      - text: "Jonas' Schuhe standen am ersten Tag zum Trocknen auf der Freitreppe, die Socken daneben."
+        from: ch02/s03
+      - text: "Marie nimmt Milch in den Kaffee; das hat sie Jonas gesagt, als er zwei Becher in den Garten trug."
+        from: ch03/s02
+      - text: "Mitte Juli war Ralf Steinhagen zu Besuch auf dem Gut; er hat sie mit Namen angesprochen und gesagt, Jonas habe von ihrem Kaffee geschwärmt."
+        from: ch04/s01
+      - text: "Sie hat Steinhagen und Jonas Kaffee in der guten Kanne mit dem Goldrand auf die Terrasse gebracht, ohne Kuchen, obwohl sie am Morgen Butterkuchen gebacken hatte."
+        from: ch04/s01
+      - text: "Am Samstag Mitte Juli war Helfereinsatz im Rosengarten; sie hat drei Bleche Butterkuchen und Kaffee auf den Terrassentisch gestellt, damit diesmal keiner mit leerem Teller dastand."
+        from: ch05/s01
+      - text: "Jonas hat am Helfertag mitgearbeitet; am Abend hat er sie gefragt, ob er für die Bierkiste als Helfer zählt, und sie hat ihm zwei Flaschen gegeben und die Kronkorken gleich abgemacht."
+        from: ch05/s03
+      - text: "Jonas hat einen Sonnenbrand; sie hat ihm Quark angeboten."
+        from: ch05/s03
+    believes:
+      - text: "Der Verkauf ist Jonas' Sache, der Garten ist Maries."
+        from: ch01/s03
+    does_not_know:
+      - "dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat"
+      - "dass Marie Hedwig versprochen hat, den Garten zu retten"
+      - "dass Jonas die Rankbögen der 'Ghislaine' entsorgen wollte und sie nun auf Punktfundamente stellen lässt"
+      - "dass Marie und Jonas sich seit dem Gewitter unter dem Laubengang duzen"
+      - "dass Weidenkamp im Gutshaus rund zwanzig Zimmer, in Kuhstall und Scheune Spa und Seminarraum und am Steg ein Saunahaus plant"
+      - "dass im Lageplan von Weidenkamp der Parkplatz genau auf dem Rosengarten liegt"
+      - "dass Weidenkamp ihr für einen freiwilligen Auszug eine großzügige Abfindung vorsieht und Jonas sie darauf ansprechen soll"
+      - "dass Jonas an der Südmauer eine alte 'Ghislaine de Féligonde' freigelegt hat"
+      - "dass Marie und Jonas sich am Abend des Helfertags auf dem Steg geküsst haben"
+  hannes-kroeger:
+    knows:
+      - text: "Der Hauptweg ist frei, und die 'Ghislaine' hängt wieder an ihren Bögen im Laubengang."
+        from: ch03/s02
+      - text: "Rings um die Sonnenuhr sitzen alte Holunderstubben und an der Westseite ein Brombeerwurzelstock, der sich mit der Hacke nicht rührt; keinen Meter davon steht die 'Rosa Mundi'."
+        from: ch03/s02
+      - text: "Marie will den Wurzelstock nur langsam und nicht zur 'Rosa Mundi' hin herausziehen; er zieht nach Norden, zum Tor hin."
+        from: ch03/s02
+      - text: "Mit derselben Kette hat er Hedwig den Fliederbusch an der Remise herausgeholt."
+        from: ch03/s02
+      - text: "Sonnabend um halb acht bringt er den Trecker für den Wurzelstock."
+        from: ch03/s02
+      - text: "Das Erntefest ist am ersten Samstag im September, wie immer."
+        from: ch03/s02
+      - text: "Auf seine Frage, ob das Erntefest auf dem Gut bleibt, hat Jonas nicht zugesagt: Es hänge an Gutachten für Dach und Fenster, an den Kosten und an Fristen, die er selbst noch nicht kenne."
+        from: ch03/s02
+      - text: "Mitte Juli schaufelt er mit Marie vom Hänger Kies auf die Hauptachse; noch zwei Fuhren, dann ist sie an der Sonnenuhr."
+        from: ch04/s01
+      - text: "Ralf Steinhagen von Weidenkamp Hotels war auf dem Gut, hat mit Jonas auf der Terrasse gesessen und ist durch den Rosengarten gegangen."
+        from: ch04/s01
+      - text: "Steinhagen nennt die Fläche hinter dem Haus ein Pfund: ebener Grund, kurze Wege, und die Mauer schirmt alles ab."
+        from: ch04/s01
+      - text: "Auf seine Frage, wo das Erntefest dann hin soll, sagt Steinhagen: Das Hotel hätte eine Veranstaltungsfläche gegen Gebühr, für Vereine zu sehr fairen Konditionen."
+        from: ch04/s01
+      - text: "Jonas hat zu Steinhagens Antwort geschwiegen."
+        from: ch04/s01
+      - text: "Am Helfersamstag Mitte Juli ist er kurz nach sechs mit dem großen grünen Trecker und leerem Hänger gekommen, Kalle in der Kabine; Timo folgte mit dem zweiten Gespann voll Kies für die Seitenwege."
+        from: ch05/s01
+      - text: "Jonas ist zum Anfassen gekommen; er hat ihn an die Brombeeren an der Mauer geschickt, wo sein Hänger hinkommt."
+        from: ch05/s01
+      - text: "Er hat mit einem Pfiff über den Garten klargestellt: Im Garten ist Marie die Chefin."
+        from: ch05/s01
+      - text: "Jonas ist Hedwigs Lütten, der als Kind barfuß auf seinem Hänger über die Stoppeln mitgefahren ist; Hedwig musste ihn mit Kuchen herunterlocken. Jonas weiß davon noch den Diesel."
+        from: ch05/s02
+      - text: "Jonas hat den ganzen Tag die Brombeeren an der Mauer geräumt; er hat ihm danach die Hand gegeben, 'Gut gemacht, Jonas' gesagt und duzt ihn seitdem."
+        from: ch05/s02
+    believes:
+      - text: "Im Garten läuft es; Marie macht ihre Sache gut."
+        from: ch03/s02
+      - text: "Mit dem Spaten wird das nichts; mit Kette und Trecker ist der Wurzelstock schnell draußen."
+        from: ch03/s02
+      - text: "Zwischen Marie und Jonas ist etwas."
+        from: ch03/s02
+      - text: "Im Garten hat Marie das Sagen."
+        from: ch05/s01
+      - text: "Jonas hat gut gearbeitet; morgen tut ihm alles weh."
+        from: ch05/s02
+    does_not_know:
+      - "dass Jonas mit einem Käufer bis zum Herbst rechnet"
+      - "dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat"
+      - "dass im Lageplan von Weidenkamp der Parkplatz genau auf dem Rosengarten liegt"
+      - "dass Weidenkamp für Gretes freiwilligen Auszug eine Abfindung vorsieht"
+      - "dass Marie und Jonas sich am Abend des Helfertags auf dem Steg geküsst haben"
+  jonas-behrendt:
+    knows:
+      - text: "Marie Albers ist die Gärtnerin; er hat sie beauftragt, den Rosengarten herzurichten."
+        from: ch01/s02
+      - text: "Das Geldvermächtnis reicht für einen Sommer Gartenpflege."
+        from: ch01/s02
+      - text: "Hedwigs Wunsch: Der Rosengarten soll zum Erntefest wieder blühen."
+        from: ch01/s02
+      - text: "Die sieben Fenster im Erdgeschoss zur Gartenseite sind undicht, zwei Flügel verzogen, das Holz gibt nach; für das Dach steht ein Angebot vom Dachdecker bis Ende Juni aus."
+        from: ch01/s02
+      - text: "Abmachung mit Marie: Rosengarten bis zum Erntefest am 5. September, freie Hand bei den Rosen, über die Wege wird geredet, Zwischenstände alle zwei Wochen mit Fotos, Budget bleibt fest."
+        from: ch01/s02
+      - text: "Neue Abmachung: Die Bögen bleiben und bekommen je Fuß ein Punktfundament; Marie bindet die Rose selbst wieder an und macht den Hauptweg bis Ende Juni frei."
+        from: ch02/s01
+      - text: "Der Fuß des Bogens sitzt seit einer Woche im Beton; als er am Eisen rüttelt, gibt nichts nach."
+        from: ch03/s01
+      - text: "Für die Partnerschaft im Büro ist seine Einlage fällig."
+        from: ch02/s02
+      - text: "Der Makler will den Garten vorzeigbar: Wege für gute Schuhe, Blüten in Sicht vom Haus, keine Ecke, die nach Arbeit aussieht."
+        from: ch02/s02
+      - text: "Am letzten Freitag im Juli kommt ein Fotograf des Maklers für Gartenfotos; er hat zugesagt, aber den Termin nicht notiert."
+        from: ch02/s02
+      - text: "Kindheitserinnerung: ein Floß aus Brettern auf dem Gutssee, und Hedwig, die ihn zum Kuchen hereinruft."
+        from: ch02/s02
+      - text: "Marie hat mit zehn im Rosengarten ihren ersten Rosenschnitt gemacht; Hedwig hat ihr die Hand geführt."
+        from: ch03/s01
+      - text: "Als Kind hat Marie bei Hedwig dienstags und freitags Unkraut gejätet, eine Stunde für ein Stück von Gretes Streuselkuchen; Grete hat auf der Kalenderrückseite Buch geführt."
+        from: ch03/s01
+      - text: "Hedwig hat Marie ihre alte Schere mit dem roten Griff geschenkt; Marie hat sie heute noch."
+        from: ch03/s01
+      - text: "Hedwig hat laut mit den Rosen geredet, mit der 'Rosa Mundi' geschimpft und die 'Ghislaine' jeden Juni gelobt; Marie redet auch mit den Rosen."
+        from: ch03/s01
+      - text: "Die Bank unter der 'New Dawn' war Hedwigs Lieblingsplatz."
+        from: ch03/s01
+      - text: "Seit dem Gewitter unter dem Laubengang sagen Marie und er Du zueinander."
+        from: ch03/s01
+      - text: "Grete sagt, Marie nimmt Milch in den Kaffee."
+        from: ch03/s02
+      - text: "Hannes Kröger fragt, ob das Erntefest auf dem Gut bleibt; das Fest ist am ersten Samstag im September. Er hat Hannes keine Zusage gegeben."
+        from: ch03/s02
+      - text: "Hannes bringt Sonnabend um halb acht den Trecker, um den Wurzelstock an der Sonnenuhr herauszuziehen."
+        from: ch03/s02
+      - text: "Ralf Steinhagen von Weidenkamp Hotels hat ihn angerufen; seine Nummer hat er vom Makler."
+        from: ch03/s03
+      - text: "Steinhagen kennt die Zimmerzahl des Gutshauses, die Grundfläche der Scheune auf den Quadratmeter und das Baujahr."
+        from: ch03/s03
+      - text: "Das Scheunendach hat Moos in den Fugen und eine Reihe verrutschter Pfannen; in der Rinne fault Laub."
+        from: ch03/s03
+      - text: "Mitte Juli war Steinhagen zur Besichtigung da: Kaffee auf der Terrasse, dann ein Gang durchs Haus und durch den Rosengarten."
+        from: ch04/s01
+      - text: "Grete hat Steinhagen und ihm Kaffee ohne Kuchen hingestellt; in all seinen Kindersommern hat sie ihm nie eine Tasse ohne Kuchen hingestellt, bis zu diesem Morgen."
+        from: ch04/s02
+      - text: "Im Garten nennt Steinhagen die Fläche hinter dem Haus ein Pfund; Marie hält dagegen, das sei ein Garten aus den Dreißigerjahren, und die 'Rosa Mundi' sei älter als sie beide zusammen."
+        from: ch04/s01
+      - text: "Auf Hannes' Frage nach dem Erntefest bietet Steinhagen eine Veranstaltungsfläche gegen Gebühr an, für Vereine zu fairen Konditionen; er selbst hat dazu geschwiegen."
+        from: ch04/s01
+      - text: "Weidenkamps Plan: rund zwanzig Zimmer im Gutshaus, Spa und Seminarraum in Kuhstall und Scheune, am Steg ein kleines Saunahaus aus Holz; dazu Grundrisse, Schnitte und eine Kostenschätzung nach Gewerken, zwei Balken eingeplant."
+        from: ch04/s02
+      - text: "Steinhagens Lasten und Fristen halten seiner Prüfung stand; die Summe liegt kaum über seiner eigenen Schätzung."
+        from: ch04/s02
+      - text: "Im Lageplan liegt der Parkplatz genau auf dem Rosengarten, nummeriert, mit einer Zufahrt durch das Tor; ein paar Rosen sollen als Akzent in Kübeln bleiben."
+        from: ch04/s02
+      - text: "Grete hat ein lebenslanges Wohnrecht, das bestehen bleibt; für einen freiwilligen Auszug sieht Weidenkamp eine großzügige Abfindung vor, und Steinhagen bittet ihn, das bei Gelegenheit bei Grete anzusprechen."
+        from: ch04/s02
+      - text: "Steinhagen hatte ein Herrenhaus weiter im Süden, dessen alter Park für den Anbau weichen musste; seitdem fehle dem Haus etwas, sagt er."
+        from: ch04/s02
+      - text: "Steinhagen meldet sich wieder; er hat ihm weder zu- noch abgesagt. Die Mappe mit dem Lageplan liegt im Salon unter dem Laptop auf Hedwigs Tisch."
+        from: ch05/s02
+      - text: "Auf Maries Frage, was Steinhagen wollte, hat er nur gesagt: 'Ein Interessent.'"
+        from: ch04/s02
+      - text: "Am Helfersamstag Mitte Juli hat Lena ihn am Tor eingetragen und ihn den ganzen Tag gesiezt; Hannes hat ihn an die Brombeeren an der Mauer geschickt."
+        from: ch05/s01
+      - text: "Die nummerierten Stellplätze des Lageplans liegen genau dort, wo er an der Mauer gräbt."
+        from: ch05/s02
+      - text: "Hannes erinnert sich an ihn als Hedwigs Lütten, der barfuß auf seinem Hänger über die Stoppeln mitgefahren ist; er selbst weiß noch den Geruch nach Diesel und Stroh, Hannes' Gesicht hat er nicht behalten."
+        from: ch05/s02
+      - text: "Unter den Brombeeren an der Südmauer, nahe der Pforte, hat er junge Triebe an einem alten Stamm gefunden und nicht weitergezogen; Marie sagt, es ist eine 'Ghislaine de Féligonde', die seit Jahren keiner mehr gesehen hat."
+        from: ch05/s02
+      - text: "Hannes hat ihm nach der Arbeit die Hand gegeben und 'Gut gemacht, Jonas' gesagt."
+        from: ch05/s02
+      - text: "Grete hat ihm zwei Bier aus der Helferkiste gegeben und Quark für den Sonnenbrand angeboten."
+        from: ch05/s03
+      - text: "Lena hat ihn um fünf gefragt, ob er nächsten Samstag Zeit hat; er hat Ja gesagt, bevor er nachdenken konnte."
+        from: ch05/s03
+      - text: "Er hat Marie von seinen Flößen erzählt: das größte ist mitten auf dem See abgesoffen, Hedwig hat gelacht und gesagt, aus ihm wird nie ein Schiffbauer."
+        from: ch05/s03
+      - text: "Am Abend des Helfertags haben Marie und er sich auf dem Steg geküsst; er hat gesagt, das wollte er seit dem Gewitter, und Marie hat gesagt: 'Ich auch.'"
+        from: ch05/s03
+      - text: "Marie hat ihn gefragt, ob er im Herbst noch hier ist; er hat geantwortet, dass er es nicht weiß."
+        from: ch05/s03
+    believes:
+      - text: "Der Plan trägt: Hauptweg Ende Juni, ein Käufer bis zum Herbst, die Einlage zum Jahresende."
+        from: ch02/s02
+      - text: "Ein gepflegtes Gut bringt einen besseren Preis."
+        from: ch01/s02
+      - text: "Das Haupthaus ist schlimmer dran als das Scheunendach, und er weiß ungefähr, was das kostet."
+        from: ch03/s03
+      - text: "Steinhagen spricht seine Sprache; einen Käufer, der rechnen kann und sich nicht lange bitten lässt, wollte er seit dem Brief vom Nachlassgericht."
+        from: ch03/s03
+      - text: "Die Zusage an Weidenkamp ist richtig, fühlt sich aber an wie ein Riss im Fundament."
+        from: ch03/s03
+      - text: "Ob das, was zwischen ihm und Marie unter den Rosen angefangen hat, eine Last verträgt, weiß er nicht."
+        from: ch03/s03
+      - text: "Mit dem Parkplatz auf dem Gelände hat er seit dem Wort Stellplatzlösung gerechnet, mit der Zeile über Gretes Abfindung nicht."
+        from: ch04/s02
+      - text: "Grete hat mehr geahnt als er."
+        from: ch04/s02
+      - text: "'Ein Interessent' war nicht gelogen, aber so wenig, dass es kaum Gewicht hatte; warum er Marie nicht mehr gesagt hat, weiß er selbst nicht."
+        from: ch04/s02
+      - text: "Auf dem Gut wird er mitgerechnet; das Gefühl ist fremd und warm."
+        from: ch05/s02
+      - text: "Seit dem gesunkenen Floß rechnet er alles zweimal."
+        from: ch05/s03
+    does_not_know:
+      - "dass hinter dem Laubengang unter den Brombeeren der letzte Stock der Lindenhof-Rose steht"
+      - "dass Marie Hedwig versprochen hat, den Garten zu retten"
+      - "was Hedwig im letzten Herbst auf der Bank unter der 'New Dawn' zu Marie gesagt hat"
+      - "dass Grete Marie Hedwigs Gartenbuch gegeben hat"
+      - "dass Marie bei Lena über ihn geredet hat und Lena glaubt, Marie habe Gefühle für ihn"
+      - "dass Marie sich an einen barfüßigen Jungen auf der Gartenmauer erinnert und sich fragt, ob er das war"
+  lena-hansen:
+    knows:
+      - text: "Laut Marie stand in Jonas' Tabelle beim Laubengang 'Entsorgung', für beide Rankbögen der 'Ghislaine'."
+        from: ch02/s03
+      - text: "Laut Marie ist Jonas in geputzten Lederschuhen und heller Hose ins nasse Gras vor den Bogen gekniet, die Hose ist an beiden Knien grün."
+        from: ch02/s03
+      - text: "Laut Marie hat Jonas am Bogen gerüttelt, 'kein Fundament' gesagt und ein Fundament von vierzig mal vierzig, achtzig tief, auf die Rückseite seiner Tabelle gezeichnet."
+        from: ch02/s03
+      - text: "Marie sagt, Jonas habe die Bögen nicht entsorgt, weil sie ihn dazu gebracht habe."
+        from: ch02/s03
+      - text: "Marie hat zwanzig Minuten über Jonas' Schuhe geredet; sie kommt Freitag wieder."
+        from: ch02/s03
+      - text: "Am Samstag Mitte Juli hat sie am Tor die Helfer abgehakt und eingeteilt: drei Landfrauen, vier Mann von der Feuerwehr, die Nachbarn vom Dorfteich mit Schubkarren."
+        from: ch05/s01
+      - text: "Marie hat an jeden Rosenstock, der stehen bleiben muss, ein Namensschild gehängt, damit keiner was rausreißt."
+        from: ch05/s01
+      - text: "Jonas ist zum Helfertag gekommen, in Gummistiefeln aus der Remise; sie hat ihn per Sie eingetragen."
+        from: ch05/s01
+      - text: "Um fünf hat sie Jonas gefragt, ob er nächsten Samstag Zeit hat, und er hat Ja gesagt."
+        from: ch05/s03
+    believes:
+      - text: "Marie hat Gefühle für Jonas; ihr Reden über ihn ist kein gutes Zeichen – oder ein sehr gutes."
+        from: ch02/s03
+      - text: "Maries Namensschilder sind unnötig; die Landfrauen stechen Giersch, seit Marie laufen kann."
+        from: ch05/s01
+    does_not_know:
+      - "dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat"
+      - "dass sich ein Interessent aus der Hotelbranche für das Gut gemeldet hat"
+      - "dass Marie und Jonas im Gewitter unter dem Laubengang gestanden haben und sich seitdem duzen"
+      - "dass Ralf Steinhagen von Weidenkamp Hotels das Gut Mitte Juli besichtigt hat"
+      - "dass Marie und Jonas sich am Abend des Helfertags auf dem Steg geküsst haben"
+  marie-albers:
+    knows:
+      - text: "Jonas Behrendt aus Hamburg ist Hedwigs Erbe."
+        from: ch01/s01
+      - text: "Auftrag: Rosengarten bis zum Erntefest am 5. September herrichten, Wege begehbar, Beete sauber, alles, was man vom Haus aus sieht."
+        from: ch01/s02
+      - text: "Jonas will das Gut verkaufen; ein gepflegtes Gut bringe einen besseren Preis."
+        from: ch01/s02
+      - text: "Abmachung mit Jonas: freie Hand bei den Rosen, über die Wege wird geredet, Zwischenstände alle zwei Wochen mit Fotos, Budget bleibt fest."
+        from: ch01/s02
+      - text: "Hedwigs Testament: Der Rosengarten soll zum Erntefest am 5. September in altem Glanz wieder blühen."
+        from: ch01/s03
+      - text: "Hedwig hat für die Gartenarbeit Geld hinterlegt, für den Rest nur den Wunsch."
+        from: ch01/s03
+      - text: "Hinter dem Laubengang unter den Brombeeren steht ein Stock der Lindenhof-Rose, mit einer einzigen Knospe."
+        from: ch01/s03
+      - text: "Sie hat Hedwigs Gartenbuch; Grete hat es ihr zwei Tage nach dem Auftrag aus dem Arbeitszimmer geholt."
+        from: ch02/s01
+      - text: "Laut Gartenbuch steht 'Ghislaine de Féligonde' an Bogen sieben und acht des Laubengangs, gepflanzt 1974; Rose und Bögen stehen seit zweiundfünfzig Jahren."
+        from: ch02/s01
+      - text: "Jonas' Tabelle: 'Hauptweg frei bis Ende Juni', beim Laubengang 'Entsorgung, Ersatz verzinkt'."
+        from: ch02/s01
+      - text: "Neue Abmachung: Die Bögen bleiben, Jonas bestellt Beton für Punktfundamente, sie bindet die Rose selbst wieder an; dafür ist der Hauptweg Ende Juni vom Tor bis zur Pforte frei, mit Fotos."
+        from: ch02/s01
+      - text: "Der Bogen steht seit einer Woche im Beton; Jonas hat daran gerüttelt, und er sitzt fest."
+        from: ch03/s01
+      - text: "Jonas plant seit zwölf Jahren Parkhäuser."
+        from: ch02/s01
+      - text: "Lena hält ihr Reden über Jonas für kein gutes Zeichen – oder ein sehr gutes."
+        from: ch02/s03
+      - text: "Mit zehn hat sie im Rosengarten ihren ersten Rosenschnitt gemacht; Hedwig hat ihr die Hand geführt: über dem Auge, schräg, damit das Wasser abläuft."
+        from: ch03/s01
+      - text: "Sie hat Hedwigs alte Schere mit dem roten Griff, ein Geschenk von Hedwig."
+        from: ch03/s01
+      - text: "Was Hedwig im letzten Herbst auf der Bank unter der 'New Dawn' zu ihr gesagt hat; sie hat es Jonas nicht erzählt."
+        from: ch03/s01
+      - text: "Seit dem Gewitter unter dem Laubengang sagen sie und Jonas Du zueinander; wer damit angefangen hat, weiß sie nicht mehr."
+        from: ch03/s01
+      - text: "Jonas trägt seit ein paar Tagen grüne Gummistiefel aus der Remise, eine Nummer zu groß."
+        from: ch03/s01
+      - text: "Jonas hat ihr Kaffee mit Milch gebracht, weil Grete ihm gesagt hat, dass sie Milch nimmt."
+        from: ch03/s02
+      - text: "Auf Hannes' Frage, ob das Erntefest auf dem Gut bleibt, hat Jonas nicht zugesagt: Es hänge an Gutachten für Dach und Fenster, an den Kosten und an Fristen, die er selbst noch nicht kenne."
+        from: ch03/s02
+      - text: "Hannes bringt Sonnabend um halb acht den Trecker, um den Brombeerwurzelstock an der Sonnenuhr herauszuziehen."
+        from: ch03/s02
+      - text: "Das Erntefest ist am ersten Samstag im September."
+        from: ch03/s02
+      - text: "Mitte Juli schaufelt sie mit Hannes Kies auf die Hauptachse; noch zwei Fuhren, dann ist sie an der Sonnenuhr."
+        from: ch04/s01
+      - text: "Ralf Steinhagen von Weidenkamp Hotels war auf dem Gut; er hat mit Jonas auf der Terrasse gesessen, Grete hat Kaffee gebracht, und auf dem Tablett stand sonst nichts."
+        from: ch04/s01
+      - text: "Im Garten nennt Steinhagen die Fläche hinter dem Haus ein Pfund: ebener Grund, kurze Wege, die Mauer schirmt alles ab; zu ihr sagt er, das werde auf den Fotos sehr schön."
+        from: ch04/s01
+      - text: "Sie hat Steinhagen gesagt, das sei keine Fläche, sondern ein Garten aus den Dreißigerjahren, und die 'Rosa Mundi' sei älter als sie beide zusammen; er nannte das eine wertvolle Auskunft."
+        from: ch04/s01
+      - text: "Auf Hannes' Frage nach dem Erntefest bietet Steinhagen eine Veranstaltungsfläche gegen Gebühr an, für Vereine zu fairen Konditionen; Jonas hat dazu geschwiegen."
+        from: ch04/s01
+      - text: "Auf ihre Frage, was Steinhagen wollte, hat Jonas gesagt: 'Ein Interessent.'"
+        from: ch04/s02
+      - text: "Am Samstag Mitte Juli haben Landfrauen, Feuerwehr und Nachbarn im Rosengarten geholfen; an jedem Stock, der stehen bleiben muss, hängt ihr Namensschild, vom Tor bis zur Pforte."
+        from: ch05/s01
+      - text: "Hannes hat vor allen gesagt: Im Garten ist Marie die Chefin."
+        from: ch05/s01
+      - text: "Die neuen Kieswege sind frisch geharkt bis an die Mauer."
+        from: ch05/s01
+      - text: "An der Südmauer nahe der Pforte wächst an einem alten Stamm eine 'Ghislaine de Féligonde', die seit Jahren keiner mehr gesehen hat; Jonas hat sie beim Brombeerräumen gefunden, sie hat die jungen Triebe mit Bast angebunden."
+        from: ch05/s02
+      - text: "Lena hat Jonas den ganzen Tag gesiezt und ihn gefragt, ob er nächsten Samstag Zeit hat; er hat Ja gesagt."
+        from: ch05/s03
+      - text: "Grete hat Jonas zwei Bier aus der Helferkiste gegeben und ihm Quark für den Sonnenbrand im Nacken angeboten."
+        from: ch05/s03
+      - text: "Jonas hat als Junge am Steg Flöße gebaut; das größte ist mitten auf dem See abgesoffen, Hedwig hat gelacht und gesagt, aus ihm wird nie ein Schiffbauer; seitdem rechnet er alles zweimal."
+        from: ch05/s03
+      - text: "Am Abend des Helfertags haben sie und Jonas sich auf dem Steg geküsst; er wollte das seit dem Gewitter, sie auch."
+        from: ch05/s03
+      - text: "Auf ihre Frage, ob er im Herbst noch hier ist, hat Jonas gesagt, dass er es nicht weiß."
+        from: ch05/s03
+    believes:
+      - text: "Splitt auf dem Hauptweg würde den alten Kies zerstören."
+        from: ch01/s01
+      - text: "Jonas will das Gut verkaufsfertig machen."
+        from: ch01/s03
+      - text: "Der Stock unter den Brombeeren ist die letzte Lindenhof-Rose im Garten."
+        from: ch01/s03
+      - text: "Den Winkel hinter dem Laubengang sieht man von der Terrasse nicht, und in Jonas' Tabelle kommt er nicht vor."
+        from: ch01/s03
+      - text: "Ihr Herzklopfen neben Jonas kam nicht vom Gewitter."
+        from: ch05/s03
+      - text: "Kippt der Ballen des Wurzelstocks zur 'Rosa Mundi' hin, reißt er sie mit; deshalb langsam, nicht ruckzuck."
+        from: ch03/s02
+      - text: "Jonas hat Hannes etwas nicht gesagt, und sie wartet darauf, dass er es ihr erklärt."
+        from: ch03/s02
+      - text: "Grete hat Steinhagen ohne Kuchen bedient; einen Kuchenrand hat es heute gegeben, wenn auch nur für ihn."
+        from: ch04/s01
+      - text: "Von Jonas hätte ein Wort kommen müssen, das nach Nein klang; sie hat darauf gewartet."
+        from: ch04/s01
+      - text: "Nach 'Ein Interessent' kommt von Jonas noch etwas."
+        from: ch04/s02
+      - text: "Lenas Sie für Jonas ist ihr Vertreterton."
+        from: ch05/s01
+      - text: "Der barfüßige Junge, den sie als Kind oben auf der Gartenmauer gesehen hat, war vielleicht Jonas."
+        from: ch05/s03
+    does_not_know:
+      - "dass das Geldvermächtnis nur für einen Sommer Gartenpflege reicht"
+      - "dass Jonas mit einem Käufer bis zum Herbst rechnet"
+      - "dass Steinhagen vorher angerufen und Jonas ihm die Besichtigung zugesagt hat"
+      - "dass Weidenkamp im Gutshaus rund zwanzig Zimmer, in Kuhstall und Scheune Spa und Seminarraum und am Steg ein Saunahaus plant"
+      - "dass im Lageplan von Weidenkamp der Parkplatz genau auf dem Rosengarten liegt, mit Rosen nur noch in Kübeln"
+      - "dass Weidenkamp für Gretes freiwilligen Auszug eine Abfindung vorsieht"
+      - "dass Jonas eine Mappe mit einer Kopie des Lageplans unter seinem Laptop liegen hat"
+      - "von welchen Fotos Steinhagen spricht"
+      - "dass der Makler den Garten vorzeigbar haben will"
+      - "dass am letzten Freitag im Juli ein Fotograf für Gartenfotos kommen soll"
+      - "dass Jonas am Donnerstag zur Abnahme nach Hamburg muss und eine Einlage für die Partnerschaft fällig ist"
+      - "dass Jonas sie vom Hügel hinter der Scheune bei der Arbeit beobachtet hat"
+      - "warum Jonas an der Mauer beim Tor einen Moment still und abwesend war"
+      - "dass Jonas beim Brombeerräumen an die Stellplätze des Lageplans gedacht hat, die genau dort liegen"
+      - "dass Jonas als Kind barfuß auf Hannes' Hänger über die Stoppeln mitgefahren ist"
+  ralf-steinhagen:
+    knows:
+      - text: "Jonas Behrendts Nummer hat er vom Makler."
+        from: ch03/s03
+      - text: "Die Zimmerzahl des Gutshauses, die Grundfläche der Scheune auf den Quadratmeter und das Baujahr."
+        from: ch03/s03
+      - text: "Weidenkamps Plan für das Gut: rund zwanzig Zimmer im Gutshaus, Spa und Seminarraum in Kuhstall und Scheune, ein Saunahaus am Steg; der Parkplatz liegt im Lageplan auf dem Rosengarten, ein paar Rosen bleiben in Kübeln."
+        from: ch04/s02
+      - text: "Mitte Juli hat er das Gut besichtigt und dabei Marie Albers, Hannes Kröger und Grete Paulsen kennengelernt; jeden Namen hat er sich gemerkt."
+        from: ch04/s01
+      - text: "Laut Marie ist der Rosengarten in den Dreißigerjahren angelegt, und die 'Rosa Mundi' ist älter als sie beide zusammen."
+        from: ch04/s01
+      - text: "Hannes Kröger hat gefragt, wo das Erntefest hin soll; er hat ihm eine Veranstaltungsfläche gegen Gebühr angeboten."
+        from: ch04/s01
+      - text: "Grete Paulsen hat ein lebenslanges Wohnrecht auf dem Gut."
+        from: ch04/s02
+      - text: "Er hat Jonas die Unterlagen dagelassen; Jonas hat weder zu- noch abgesagt."
+        from: ch04/s02
+    believes:
+      - text: "Ein Haus mit Geschichte ist genau das, was die Gäste heute suchen."
+        from: ch03/s03
+      - text: "Die Fläche hinter dem Haus ist ein Pfund: ebener Grund, kurze Wege, die Mauer gibt den Sichtschutz gratis."
+        from: ch04/s01
+      - text: "Jonas' Stille ist Zustimmung."
+        from: ch04/s02
+      - text: "Seinem Herrenhaus im Süden fehlt etwas, seit der alte Park für den Anbau weg musste; was, könnte er nicht sagen."
+        from: ch04/s02
+    does_not_know:
+      - "dass Hedwigs Testament den Rosengarten zum Erntefest am 5. September wieder blühen sehen will"
+      - "dass hinter dem Laubengang unter den Brombeeren der letzte Stock der Lindenhof-Rose steht"
+      - "dass Jonas Marie über seinen Besuch nur 'Ein Interessent' gesagt hat"
+      - "dass das Dorf an einem Samstag Mitte Juli den Rosengarten gemeinsam hergerichtet hat und Jonas mitgearbeitet hat"
+      - "dass an der Südmauer eine alte 'Ghislaine de Féligonde' freigelegt wurde"
+      - "dass Marie und Jonas sich geküsst haben"
