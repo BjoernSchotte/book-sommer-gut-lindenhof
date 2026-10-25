@@ -96,4 +96,7 @@ paragraphs:
       replacements:
         - Bast bündel
   82febcc531a7: []
-ignored: []
+ignored:
+  - rule: DE_DU_UPPER_LOWER
+    quote: Du
+    paragraph: "474549012658"
