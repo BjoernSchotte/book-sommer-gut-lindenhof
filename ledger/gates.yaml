@@ -540,3 +540,12 @@
   findings:
     error: 0
     warn: 0
+- gate: scene
+  approved: 2026-10-25T00:15:43.235Z
+  by: claude
+  inputs:
+    manuscript/ch04/s02.md: 68b6c3
+  scope: ch04/s02
+  note: Nur style.tic-density knapp über der Grenze (6,3 statt 6), eine der
+    Floskeln ist die Auflage zu f-jw4ks49w; Szene so abgenommen
+  on_behalf: author
