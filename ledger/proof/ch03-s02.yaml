@@ -156,4 +156,7 @@ paragraphs:
         - irgendeines
   771b971b6c10: []
   4762ed173b3b: []
-ignored: []
+ignored:
+  - rule: DE_DU_UPPER_LOWER
+    quote: Du
+    paragraph: ecc9b5393dba
