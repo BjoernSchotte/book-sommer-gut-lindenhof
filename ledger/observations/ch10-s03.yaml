@@ -1,5 +1,5 @@
 source: manuscript/ch10/s03.md
-source_hash: b5a114
+source_hash: b585f8
 extracted_by: bb-ingest
 gaps:
   - "Uhrzeiten fehlen: Aussprache „im späten Nachmittag“, Lampions „am Abend“; keine strukturierte Zeitangabe möglich."
@@ -42,7 +42,7 @@ items:
       - garten
     tags: []
   - kind: place_fact
-    quote: Mats hatte die Bank im Juli gerichtet, das Holz war weiß und glatt.
+    quote: Mats hatte die Bank im Juli gerichtet, das Holz war hell und glatt.
     status: fact
     about:
       - garten
@@ -198,18 +198,41 @@ items:
     about:
       - jonas-behrendt
     tags: []
+  - kind: event
+    who: marie-albers
+    quote: Marie strich mit dem Daumen über das glatte Holz.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
   - kind: speech
     who: marie-albers
     quote: Hier hat Hedwig im letzten Herbst meine Hand genommen. Sie hat gesagt, sie wünscht sich, dass ich den Garten einmal weiterführe.
     status: fact
     about:
       - marie-albers
+      - jonas-behrendt
       - garten
     tags: []
     fact:
       subject: jonas-behrendt
       predicate: knows
       value: Hedwig wünschte sich Marie als Nachfolgerin im Garten
+  - kind: narrator_claim
+    quote: Mit jedem Wort wurde ihre Stimme fester.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Das will ich. Mit meinem eigenen Betrieb und mit meinem Wort.
+    status: claim
+    about:
+      - marie-albers
+      - garten
+    tags: []
   - kind: speech
     who: marie-albers
     quote: An deiner Seite, Jonas. Nicht in deinem Auftrag.
@@ -218,6 +241,14 @@ items:
       - marie-albers
       - jonas-behrendt
       - garten
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Sie hielt seinen Blick.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: marie-albers
@@ -332,9 +363,21 @@ items:
       - jonas-behrendt
       - garten
     tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: Marie kannte die Zeile, nur an den Erben hatte sie bei dem Namen nie gedacht.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: Der Jonas aus Hedwigs Notiz zum ersten Steckling ist der Erbe
   - kind: event
     who: marie-albers
-    quote: Marie kniete sich neben ihn ins Gras, mitten im hellen Kleid, und legte ihre Hand auf seine.
+    quote: Sie kniete sich neben ihn ins Gras, mitten im hellen Kleid, und legte ihre Hand auf seine.
     status: fact
     about:
       - marie-albers
@@ -531,18 +574,25 @@ items:
     tags: []
   - kind: event
     who: marie-albers
-    quote: Unter ihrer Wange schlug sein Herz.
+    quote: Unter ihrer Wange schlug sein Herz, und ihr eigenes antwortete.
     status: fact
     about:
       - marie-albers
       - jonas-behrendt
     tags: []
+  - kind: event
+    who: marie-albers
+    quote: Ihr wurden die Augen nass
+    status: fact
+    about:
+      - marie-albers
+    tags: []
   - kind: belief
     who: marie-albers
-    quote: Sie schloss die Augen und war angekommen.
+    quote: sie wusste, dass sie angekommen war
     status: belief
     about:
       - marie-albers
     tags: []
 end_actual: closure
-end_quote: Sie schloss die Augen und war angekommen.
+end_quote: Ihr wurden die Augen nass, und sie wusste, dass sie angekommen war.
