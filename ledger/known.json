@@ -507,9 +507,10 @@
     "at": "2026-10-25T03:47:41.734Z"
   },
   "manuscript/ch09/s02.md": {
-    "hash": "2fe2bb",
-    "by": "author",
-    "at": "2026-10-25T04:16:34.514Z"
+    "hash": "0dccc9",
+    "by": "apply",
+    "at": "2026-10-25T09:09:34.167Z",
+    "unit": "ch09/s02"
   },
   "manuscript/ch10/s01.md": {
     "hash": "7366a9",
