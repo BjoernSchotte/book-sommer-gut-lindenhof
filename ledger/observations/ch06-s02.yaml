@@ -1,5 +1,5 @@
 source: manuscript/ch06/s02.md
-source_hash: ee8fe6
+source_hash: b1110b
 extracted_by: bb-ingest
 gaps:
   - Szenenzeit nur „Donnerstag, spät am Abend“, keine Uhrzeit; daher keine Struktur für die Zeitleiste. Welcher Donnerstag (nach ch06/s01, Dienstag Ende Juli) sagt der Text nicht.
@@ -13,6 +13,7 @@ gaps:
   - Hedwig hat keine Wiki-Seite; ihr Lachen und ihre Antwort in Absatz 21 stehen ohne `who`.
   - Absatz 9 nennt „seit vierzig Jahren“ als Gretes Schätzung für das Alter der Ordner; ob alle Ordner so alt sind, sagt der Text nicht.
   - Absatz 30 sagt nicht, ob Jonas die Fensterrechnung am nächsten Tag tatsächlich sucht.
+  - Ob Marie die Seite mit Hedwigs Notiz zum ersten Steckling kennt, lässt der Absatz offen; Jonas fragt es sich nur.
 items:
   - kind: event
     who: jonas-behrendt
@@ -328,12 +329,32 @@ items:
       value: erinnert sich wieder an das Pflanzen des ersten Stecklings mit Hedwig
   - kind: event
     who: jonas-behrendt
+    quote: Jonas klappte das Buch zu.
+    status: fact
+    about:
+      - jonas-behrendt
+      - arbeitszimmer
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: Kannte Marie diese Seite, und wenn ja, warum hatte sie nichts gesagt?
+    status: belief
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
     quote: Er legte es zurück neben die Lampe, ein wenig schräg zur Tischkante, genau so, wie es gelegen hatte.
     status: fact
     about:
       - jonas-behrendt
       - arbeitszimmer
     tags: []
+    fact:
+      subject: arbeitszimmer
+      predicate: has_object
+      value: Hedwigs Gartenbuch, neben der Lampe auf dem Schreibtisch
   - kind: event
     who: jonas-behrendt
     quote: Dann knipste er das Licht aus und setzte sich doch, auf Hedwigs Stuhl.
