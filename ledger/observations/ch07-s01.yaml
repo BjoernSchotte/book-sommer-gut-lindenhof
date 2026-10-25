@@ -1,5 +1,5 @@
 source: manuscript/ch07/s01.md
-source_hash: 9a76a7
+source_hash: 1d7c6e
 extracted_by: bb-ingest
 gaps:
   - Ob Grete Jonas' Ausrede glaubt, lässt die Szene offen.
@@ -10,6 +10,8 @@ gaps:
   - Die Höhe der Dachdecker-Summe nennt Absatz 4 nicht.
   - Die Höhe der Anzahlung von Weidenkamp und ob die Partner sie als Sicherheit annehmen, lässt Absatz 4 offen; es ist Jonas' Rechnung.
   - Wann Jonas den Dachdecker zuvor angerufen hat, erzählt die Szene nicht; Absatz 4 nennt nur den Rückruf.
+  - Die Höhe der vereinbarten Summe und des Rücktrittspreises nennt Absatz 14 nicht.
+  - Ob Grete Jonas' Antwort „Hier war er nicht.“ als Ausweichen erkennt, lässt Absatz 28 offen.
 items:
   - kind: event
     who: jonas-behrendt
@@ -247,6 +249,13 @@ items:
     about:
       - notariat
     tags: []
+  - kind: event
+    quote: Er las den Vorvertrag vor, Seite um Seite, ohne ein Wort zu betonen.
+    status: fact
+    about:
+      - notariat
+      - jonas-behrendt
+    tags: []
   - kind: place_fact
     quote: An der Wand tickte eine Uhr.
     status: fact
@@ -265,8 +274,20 @@ items:
       subject: jonas-behrendt
       predicate: knows
       value: Rücktrittsrecht bis 10. September
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Der fraß fast alles, was er für die Einlage gespart hatte.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Preis eines Rücktritts kostet fast alles, was er für die Einlage gespart hat
   - kind: narrator_claim
-    quote: "Ohne es zu wollen, rechnete er nach: fünf Tage nach dem Fest."
+    quote: "Ohne es zu wollen, rechnete er die Frist nach: fünf Tage nach dem Fest."
     status: fact
     about:
       - jonas-behrendt
@@ -397,8 +418,17 @@ items:
       value: Dorf redet über den Herrn mit dem silbernen Auto
   - kind: speech
     who: jonas-behrendt
-    quote: Ich hatte Termine in der Stadt. Büro. Nichts Besonderes.
-    status: lie
+    quote: Hier war er nicht.
+    status: claim
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Ich hatte Termine in der Stadt. Nichts Besonderes.
+    status: claim
     about:
       - jonas-behrendt
       - grete-paulsen

@@ -23,9 +23,10 @@ links: [grundlage, jonas-behrendt, ralf-steinhagen]
 **Wiederkehrende Bilder:** die Mappe mit dem Lageplan (sie wandert in die unterste Schublade von Hedwigs Schreibtisch), Steinhagens Kugelschreiber, die kühle Luft hinter den Jalousien.
 
 ## Verlauf
-- ch07/s01 · „Bis in die Kreisstadt war es eine halbe Stunde.“ · Liegt eine halbe Autostunde vom Gut in der Kreisstadt (#5adfe8)
-- ch07/s01 · „Im Notariat war es kühl, die Jalousien waren heruntergelassen, und das Licht lag in Streifen auf dem langen hellen Tisch.“ · Kühl, heruntergelassene Jalousien, Lichtstreifen auf dem langen hellen Tisch (#5adfe8)
-- ch07/s01 · „In der Luft hing der Geruch von Papier und von Kaffee aus der Maschine.“ · Riecht nach Papier und Maschinenkaffee (#5adfe8)
-- ch07/s01 · „Der Notar war ein älterer Mann mit ruhiger Stimme.“ · Der Notar, älter und ruhig, liest den Vorvertrag ohne Betonung vor (#5adfe8)
-- ch07/s01 · „An der Wand tickte eine Uhr.“ · Wanduhr tickt (#5adfe8)
-- ch07/s01 · „Dann unterschrieb er, ohne abzusetzen, und legte den Kugelschreiber zurück auf den Tisch.“ · Jonas unterschreibt hier den Vorvertrag in Steinhagens Beisein (#5adfe8)
+- ch07/s01 · „Bis in die Kreisstadt war es eine halbe Stunde.“ · Liegt eine halbe Autostunde vom Gut in der Kreisstadt (#1d7c6e)
+- ch07/s01 · „Im Notariat war es kühl, die Jalousien waren heruntergelassen, und das Licht lag in Streifen auf dem langen hellen Tisch.“ · Kühl, heruntergelassene Jalousien, Lichtstreifen auf dem langen hellen Tisch (#1d7c6e)
+- ch07/s01 · „In der Luft hing der Geruch von Papier und von Kaffee aus der Maschine.“ · Riecht nach Papier und Maschinenkaffee (#1d7c6e)
+- ch07/s01 · „Dann unterschrieb er, ohne abzusetzen, und legte den Kugelschreiber zurück auf den Tisch.“ · Jonas unterschreibt hier den Vorvertrag in Steinhagens Beisein (#1d7c6e)
+- ch07/s01 · „Der Notar war ein älterer Mann mit ruhiger Stimme.“ · Der Notar ist ein älterer Mann mit ruhiger Stimme (#1d7c6e)
+- ch07/s01 · „Er las den Vorvertrag vor, Seite um Seite, ohne ein Wort zu betonen.“ · Der Notar liest den Vorvertrag Seite um Seite ohne Betonung vor (#1d7c6e)
+- ch07/s01 · „An der Wand tickte eine Uhr.“ · Wanduhr tickt (#1d7c6e)

@@ -74,13 +74,6 @@ links: [jonas-behrendt, marie-albers, grete-paulsen, hannes-kroeger, lena-hansen
 Steinhagen hat keinen eigenen Bogen. Er kommt im Juli freundlich mit einem Angebot, bringt Mitte August den Vorvertrag und nimmt Jonas' Rücktritt rund um das Erntefest höflich hin. Er geht ohne Groll, und die Leserin weiß: niemand ist zu Schaden gekommen, das Gut hat nur den richtigen Menschen gefunden.
 
 ## Verlauf
-- ch07/s01 · „Ralf Steinhagen stand auf, als Jonas hereinkam, das Sakko über dem Arm.“ · Erwartet Jonas im Notariat, Sakko über dem Arm (#5adfe8)
-- ch07/s01 · „Auf der Kreisstraße habe ich drei Mähdrescher gezählt.“ · Plaudert verbindlich über das Erntewetter (#5adfe8)
-- ch07/s01 · „Er ist nicht so gut wie der von Frau Paulsen, das gebe ich gleich zu.“ · Bietet Kaffee an und lobt Gretes Kaffee (#5adfe8)
-- ch07/s01 · „Gezogen hat so etwas bei uns noch nie jemand.“ · Nennt das Rücktrittsrecht eine Formalie, die nie gezogen wird (#5adfe8)
-- ch07/s01 · „Steinhagen legte ihm einen Kugelschreiber hin, dunkelblau, mit dem Firmenlogo in Silber.“ · Reicht Jonas zur Unterschrift seinen dunkelblauen Kugelschreiber mit silbernem Firmenlogo (#5adfe8)
-- ch07/s01 · „Behalten Sie ihn ruhig“ · Will Jonas den Kugelschreiber schenken; Jonas schiebt ihn zurück (#5adfe8)
-- ch07/s01 · „Über den Herrn mit dem silbernen Auto. Ob der wiedergekommen ist.“ · Das Dorf redet über ihn als den Herrn mit dem silbernen Auto (#5adfe8)
 - ch04/s01 · „Ein Firmenwagen, mit schmalem Schriftzug an der Tür.“ · Kommt Mitte Juli im silbernen, frisch gewaschenen Firmenwagen die Lindenallee herauf (#3dc24e)
 - ch04/s01 · „Ein Mann stieg aus, Ende vierzig, graumeliert, im hellblauen Hemd.“ · Ende vierzig, graumeliert, hellblaues Hemd, Sakko über dem Arm (#3dc24e)
 - ch04/s01 · „Er trug Slipper aus hellem Wildleder und setzte sie mit Bedacht auf den Hof“ · Wildlederslipper, setzt die Schritte mit Bedacht; Rasierwasser (#3dc24e)
@@ -132,3 +125,11 @@ Steinhagen hat keinen eigenen Bogen. Er kommt im Juli freundlich mit einem Angeb
 - ch03/s03 · „Ein Haus mit Geschichte“ · Spricht vom „Haus mit Geschichte“ für die Gäste (#1f8ffc)
 - ch03/s03 · „Wir denken an Zimmer im Haupthaus, Spa und Seminarraum in Kuhstall und Scheune.“ · Nennt den Plan: Zimmer im Haupthaus, Spa und Seminarraum in Kuhstall und Scheune (#1f8ffc)
 - ch03/s03 · „Alles behutsam, das versteht sich von selbst.“ · Verspricht, alles „behutsam“ umzubauen (#1f8ffc)
+- ch07/s01 · „Ralf Steinhagen stand auf, als Jonas hereinkam, das Sakko über dem Arm.“ · Erwartet Jonas im Notariat, Sakko über dem Arm (#1d7c6e)
+- ch07/s01 · „Auf der Kreisstraße habe ich drei Mähdrescher gezählt.“ · Plaudert verbindlich über das Erntewetter (#1d7c6e)
+- ch07/s01 · „Er ist nicht so gut wie der von Frau Paulsen, das gebe ich gleich zu.“ · Bietet Kaffee an und lobt Gretes Kaffee (#1d7c6e)
+- ch07/s01 · „Gezogen hat so etwas bei uns noch nie jemand.“ · Nennt das Rücktrittsrecht eine Formalie, die nie gezogen wird (#1d7c6e)
+- ch07/s01 · „Steinhagen legte ihm einen Kugelschreiber hin, dunkelblau, mit dem Firmenlogo in Silber.“ · Reicht Jonas zur Unterschrift seinen dunkelblauen Kugelschreiber mit silbernem Firmenlogo (#1d7c6e)
+- ch07/s01 · „Behalten Sie ihn ruhig“ · Will Jonas den Kugelschreiber schenken; Jonas schiebt ihn zurück (#1d7c6e)
+- ch07/s01 · „Über den Herrn mit dem silbernen Auto. Ob der wiedergekommen ist.“ · Das Dorf redet über ihn als den Herrn mit dem silbernen Auto (#1d7c6e)
+- ch07/s01 · „Hier war er nicht.“ · Jonas verschweigt Grete das Treffen mit ihm: auf dem Gut sei er nicht gewesen (#1d7c6e)
