@@ -1,10 +1,12 @@
 source: manuscript/ch09/s01.md
-source_hash: 57b3bd
+source_hash: 75d690
 extracted_by: bb-ingest
 gaps:
   - Keine Uhrzeiten in der Szene; Küchengespräch (Montagabend) und Anruf (Dienstagmorgen) nur als Tagesangaben, daher ohne Zeitleisten-Struktur.
   - Datum des Dienstags (1. September) erschlossen aus „Montag, der einunddreißigste August“, nicht wörtlich genannt.
   - Wann und wie die Partner die Einlage bis nach dem Fest gestundet haben, zeigt keine Szene; ch07/s01 und ch08/s01 nennen noch die Frist bis Monatsende. Absatz 11 setzt die Stundung als geschehen voraus.
+  - Höhe des Ersparten und der Einlage bleibt offen; Absatz 11 sagt nur, dass die 38.000 für Notar und Planung aus dem für die Einlage gedachten Ersparten kommen sollen.
+  - Der Tagesanbruch („Himmel grau“, Amsel) hat keine Uhrzeit; deshalb ohne Zeitleisten-Struktur (event/day/at).
 items:
   - kind: speech
     who: jonas-behrendt
@@ -239,6 +241,13 @@ items:
   - kind: event
     who: jonas-behrendt
     quote: "Darunter setzte er: Büro zwei Tage, drei hier."
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Und daneben, kleiner: Notar und Planung, 38.000, aus dem Ersparten, das für die Einlage gedacht war."
     status: fact
     about:
       - jonas-behrendt
