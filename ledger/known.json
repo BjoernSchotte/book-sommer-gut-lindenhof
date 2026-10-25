@@ -27,10 +27,10 @@
     "unit": "ch09/s02"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "df7a56",
+    "hash": "229dff",
     "by": "apply",
-    "at": "2026-10-25T01:21:58.993Z",
-    "unit": "ch09/s02"
+    "at": "2026-10-25T01:37:44.801Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "2aecb0",
@@ -39,10 +39,10 @@
     "unit": "ch05/s01"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "db5185",
+    "hash": "ee2f3c",
     "by": "apply",
-    "at": "2026-10-25T01:21:58.993Z",
-    "unit": "ch09/s02"
+    "at": "2026-10-25T01:37:44.801Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
     "hash": "e2174c",
@@ -338,9 +338,9 @@
     "unit": "ch08/s03"
   },
   "ledger/observations/ch09-s01.yaml": {
-    "hash": "afba6b",
+    "hash": "d0c85d",
     "by": "apply",
-    "at": "2026-10-25T01:14:22.273Z",
+    "at": "2026-10-25T01:37:44.801Z",
     "unit": "ch09/s01"
   },
   "ledger/observations/ch09-s02.yaml": {
