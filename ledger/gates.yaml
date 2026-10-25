@@ -681,3 +681,39 @@
   findings:
     error: 0
     warn: 281
+- gate: handoff
+  approved: 2026-10-25T12:55:34.200Z
+  by: factory:kuestenherzen
+  inputs:
+    book.yaml: ad8329
+    manuscript/ch01/s01.md: 7122f5
+    manuscript/ch01/s02.md: e71a4f
+    manuscript/ch01/s03.md: eceda0
+    manuscript/ch02/s01.md: 2eb83c
+    manuscript/ch02/s02.md: 53bc2c
+    manuscript/ch02/s03.md: 0b1476
+    manuscript/ch03/s01.md: e9dc82
+    manuscript/ch03/s02.md: f75981
+    manuscript/ch03/s03.md: 51001a
+    manuscript/ch04/s01.md: 3e4cd8
+    manuscript/ch04/s02.md: 68b6c3
+    manuscript/ch05/s01.md: 5ff2ac
+    manuscript/ch05/s02.md: 1dd523
+    manuscript/ch05/s03.md: 2b0b6e
+    manuscript/ch06/s01.md: 506bb0
+    manuscript/ch06/s02.md: b29647
+    manuscript/ch06/s03.md: 087be4
+    manuscript/ch07/s01.md: 0a3d63
+    manuscript/ch07/s02.md: 5e69b0
+    manuscript/ch08/s01.md: b935f5
+    manuscript/ch08/s02.md: 44cebe
+    manuscript/ch08/s03.md: 450efc
+    manuscript/ch09/s01.md: 75d690
+    manuscript/ch09/s02.md: 20340c
+    manuscript/ch10/s01.md: c5b78f
+    manuscript/ch10/s02.md: 85d5c2
+    manuscript/ch10/s03.md: 59261c
+  hold: error
+  findings:
+    error: 0
+    warn: 217
