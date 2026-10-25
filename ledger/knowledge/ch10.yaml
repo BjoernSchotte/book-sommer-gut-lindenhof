@@ -1,4 +1,4 @@
-based_on: ["ch09#8f1a50", "ch10/s01#455df7", "ch10/s02#b93375", "ch10/s03#b585f8"]
+based_on: ["ch09#8f1a50", "ch10/s01#455df7", "ch10/s02#b93375", "ch10/s03#8ebbdb"]
 characters:
   grete-paulsen:
     knows:
@@ -68,11 +68,15 @@ characters:
         from: ch09/s02
       - text: "Marie hat ihr gesagt, der Kuchen sei nicht zu süß, die Mandeln saftig, da habe Hannes nichts zu meckern; das habe sie ihr schon am Freitag sagen wollen. Sie hat Marie einmal über den Zopf gestrichen und ist ins Haus zurückgegangen."
         from: ch09/s02
-      - text: "Am Samstag, dem 5. September, kurz nach sechs, hat sie Marie in der guten dunkelblauen Bluse mit Hedwigs Brosche am Kragen Kaffee mit Milch in den Garten gebracht (\"Milch ist drin.\", \"Na. Da kann das Dorf kommen.\"); Marie sagte, am Rondell fehlten noch zwei Astern. Über Jonas hat sie kein Wort gesagt."
+      - text: "Am Festmorgen, Samstag, dem 5. September, kurz nach sechs, hat sie in der guten dunkelblauen Bluse mit Hedwigs blank geputzter Brosche Marie Kaffee mit Milch gebracht (\"Milch ist drin.\"); auf Maries Einwand, am Rondell fehlten noch zwei Astern, sagte sie: \"Die fehlen nur dir.\" Über Jonas hat sie kein Wort gesagt, Marie hat nicht gefragt."
         from: ch10/s01
-      - text: "Am Festnachmittag stand sie in der Scheune an der Kaffeemaschine; auf ihrem Tresen bei Lena standen ihre Bleche Butterkuchen und Bienenstich. Sie hat Marie und Jonas zusammen vor Lenas Fotowand stehen sehen und in den Dampf hinein gelächelt."
+      - text: "Sie hat Marie gesagt, sie solle sich was Schönes anziehen."
+        from: ch10/s01
+      - text: "Beim Fest stehen auf Lenas Tresen in der Scheune ihre Bleche: Butterkuchen mit den saftigen Mandeln und Bienenstich."
         from: ch10/s02
-      - text: "Am Abend hat Hannes ihr im Garten zwischen den Lampions die Hand hingehalten; sie hat gesagt: \"Bist du nicht klug, in unserm Alter?\" und dann doch mit ihm getanzt."
+      - text: "Von der Kaffeemaschine aus hat sie Marie und Jonas vor Lenas Fotowand zusammen stehen sehen und in den Dampf hinein gelächelt."
+        from: ch10/s02
+      - text: "Am Abend hat Hannes sie zum Tanz aufgefordert, die Mütze in der Hand; sie hat gefragt, ob er nicht klug sei, in ihrem Alter, und dann doch mit ihm getanzt."
         from: ch10/s03
     believes:
       - text: "Jonas will das Gut verkaufen (so sagt es Marie); das ist seine Sache, der Garten ist Maries."
@@ -85,17 +89,17 @@ characters:
         from: ch09/s01
       - text: "Die Deern hat mehr Ausdauer als der Giersch."
         from: ch09/s02
-      - text: "Der Garten ist fertig fürs Fest; die zwei fehlenden Astern fehlen nur Marie."
+      - text: "Der Garten ist fürs Fest fertig: \"Da kann das Dorf kommen.\""
         from: ch10/s01
     does_not_know:
       - "Dass Jonas am Donnerstag, dem 13. August, beim Notar in der Kreisstadt den Vorvertrag mit Weidenkamp unterschrieben hat (Rücktrittsrecht bis zum 10. September) und am Dienstag, dem 1. September, telefonisch davon zurückgetreten ist."
       - "Dass Jonas für den Rücktritt die Kosten für Notar und Planung selbst trägt, 38.000 Euro aus dem Ersparten für die Einlage."
-      - "Dass Jonas die Partnerschaft im Büro in Hamburg persönlich abgesagt hat und künftig drei Tage die Woche vom Gut aus arbeiten will."
+      - "Dass Jonas in Hamburg die Partnerschaft im Büro persönlich abgesagt hat und künftig drei Tage die Woche vom Gut aus arbeiten will."
+      - "Dass Jonas Marie unter der Kletterrose gesagt hat, ihr Haus bleibe ihr Haus und das Erntefest bleibe jedes Jahr auf dem Gut."
       - "Dass Jonas Hannes am 1. September zugesagt hat, das Fest bleibe nicht nur dieses Jahr auf dem Gut, sondern auch nächstes und danach."
-      - "Dass Jonas Marie unter der Kletterrose gesagt hat, Gretes Haus bleibe Gretes Haus und er bleibe."
       - "Wie Marie vom Parkplatz erfahren hat: dass sie im untersten Fach von Hedwigs Schreibtisch unter den Dachrechnungen die Weidenkamp-Mappe mit Lageplan und Vorvertrag gefunden hat."
       - "Dass im Lageplan der Parkplatz genau auf dem Rosengarten liegt, bis in die Ecke hinter dem Laubengang."
-      - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat, dass er blüht und dass Marie am 2. September einen Steckling daneben gepflanzt hat."
+      - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat, dass er blüht und dass Marie am 2. September einen Steckling daneben gepflanzt hat, der nun ein neues Blatt treibt."
       - "Dass Marie in Klein Lindau Stecklinge der Lindenhof-Rose unter Folie gezogen hat und beide angewachsen sind."
       - "Was Jonas im Gartenbuch gelesen hat: Hedwigs Notiz, dass er beim ersten Steckling der Lindenhof-Rose das Loch gegraben und gegossen hat."
       - "Dass Jonas die Rechnungen für einen Gutachter zur Wertermittlung braucht."
@@ -104,10 +108,14 @@ characters:
       - "Dass der Makler Ende Juli einen Fotografen schicken wollte."
       - "Was Weidenkamp sonst plant: rund zwanzig Zimmer im Gutshaus, Spa und Seminarraum in Kuhstall und Scheune, Saunahaus am Steg."
       - "Dass Weidenkamp ihr bei freiwilligem Auszug eine großzügige Abfindung vorsieht und Steinhagen Jonas gebeten hat, das bei ihr anzusprechen."
-      - "Dass Marie und Jonas sich am Abend nach dem Helfersamstag auf dem Steg geküsst haben."
+      - "Dass Marie und Jonas sich seit dem Gewitter unter dem Laubengang duzen."
+      - "Dass Hannes gefragt hat, ob das Erntefest auf dem Gut bleibt, und dass Jonas ihm am 14. August zugesagt hat, das Fest finde dieses Jahr auf dem Gut statt."
+      - "Dass der Ausschuss bis Freitag, den 14., eine Zusage für das Erntefest auf dem Gut verlangt hat, sonst wäre im Zelt hinter dem Feuerwehrhaus gefeiert worden."
+      - "Dass Jonas im Büro eine Partnerschaft angeboten wurde und die Partner ihm die Einlage bis nach dem Fest gestundet haben."
+      - "Dass Marie und Jonas sich am Abend nach dem Helfersamstag auf dem Steg und am Festnachmittag in der Mauerecke hinter dem Laubengang geküsst haben."
+      - "Dass Jonas und Marie sich unter der Kletterrose ihre Liebe gestanden haben und Marie den Garten mit eigenem Betrieb an Jonas' Seite weiterführen will."
       - "Dass Marie in der Nacht zu Lena gegangen ist und ihr von Vorvertrag, Steg und Hedwigs Wunsch erzählt hat."
       - "Wo Marie zwischen Donnerstag, dem 27. August, und Mittwoch, dem 2. September, gewesen ist."
-      - "Was Jonas Marie am Festnachmittag unter der Kletterrose gesagt hat und dass die beiden sich dort ausgesprochen haben."
   hannes-kroeger:
     knows:
       - text: "Der Hauptweg ist frei, die Buchskanten stehen, und die 'Ghislaine' hängt wieder an ihren Bögen im Laubengang."
@@ -172,11 +180,9 @@ characters:
         from: ch09/s02
       - text: "Marie hat ihm gesagt: \"Samstag ist Fest, Hannes. Und was danach mit dem Garten wird, sagt mir keiner. Jonas am wenigsten.\""
         from: ch09/s02
-      - text: "Am Festmorgen, Samstag, dem 5. September, stand er schon um fünf in Weste in der Küche."
+      - text: "Am Festsamstag, dem 5. September, ist Jonas im Umzug vorn Hedwigs alten Trecker mit der Erntekrone durch die Lindenallee gefahren; er selbst ist in Weste, die Ehrennadel am Revers, die Mütze in der Hand, neben dem Vorderrad gegangen, wo er früher neben Hedwig Schritt gehalten hat. Das Dorf hat geklatscht."
         from: ch10/s01
-      - text: "Im Umzug am frühen Nachmittag fuhr Jonas Hedwigs alten Trecker mit der Erntekrone vorn durch die Lindenallee; er ging in Weste, die Ehrennadel am Revers, die Mütze in der Hand, neben dem Vorderrad, wo er früher neben Hedwig Schritt gehalten hat. Das Dorf hat geklatscht."
-        from: ch10/s01
-      - text: "Am Abend hat im Garten auf dem hellen Kies die Blaskapelle gespielt, das halbe Dorf hat zwischen Lavendel und Astern getanzt, Kalle mittendrin; er hat Grete mit abgenommener Mütze um einen Tanz gebeten, und sie hat nach \"Bist du nicht klug, in unserm Alter?\" mit ihm getanzt."
+      - text: "Am Abend hat er Grete zum Tanz aufgefordert; sie hat erst gefragt, ob er nicht klug sei, in ihrem Alter, und dann doch mit ihm getanzt."
         from: ch10/s03
     believes:
       - text: "Die Arbeit im Garten läuft gut (\"Dat löppt, Deern\")."
@@ -199,9 +205,9 @@ characters:
       - "Dass Jonas im Büro eine Partnerschaft angeboten wurde und er sie in Hamburg persönlich abgesagt hat."
       - "Dass der alte Stock hinter dem Laubengang der letzte Stock der Lindenhof-Rose ist und Marie den Steckling in Klein Lindau davon gezogen hat."
       - "Dass Marie und Jonas sich am Abend nach dem Helfersamstag auf dem Steg geküsst haben."
-      - "Dass Marie am 27. August den Vorvertrag gefunden hat und Jonas' Zusage an ihn als bloß für dieses Jahr gemeint hörte."
+      - "Ob und was Jonas Marie am Festnachmittag unter der Kletterrose gesagt hat."
+      - "Dass Marie am 27. August den Vorvertrag gefunden hat und Jonas' Zusage an ihn als bloß für dieses Jahr gemeint gehört hat."
       - "Dass Lena ihn am Morgen nach dem 27. August anrufen und das Dorf zusammentrommeln wollte und Marie das abgelehnt hat."
-      - "Was Jonas Marie am Festnachmittag unter der Kletterrose gesagt hat."
   jonas-behrendt:
     knows:
       - text: "Die Gärtnerin im Rosengarten heißt Marie Albers."
@@ -268,11 +274,7 @@ characters:
         from: ch05/s03
       - text: "Marie und er haben sich am Abend auf dem Steg geküsst; er wollte das seit dem Gewitter, Marie auch."
         from: ch05/s03
-      - text: "Marie hat ihn gefragt, ob er im Herbst noch hier ist; er hat geantwortet: \"Ich weiß es nicht.\""
-        from: ch05/s03
       - text: "Laut Marie kommt das Junibild nicht wieder; Glanz im September ist die Nachblüte der 'New Dawn', davor Lavendel und Katzenminze, Frauenmantel, Astern und am Laubengang Dahlien."
-        from: ch06/s01
-      - text: "Auf seine Nachricht \"Kommst du morgen wieder?\" hat Marie geantwortet: \"Die Rosen fragen das nicht. Die wissen das.\""
         from: ch06/s01
       - text: "Der Gutachter will für die Wertermittlung jede Rechnung in der Hand haben; er braucht die Rechnungen für Dach und Fenster. Die Dachrechnung (Umdeckung Nordseite, mit Stempel) hat er gefunden."
         from: ch06/s02
@@ -280,7 +282,7 @@ characters:
         from: ch06/s02
       - text: "Auf einer Seite 'Lindenhof-Rose' hat Hedwig vor sechsundzwanzig Jahren im Juli notiert: \"Erster Steckling, Jonas hat das Loch gegraben und gegossen, er wollte ihn jeden Morgen messen.\""
         from: ch06/s02
-      - text: "Er erinnert sich wieder: Hedwigs Hand über seiner beim Pflanzen (\"Nicht drücken\"), der Steckling im Erdbeer-Joghurtbecher, jeden Morgen barfuß mit dem Lineal zum Messen."
+      - text: "Er erinnert sich wieder: Hedwigs Hand über seiner beim Pflanzen (\"Nicht drücken\"), der Steckling im Erdbeer-Joghurtbecher, jeden Morgen barfuß mit dem Lineal zum Messen. Wo genau er das Loch gegraben hat, weiß er nicht mehr."
         from: ch06/s02
       - text: "Hedwig hat ihm Brief um Brief geschrieben, er hat selten geantwortet; zu Weihnachten ein Anruf von zehn Minuten."
         from: ch06/s02
@@ -290,8 +292,6 @@ characters:
         from: ch06/s03
       - text: "Mit dem Büro telefoniert er vom Hügel hinter der Scheune; nur dort kommt das Gespräch durch."
         from: ch07/s01
-      - text: "Im Büro haben sie ihm eine Partnerschaft angeboten; die Einlage dafür hatten ihm die Partner bis nach dem Fest gestundet, weil Weidenkamps Anzahlung noch ausstand."
-        from: ch09/s01
       - text: "Der Dachdecker hat eine Summe für den Herbst genannt; das Haupthaus ist schlimmer als die Scheune (Nordseite, Rinnen)."
         from: ch08/s01
       - text: "Im Notariat in der Kreisstadt hat er am Donnerstag, dem 13. August, den Vorvertrag mit Weidenkamp unterschrieben; er enthält ein Rücktrittsrecht bis zum zehnten September, fünf Tage nach dem Fest."
@@ -326,33 +326,33 @@ characters:
         from: ch09/s01
       - text: "Steinhagen hat es fast geahnt, seit dem Notar (\"Sie wollten nur Wasser.\"), über den Preis kein Wort verloren; die Gruppe hat noch ein zweites Gut im Blick. Er hat ihm Glück mit dem Haus gewünscht."
         from: ch09/s01
-      - text: "Er hat Hannes am Fuß des Hügels gesagt, das Fest bleibe auf dem Gut, nicht nur dieses Jahr, nächstes auch und danach; Hannes bestellt das Zelt ab."
-        from: ch09/s01
-      - text: "Er hat Hannes gebeten, Marie nichts zu sagen; Hannes: \"Man redet nicht für andere\" und \"Aber lass sie nicht zu lange warten, Jung.\""
-        from: ch09/s01
-      - text: "In Hamburg hat er die Partnerschaft persönlich abgesagt."
+      - text: "In Hamburg hat er die Partnerschaft im Büro persönlich abgesagt."
         from: ch10/s03
-      - text: "Am Samstag, dem 5. September, hat er im Umzug Hedwigs alten Trecker mit der Erntekrone vorn durch die Lindenallee gefahren, Hannes in Weste neben dem Vorderrad; das Dorf hat geklatscht. Am Rand hat er Marie gefunden und ihr ernst zugenickt."
+      - text: "Er hat Hannes am Fuß des Hügels gesagt, das Fest bleibe auf dem Gut, nicht nur dieses Jahr, nächstes auch und danach; Hannes bestellt das Zelt ab. Er hat Hannes gebeten, Marie nichts zu sagen; Hannes: \"Man redet nicht für andere\" und \"Aber lass sie nicht zu lange warten, Jung.\""
+        from: ch09/s01
+      - text: "Am Festsamstag, dem 5. September, ist er im Umzug vorn Hedwigs alten Trecker mit der Erntekrone durch die Lindenallee gefahren, Hannes in Weste neben dem Vorderrad; das Dorf hat geklatscht. Am Rand hat er Marie gefunden und ihr ernst zugenickt."
         from: ch10/s01
-      - text: "In der Scheune hängt an Lenas Fotowand ein alter Abzug: Hedwig an der Gartenmauer, er als dünner barfüßiger Junge mit zerschrammtem Knie, oben auf den Backsteinen Marie als Mädchen mit Zopf. Marie ist das Mädchen, das ihn beschimpft hat, als er auf einen Rosenstock getreten war (\"Füße wie ein Ochse und keinen Verstand dazu\"); den Brief mit Zeichnung an Hedwig hat er in Gretes Keksdose wiedergefunden."
+      - text: "An Lenas Fotowand in der Scheune hängt ein altes Foto: Hedwig an der Gartenmauer, daneben er als dünner barfüßiger Junge mit zerschrammtem Knie, oben auf den Backsteinen ein Mädchen mit Zopf. Das Mädchen ist Marie; sie hat ihn beschimpft, weil er auf einen Rosenstock getreten war: Füße wie ein Ochse und keinen Verstand dazu."
         from: ch10/s02
-      - text: "Lena hat sich zwischen ihn und Marie geschoben (\"Sie trauen sich was, Herr Behrendt. Nach allem?\"); Marie hat sie am Arm gefasst: \"Lena. Das ist meine Sache.\""
+      - text: "Den Brief mit Zeichnung, in dem er Tante Hedwig davon geschrieben hat, hat er in Gretes Keksdose wiedergefunden."
         from: ch10/s02
-      - text: "Er hat Marie am Festnachmittag auf der Bank unter der Kletterrose als Erster gesagt: Rücktritt vom Vorvertrag am Dienstag, die Kosten trägt er selbst, Partnerschaft abgesagt, künftig drei Tage die Woche Arbeit vom Gut aus, das Dach in Abschnitten, das Erntefest bleibt jedes Jahr auf dem Gut, der Rosengarten bleibt dem Dorf, Gretes Haus bleibt Gretes Haus, er bleibt, und er liebt sie."
+      - text: "Lena hat sich vor der Fotowand zwischen ihn und Marie geschoben: \"Sie trauen sich was, Herr Behrendt. Nach allem?\" Marie hat sie zurückgehalten: \"Lena. Das ist meine Sache.\""
+        from: ch10/s02
+      - text: "Er hat Marie am späten Nachmittag auf der Bank unter der Kletterrose zuerst, vor allen anderen, gesagt: Rücktritt vom Vorvertrag am Dienstag, Kosten trägt er selbst, Partnerschaft abgesagt, drei Tage die Woche Arbeit vom Gut aus, Dach in Abschnitten, Erntefest jedes Jahr auf dem Gut, Rosengarten bleibt dem Dorf, Gretes Haus bleibt Gretes Haus, er bleibt, und er liebt sie."
         from: ch10/s03
-      - text: "Marie hat ihm gesagt, nicht nur der Parkplatz, sein Schweigen habe wehgetan, und auch den Rücktritt habe er wieder allein beschlossen, ohne sie."
+      - text: "Marie hat ihm gesagt: Der Parkplatz war es nicht, nicht nur; sein Schweigen hat wehgetan, und auch den Rücktritt hat er wieder allein beschlossen."
         from: ch10/s03
-      - text: "Auf der Bank hat Hedwig im letzten Herbst Maries Hand genommen und gesagt, sie wünsche sich, dass Marie den Garten einmal weiterführt. Marie will das, mit ihrem eigenen Betrieb und ihrem Wort, an seiner Seite, nicht in seinem Auftrag."
+      - text: "Auf dieser Bank hat Hedwig im letzten Herbst Maries Hand genommen und gesagt, sie wünsche sich, dass Marie den Garten einmal weiterführt."
         from: ch10/s03
-      - text: "Marie will, dass er sie in seine Entscheidungen hineinnimmt, vorher, nicht hinterher; er hat ohne Zögern Ja gesagt und gleich die erste Frage gestellt: Was soll aus dem leeren Kuhstall werden?"
+      - text: "Marie will den Garten weiterführen, mit eigenem Betrieb und eigenem Wort, an seiner Seite, nicht in seinem Auftrag; sie verlangt, dass er sie in seine Entscheidungen hineinnimmt, vorher, nicht hinterher. Er hat ohne Zögern Ja gesagt und gleich die erste Frage gestellt: was aus dem leeren Kuhstall werden soll."
         from: ch10/s03
-      - text: "Neben dem alten Stock der Lindenhof-Rose mit seiner einzigen, müden Blüte steht ein Steckling mit einem neuen rötlichen Blatt; Marie hat ihn seit Juni in ihrem Hinterhof gezogen, ein zweiter steht dort noch unter Folie."
+      - text: "Marie liebt ihn, seit dem Gewitter."
+        from: ch10/s03
+      - text: "Marie hat Stecklinge der Lindenhof-Rose in ihrem Hinterhof gezogen, seit Juni; einer steht nun eine Handbreit neben dem alten Stock und hat ein neues rötliches Blatt geschoben, der zweite steht noch unter der Folie. Die einzige Blüte am alten Stock hängt schon müde."
         from: ch10/s03
       - text: "Er hat Marie von Hedwigs Notiz zum ersten Steckling erzählt und dass er ihn jeden Morgen mit dem Lineal gemessen hat; Marie hat sich neben ihn ins Gras gekniet, ihre Hand auf seine gelegt und ihn geküsst."
         from: ch10/s03
-      - text: "Am Abend hat er mit Marie barfuß auf dem Kies zwischen den Lampions getanzt und ihr zweimal auf die Zehen getreten (\"Füße wie ein Ochse\" – \"Und keinen Verstand dazu\")."
-        from: ch10/s03
-      - text: "Lena hat ihm die Hand gegeben und ihn geduzt: \"Willkommen, Jonas\", \"Pass mir gut auf sie auf.\""
+      - text: "Am Abend hat er mit Marie barfuß auf dem Kies getanzt und ihr zweimal auf die Zehen getreten. Lena hat ihm die Hand gegeben: \"Willkommen, Jonas\", \"Pass mir gut auf sie auf.\" und zu Mats: \"Hab ich doch gleich gesagt.\""
         from: ch10/s03
     believes:
       - text: "Grete hat mehr geahnt als er."
@@ -361,26 +361,23 @@ characters:
         from: ch05/s02
       - text: "Seit dem abgesoffenen Floß rechnet er alles zweimal."
         from: ch05/s03
-      - text: "Er wollte Marie das nicht halb sagen."
-        from: ch08/s01
       - text: "Er rechnet nicht mehr aus, was sich lohnt, sondern was trägt."
         from: ch09/s01
       - text: "Hannes hat am Fest auf dem Gut gezweifelt, auch wenn er sagt, er habe nie daran gezweifelt."
         from: ch09/s01
-      - text: "Marie musste es zuerst hören, vor allen anderen."
-        from: ch10/s02
-      - text: "Das Loch für den ersten Steckling hat er irgendwo hier, in der Mauerecke hinter dem Laubengang, gegraben."
+      - text: "Der erste Steckling der Lindenhof-Rose stand irgendwo hier in der Mauerecke hinter dem Laubengang."
         from: ch10/s03
     does_not_know:
-      - "Ob Marie seine Nachrichten gelesen hat."
+      - "Dass Marie Hedwigs Zeile zum ersten Steckling schon kannte, aber beim Namen Jonas nie an den Erben gedacht hat."
+      - "Dass Marie schon am Steg geahnt hat, dass er der Junge von damals war."
       - "Wer das Gartenbuch aufgeschlagen in den Ledersessel im Arbeitszimmer gelegt hat."
+      - "Ob Marie seine Nachrichten gelesen hat."
       - "Dass Grete Marie das Gartenbuch aus dem Arbeitszimmer geholt hat."
       - "Dass Grete seine Ausrede vom 13. August durchschaut hat und Marie das gesagt hat."
       - "Dass Marie nach dem Streit zu Grete in die Küche und in der Nacht zu Lena gegangen ist und beiden vom Parkplatz erzählt hat."
-      - "Dass Lena Hannes und das Dorf anrufen wollte und Marie das abgelehnt hat."
-      - "Dass Marie seine Zusage an Hannes vom 14. August als bloß für dieses Jahr gemeint hörte."
-      - "Dass Marie Hedwigs Notiz zum ersten Steckling schon kannte, aber bei dem Namen nie an ihn gedacht hatte."
-      - "Dass Marie am Steg schon geahnt hatte, dass er der Junge von damals war."
+      - "Was genau Lena weiß und dass sie in jener Nacht Hannes und das Dorf anrufen wollte."
+      - "Dass Marie seine Zusage an Hannes vom 14. August als bloß für dieses Jahr gemeint gehört hat."
+      - "Dass Marie den Steckling am Mittwoch, dem 2. September, gepflanzt und an dem Tag wieder im Garten gearbeitet hat."
   lena-hansen:
     knows:
       - text: "Laut Marie stand in Jonas' Tabelle beim Laubengang 'Entsorgung' für beide Rankbögen der 'Ghislaine', die zweiundfünfzig Jahre alt sind; Jonas hat dann ein Fundament skizziert."
@@ -415,19 +412,17 @@ characters:
         from: ch08/s03
       - text: "Marie hat das nicht einmal ihr erzählt, weil es nach Erbschleicherei klingt; sie hat sich geschämt."
         from: ch08/s03
-      - text: "Gretes Butterkuchen, den Marie mitgebracht hat, hat sie mitten durch geschnitten."
+      - text: "Sie wollte am Morgen nach jener Nacht Hannes anrufen; Marie hat gesagt: \"Das ist meine Sache, Lena. Nicht die vom Dorf.\""
         from: ch08/s03
-      - text: "Sie wollte am Morgen Hannes anrufen; Marie hat gesagt: \"Das ist meine Sache, Lena. Nicht die vom Dorf.\""
-        from: ch08/s03
-      - text: "Sie hat Marie gefragt, was sie will; eine Antwort hat sie nicht bekommen."
-        from: ch08/s03
-      - text: "Am Erntefest hat sie in der Scheune an der Rückwand auf Mats' Stelltafeln Dutzende alter Fotos aufgehängt, aus dem Album der Petersens, aus Hedwigs Schublade und aus Hannes' Ausschusskiste, für Marie und für Hedwig; es sind die Fotos, die auf ihrem Küchentisch lagen."
+      - text: "Für das Erntefest hat sie Dutzende alte Fotos gesammelt, aus dem Album der Petersens, aus Hedwigs Schublade und aus Hannes' Ausschusskiste, mit Zettelchen in ihrer Schrift beschriftet und an Mats' Stelltafeln an der Scheunenrückwand gehängt, für Marie und für Hedwig; darum lagen die Fotos auf ihrem Küchentisch."
         from: ch10/s02
-      - text: "Auf einem kleinen Abzug am Ende der Wand stehen Hedwig an der Gartenmauer, ein dünner barfüßiger Junge und oben ein Mädchen mit Zopf; Jonas hat Marie davor gesagt, sie habe ihn damals beschimpft, weil er auf einen Rosenstock getreten war."
+      - text: "Am Festnachmittag hat sie Marie in der Scheune das Kuchenmesser abgenommen und ihr die Fotowand gezeigt; Marie hat ihr die Finger gedrückt."
         from: ch10/s02
-      - text: "Sie hat Jonas angefahren (\"Sie trauen sich was, Herr Behrendt. Nach allem?\"); Marie hat sie am Arm gefasst: \"Lena. Das ist meine Sache.\" Jonas wollte Marie etwas sagen, das sie zuerst hören müsse, und hat sie unter die Kletterrose gebeten; Marie hat fünf Minuten zugesagt."
+      - text: "Vor der Fotowand hat Jonas Marie gesagt, er müsse ihr etwas sagen, sie zuerst, vor allen anderen, und sie unter die Kletterrose gebeten; Marie hat sie, als sie sich dazwischenschob, am Arm gefasst: \"Lena. Das ist meine Sache.\" Marie ist für fünf Minuten mitgegangen."
         from: ch10/s02
-      - text: "Am Abend hat sie Marie und Jonas im Garten zusammen tanzen sehen, Marie den Kopf an seiner Schulter; sie hat Jonas die Hand gegeben und ihn geduzt (\"Willkommen, Jonas\", \"Pass mir gut auf sie auf.\")."
+      - text: "Am Abend hat Marie barfuß mit Jonas auf dem Kies getanzt und den Kopf an seine Schulter gelegt."
+        from: ch10/s03
+      - text: "Sie hat Jonas die Hand gegeben, ihn geduzt (\"Willkommen, Jonas\") und ihm gesagt, er solle gut auf Marie aufpassen; Jonas hat über das Du gestutzt."
         from: ch10/s03
     believes:
       - text: "Marie hat Gefühle für Jonas."
@@ -439,20 +434,20 @@ characters:
       - text: "Marie und Jonas gehören zusammen; das hat sie doch gleich gesagt."
         from: ch10/s03
     does_not_know:
+      - "Was Jonas Marie unter der Kletterrose gesagt hat: Rücktritt vom Vorvertrag, Partnerschaft abgesagt, er bleibt, das Fest bleibt jedes Jahr auf dem Gut."
       - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat."
-      - "Dass Marie in Klein Lindau Stecklinge der Lindenhof-Rose unter Folie gezogen hat, beide angewachsen sind und sie am 2. September einen neben den alten Stock gepflanzt hat."
+      - "Dass Marie in Klein Lindau Stecklinge der Lindenhof-Rose unter Folie gezogen hat, beide angewachsen sind und sie einen neben den alten Stock gepflanzt hat."
       - "Dass der Makler Ende Juli einen Fotografen schicken wollte."
       - "Dass Ralf Steinhagen von Weidenkamp Hotels Mitte Juli das Gut besichtigt hat."
       - "Dass Jonas ein Rücktrittsrecht bis zum 10. September hatte und es am 1. September gezogen hat."
       - "Dass Jonas im Büro eine Partnerschaft angeboten wurde und er sie abgesagt hat."
       - "Dass Jonas Hannes am 1. September zugesagt hat, das Fest bleibe auch in den kommenden Jahren auf dem Gut."
-      - "Was Jonas Marie unter der Kletterrose gesagt hat."
       - "Dass Grete Jonas' Ausrede durchschaut und Marie um Verzeihung gebeten hat."
   marie-albers:
     knows:
       - text: "Jonas Behrendt ist der Erbe aus Hamburg."
         from: ch01/s01
-      - text: "Jonas will den Rosengarten bis zum Erntefest am 5. September hergerichtet haben: Wege begehbar, Beete sauber, alles, was man vom Haus aus sieht."
+      - text: "Jonas wollte den Rosengarten bis zum Erntefest am 5. September hergerichtet haben: Wege begehbar, Beete sauber, alles, was man vom Haus aus sieht."
         from: ch01/s02
       - text: "Absprache mit Jonas: freie Hand bei den Rosen, über die Wege wird noch geredet; Material nach seinem Budget, Zwischenstände alle zwei Wochen mit Fotos."
         from: ch01/s02
@@ -472,16 +467,8 @@ characters:
         from: ch03/s01
       - text: "Den Rosenschnitt hat sie mit zehn von Hedwig gelernt; Hedwigs alte Schere mit dem roten Griff hat sie heute noch und trägt sie im Holster."
         from: ch08/s02
-      - text: "Auf Hannes' Frage, ob das Erntefest auf dem Gut bleibt, hat Jonas im Juni nicht zugesagt: Es hänge an Gutachten fürs Dach und für die Fenster, an den Kosten und an Fristen."
-        from: ch03/s02
       - text: "Ralf Steinhagen von Weidenkamp Hotels war Mitte Juli auf dem Gut, nannte die Fläche hinter dem Haus ein Pfund und sagte, den Fotografen des Maklers brauche man Ende Juli nicht mehr."
         from: ch04/s01
-      - text: "Grete hat Jonas und Steinhagen auf der Terrasse Kaffee aus der guten Kanne eingeschenkt, ohne Kuchen."
-        from: ch04/s01
-      - text: "Auf Hannes' Frage nach dem Erntefest bot Steinhagen eine Veranstaltungsfläche gegen Gebühr an; Jonas schwieg dazu."
-        from: ch04/s01
-      - text: "Auf ihre Frage, was Steinhagen wollte, hat Jonas gesagt: \"Ein Interessent.\""
-        from: ch04/s02
       - text: "Für den Helfereinsatz hat sie die Mauerecke hinter dem Südende des Laubengangs im Dunkeln selbst von Brombeeren freigeschnitten und mit einem Pfahl und leerem Schild markiert."
         from: ch05/s01
       - text: "Hannes hat vor allen klargestellt: Im Garten ist Marie die Chefin."
@@ -492,13 +479,11 @@ characters:
         from: ch05/s03
       - text: "Jonas und sie haben sich am Abend nach dem Helfersamstag auf dem Steg geküsst."
         from: ch05/s03
-      - text: "Glanz im September ist die Nachblüte der 'New Dawn', davor Lavendel und Katzenminze, Frauenmantel, Astern und am Laubengang Dahlien. Am 27. August haben die ersten Astern aufgemacht, die 'New Dawn' steht in ihrer zweiten Blüte."
-        from: ch08/s01
       - text: "Am Freitag, dem 14. August, hat sie Jonas den alten Stock der Lindenhof-Rose gezeigt und ihm gesagt, dass Hedwig sie selbst gezogen hat, dass es nur noch diesen einen Stock gibt und dass er wieder blüht. Jonas blieb stumm."
         from: ch07/s02
       - text: "Hannes hat am 14. August am Tor die Antwort eingefordert; Jonas hat geantwortet: \"Das Fest findet dieses Jahr auf dem Gut statt.\" Sie ist ihm um den Hals gefallen."
         from: ch07/s02
-      - text: "Am Donnerstag, dem 27. August, später Nachmittag, fehlte das Gartenbuch auf seinem Platz am Fenster im Arbeitszimmer; neben der grünen Lampe lag nur die Lupe. Später sah sie es aufgeschlagen, mit dem Rücken nach oben, im Ledersessel in der Ecke."
+      - text: "Am Donnerstag, dem 27. August, später Nachmittag, fehlte das Gartenbuch auf seinem Platz am Fenster im Arbeitszimmer; später sah sie es aufgeschlagen, mit dem Rücken nach oben, im Ledersessel in der Ecke."
         from: ch08/s01
       - text: "In der untersten Schublade von Hedwigs Schreibtisch lag unter Dachrechnungen mit Firmenstempel eine Mappe von Weidenkamp Hotels, Steinhagens Firma; darin Lageplan und Vorvertrag."
         from: ch08/s01
@@ -506,9 +491,7 @@ characters:
         from: ch09/s02
       - text: "Jonas hat den Vorvertrag gerade und ohne Zögern unterschrieben, datiert auf Donnerstag, den 13. August, den Tag vor seiner Zusage an Hannes."
         from: ch08/s01
-      - text: "Laut Jonas bietet ihm das Büro eine Partnerschaft an, für die er bis Monatsende eine Einlage bringen muss; das Haupthaus sei schlimmer als die Scheune (Nordseite, Rinnen); er habe ein Rücktrittsrecht bis nach dem Fest."
-        from: ch08/s01
-      - text: "Sie hat Jonas gesagt, den Garten hätte sie ihm notfalls hergegeben, nicht aber hinter ihrem Rücken, nicht nach dem Steg, und dass er ihr jede Rose erklären ließ, den Parkplatz aber nicht erklärt hat. Er hat sie nicht aufgehalten."
+      - text: "Laut Jonas bot ihm das Büro eine Partnerschaft an, für die er bis Monatsende eine Einlage bringen musste; das Haupthaus sei schlimmer als die Scheune (Nordseite, Rinnen)."
         from: ch08/s01
       - text: "Grete hat geahnt, dass so was kommt; Jonas hat Grete am 13. August mit Blick aufs Spiegelei vorgeschwindelt, und Grete wollte es nicht wissen. Grete dachte, Jonas sage es ihr selbst, und hat sie um Verzeihung gebeten."
         from: ch08/s02
@@ -518,61 +501,53 @@ characters:
         from: ch08/s02
       - text: "In der Nacht zum 28. August hat sie Lena von Lageplan, Unterschrift, Steg, dem \"dieses Jahr\" und Hedwigs Wunsch erzählt; Lena wollte Hannes und die Helfer anrufen, sie hat abgelehnt: Das sei ihre Sache, nicht die vom Dorf."
         from: ch08/s03
-      - text: "Am Mittwoch, dem 2. September, kurz nach fünf, haben im Hinterhof der alten Schmiede in Klein Lindau beide Stecklinge der Lindenhof-Rose getrieben; feine weiße Wurzeln halten den Ballen bis an den Rand. Sie leben."
+      - text: "Im Hinterhof der alten Schmiede in Klein Lindau haben beide Stecklinge der Lindenhof-Rose getrieben; den kräftigeren hat sie am Mittwoch, dem 2. September, eine Handbreit neben den alten Stock in den Winkel hinter dem letzten Bogen gepflanzt, der andere steht weiter unter Folie."
         from: ch09/s02
-      - text: "Den kräftigeren Steckling hat sie mitgenommen und eine Handbreit neben den alten Stock in den Winkel hinter dem letzten Bogen gepflanzt; der andere steht weiter unter Folie in Klein Lindau."
-        from: ch09/s02
-      - text: "Sie hat die Kanten nachgestochen, am Laubengang die verblühten Dahlien ausgeputzt und das Lindenlaub vom Kies geharkt; an den Damaszenerrosen am Rondell leuchten die Hagebutten, wie sie es im Juli versprochen hat."
-        from: ch09/s02
-      - text: "Gegen sieben am 2. September hat Grete ihr Kaffee mit Milch und Butterkuchen auf die Bank unter der Kletterrose gestellt und nichts gefragt; Grete sagt, die Deern habe mehr Ausdauer als der Giersch. Sie hat Grete gesagt, der Kuchen sei nicht zu süß, die Mandeln saftig."
-        from: ch09/s02
-      - text: "Am Nachmittag des 2. September hat Hannes hellen Kies fürs Rondell gebracht; sie haben zusammen geschaufelt. Hannes hat den Steckling gesehen, die Mütze abgenommen und gesagt: \"Mach man weiter, Deern\", \"Weiß man eben\" und \"Den gießt du man jeden Morgen.\""
-        from: ch09/s02
-      - text: "Am Samstag, dem 5. September, kurz nach sechs, hat sie das Rondell ein letztes Mal geharkt. Die Lindenhof-Rose trägt noch ihre einzige Blüte, an den Rändern schon müde; der Steckling vom Mittwoch hat an der Spitze ein neues rötliches Blatt. Sie hat ihn gegossen, wie Hannes es geraten hat."
+      - text: "Am Festmorgen, Samstag, dem 5. September, kurz nach sechs, trägt der Steckling vom Mittwoch ein neues rötliches Blatt; die einzige Blüte am alten Stock ist an den Rändern schon müde. Sie hat ihn gegossen, wie Hannes geraten hat."
         from: ch10/s01
-      - text: "Grete hat ihr am Festmorgen in der guten dunkelblauen Bluse mit Hedwigs Brosche Kaffee mit Milch gebracht (\"Da kann das Dorf kommen\"); über Jonas hat Grete kein Wort gesagt."
+      - text: "Grete hat ihr am Festmorgen in der guten dunkelblauen Bluse mit Hedwigs Brosche Kaffee mit Milch gebracht und über Jonas kein Wort gesagt."
         from: ch10/s01
-      - text: "Laut Anke Kröger, Hannes' Frau, sagt Grete, so habe der Garten seit Jahren nicht ausgesehen, und Hannes hat am Festmorgen schon um fünf in Weste in der Küche gestanden."
+      - text: "Laut Anke Kröger sagt Grete, so habe der Garten seit Jahren nicht ausgesehen; Hannes hat am Festmorgen schon um fünf in Weste in der Küche gestanden."
         from: ch10/s01
-      - text: "Im Umzug fuhr Jonas in weißem Hemd Hedwigs alten Trecker mit der Erntekrone vorn durch die Lindenallee, Hannes in Weste mit Ehrennadel neben dem Vorderrad; der Motor am Morgen in der Remise war derselbe Trecker. Jonas hat sie am Rand gefunden und ihr ernst zugenickt."
+      - text: "Im Umzug durch die Lindenallee ist Jonas in weißem Hemd vorn Hedwigs alten Trecker mit der Erntekrone gefahren, Hannes in Weste mit Ehrennadel neben dem Vorderrad; es war derselbe Motor wie am Morgen in der Remise. Jonas hat sie am Rand gesucht, gefunden und ihr ernst zugenickt."
         from: ch10/s01
-      - text: "Lena hat in der Scheune auf Mats' Stelltafeln Dutzende alter Fotos ausgestellt, aus dem Album der Petersens, aus Hedwigs Schublade und aus Hannes' Ausschusskiste, für sie und für Hedwig; das waren die verdeckten Fotos auf Lenas Küchentisch."
+      - text: "Lena hat für das Fest Fotos aus dem Album der Petersens, aus Hedwigs Schublade und aus Hannes' Ausschusskiste gesammelt und in der Scheune ausgestellt, für sie und für Hedwig; darum lagen die Fotos auf Lenas Küchentisch."
         from: ch10/s02
-      - text: "Auf einem alten Abzug steht sie selbst als Mädchen mit Zopf im rot-weiß gepunkteten Kleid oben auf der Gartenmauer, unten Hedwig und Jonas als dünner barfüßiger Junge: Sie hat ihn damals beschimpft, weil er auf einen Rosenstock getreten war (\"Füße wie ein Ochse und keinen Verstand dazu\"). Nicht er, sondern sie stand oben auf der Mauer, er unten im Beet."
+      - text: "Auf einem alten Foto an der Wand steht sie selbst als Mädchen mit Zopf im rot-weiß gepunkteten Kleid oben auf der Gartenmauer, Hedwig daneben, unten der Junge, der Jonas ist. Sie hat ihn damals beschimpft, weil er auf einen Rosenstock getreten war und einen Trieb geknickt hatte; nicht er saß oben auf der Mauer, sondern sie, er stand unten im Beet."
         from: ch10/s02
-      - text: "Laut Jonas hat er es Hedwig damals mit Zeichnung geschrieben; der Brief lag in Gretes Keksdose, und er hat ihn wiedergefunden."
+      - text: "Jonas hat Hedwig davon mit Zeichnung geschrieben; den Brief hat er in Gretes Keksdose wiedergefunden."
         from: ch10/s02
-      - text: "Am Festnachmittag hat Jonas ihr auf der Bank unter der Kletterrose als Erster gesagt: Am Dienstag ist er vom Vorvertrag zurückgetreten, die Kosten trägt er selbst, in Hamburg hat er die Partnerschaft persönlich abgesagt, künftig arbeitet er drei Tage die Woche vom Gut aus, das Dach macht er in Abschnitten, das Erntefest bleibt jedes Jahr auf dem Gut und der Rosengarten dem Dorf, Gretes Haus bleibt Gretes Haus. Er bleibt, und er liebt sie."
+      - text: "Jonas hat ihr unter der Kletterrose gesagt: Am Dienstag ist er vom Vorvertrag zurückgetreten, die Kosten trägt er selbst, in Hamburg hat er die Partnerschaft persönlich abgesagt; künftig arbeitet er drei Tage die Woche vom Gut aus, das Dach macht er in Abschnitten."
         from: ch10/s03
-      - text: "Das also hatte Hannes am Mittwoch gewusst, als er den Dahlien antwortete statt ihr; daher die Weste um fünf."
+      - text: "Laut Jonas bleibt das Erntefest jedes Jahr auf dem Gut, der Rosengarten bleibt dem Dorf, Gretes Haus bleibt Gretes Haus, und er bleibt. Er liebt sie."
         from: ch10/s03
-      - text: "Sie hat Jonas Hedwigs Wunsch erzählt und gesagt, sie wolle den Garten weiterführen, mit eigenem Betrieb und eigenem Wort, an seiner Seite, nicht in seinem Auftrag, und er solle sie in seine Entscheidungen hineinnehmen, vorher, nicht hinterher. Er hat ohne Zögern Ja gesagt und gleich gefragt, was aus dem leeren Kuhstall werden soll."
+      - text: "Das hat Hannes am Mittwoch gewusst, als er den Dahlien statt ihr antwortete; daher die Weste um fünf."
         from: ch10/s03
-      - text: "Der Jonas aus Hedwigs Notiz zum ersten Steckling der Lindenhof-Rose (\"Jonas hat das Loch gegraben und gegossen\") ist der Erbe; er hat den Steckling danach jeden Morgen mit dem Lineal gemessen."
+      - text: "Sie hat Jonas gesagt, dass sein Schweigen wehgetan hat und er auch den Rücktritt wieder allein beschlossen hat; dass Hedwig sich gewünscht hat, sie führe den Garten weiter, und dass sie das will, mit eigenem Betrieb, an seiner Seite, nicht in seinem Auftrag, und dass er sie vorher in seine Entscheidungen hineinnimmt. Er hat ohne Zögern Ja gesagt und gleich gefragt, was aus dem leeren Kuhstall werden soll."
         from: ch10/s03
-      - text: "Sie hat Jonas an der Lindenhof-Rose geküsst, abends mit ihm barfuß auf dem Kies getanzt; Lena hat Jonas die Hand gegeben und ihn geduzt."
+      - text: "Sie hat Jonas gesagt, dass sie ihn liebt, seit dem Gewitter, und ihm den Steckling aus ihrem Hinterhof gezeigt."
+        from: ch10/s03
+      - text: "Der Jonas aus Hedwigs Notiz zum ersten Steckling der Lindenhof-Rose, der das Loch gegraben und gegossen hat, ist der Erbe; er hat den Steckling danach jeden Morgen mit dem Lineal gemessen. Die Zeile kannte sie, nur an ihn hatte sie bei dem Namen nie gedacht."
+        from: ch10/s03
+      - text: "Am Abend hat sie mit Jonas barfuß auf dem Kies getanzt; Lena hat ihm die Hand gegeben und ihn geduzt."
         from: ch10/s03
     believes:
       - text: "Splitt auf dem Hauptweg würde den alten Kies zerstören."
         from: ch01/s01
       - text: "Das ist keine Fläche, sondern ein Garten, angelegt in den Dreißigerjahren."
         from: ch04/s01
-      - text: "Böse ist sie nicht auf Grete, sondern auf sich selbst: Auch sie hat geschwiegen, über Hedwigs Satz, aus Rücksicht, weil Jonas nicht wusste, ob er im Herbst noch hier ist."
+      - text: "Sie hat um jeden Stock gestritten, für sich selbst aber kein Wort eingelegt; ihr eigenes Herz hat sie nicht so verteidigt wie einen Garten."
         from: ch08/s02
-      - text: "Hedwigs Wunsch zu erzählen klingt nach Erbschleicherei."
-        from: ch08/s03
-      - text: "Gewähr gibt einem keiner; sie pflanzt trotzdem."
-        from: ch09/s02
-      - text: "Nicht nur der Parkplatz hat wehgetan, sondern Jonas' Schweigen; auch den Rücktritt hat er wieder allein beschlossen, ohne sie."
-        from: ch10/s03
+      - text: "Solange die Finger zu tun haben, muss der Kopf nicht mit."
+        from: ch10/s02
       - text: "Jonas bleibt und meint es ernst; sie glaubt ihm."
         from: ch10/s03
       - text: "Sie ist angekommen."
         from: ch10/s03
     does_not_know:
-      - "Dass Jonas für Notar und Planung 38.000 Euro aus dem Ersparten für die Einlage trägt."
-      - "Dass Jonas Hannes gebeten hat, ihr nichts zu sagen, weil er es selbst tun will."
-      - "Dass Hedwig auch Jonas' Postkarten aufgehoben hat und Grete ihm die Keksdose gegeben hat."
+      - "Dass Jonas Hannes gebeten hat, ihr nichts zu sagen, weil er es selbst tun wollte."
+      - "Was der Rücktritt Jonas kostet: 38.000 Euro aus dem Ersparten, das für die Einlage gedacht war."
+      - "Was sonst in Hedwigs Keksdose liegt (Jonas' Kinderbriefe, seine Postkarten) und dass Grete sie ihm gegeben hat."
       - "Wer das Gartenbuch aufgeschlagen in den Ledersessel gelegt hat."
       - "Ob Jonas wusste, dass der Parkplatz die Lindenhof-Rose trifft."
       - "Dass die Partner Jonas die Einlage bis nach dem Fest gestundet hatten."
@@ -580,7 +555,6 @@ characters:
       - "Wie hoch Hedwigs Geldvermächtnis ist und dass es nur für einen Sommer Pflege reicht."
       - "Dass Jonas für einen Gutachter zur Wertermittlung die Rechnungen für Dach und Fenster gesucht hat."
       - "Von welchem Fototermin Steinhagen sprach: dass der Makler am letzten Freitag im Juli einen Fotografen schicken wollte."
-      - "Dass die Partner Jonas am Donnerstag, dem 13., um neun in Hamburg persönlich über die Einlage sprechen wollten."
       - "Dass der Ausschuss die Zusage bis Freitag, den 14., verlangt hatte und sonst im schon reservierten Zelt hinter dem Feuerwehrhaus gefeiert hätte."
       - "Dass Lena Jonas gewarnt hat, Marie sei keine, mit der man einen Sommer spielt."
       - "Was Weidenkamp sonst plant: rund zwanzig Zimmer im Gutshaus, Spa und Seminarraum in Kuhstall und Scheune, Saunahaus am Steg."
@@ -635,5 +609,4 @@ characters:
       - "Dass Hedwig sich Marie als Nachfolgerin im Garten gewünscht hat."
       - "Dass Grete sonst nie Kaffee ohne Kuchen hinstellt."
       - "Dass am Samstag Mitte Juli Helfer aus dem Dorf den Garten hergerichtet haben und Jonas mitgearbeitet hat."
-      - "Dass Marie und Jonas sich geküsst haben und zusammen sind."
-      - "Dass das Erntefest am 5. September auf dem Gut gefeiert wurde und Jonas im Umzug Hedwigs Trecker gefahren hat."
+      - "Dass Marie und Jonas sich geküsst und ihre Liebe gestanden haben."
