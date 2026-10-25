@@ -23,14 +23,6 @@ links: [grundlage, jonas-behrendt, marie-albers, ralf-steinhagen]
 **Grenzen:** Keine eigene Handlung jenseits von Telefonaten, Blicken und Innenschau; kein Unfall, kein Absturz, nichts Gefährliches. Der Hügel bleibt klein und freundlich, Binnenland-Weide, kein Aussichtsturm.
 
 ## Verlauf
-- ch02/s02 · „Jonas stieg den Trampelpfad an der Scheunenwand hinauf, das Telefon schon in der Hand.“ · Jonas steigt über den Trampelpfad an der Scheunenwand zum Telefonieren hinauf (#01e72a)
-- ch02/s02 · „Er ging an ihr vorbei, zwei Schritte zum Hang, einen zurück, bis die Balken kamen.“ · Netz erst ein paar Schritte an der Feldeiche vorbei zum Hang hin (#01e72a)
-- ch02/s02 · „Der Hügel hinter der Scheune war der einzige Platz am Gut mit Netz.“ · Einziger Platz am Gut mit Netz; im Haus bricht jedes Gespräch nach drei Sätzen ab (#01e72a)
-- ch02/s02 · „Von hier oben sah man über das Scheunendach hinweg in den ummauerten Garten“ · Blick über das Scheunendach in den Rosengarten bis zu Sonnenuhr und Laubengang (#01e72a)
-- ch02/s02 · „Hinter der Gartenmauer fiel die Wiese zum Gutssee ab, hohes Gras voller Margeriten“ · Wiese zum Gutssee mit Margeriten und einer verlassenen Spur (#01e72a)
-- ch02/s02 · „Unten lag der Steg grau im Schilf. Zwei Bretter fehlten“ · Grauer Steg im Schilf, zwei Bretter fehlen; löst Jonas' Kindheitserinnerung aus (#01e72a)
-- ch02/s02 · „Warm strich der Wind über die Kuppe, voller Lindenblüte aus der Allee.“ · Im Juni Lindenduft von der Allee, eine Lerche über dem Weizen (#01e72a)
-- ch02/s02 · „Hinter ihm rauschte die Eiche, die damals schon dort gestanden hatte.“ · Die Eiche stand schon in Jonas' Kindersommern dort (#01e72a)
 - ch09/s01 · „Auf keine der vier Nachrichten, die er ihr vom Hügel aus geschickt hatte, war eine Antwort gekommen.“ · Von hier schickt Jonas Marie seit Donnerstag seine Nachrichten (#4ae61e)
 - ch09/s01 · „Jonas stieg den Trampelpfad an der Scheunenwand hinauf, die Hosenbeine nass bis zu den Knien.“ · Jonas steigt am Dienstagmorgen durch nasses Gras hinauf (#4ae61e)
 - ch09/s01 · „Oben stand die Eiche dunkel im Weißen, der See unten war verschwunden.“ · Morgennebel; die Eiche dunkel im Weißen, der See unsichtbar (#4ae61e)
@@ -46,3 +38,11 @@ links: [grundlage, jonas-behrendt, marie-albers, ralf-steinhagen]
 - ch03/s03 · „Jonas ging an der Eiche vorbei, zwei Schritte zum Hang, bis das Telefon volle Balken zeigte.“ · Volles Netz erst an der Eiche vorbei zum Hang hin (#a79d36)
 - ch03/s03 · „Unten im ummauerten Garten bewegte sich etwas zwischen den Rosen.“ · Blick vom Hügel hinunter in den ummauerten Rosengarten (#a79d36)
 - ch03/s03 · „Die Kletterrose über Hedwigs Bank hing voller Blüten, zartrosa im späten Licht.“ · Vom Hügel sichtbar: die blühende Kletterrose über Hedwigs Bank und gegenüber an der Ostmauer der Laubengang (#a79d36)
+- ch02/s02 · „Jonas stieg den Trampelpfad an der Scheunenwand hinauf, das Telefon schon in der Hand.“ · Jonas steigt über den Trampelpfad an der Scheunenwand zum Telefonieren hinauf (#53bc2c)
+- ch02/s02 · „Warm strich der Wind über die Kuppe, voller Lindenblüte aus der Allee.“ · Im Juni Lindenduft von der Allee, eine Lerche über dem Weizen (#53bc2c)
+- ch02/s02 · „Hinter ihm rauschte die Eiche, die damals schon dort gestanden hatte.“ · Die Eiche stand schon in Jonas' Kindersommern dort (#53bc2c)
+- ch02/s02 · „Er ging an ihr vorbei, zwei Schritte zum Hang, einen zurück, bis die Balken kamen.“ · Netz erst ein paar Schritte an der Feldeiche vorbei zum Hang hin (#53bc2c)
+- ch02/s02 · „Der Hügel hinter der Scheune war der einzige Platz am Gut mit Netz, denn im Haus brach jedes Gespräch nach drei Sätzen ab.“ · Einziger Platz am Gut mit Netz; im Haus bricht jedes Gespräch nach drei Sätzen ab (#53bc2c)
+- ch02/s02 · „Jenseits des Scheunendachs lag der ummauerte Garten zwischen seinen Backsteinwänden“ · Blick über das Scheunendach in den Rosengarten bis zu Sonnenuhr und Laubengang (#53bc2c)
+- ch02/s02 · „Hinter der Gartenmauer fiel die Wiese zum Gutssee ab, hohes Gras voller Margeriten“ · Wiese zum Gutssee mit Margeriten und einer verlassenen Spur (#53bc2c)
+- ch02/s02 · „Unten lag der Steg grau im Schilf, vorn tiefer als hinten“ · Grauer Steg im Schilf, vorn abgesackt; löst Jonas' Kindheitserinnerung aus (#53bc2c)
