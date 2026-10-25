@@ -1,5 +1,5 @@
 source: manuscript/ch05/s01.md
-source_hash: 8154a9
+source_hash: 75ad58
 extracted_by: bb-ingest
 gaps:
   - Ob dies der Sonnabend ist, für den Hannes in ch03/s02 den Trecker um halb acht zugesagt hat, bleibt offen; hier kommt er schon kurz nach sechs (Anfang Juli zugesagt, jetzt Mitte Juli).
@@ -22,7 +22,7 @@ items:
       value: garten
   - kind: narrator_claim
     who: marie-albers
-    quote: Sie hatte die Namen in Druckbuchstaben geschrieben, groß genug für jeden, der in Eile war.
+    quote: Sie hatte die Sorten in Druckbuchstaben geschrieben, lesbar für jeden, der in Eile war.
     status: fact
     about:
       - marie-albers
@@ -144,6 +144,13 @@ items:
       - hannes-kroeger
       - garten
     tags: []
+  - kind: event
+    who: lena-hansen
+    quote: Lena verteilte die Leute, wie sie im Laden Kisten packte.
+    status: fact
+    about:
+      - lena-hansen
+    tags: []
   - kind: speech
     who: lena-hansen
     quote: Ihr drei harkt die Wege. Ihr nehmt den Giersch an der Westmauer. Die Feuerwehr schaufelt Kies, ihr habt die Arme dafür.
@@ -160,7 +167,7 @@ items:
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: Grete kam die Freitreppe herunter, zwei Bleche Butterkuchen übereinander, und stellte sie auf den Terrassentisch neben die große Kanne.
+    quote: Grete kam die Freitreppe herunter und stellte zwei Bleche Butterkuchen auf den Terrassentisch.
     status: fact
     about:
       - grete-paulsen
@@ -198,6 +205,14 @@ items:
     about:
       - marie-albers
       - lena-hansen
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: Hannes stieg vom Trecker und betrachtete die Stiefel, die eine Nummer zu groß waren.
+    status: fact
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: hannes-kroeger
@@ -315,6 +330,47 @@ items:
     tags: []
   - kind: event
     who: marie-albers
+    quote: Ein langer Trieb hing abgeknickt aus dem Busch, das Holz weiß gesplittert.
+    status: fact
+    about:
+      - garten
+      - marie-albers
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: Marie zog Hedwigs Schere mit dem roten Griff aus dem Holster und schnitt ihn eine Handbreit tiefer ab.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: has_object
+      value: Hedwigs Schere mit rotem Griff
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Ihre Finger waren nicht ganz ruhig. Daran hätten im nächsten Juni Blüten gesessen.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: speech
+    quote: „Ist die jetzt hin?“, fragte Ole.
+    status: claim
+    about:
+      - garten
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Die nicht. Aber ihr fehlt ein Arm.
+    status: claim
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: event
+    who: marie-albers
     quote: Sie zeigte ihm, wo die Giersch-Ausläufer unter die Rose krochen, und gab ihm ihre Hacke.
     status: fact
     about:
@@ -322,7 +378,7 @@ items:
     tags: []
   - kind: relationship
     who: marie-albers
-    quote: Ihre Finger waren nicht ganz ruhig. Chefin.
+    quote: Chefin. Hannes schaufelte schon weiter, als hätte er nur gesagt, dass es warm wurde.
     status: fact
     about:
       - marie-albers
@@ -347,6 +403,12 @@ items:
     place: garten
   - kind: place_fact
     quote: Die neuen Kieswege leuchteten hell zwischen den Buchskanten, frisch geharkt bis an die Mauer.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    quote: Überall bückten sich Rücken über die Beete.
     status: fact
     about:
       - garten
