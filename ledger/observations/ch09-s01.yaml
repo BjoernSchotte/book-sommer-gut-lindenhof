@@ -1,5 +1,5 @@
 source: manuscript/ch09/s01.md
-source_hash: 13eeb9
+source_hash: 57b3bd
 extracted_by: bb-ingest
 gaps:
   - Keine Uhrzeiten in der Szene; Küchengespräch (Montagabend) und Anruf (Dienstagmorgen) nur als Tagesangaben, daher ohne Zeitleisten-Struktur.
@@ -238,7 +238,7 @@ items:
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Darunter setzte er: Büro drei Tage, zwei hier."
+    quote: "Darunter setzte er: Büro zwei Tage, drei hier."
     status: fact
     about:
       - jonas-behrendt
