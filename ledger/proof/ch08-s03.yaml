@@ -107,4 +107,7 @@ paragraphs:
   f5002ae4048c: []
   4177947e80fb: []
   681b4d8a9082: []
-ignored: []
+ignored:
+  - rule: SUBJUNKTION_KOMMA_2
+    quote: Wenn
+    paragraph: 75b2b7e74320
