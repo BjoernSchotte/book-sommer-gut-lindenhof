@@ -418,3 +418,4 @@ Vom Hamburger Ingenieur, der ein Erbe abwickeln will und seine Wurzeln verdräng
 - ch08/s01 · „Dort stand Jonas' Unterschrift, gerade und ohne Zögern, daneben das Datum.“ · Seine Unterschrift unter dem Vorvertrag, datiert 13. August, wird von Marie gefunden (#d7e10e)
 - ch08/s01 · „Sie ging an ihm vorbei zur Tür, und er hielt sie nicht auf.“ · Hält Marie nicht auf (#d7e10e)
 - ch08/s01 · „Und den Parkplatz hast du mir nicht erklärt.“ · Muss sich von Marie vorwerfen lassen, den Parkplatz verschwiegen zu haben (#d7e10e)
+- ch08/s02 · „Jonas hatte sie ihn nie gesagt, nicht einmal am Steg.“ · Hat von Marie Hedwigs Satz von der Bank nie erfahren (#8e1bc1)

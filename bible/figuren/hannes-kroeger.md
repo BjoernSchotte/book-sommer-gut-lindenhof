@@ -122,7 +122,6 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch07/s02 · „Kalle kam von der Küchentür zurück, ohne Kuchen und ohne Eile.“ · Pfeift Kalle zurück, der diesmal ohne Kuchen kommt (#3f30b8)
 - ch07/s02 · „Der Pick-up wendete auf dem Hof und rollte die Lindenallee hinunter, bis die Stämme ihn verdeckten.“ · Fährt die Lindenallee hinunter (#3f30b8)
 - ch08/s01 · „Am Tag darauf hatte Hannes am Tor die Mütze in den Händen gedreht und nach der Antwort gefragt.“ · Fragte am Tag nach der Unterschrift am Tor nach der Antwort (Rückblick aus Maries Sicht) (#231c47)
-- ch08/s02 · „Hannes sagt, letztes Jahr waren sie zu trocken. Hannes sagt viel.“ · Fand laut Grete die Mandeln im Butterkuchen letztes Jahr zu trocken (#999c3a)
 - ch08/s03 · „Und von dem „dieses Jahr“, das Hannes vor zwei Wochen am Tor zu hören bekommen hatte“ · Bekam vor zwei Wochen am Tor die Zusage „dieses Jahr“ (Rückblick, Maries Erzählung) (#f83e7f)
 - ch08/s03 · „Morgen früh ruf ich Hannes an“ · Lena will ihn anrufen; Marie hält sie davon ab (#f83e7f)
 - ch10/s01 · „Sie goss ihn, wie Hannes es ihr geraten hatte, und blieb länger knien, als nötig war.“ · Marie gießt den Steckling nach seinem Rat (#7366a9)
@@ -180,3 +179,4 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch09/s02 · „Sonst hielt Hannes den Blick, wenn er redete.“ · Hält sonst beim Reden den Blick, laut Marie (#2fe2bb)
 - ch09/s02 · „Da hat Hannes nichts zu meckern.“ · Hätte laut Marie an Gretes Butterkuchen diesmal nichts zu meckern (#2fe2bb)
 - ch05/s03 · „Hannes' Trecker hatte als Letzter die Allee hinuntergebrummt“ · Fährt am Abend des Helfersamstags als Letzter mit dem Trecker die Allee hinunter (#90c2a3)
+- ch08/s02 · „Hannes sagt, letztes Jahr war er zu trocken. Hannes sagt viel.“ · Fand laut Grete den Butterkuchen letztes Jahr zu trocken (#8e1bc1)

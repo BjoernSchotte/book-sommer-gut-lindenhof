@@ -1,223 +1,367 @@
 source: manuscript/ch08/s02.md
-source_hash: "999c3a"
+source_hash: 8e1bc1
 extracted_by: bb-ingest
-end_actual: emotional
-end_quote: "Ihr eigenes Herz hatte sie nicht so verteidigt wie einen Garten."
+gaps:
+  - Uhrzeit der Szene nennt der Text nicht; nur „die Sonne stand schon tief“, vermutlich derselbe Donnerstag, 27. August, direkt nach ch08/s01.
+  - Ob Grete Jonas auf den Parkplatz ansprechen wird, bleibt offen.
+  - Wer hinter Marie auf dem Hof mit dem Blech klappert, sagt Absatz 24 nicht (vermutlich Grete in der Küche).
 items:
   - kind: event
     who: marie-albers
-    quote: "Die Küchentür stand offen, und Marie ging hindurch, ohne die Stiefel abzutreten."
+    quote: Die Küchentür stand offen, und Marie ging hindurch, ohne die Stiefel abzutreten.
     status: fact
-    about: [marie-albers, gutshaus]
+    about:
+      - marie-albers
+      - gutshaus
     tags: []
-    fact: { subject: ch08/s02@kueche, predicate: at_place, value: gutshaus }
+    fact:
+      subject: ch08/s02@kueche
+      predicate: at_place
+      value: gutshaus
   - kind: place_fact
-    quote: "Im Ofen neben dem Kachelherd wurde auf einem Blech der Zucker braun"
+    quote: Im Ofen neben dem Kachelherd wurde auf einem Blech der Zucker braun
     status: fact
-    about: [gutshaus]
+    about:
+      - gutshaus
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: "Grete stand am Tisch und schrieb mit Bleistift etwas auf die Rückseite des Kalenders."
+    quote: Grete schrieb am Tisch mit Bleistift etwas auf die Rückseite des Kalenders.
     status: fact
-    about: [grete-paulsen, gutshaus]
+    about:
+      - grete-paulsen
+      - gutshaus
     tags: []
-    fact: { subject: grete-paulsen, predicate: at_place, value: gutshaus }
+    fact:
+      subject: grete-paulsen
+      predicate: at_place
+      value: gutshaus
+  - kind: object_fact
+    quote: Dort hatte sie früher Maries Unkrautstunden gezählt.
+    status: fact
+    about:
+      - grete-paulsen
+      - marie-albers
+    tags: []
   - kind: speech
     who: grete-paulsen
-    quote: "Probe-Butterkuchen"
+    quote: Probe-Butterkuchen
     status: fact
-    about: [grete-paulsen]
+    about:
+      - grete-paulsen
     tags: []
   - kind: speech
     who: grete-paulsen
-    quote: "Hannes sagt, letztes Jahr waren sie zu trocken. Hannes sagt viel."
+    quote: Diesmal mit mehr Mandeln.
+    status: fact
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: Hannes sagt, letztes Jahr war er zu trocken. Hannes sagt viel.
     status: claim
-    about: [grete-paulsen, hannes-kroeger]
+    about:
+      - grete-paulsen
+      - hannes-kroeger
     tags: []
   - kind: narrator_claim
-    quote: "Sie backte, als gäbe es kein Wenn und das Erntefest stünde nie in Frage."
+    quote: Sie backte, als gäbe es kein Wenn und das Erntefest stünde nie in Frage.
     status: fact
-    about: [grete-paulsen]
+    about:
+      - grete-paulsen
     tags: []
   - kind: object_fact
-    quote: "Maries Jacke hing am Haken neben der Tür, wo sie sie mittags gelassen hatte."
+    quote: Maries Jacke hing am Haken neben der Tür, wo sie sie mittags gelassen hatte.
     status: fact
-    about: [marie-albers, gutshaus]
+    about:
+      - marie-albers
+      - gutshaus
     tags: []
   - kind: object_fact
-    quote: "Hedwigs alte Schere mit dem roten Griff lag auf der Fensterbank zwischen den Geranien."
+    quote: Hedwigs alte Schere mit dem roten Griff lag auf der Fensterbank zwischen den Geranien.
     status: fact
-    about: [marie-albers, gutshaus]
+    about:
+      - marie-albers
+      - gutshaus
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Beim ersten Zug riss der Aufhänger."
+    quote: Beim ersten Zug riss der Aufhänger.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: "Sie wischte sich die Finger an der Schürze ab, einen nach dem anderen, zog den Stuhl heraus und setzte sich."
+    quote: Sie wischte sich die Finger an der Schürze ab, einen nach dem anderen, zog den Stuhl heraus und setzte sich.
     status: fact
-    about: [grete-paulsen]
+    about:
+      - grete-paulsen
     tags: []
   - kind: speech
     who: grete-paulsen
-    quote: "Setz dich, Deern."
+    quote: Setz dich, Deern.
     status: claim
-    about: [grete-paulsen, marie-albers]
+    about:
+      - grete-paulsen
+      - marie-albers
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Parkplatz."
+    quote: Parkplatz.
     status: fact
-    about: [marie-albers, grete-paulsen]
+    about:
+      - marie-albers
+      - grete-paulsen
     tags: []
   - kind: knowledge_gain
     who: grete-paulsen
-    quote: "„Ich hab so was geahnt“, sagte sie. „Das Wort nicht. Aber so was.“"
+    quote: „Ich hab so was geahnt“, sagte sie. „Das Wort nicht. Aber so was.“
     status: fact
-    about: [grete-paulsen, jonas-behrendt]
+    about:
+      - grete-paulsen
+      - jonas-behrendt
     tags: []
-    fact: { subject: grete-paulsen, predicate: knows, value: "Jonas plant einen Parkplatz (Verkauf), von Marie erfahren" }
+    fact:
+      subject: grete-paulsen
+      predicate: knows
+      value: Jonas plant einen Parkplatz (Verkauf), von Marie erfahren
   - kind: speech
     who: grete-paulsen
-    quote: "Der Herr mit dem silbernen Auto. Das Gerede im Dorf, ob der wiedergekommen ist."
+    quote: Der Herr mit dem silbernen Auto. Das Gerede im Dorf, ob der wiedergekommen ist.
     status: claim
-    about: [grete-paulsen, ralf-steinhagen]
-    tags: []
-  - kind: speech
-    who: grete-paulsen
-    quote: "Dabei hat er die ganze Zeit sein Spiegelei angeguckt. Seit er so hoch war, seh ich ihm an, wenn er schwindelt."
-    status: claim
-    about: [grete-paulsen, jonas-behrendt]
-    tags: []
-    fact: { subject: grete-paulsen, predicate: believes, value: "Jonas hat beim Abendessen über die Termine in der Stadt geschwindelt" }
-  - kind: speech
-    who: grete-paulsen
-    quote: "Da hat er noch Rhabarber geklaut und mit roten Fingern Nein gesagt."
-    status: claim
-    about: [grete-paulsen, jonas-behrendt]
+    about:
+      - grete-paulsen
+      - ralf-steinhagen
     tags: []
   - kind: speech
     who: grete-paulsen
-    quote: "Diesmal wollt ich's nicht wissen."
+    quote: Dabei hat er die ganze Zeit sein Spiegelei angeguckt. Seit er so hoch war, seh ich ihm an, wenn er schwindelt.
     status: claim
-    about: [grete-paulsen, jonas-behrendt]
+    about:
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: grete-paulsen
+      predicate: believes
+      value: Jonas hat beim Abendessen über die Termine in der Stadt geschwindelt
+  - kind: speech
+    who: grete-paulsen
+    quote: Da hat er noch Rhabarber geklaut und mit roten Fingern Nein gesagt.
+    status: claim
+    about:
+      - grete-paulsen
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: grete-paulsen
-    quote: "Ich hab gedacht, er sagt's dir selbst"
+    quote: Diesmal wollt ich's nicht wissen.
     status: claim
-    about: [grete-paulsen, jonas-behrendt, marie-albers]
+    about:
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: Ich hab gedacht, er sagt's dir selbst
+    status: claim
+    about:
+      - grete-paulsen
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: relationship
     who: grete-paulsen
-    quote: "Ich bitte dich um Verzeihung, Marie."
+    quote: Ich bitte dich um Verzeihung, Marie.
     status: fact
-    about: [grete-paulsen, marie-albers]
+    about:
+      - grete-paulsen
+      - marie-albers
     tags: []
   - kind: narrator_claim
-    quote: "Kein Aber kam hinterher und kein Weil. Oben im Arbeitszimmer hatte Marie davon zu viele gehört."
+    quote: Kein Aber kam hinterher und kein Weil. Oben im Arbeitszimmer hatte Marie davon zu viele gehört.
     status: fact
-    about: [marie-albers, jonas-behrendt, arbeitszimmer]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - arbeitszimmer
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: "schnitt vom Rest des Morgenblechs ein Stück ab und stellte es vor sie hin. Keine von beiden rührte es an."
+    quote: schnitt vom Rest des Morgenblechs ein Stück ab und stellte es vor sie hin. Keine von beiden rührte es an.
     status: fact
-    about: [grete-paulsen, marie-albers]
+    about:
+      - grete-paulsen
+      - marie-albers
     tags: []
   - kind: place_fact
-    quote: "Durch das Fenster fiel das gelbe Licht vom Erntestaub"
+    quote: Durch das Fenster fiel das gelbe Licht vom Erntestaub
     status: fact
-    about: [gutshaus]
+    about:
+      - gutshaus
     tags: []
   - kind: knowledge_gain
     who: marie-albers
-    quote: "„Hedwig hat mir auch was gesagt.“ Gretes Stimme war kaum lauter als das Knistern im Ofen. „Wen sie sich für den Garten wünscht. Ich glaub, das weißt du wohl.“"
+    quote: „Hedwig hat mir auch was gesagt.“ Gretes Stimme war kaum lauter als das Knistern im Ofen. „Wen sie sich für den Garten wünscht. Ich glaub, das weißt du wohl.“
     status: fact
-    about: [marie-albers, grete-paulsen]
+    about:
+      - marie-albers
+      - grete-paulsen
     tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "Grete kennt Hedwigs Wunsch, dass Marie den Garten weiterführt" }
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: Grete kennt Hedwigs Wunsch, dass Marie den Garten weiterführt
   - kind: knowledge_gain
     who: grete-paulsen
-    quote: "Marie nickte."
+    quote: Marie nickte.
     status: fact
-    about: [grete-paulsen, marie-albers]
+    about:
+      - grete-paulsen
+      - marie-albers
     tags: []
-    fact: { subject: grete-paulsen, predicate: knows, value: "Marie kennt Hedwigs Wunsch für den Garten" }
+    fact:
+      subject: grete-paulsen
+      predicate: knows
+      value: Marie kennt Hedwigs Wunsch für den Garten
   - kind: narrator_claim
-    quote: "Da war die Bank unter der 'New Dawn', die Wolldecke über Hedwigs Knien, die trockene, warme Hand um ihre."
+    quote: Da war die Bank unter der 'New Dawn', die Wolldecke über Hedwigs Knien, die trockene, warme Hand um ihre.
     status: fact
-    about: [marie-albers, garten]
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Jetzt, an diesem Tisch, an dem sie als Mädchen mit Erde unter den Nägeln Unkraut gegen Kuchen getauscht hatte, kamen ihr die Tränen."
+    quote: Jetzt, an diesem Tisch, an dem sie als Mädchen mit Erde unter den Nägeln Unkraut gegen Kuchen getauscht hatte, kamen ihr die Tränen.
     status: fact
-    about: [marie-albers, gutshaus]
+    about:
+      - marie-albers
+      - gutshaus
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: "Grete legte ihre Hand auf Maries Faust. Gretes Finger waren warm und rochen nach Mehl."
+    quote: Grete legte ihre Hand auf Maries Faust. Gretes Finger waren warm und rochen nach Mehl.
     status: fact
-    about: [grete-paulsen, marie-albers]
+    about:
+      - grete-paulsen
+      - marie-albers
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Nach einer Weile gab Marie nach, und die Schere glitt aufs Wachstuch."
+    quote: Nach einer Weile gab Marie nach, und die Schere glitt aufs Wachstuch.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: "schnitt eine Ecke ab, so heiß, dass sie die Finger schüttelte, und schlug sie in Papier ein."
+    quote: schnitt eine Ecke ab, so heiß, dass sie die Finger schüttelte, und schlug sie in Papier ein.
     status: fact
-    about: [grete-paulsen, marie-albers]
+    about:
+      - grete-paulsen
+      - marie-albers
     tags: []
   - kind: speech
     who: grete-paulsen
-    quote: "Ob er zu süß ist, sagst du mir morgen. Und die Astern am Rondell gießt sonst keiner, Deern."
+    quote: Ob er zu süß ist, sagst du mir morgen. Und die Astern am Rondell gießt sonst keiner, Deern.
     status: claim
-    about: [grete-paulsen, marie-albers, garten]
+    about:
+      - grete-paulsen
+      - marie-albers
+      - garten
     tags: []
   - kind: object_fact
-    quote: "Sie steckte die Schere ins Holster, zog die Jacke über und ging."
+    quote: Sie steckte die Schere ins Holster, zog die Jacke über und ging.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
-    fact: { subject: marie-albers, predicate: has_object, value: "Hedwigs alte Schere mit rotem Griff" }
+    fact:
+      subject: marie-albers
+      predicate: has_object
+      value: Hedwigs alte Schere mit rotem Griff
   - kind: time
-    quote: "Auf dem Hof hing der Staub in der Luft, und die Sonne stand schon tief über den Linden."
+    quote: Auf dem Hof hing der Staub in der Luft, die Sonne schon tief über den Linden.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
+      - gutshaus
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Marie blieb mitten auf den Steinen stehen.
+    status: fact
+    about:
+      - marie-albers
     tags: []
   - kind: belief
     who: marie-albers
-    quote: "Böse war sie Grete nicht."
+    quote: Böse war sie Grete nicht.
     status: belief
-    about: [marie-albers, grete-paulsen]
+    about:
+      - marie-albers
+      - grete-paulsen
     tags: []
-    fact: { subject: marie-albers, predicate: believes, value: "Sie ist Grete nicht böse" }
+    fact:
+      subject: marie-albers
+      predicate: believes
+      value: Sie ist Grete nicht böse
   - kind: belief
     who: marie-albers
-    quote: "Böse war sie auf sich selbst."
+    quote: Böse war sie auf sich selbst.
     status: belief
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: narrator_claim
-    quote: "Ausgesprochen hatte sie ihn nicht, aus Rücksicht auf einen, der nicht wusste, ob er im Herbst noch hier war."
+    quote: Auch sie hatte geschwiegen.
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+    tags: []
+  - kind: narrator_claim
+    quote: Hedwigs Satz von der Bank trug sie seit Monaten mit sich herum wie ein Samenkorn.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: narrator_claim
+    quote: Jonas hatte sie ihn nie gesagt, nicht einmal am Steg.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: belief
     who: marie-albers
-    quote: "Ihr eigenes Herz hatte sie nicht so verteidigt wie einen Garten."
+    quote: Aus Rücksicht, weil er selbst nicht wusste, ob er im Herbst noch hier war.
     status: belief
-    about: [marie-albers]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
-gaps:
-  - "Uhrzeit der Szene nennt der Text nicht; nur „die Sonne stand schon tief“, vermutlich derselbe Donnerstag, 27. August, direkt nach ch08/s01."
-  - "Ob Grete Jonas auf den Parkplatz ansprechen wird, bleibt offen."
+  - kind: narrator_claim
+    quote: Sie hatte um jeden Stock gestritten, um den alten Kies, um zwei rostige Bögen.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: Für sich selbst hatte sie kein Wort eingelegt.
+    status: belief
+    about:
+      - marie-albers
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: Ihr eigenes Herz hatte sie nicht so verteidigt wie einen Garten.
+    status: belief
+    about:
+      - marie-albers
+    tags: []
+end_actual: emotional
+end_quote: Ihr eigenes Herz hatte sie nicht so verteidigt wie einen Garten.

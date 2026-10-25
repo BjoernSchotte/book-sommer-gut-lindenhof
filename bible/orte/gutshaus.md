@@ -29,13 +29,13 @@ links: [grundlage, marie-albers, jonas-behrendt, grete-paulsen, ralf-steinhagen]
 **Grenzen:** keine Gewalt, kein Einbruch, keine Polizei. Hamburg wird hier nur am Telefon oder in Gedanken genannt.
 
 ## Verlauf
-- ch08/s02 · „Im Ofen neben dem Kachelherd wurde auf einem Blech der Zucker braun“ · In der Küche backt im Ofen neben dem Kachelherd Butterkuchen (#999c3a)
-- ch08/s02 · „Maries Jacke hing am Haken neben der Tür, wo sie sie mittags gelassen hatte.“ · Haken neben der Küchentür (#999c3a)
-- ch08/s02 · „Hedwigs alte Schere mit dem roten Griff lag auf der Fensterbank zwischen den Geranien.“ · Geranien auf der Küchenfensterbank (#999c3a)
-- ch08/s02 · „Die Küchenuhr tickte, im Ofen knisterte der Zucker.“ · Tickende Küchenuhr (#999c3a)
-- ch08/s02 · „Durch das Fenster fiel das gelbe Licht vom Erntestaub“ · Erntestaublicht durchs Küchenfenster auf das Wachstuch (#999c3a)
-- ch08/s02 · „Jetzt, an diesem Tisch, an dem sie als Mädchen mit Erde unter den Nägeln Unkraut gegen Kuchen getauscht hatte, kamen ihr die Tränen.“ · Gretes Küchentisch ist der Ort, an dem Marie weinen darf (#999c3a)
-- ch08/s02 · „Die Uhr tickte weiter, und draußen rief eine Amsel in der Lindenallee.“ · Aus der Küche hört man die Lindenallee (#999c3a)
+- ch08/s02 · „Im Ofen neben dem Kachelherd wurde auf einem Blech der Zucker braun“ · In der Küche backt im Ofen neben dem Kachelherd Butterkuchen (#8e1bc1)
+- ch08/s02 · „Maries Jacke hing am Haken neben der Tür, wo sie sie mittags gelassen hatte.“ · Haken neben der Küchentür (#8e1bc1)
+- ch08/s02 · „Hedwigs alte Schere mit dem roten Griff lag auf der Fensterbank zwischen den Geranien.“ · Geranien auf der Küchenfensterbank (#8e1bc1)
+- ch08/s02 · „Die Küchenuhr tickte, im Ofen knisterte der Zucker.“ · Tickende Küchenuhr (#8e1bc1)
+- ch08/s02 · „Durch das Fenster fiel das gelbe Licht vom Erntestaub“ · Erntestaublicht durchs Küchenfenster auf das Wachstuch (#8e1bc1)
+- ch08/s02 · „Jetzt, an diesem Tisch, an dem sie als Mädchen mit Erde unter den Nägeln Unkraut gegen Kuchen getauscht hatte, kamen ihr die Tränen.“ · Gretes Küchentisch ist der Ort, an dem Marie weinen darf (#8e1bc1)
+- ch08/s02 · „Die Uhr tickte weiter, und draußen rief eine Amsel in der Lindenallee.“ · Aus der Küche hört man die Lindenallee (#8e1bc1)
 - ch01/s02 · „Hinter ihm standen die Flügeltüren zum Salon offen“ · Verhandlung auf der Terrasse vor dem Salon; Flügeltüren offen, Geruch von altem Polster und Bohnerwachs (#e71a4f)
 - ch01/s02 · „Seine Lederschuhe lagen auf der untersten Stufe der Freitreppe, die Socken daneben.“ · Jonas' nasse Schuhe und Socken trocknen auf der Freitreppe zum Garten (#e71a4f)
 - ch01/s02 · „Fenster, Erdgeschoss, Gartenseite: sieben Stück, die Rahmen undicht, zwei Flügel verzogen.“ · Sieben undichte Fenster im Erdgeschoss zur Gartenseite, Holz morsch (#e71a4f)
