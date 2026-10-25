@@ -100,4 +100,7 @@ paragraphs:
         - du
   9c4c81aab797: []
   5d39f2a42b14: []
-ignored: []
+ignored:
+  - rule: DE_DU_UPPER_LOWER
+    quote: Du
+    paragraph: e18d18d47ddd
