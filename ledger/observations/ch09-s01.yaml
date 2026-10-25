@@ -1,5 +1,5 @@
 source: manuscript/ch09/s01.md
-source_hash: "540e01"
+source_hash: "4ae61e"
 extracted_by: bb-ingest
 end_actual: dialogue
 end_quote: "Aber lass sie nicht zu lange warten, Jung."
@@ -29,9 +29,15 @@ items:
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Vier Nachrichten hatte er ihr geschickt, jede vom Hügel aus, wo das Netz reichte. Auf keine war eine Antwort gekommen."
+    quote: "Auf keine der vier Nachrichten, die er ihr vom Hügel aus geschickt hatte, war eine Antwort gekommen."
     status: fact
     about: [jonas-behrendt, marie-albers, huegel]
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: "Grete wischte sich die Hände an der Schürze ab."
+    status: fact
+    about: [grete-paulsen]
     tags: []
   - kind: object_fact
     who: grete-paulsen
@@ -39,14 +45,14 @@ items:
     status: fact
     about: [grete-paulsen, jonas-behrendt]
     tags: []
-    fact: { subject: grete-paulsen, predicate: has_object, value: "alte blaue Keksdose mit Jonas' Kinderbriefen" }
+    fact: { subject: grete-paulsen, predicate: has_object, value: "Hedwigs blaue Keksdose (Fach unter der Fensterbank)" }
   - kind: event
     who: grete-paulsen
     quote: "Dann zog sie den Stuhl gegenüber heraus, setzte sich und schob die Dose zu ihm hinüber."
     status: fact
     about: [grete-paulsen, jonas-behrendt]
     tags: []
-    fact: { subject: jonas-behrendt, predicate: has_object, value: "Keksdose mit seinen Kinderbriefen" }
+    fact: { subject: jonas-behrendt, predicate: has_object, value: "Hedwigs blaue Keksdose" }
   - kind: speech
     who: grete-paulsen
     quote: "Hedwig hat alles aufgehoben."
@@ -55,88 +61,86 @@ items:
     tags: []
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: "Er kannte die Dose. Früher hatten Butterkekse darin gelegen, und er hatte sich auf Zehenspitzen welche herausgestohlen."
+    quote: "Die Dose kannte er von früher, als Butterkekse darin gelegen hatten und er sich auf Zehenspitzen welche herausgestohlen hatte."
     status: fact
     about: [jonas-behrendt]
     tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "die Keksdose aus den Kindersommern" }
   - kind: speech
     who: grete-paulsen
     quote: "Lies das, Jung. Was du dann machst, ist deine Sache."
-    status: fact
+    status: claim
     about: [grete-paulsen, jonas-behrendt]
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: "Über Marie sagte sie kein Wort."
+    quote: "Über Marie sagte sie kein Wort. Jonas wartete darauf, den ganzen Abend lang, und es kam keins."
     status: fact
-    about: [grete-paulsen, marie-albers, jonas-behrendt]
+    about: [grete-paulsen, jonas-behrendt, marie-albers]
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Nachts saß er auf der Freitreppe zum Garten, die Dose auf den Knien, die Handylampe neben sich auf der Stufe."
+    quote: "Nachts saß er auf der noch tagwarmen Freitreppe zum Garten, die Dose auf den Knien, die Handylampe neben sich auf der Stufe."
     status: fact
     about: [jonas-behrendt]
     tags: []
   - kind: place_fact
-    quote: "Von unten roch es nach Lavendel und feuchtem Kies."
+    quote: "Aus dem Garten zog der Duft von Lavendel und feuchtem Kies herauf."
     status: fact
     about: []
     tags: []
-  - kind: knowledge_gain
+  - kind: object_fact
     who: jonas-behrendt
     quote: "Obenauf lagen Briefe in Druckschrift, mit Bleistift, die Buchstaben schief wie Zaunpfähle nach einem Sturm. LIEBE TANTE HEDWIG."
     status: fact
     about: [jonas-behrendt]
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "Hedwig hat seine Kinderbriefe aufbewahrt" }
   - kind: object_fact
+    who: jonas-behrendt
     quote: "Darunter die Frage, wie viele Zentimeter der Steckling gewachsen sei. Bitte mit Lineal messen."
     status: fact
     about: [jonas-behrendt]
     tags: []
-  - kind: knowledge_gain
+  - kind: object_fact
     who: jonas-behrendt
-    quote: "Auf einem anderen Blatt stand ein Mädchen mit Zopf auf einer Mauer, die Fäuste in die Seiten gestemmt. Daneben, in seiner Kinderschrift: Die hat mit mir geschimpft."
+    quote: "Auf einem anderen Blatt stand ein kleines Mädchen mit Zopf auf einer Mauer, die Fäuste in die Seiten gestemmt. Daneben, in seiner Kinderschrift: Die hat mit mir geschimpft."
     status: fact
     about: [jonas-behrendt, marie-albers]
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "hat als Kind das Mädchen mit Zopf auf der Mauer gemalt" }
   - kind: narrator_claim
-    quote: "Mehr hatte er mit acht nicht hinbekommen."
+    who: jonas-behrendt
+    quote: "Er war zwölf gewesen in jenem letzten Sommer, die Kleine kaum fünf."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "war im letzten Kindersommer zwölf, das Mädchen kaum fünf" }
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: "Dann kamen Postkarten mit bunten Vorderseiten aus Zeltlager und Klassenfahrt, und hinten stand jedes Jahr weniger Text"
     status: fact
     about: [jonas-behrendt]
     tags: []
   - kind: object_fact
+    who: jonas-behrendt
     quote: "Die letzte stammte aus dem Studium, mit Kugelschreiber, kaum länger als die Unterschrift: Nächsten Sommer komm ich bestimmt."
     status: fact
     about: [jonas-behrendt]
     tags: []
   - kind: narrator_claim
-    quote: "Er war nicht gekommen. Hedwig hatte die Karte trotzdem aufbewahrt, ganz unten in der Dose, glattgestrichen."
-    status: fact
-    about: [jonas-behrendt]
-    tags: []
-  - kind: object_fact
     who: jonas-behrendt
-    quote: "Irgendwann zog er den Briefumschlag aus der Hemdtasche, den mit der Summe vom Dachdecker."
+    quote: "Danach war er nie mehr hergefahren. Hedwig hatte die Karte trotzdem aufbewahrt, ganz unten in der Dose, glattgestrichen."
     status: fact
     about: [jonas-behrendt]
     tags: []
-    fact: { subject: jonas-behrendt, predicate: has_object, value: "Briefumschlag mit der Dachdecker-Summe" }
   - kind: event
     who: jonas-behrendt
-    quote: "Auf die freie Seite schrieb er: Nordseite Herbst. Südseite nächstes Jahr. Rinnen selbst."
+    quote: "Auf die freie Seite schrieb er: Nordseite Herbst, Südseite nächstes Jahr, Rinnen selbst."
     status: fact
     about: [jonas-behrendt]
     tags: []
   - kind: event
     who: jonas-behrendt
     quote: "Darunter setzte er: Büro drei Tage, zwei hier."
-    status: fact
-    about: [jonas-behrendt]
-    tags: []
-  - kind: time
-    quote: "Über der Mauer wurde der Himmel grau, und im Laubengang fing eine Amsel an."
     status: fact
     about: [jonas-behrendt]
     tags: []
@@ -160,19 +164,19 @@ items:
     tags: []
     fact: { subject: ch09/s01@ruecktritt, predicate: at_place, value: huegel }
   - kind: place_fact
-    quote: "Oben stand die Eiche dunkel im Weißen, und vom See war nichts zu sehen."
+    quote: "Oben stand die Eiche dunkel im Weißen, der See unten war verschwunden."
     status: fact
     about: [huegel]
     tags: []
-  - kind: place_fact
+  - kind: world_rule
     quote: "Zwei Schritte an ihr vorbei zum Hang, dann kamen die Balken."
     status: fact
     about: [huegel]
     tags: []
   - kind: speech
     who: ralf-steinhagen
-    quote: "Herr Behrendt. Sie sind früh dran."
-    status: fact
+    quote: "Herr Behrendt, Sie sind früh dran."
+    status: claim
     about: [ralf-steinhagen, jonas-behrendt]
     tags: []
   - kind: speech
@@ -184,16 +188,18 @@ items:
     fact: { subject: ralf-steinhagen, predicate: knows, value: "Jonas tritt vom Vorvertrag zurück" }
   - kind: speech
     who: jonas-behrendt
-    quote: "Die vereinbarte Summe trage ich selbst. Die Erklärung schicke ich Ihnen heute."
+    quote: "Wie im Vorvertrag vereinbart, trage ich die Kosten für Notar und Planung selbst. Achtunddreißigtausend Euro."
     status: fact
     about: [jonas-behrendt, ralf-steinhagen]
     tags: []
-  - kind: narrator_claim
+  - kind: event
+    who: ralf-steinhagen
     quote: "Dann sprach Steinhagen weiter, leiser als sonst und genauer, jedes Wort an seinem Platz."
     status: fact
     about: [ralf-steinhagen]
     tags: []
-  - kind: narrator_claim
+  - kind: event
+    who: ralf-steinhagen
     quote: "Über den Preis verlor er keinen Satz."
     status: fact
     about: [ralf-steinhagen]
@@ -213,44 +219,38 @@ items:
   - kind: speech
     who: jonas-behrendt
     quote: "Es tut mir leid um Ihre Arbeit."
-    status: fact
+    status: claim
     about: [jonas-behrendt, ralf-steinhagen]
     tags: []
   - kind: speech
     who: ralf-steinhagen
     quote: "Die Gruppe hat noch ein zweites Gut im Blick."
     status: fact
-    about: [ralf-steinhagen]
+    about: [ralf-steinhagen, jonas-behrendt]
     tags: []
     fact: { subject: jonas-behrendt, predicate: knows, value: "Weidenkamp hat ein zweites Gut im Blick" }
   - kind: speech
     who: ralf-steinhagen
     quote: "Ich wünsche Ihnen Glück mit dem Haus, Herr Behrendt. Dann fehlt ihm wenigstens nichts."
-    status: fact
+    status: claim
     about: [ralf-steinhagen, jonas-behrendt]
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Er komme heute nach Hamburg, um die Partnerschaft abzusagen. Persönlich."
-    status: fact
-    about: [jonas-behrendt]
-    tags: []
-  - kind: event
-    who: jonas-behrendt
-    quote: "Er tippte auf Senden, bevor er es ein zweites Mal durchrechnen konnte."
+    quote: "Er komme heute nach Hamburg, um die Partnerschaft persönlich abzusagen."
     status: fact
     about: [jonas-behrendt]
     tags: []
   - kind: event
     who: hannes-kroeger
-    quote: "Hannes hielt mit dem grünen Trecker neben ihm, den Hänger leer, Kalle in der Kabine."
+    quote: "Als Jonas am Fuß des Hügels auf den Feldweg trat, hielt Hannes mit dem grünen Trecker neben ihm, den Hänger leer, Kalle in der Kabine."
     status: fact
-    about: [hannes-kroeger, jonas-behrendt]
+    about: [hannes-kroeger, jonas-behrendt, huegel]
     tags: []
   - kind: speech
     who: hannes-kroeger
     quote: "Moin, Jonas. Du bist früh auf."
-    status: fact
+    status: claim
     about: [hannes-kroeger, jonas-behrendt]
     tags: []
   - kind: speech
@@ -262,20 +262,20 @@ items:
     fact: { subject: hannes-kroeger, predicate: knows, value: "Erntefest bleibt dauerhaft auf dem Gut" }
   - kind: event
     who: hannes-kroeger
-    quote: "Hannes nahm die Mütze ab und drehte sie in den großen, rissigen Händen, einmal ganz herum."
+    quote: "Hannes zog die Mütze vom Kopf und drehte sie am Schirm einmal ganz herum."
     status: fact
     about: [hannes-kroeger]
     tags: []
   - kind: speech
     who: hannes-kroeger
     quote: "Denn bestell ich das Zelt ab"
-    status: fact
+    status: claim
     about: [hannes-kroeger]
     tags: []
   - kind: speech
     who: hannes-kroeger
     quote: "Hab ja nie dran gezweifelt."
-    status: lie
+    status: unreliable
     about: [hannes-kroeger, jonas-behrendt]
     tags: []
   - kind: belief
@@ -284,50 +284,43 @@ items:
     status: belief
     about: [jonas-behrendt, hannes-kroeger]
     tags: []
-    fact: { subject: jonas-behrendt, predicate: believes, value: "Hannes hat an der Zusage gezweifelt" }
+    fact: { subject: jonas-behrendt, predicate: believes, value: "Hannes hat am Fest auf dem Gut gezweifelt" }
   - kind: speech
     who: hannes-kroeger
     quote: "Und Samstag fährst du vorn. Mit Hedwigs altem Trecker. Der springt an, den hab ich im Frühjahr gemacht."
-    status: fact
+    status: claim
     about: [hannes-kroeger, jonas-behrendt]
     tags: []
   - kind: speech
     who: jonas-behrendt
     quote: "Ich bin noch nie Trecker gefahren."
     status: fact
-    about: [jonas-behrendt]
-    tags: []
-  - kind: speech
-    who: hannes-kroeger
-    quote: "Bis Samstag schon."
-    status: claim
-    about: [hannes-kroeger, jonas-behrendt]
+    about: [jonas-behrendt, hannes-kroeger]
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Jonas lachte, zum ersten Mal seit Donnerstag."
+    quote: "Jonas lachte zum ersten Mal seit Donnerstag, bevor er wieder ernst wurde."
     status: fact
     about: [jonas-behrendt]
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Sag Marie nichts. Bitte. Das muss ich selbst."
-    status: fact
+    quote: "Sag Marie nichts, bitte. Das muss ich selbst."
+    status: claim
     about: [jonas-behrendt, hannes-kroeger, marie-albers]
     tags: []
   - kind: speech
     who: hannes-kroeger
     quote: "Man redet nicht für andere"
-    status: fact
-    about: [hannes-kroeger]
+    status: claim
+    about: [hannes-kroeger, marie-albers]
     tags: []
   - kind: speech
     who: hannes-kroeger
     quote: "Aber lass sie nicht zu lange warten, Jung."
-    status: fact
+    status: claim
     about: [hannes-kroeger, jonas-behrendt, marie-albers]
     tags: []
 gaps:
-  - Wo Marie seit Donnerstag ist und ob sie die vier Nachrichten gelesen hat, bleibt offen.
-  - Wie viel die Rücktrittssumme beträgt, nennt die Szene nicht.
-  - Ob Jonas am Dienstag tatsächlich nach Hamburg fährt, zeigt die Szene nicht; nur die Nachricht ans Büro.
+  - "Keine Uhrzeiten in der Szene; Küchengespräch (Montagabend) und Anruf (Dienstagmorgen) nur als Tagesangaben, daher ohne Zeitleisten-Struktur."
+  - "Datum des Dienstags (1. September) erschlossen aus „Montag, der einunddreißigste August“, nicht wörtlich genannt."

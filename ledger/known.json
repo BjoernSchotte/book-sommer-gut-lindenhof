@@ -15,22 +15,22 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "e66776",
+    "hash": "2097c2",
     "by": "apply",
-    "at": "2026-10-25T00:36:16.762Z",
-    "unit": "ch05/s02"
+    "at": "2026-10-25T01:14:22.273Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/hannes-kroeger.md": {
-    "hash": "1aed6a",
+    "hash": "051dfa",
     "by": "apply",
-    "at": "2026-10-25T00:36:16.762Z",
-    "unit": "ch05/s02"
+    "at": "2026-10-25T01:14:22.273Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "929f17",
+    "hash": "99f1ee",
     "by": "apply",
-    "at": "2026-10-25T00:54:28.535Z",
-    "unit": "ch07/s01"
+    "at": "2026-10-25T01:14:22.273Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "2aecb0",
@@ -39,16 +39,16 @@
     "unit": "ch05/s01"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "f0164f",
+    "hash": "18be16",
     "by": "apply",
-    "at": "2026-10-25T00:36:16.762Z",
-    "unit": "ch05/s02"
+    "at": "2026-10-25T01:14:22.273Z",
+    "unit": "ch09/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "e2f08f",
+    "hash": "e2174c",
     "by": "apply",
-    "at": "2026-10-25T00:19:54.544Z",
-    "unit": "ch04/s02"
+    "at": "2026-10-25T01:14:22.273Z",
+    "unit": "ch09/s01"
   },
   "bible/orte/arbeitszimmer.md": {
     "hash": "640ade",
@@ -75,10 +75,10 @@
     "unit": "ch08/s03"
   },
   "bible/orte/huegel.md": {
-    "hash": "4d71d8",
+    "hash": "4c0d04",
     "by": "apply",
-    "at": "2026-10-25T00:06:11.291Z",
-    "unit": "ch03/s03"
+    "at": "2026-10-25T01:14:22.273Z",
+    "unit": "ch09/s01"
   },
   "bible/orte/lindenallee.md": {
     "hash": "a34a8b",
@@ -338,9 +338,9 @@
     "unit": "ch08/s03"
   },
   "ledger/observations/ch09-s01.yaml": {
-    "hash": "3e1331",
+    "hash": "afba6b",
     "by": "apply",
-    "at": "2026-10-24T21:24:01.605Z",
+    "at": "2026-10-25T01:14:22.273Z",
     "unit": "ch09/s01"
   },
   "ledger/observations/ch09-s02.yaml": {
