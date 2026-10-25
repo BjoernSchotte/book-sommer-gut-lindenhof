@@ -3,7 +3,6 @@ id: garten
 type: place
 summary: Der Rosengarten von Gut Lindenhof ist ein erfundener, von einer alten Backsteinmauer umschlossener Garten hinter dem Gutshaus mit Kiesachsen, Sonnenuhr-Rondell, Laubengang und einer Bank unter der Kletterrose, der im Juni 2026 verwildert ist und bis zum Erntefest am 5. September wieder in altem Glanz stehen soll.
 real: false
-aliases: [Rosengarten, Garten]
 links: []
 ---
 
