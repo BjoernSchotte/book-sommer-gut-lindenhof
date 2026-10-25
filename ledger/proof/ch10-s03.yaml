@@ -104,3 +104,6 @@ ignored:
   - rule: DE_DU_UPPER_LOWER
     quote: Du
     paragraph: e18d18d47ddd
+  - rule: DER_ERSTE
+    quote: erste
+    paragraph: b71630695476
