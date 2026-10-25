@@ -54,4 +54,7 @@ paragraphs:
       replacements:
         - jung
   c65c3bd65919: []
-ignored: []
+ignored:
+  - rule: DE_CASE
+    quote: Jung
+    paragraph: 199fba5bcc43
