@@ -1,5 +1,5 @@
 source: manuscript/ch06/s03.md
-source_hash: 6b1ec3
+source_hash: 2b9426
 extracted_by: bb-ingest
 gaps:
   - Ob Jonas den Termin am Donnerstag zusagt, lässt die Szene offen.
@@ -426,8 +426,16 @@ items:
     about:
       - hannes-kroeger
     tags: []
-  - kind: world_rule
-    quote: Auf dem Feldweg zwischen den Knicks summte das Telefon im Becherhalter, einmal, zweimal, dann ohne Pause. Netz.
+  - kind: event
+    who: jonas-behrendt
+    quote: Auf dem Feldweg zwischen den Knicks leuchtete das Telefon im Becherhalter auf.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas fuhr an den Rand, bis Haselzweige am Spiegel kratzten. Dort hielt er.
     status: fact
     about:
       - jonas-behrendt
