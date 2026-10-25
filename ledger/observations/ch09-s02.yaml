@@ -1,5 +1,5 @@
 source: manuscript/ch09/s02.md
-source_hash: 2fe2bb
+source_hash: 0dccc9
 extracted_by: bb-ingest
 gaps:
   - Wo Jonas am Mittwoch ist, sagt die Szene nicht; nur dass sein Kombi auf dem Gutshof fehlt.
@@ -233,10 +233,19 @@ items:
     tags: []
   - kind: event
     who: marie-albers
-    quote: Als oben die Küchentür klappte, holte Marie die Kiste aus dem Wagen.
+    quote: Als Grete im Haus verschwunden war, holte Marie die Kiste aus dem Wagen.
     status: fact
     about:
       - marie-albers
+      - grete-paulsen
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Sie trug sie den Laubengang entlang, an den Dahlien vorbei, bis in den Winkel hinter dem letzten Bogen.
+    status: fact
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: place_fact
     quote: Am alten Stock der Lindenhof-Rose hatte sich die Knospe aus dem August geöffnet. Eine einzige Blüte, zartrosa und gefüllt.
