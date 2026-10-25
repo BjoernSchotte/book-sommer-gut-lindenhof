@@ -27,10 +27,10 @@
     "unit": "ch10/s03"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "940686",
+    "hash": "21f4e3",
     "by": "apply",
-    "at": "2026-10-25T00:17:23.980Z",
-    "unit": "ch04/s01"
+    "at": "2026-10-25T00:19:54.544Z",
+    "unit": "ch04/s02"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "8ac131",
@@ -45,10 +45,10 @@
     "unit": "ch04/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "55c042",
+    "hash": "e2f08f",
     "by": "apply",
-    "at": "2026-10-25T00:17:23.980Z",
-    "unit": "ch04/s01"
+    "at": "2026-10-25T00:19:54.544Z",
+    "unit": "ch04/s02"
   },
   "bible/orte/arbeitszimmer.md": {
     "hash": "640ade",
@@ -266,9 +266,9 @@
     "unit": "ch04/s01"
   },
   "ledger/observations/ch04-s02.yaml": {
-    "hash": "ae3e8e",
+    "hash": "96ed98",
     "by": "apply",
-    "at": "2026-10-24T18:25:24.192Z",
+    "at": "2026-10-25T00:19:54.544Z",
     "unit": "ch04/s02"
   },
   "ledger/observations/ch05-s01.yaml": {

@@ -1,10 +1,11 @@
 source: manuscript/ch04/s02.md
-source_hash: 80692c
+source_hash: 68b6c3
 extracted_by: bb-ingest
 gaps:
   - Keine Uhrzeit in der Szene; sie schließt am selben Vormittag an ch04/s01 an (Kies, Hannes, Marie), ohne Zeitangabe.
   - Ob der Lageplan auch die Zufahrt durch das Tor und die Zahl der Stellplätze festlegt, bleibt ungenannt; nur „nummeriert, mit einer Zufahrt durch das Tor“.
   - Wo Steinhagens Herrenhaus „weiter im Süden“ liegt, bleibt offen.
+  - Absatz 15 sagt nicht mehr, dass Steinhagen Jonas' Schweigen als Zustimmung deutet; ob er das glaubt, bleibt offen.
 items:
   - kind: place_fact
     quote: Im Salon standen beide Flügeltüren zur Terrasse offen.
@@ -223,18 +224,31 @@ items:
       - jonas-behrendt
       - ralf-steinhagen
     tags: []
-  - kind: belief
+  - kind: event
     who: ralf-steinhagen
-    quote: Steinhagen nickte zufrieden und deutete die Stille als Zustimmung.
-    status: belief
+    quote: Wir wollen niemanden vor den Kopf stoßen.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - grete-paulsen
+    tags:
+      - dialog
+  - kind: event
+    who: ralf-steinhagen
+    quote: Steinhagen nickte zufrieden.
+    status: fact
     about:
       - ralf-steinhagen
       - jonas-behrendt
     tags: []
-    fact:
-      subject: ralf-steinhagen
-      predicate: believes
-      value: Jonas stimmt dem Plan zu
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas widersprach nicht.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
   - kind: speech
     who: ralf-steinhagen
     quote: „Ich hatte vor ein paar Jahren ein Herrenhaus, weiter im Süden“, sagte er, ohne aufzusehen. „Schöner alter Park, Linden, ein Teich. Für den Anbau musste der weg, anders ging die Rechnung nicht auf.“
