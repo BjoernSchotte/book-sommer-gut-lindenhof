@@ -1,0 +1,694 @@
+{
+  "BRIEF.md": {
+    "hash": "773c4f",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "STORYBOARD.md": {
+    "hash": "424e3b",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "bible/figuren/grete-paulsen.md": {
+    "hash": "71e8be",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s03"
+  },
+  "bible/figuren/hannes-kroeger.md": {
+    "hash": "93f7ef",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s03"
+  },
+  "bible/figuren/jonas-behrendt.md": {
+    "hash": "e9338f",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s03"
+  },
+  "bible/figuren/lena-hansen.md": {
+    "hash": "356b7f",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s03"
+  },
+  "bible/figuren/marie-albers.md": {
+    "hash": "7cfd8a",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s03"
+  },
+  "bible/figuren/ralf-steinhagen.md": {
+    "hash": "e37d00",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch07/s01"
+  },
+  "bible/orte/arbeitszimmer.md": {
+    "hash": "fe29ac",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch06/s02"
+  },
+  "bible/orte/garten.md": {
+    "hash": "1b4cb2",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s03"
+  },
+  "bible/orte/gutshaus.md": {
+    "hash": "b837ac",
+    "by": "author",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "bible/orte/hofladen.md": {
+    "hash": "d11d95",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch08/s03"
+  },
+  "bible/orte/huegel.md": {
+    "hash": "29d44d",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch02/s02"
+  },
+  "bible/orte/lindenallee.md": {
+    "hash": "eebc87",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s01"
+  },
+  "bible/orte/notariat.md": {
+    "hash": "926aa4",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch07/s01"
+  },
+  "bible/orte/salon.md": {
+    "hash": "10cf40",
+    "by": "author",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "bible/orte/scheune.md": {
+    "hash": "80f667",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s02"
+  },
+  "bible/orte/steg.md": {
+    "hash": "ac5c72",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch05/s03"
+  },
+  "bible/straenge/erntefest.md": {
+    "hash": "890d78",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "bible/straenge/liebe.md": {
+    "hash": "d077ba",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "bible/straenge/rosengarten.md": {
+    "hash": "443ac6",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "bible/straenge/verkauf.md": {
+    "hash": "4816a1",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "bible/welt/grundlage.md": {
+    "hash": "94c49e",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "bible/welt/praemisse.md": {
+    "hash": "b378bf",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "book.yaml": {
+    "hash": "ad8329",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "ledger/knowledge/ch01.yaml": {
+    "hash": "1e9a75",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch01"
+  },
+  "ledger/knowledge/ch02.yaml": {
+    "hash": "5671c8",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch02"
+  },
+  "ledger/knowledge/ch03.yaml": {
+    "hash": "0f9d2b",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch03"
+  },
+  "ledger/knowledge/ch04.yaml": {
+    "hash": "b2db7e",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch04"
+  },
+  "ledger/knowledge/ch05.yaml": {
+    "hash": "79588e",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch05"
+  },
+  "ledger/knowledge/ch06.yaml": {
+    "hash": "0282a4",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch06"
+  },
+  "ledger/knowledge/ch07.yaml": {
+    "hash": "6be854",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch07"
+  },
+  "ledger/knowledge/ch08.yaml": {
+    "hash": "8c2b92",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch08"
+  },
+  "ledger/knowledge/ch09.yaml": {
+    "hash": "8f1a50",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch09"
+  },
+  "ledger/knowledge/ch10.yaml": {
+    "hash": "4a891e",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10"
+  },
+  "ledger/observations/ch01-s01.yaml": {
+    "hash": "31165e",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch01/s01"
+  },
+  "ledger/observations/ch01-s02.yaml": {
+    "hash": "485e71",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch01/s02"
+  },
+  "ledger/observations/ch01-s03.yaml": {
+    "hash": "41e4d8",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch01/s03"
+  },
+  "ledger/observations/ch02-s01.yaml": {
+    "hash": "dd46bb",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch02/s01"
+  },
+  "ledger/observations/ch02-s02.yaml": {
+    "hash": "f3506b",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch02/s02"
+  },
+  "ledger/observations/ch02-s03.yaml": {
+    "hash": "2a7457",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch02/s03"
+  },
+  "ledger/observations/ch03-s01.yaml": {
+    "hash": "56551e",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch03/s01"
+  },
+  "ledger/observations/ch03-s02.yaml": {
+    "hash": "fd397c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch03/s02"
+  },
+  "ledger/observations/ch03-s03.yaml": {
+    "hash": "88ed6a",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch03/s03"
+  },
+  "ledger/observations/ch04-s01.yaml": {
+    "hash": "adfb90",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch04/s01"
+  },
+  "ledger/observations/ch04-s02.yaml": {
+    "hash": "96ed98",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch04/s02"
+  },
+  "ledger/observations/ch05-s01.yaml": {
+    "hash": "bc6199",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch05/s01"
+  },
+  "ledger/observations/ch05-s02.yaml": {
+    "hash": "bf9564",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch05/s02"
+  },
+  "ledger/observations/ch05-s03.yaml": {
+    "hash": "1c8c40",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch05/s03"
+  },
+  "ledger/observations/ch06-s01.yaml": {
+    "hash": "d22f82",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch06/s01"
+  },
+  "ledger/observations/ch06-s02.yaml": {
+    "hash": "dc5cda",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch06/s02"
+  },
+  "ledger/observations/ch06-s03.yaml": {
+    "hash": "1c373a",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch06/s03"
+  },
+  "ledger/observations/ch07-s01.yaml": {
+    "hash": "c33ab3",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch07/s01"
+  },
+  "ledger/observations/ch07-s02.yaml": {
+    "hash": "da66f4",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch07/s02"
+  },
+  "ledger/observations/ch08-s01.yaml": {
+    "hash": "0fc2c5",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch08/s01"
+  },
+  "ledger/observations/ch08-s02.yaml": {
+    "hash": "9803af",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch08/s02"
+  },
+  "ledger/observations/ch08-s03.yaml": {
+    "hash": "f253f4",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch08/s03"
+  },
+  "ledger/observations/ch09-s01.yaml": {
+    "hash": "acebc2",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch09/s01"
+  },
+  "ledger/observations/ch09-s02.yaml": {
+    "hash": "5d005c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch09/s02"
+  },
+  "ledger/observations/ch10-s01.yaml": {
+    "hash": "bffb5f",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s01"
+  },
+  "ledger/observations/ch10-s02.yaml": {
+    "hash": "983ace",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s02"
+  },
+  "ledger/observations/ch10-s03.yaml": {
+    "hash": "0b9d78",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s03"
+  },
+  "manuscript/ch01/s01.md": {
+    "hash": "7122f5",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch01/s01"
+  },
+  "manuscript/ch01/s02.md": {
+    "hash": "e71a4f",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch01/s02"
+  },
+  "manuscript/ch01/s03.md": {
+    "hash": "eceda0",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch01/s03"
+  },
+  "manuscript/ch02/s01.md": {
+    "hash": "2eb83c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch02/s01"
+  },
+  "manuscript/ch02/s02.md": {
+    "hash": "53bc2c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch02/s02"
+  },
+  "manuscript/ch02/s03.md": {
+    "hash": "0b1476",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch02/s03"
+  },
+  "manuscript/ch03/s01.md": {
+    "hash": "e9dc82",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch03/s01"
+  },
+  "manuscript/ch03/s02.md": {
+    "hash": "f75981",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch03/s02"
+  },
+  "manuscript/ch03/s03.md": {
+    "hash": "51001a",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch03/s03"
+  },
+  "manuscript/ch04/s01.md": {
+    "hash": "3e4cd8",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch04/s01"
+  },
+  "manuscript/ch04/s02.md": {
+    "hash": "68b6c3",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch04/s02"
+  },
+  "manuscript/ch05/s01.md": {
+    "hash": "5ff2ac",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch05/s01"
+  },
+  "manuscript/ch05/s02.md": {
+    "hash": "1dd523",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch05/s02"
+  },
+  "manuscript/ch05/s03.md": {
+    "hash": "2b0b6e",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch05/s03"
+  },
+  "manuscript/ch06/s01.md": {
+    "hash": "506bb0",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch06/s01"
+  },
+  "manuscript/ch06/s02.md": {
+    "hash": "b29647",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch06/s02"
+  },
+  "manuscript/ch06/s03.md": {
+    "hash": "087be4",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch06/s03"
+  },
+  "manuscript/ch07/s01.md": {
+    "hash": "0a3d63",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch07/s01"
+  },
+  "manuscript/ch07/s02.md": {
+    "hash": "5e69b0",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch07/s02"
+  },
+  "manuscript/ch08/s01.md": {
+    "hash": "b935f5",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch08/s01"
+  },
+  "manuscript/ch08/s02.md": {
+    "hash": "44cebe",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch08/s02"
+  },
+  "manuscript/ch08/s03.md": {
+    "hash": "450efc",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch08/s03"
+  },
+  "manuscript/ch09/s01.md": {
+    "hash": "75d690",
+    "by": "author",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "manuscript/ch09/s02.md": {
+    "hash": "20340c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch09/s02"
+  },
+  "manuscript/ch10/s01.md": {
+    "hash": "c5b78f",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s01"
+  },
+  "manuscript/ch10/s02.md": {
+    "hash": "85d5c2",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s02"
+  },
+  "manuscript/ch10/s03.md": {
+    "hash": "59261c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z",
+    "unit": "ch10/s03"
+  },
+  "marketing/author.md": {
+    "hash": "267959",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "marketing/backmatter.md": {
+    "hash": "a5cc35",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "marketing/blurbs.md": {
+    "hash": "775e8f",
+    "by": "author",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "marketing/cover-brief.md": {
+    "hash": "4c831d",
+    "by": "author",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "marketing/pitch.md": {
+    "hash": "092a01",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "marketing/store.yaml": {
+    "hash": "9ef5d5",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "marketing/titles.md": {
+    "hash": "396e36",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch01.md": {
+    "hash": "8a6a4f",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch02.md": {
+    "hash": "bff718",
+    "by": "author",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch03.md": {
+    "hash": "4bbb88",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch04.md": {
+    "hash": "dcd118",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch05.md": {
+    "hash": "0f4bd8",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch06.md": {
+    "hash": "528a59",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch07.md": {
+    "hash": "e2ba92",
+    "by": "author",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch08.md": {
+    "hash": "f9131c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch09.md": {
+    "hash": "9063f2",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/ch10.md": {
+    "hash": "e75566",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch01.yaml": {
+    "hash": "52e1c3",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch02.yaml": {
+    "hash": "63e3e8",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch03.yaml": {
+    "hash": "3f330c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch04.yaml": {
+    "hash": "de12a3",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch05.yaml": {
+    "hash": "8e2e52",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch06.yaml": {
+    "hash": "43c94a",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch07.yaml": {
+    "hash": "15dcbf",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch08.yaml": {
+    "hash": "3a2984",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch09.yaml": {
+    "hash": "38a776",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "plan/tests/ch10.yaml": {
+    "hash": "dfde99",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "review/lektorat-2026-10-25.md": {
+    "hash": "34f48c",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "style/audience.md": {
+    "hash": "6792f8",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "style/decisions.md": {
+    "hash": "c7634e",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "style/dictionary.txt": {
+    "hash": "3c80de",
+    "by": "author",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "style/presets/heftroman.yaml": {
+    "hash": "c43f08",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "style/style.md": {
+    "hash": "f35f06",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  },
+  "style/voice.md": {
+    "hash": "1269f1",
+    "by": "apply",
+    "at": "2026-10-25T15:04:31.340Z"
+  }
+}
