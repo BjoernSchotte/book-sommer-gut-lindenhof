@@ -531,6 +531,41 @@
     "at": "2026-10-25T12:35:18.377Z",
     "unit": "ch10/s03"
   },
+  "marketing/author.md": {
+    "hash": "267959",
+    "by": "apply",
+    "at": "2026-10-25T12:43:32.109Z"
+  },
+  "marketing/backmatter.md": {
+    "hash": "a5cc35",
+    "by": "apply",
+    "at": "2026-10-25T12:43:32.109Z"
+  },
+  "marketing/blurbs.md": {
+    "hash": "6fb55f",
+    "by": "apply",
+    "at": "2026-10-25T12:43:32.109Z"
+  },
+  "marketing/cover-brief.md": {
+    "hash": "8608e8",
+    "by": "apply",
+    "at": "2026-10-25T12:43:32.109Z"
+  },
+  "marketing/pitch.md": {
+    "hash": "092a01",
+    "by": "apply",
+    "at": "2026-10-25T12:43:32.109Z"
+  },
+  "marketing/store.yaml": {
+    "hash": "9ef5d5",
+    "by": "apply",
+    "at": "2026-10-25T12:43:32.109Z"
+  },
+  "marketing/titles.md": {
+    "hash": "396e36",
+    "by": "apply",
+    "at": "2026-10-25T12:43:32.109Z"
+  },
   "plan/ch01.md": {
     "hash": "8a6a4f",
     "by": "apply",
