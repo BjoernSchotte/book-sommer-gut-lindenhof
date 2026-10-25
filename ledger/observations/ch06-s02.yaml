@@ -1,5 +1,5 @@
 source: manuscript/ch06/s02.md
-source_hash: 762d59
+source_hash: ee8fe6
 extracted_by: bb-ingest
 gaps:
   - Szenenzeit nur „Donnerstag, spät am Abend“, keine Uhrzeit; daher keine Struktur für die Zeitleiste. Welcher Donnerstag (nach ch06/s01, Dienstag Ende Juli) sagt der Text nicht.
@@ -9,7 +9,19 @@ gaps:
   - Absatz 1 nennt für den Gutachter nur „nächste Woche“, keinen Tag; der frühere Montag entfällt.
   - Absatz 2 nennt nur „Donnerstag, spät am Abend“, keine Uhrzeit; daher keine Zeitstruktur.
   - Absatz 31 sagt nicht ausdrücklich, dass Grete die Tür schließt; die Zuordnung folgt aus dem Zusammenhang.
+  - Absatz 1 nennt keinen Termin für den Gutachter mehr; das frühere „nächste Woche“ entfällt.
+  - Hedwig hat keine Wiki-Seite; ihr Lachen und ihre Antwort in Absatz 21 stehen ohne `who`.
+  - Absatz 9 nennt „seit vierzig Jahren“ als Gretes Schätzung für das Alter der Ordner; ob alle Ordner so alt sind, sagt der Text nicht.
+  - Absatz 30 sagt nicht, ob Jonas die Fensterrechnung am nächsten Tag tatsächlich sucht.
 items:
+  - kind: event
+    who: jonas-behrendt
+    quote: Der dritte Ordner war wieder der falsche.
+    status: fact
+    about:
+      - jonas-behrendt
+      - arbeitszimmer
+    tags: []
   - kind: event
     who: jonas-behrendt
     quote: Jonas stellte ihn zurück und zog den nächsten aus dem untersten Fach.
@@ -30,14 +42,14 @@ items:
     tags: []
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: Er brauchte Dach und Fenster.
+    quote: Er brauchte Dach und Fenster
     status: fact
     about:
       - jonas-behrendt
     tags: []
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: Der Gutachter kam nächste Woche zur Wertermittlung und wollte jede Rechnung in der Hand haben, am liebsten mit Datum und Firmenstempel.
+    quote: denn der Gutachter wollte für die Wertermittlung jede Rechnung in der Hand haben, am liebsten mit Datum und Firmenstempel.
     status: fact
     about:
       - jonas-behrendt
@@ -45,7 +57,7 @@ items:
     fact:
       subject: jonas-behrendt
       predicate: knows
-      value: Gutachter kommt nächste Woche zur Wertermittlung
+      value: Gutachter will für die Wertermittlung jede Rechnung sehen
   - kind: time
     quote: Es war Donnerstag, spät am Abend
     status: fact
@@ -138,10 +150,11 @@ items:
     tags: []
   - kind: speech
     who: grete-paulsen
-    quote: Die laufen dir nicht weg.
+    quote: Die laufen dir nicht weg, die stehen da schon seit vierzig Jahren.
     status: claim
     about:
       - jonas-behrendt
+      - arbeitszimmer
     tags: []
   - kind: event
     who: grete-paulsen
@@ -270,7 +283,7 @@ items:
       - jonas-behrendt
     tags: []
   - kind: event
-    quote: Hedwig hatte gelacht, tief aus der Brust, und ihm die Hand nicht weggenommen.
+    quote: Hedwig lachte, tief aus der Brust, und nahm ihm die Hand nicht weg.
     status: fact
     about:
       - jonas-behrendt
@@ -414,10 +427,18 @@ items:
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: Die Dachrechnungen.
+    quote: Die fürs Dach.
     status: claim
     about:
       - grete-paulsen
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Nach den Fenstern such ich morgen weiter.
+    status: claim
+    about:
+      - jonas-behrendt
+      - arbeitszimmer
     tags: []
   - kind: event
     who: grete-paulsen
