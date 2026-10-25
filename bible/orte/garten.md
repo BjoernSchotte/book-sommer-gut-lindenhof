@@ -3,6 +3,7 @@ id: garten
 type: place
 summary: Der Rosengarten von Gut Lindenhof ist ein erfundener, von einer alten Backsteinmauer umschlossener Garten hinter dem Gutshaus mit Kiesachsen, Sonnenuhr-Rondell, Laubengang und einer Bank unter der Kletterrose, der im Juni 2026 verwildert ist und bis zum Erntefest am 5. September wieder in altem Glanz stehen soll.
 real: false
+aliases: [Rosengarten, Garten]
 links: []
 ---
 
@@ -10,7 +11,7 @@ links: []
 
 **Lage:** hinter dem Gutshaus von Gut Lindenhof, erfunden, Holsteinische Schweiz, Binnenland. Vom Salon führen Flügeltüren auf die Terrasse und eine Freitreppe hinunter in den Garten. Von außen betritt man ihn durch das schmiedeeiserne Tor in der Nordmauer, erreichbar vom Hof über einen Plattenweg an der Hausecke vorbei. In der Südmauer sitzt eine schmale Holzpforte; dahinter fällt die Wiese zum Gutssee mit Steg und Schilf ab. Ebener Grund, nah am Haus: genau darum legt der Investor seinen Parkplatz hierher.
 
-**Größe und Mauer:** rechteckig, rund sechzig mal vierzig Schritte. Die Backsteinmauer ist gut mannshoch, an der Krone bemoost, an einigen Stellen ausgebrochen; über ihr hängen Rambler ('Ghislaine de Féligonde'). An der Innenseite der Ostmauer, nahe dem Tor, gibt es eine Stelle mit eingeritzten Kerben und einen vorstehenden Mauerstein, auf den man als Kind klettern konnte. Hedwig hat dort jahrzehntelang Kinder fotografiert, die bei ihr im Garten waren.
+**Größe und Mauer:** rechteckig, rund sechzig mal vierzig Schritte. Die Backsteinmauer ist gut mannshoch, an der Krone bemoost, an einigen Stellen ausgebrochen; über ihr hängen Rambler ('Ghislaine de Féligonde'). An der Innenseite der Nordmauer, direkt neben dem Tor, gibt es eine Stelle mit eingeritzten Kerben und einen vorstehenden Mauerstein, auf den man als Kind klettern konnte. Hedwig hat dort jahrzehntelang Kinder fotografiert, die bei ihr im Garten waren.
 
 **Anlage:**
 - Hauptachse: Kiesweg vom Tor nach Süden bis zur Pforte, unterbrochen vom Rondell in der Mitte.
