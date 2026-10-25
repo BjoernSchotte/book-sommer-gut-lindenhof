@@ -102,7 +102,6 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch04/s01 · „Hannes nannte knapp seinen Namen“ · Stellt sich Steinhagen knapp vor (#57a434)
 - ch04/s01 · „Kalle sprang von der Ladefläche und lief zur Küchentür“ · Kalle springt vom Pick-up und läuft zu Gretes Küchentür (#57a434)
 - ch04/s02 · „Kurz darauf kratzte ihre Schaufel wieder im Kies, im selben Takt wie die von Hannes.“ · Schaufelt während der Besprechung weiter Kies, Marie im selben Takt (#80692c)
-- ch05/s03 · „Hannes' Trecker hatte als Letzter die Allee hinuntergebrummt“ · Fährt am Abend des Helfersamstags als Letzter mit dem Trecker die Allee hinunter (#700825)
 - ch06/s03 · „Hannes' Pick-up hielt am Hoftor, die Ladefläche voller Kartoffelkisten, und Kalle sprang herunter, bevor der Motor verstummt war.“ · Liefert mit dem Pick-up Kartoffelkisten zum Hofladen; Kalle springt sofort herunter (#e1f9c8)
 - ch06/s03 · „Der alte Hund lief einmal um den Kombi und beschnupperte die Reifen.“ · Kalle beschnuppert Jonas' Kombi (#e1f9c8)
 - ch06/s03 · „Er nahm die Mütze ab und hielt sie mit beiden Händen vor dem Bauch, die Daumen am Schirm, und drehte sie langsam.“ · Nimmt die Mütze ab und dreht sie, bevor er ernst wird (#e1f9c8)
@@ -180,3 +179,4 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch09/s02 · „Kurz darauf rollte der Trecker die Lindenallee hinunter, bis die Stämme ihn verdeckten.“ · Pfeift Kalle und fährt mit dem Trecker die Lindenallee hinunter (#6dd407)
 - ch09/s02 · „Sonst hielt Hannes den Blick, wenn er redete.“ · Hält sonst beim Reden den Blick, laut Marie (#6dd407)
 - ch09/s02 · „Da hat Hannes nichts zu meckern.“ · Hätte laut Marie an Gretes Butterkuchen diesmal nichts zu meckern (#6dd407)
+- ch05/s03 · „Hannes' Trecker hatte als Letzter die Allee hinuntergebrummt“ · Fährt am Abend des Helfersamstags als Letzter mit dem Trecker die Allee hinunter (#90c2a3)

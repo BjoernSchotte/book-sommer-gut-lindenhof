@@ -1,285 +1,416 @@
 source: manuscript/ch05/s03.md
-source_hash: "700825"
+source_hash: 90c2a3
 extracted_by: bb-ingest
-end_actual: question
-end_quote: "Reichte ein Sommer, um Wurzeln zu schlagen?"
+gaps:
+  - Keine Uhrzeit der Szenenhandlung; Abend nach dem Helfersamstag nur über Sonnenuntergang und Dunkelheit verankert.
+  - "Gretes Küchenfenster: Szene verortet es im Gutshaus („Hauswand“), nicht in Gretes Haus neben der Remise; passt zu „Kocht in der großen Küche des Gutshauses“."
+  - Wer im Gutshaus oben Licht macht und es später löscht, lassen Absatz 2 und 41 offen (früher Gretes Küche; jetzt nur „oben im Gutshaus“ bzw. „im Haus“).
 items:
   - kind: event
     who: marie-albers
-    quote: "Marie ließ die Füße tiefer ins Wasser sinken, bis es ihr an die Waden reichte."
+    quote: Marie ließ die Füße tiefer ins Wasser sinken, bis es ihr an die Waden reichte.
     status: fact
-    about: [marie-albers, steg]
+    about:
+      - marie-albers
+      - steg
     tags: []
-    fact: { subject: ch05/s03@steg-abend, predicate: at_place, value: steg }
+    fact:
+      subject: ch05/s03@steg-abend
+      predicate: at_place
+      value: steg
   - kind: place_fact
-    quote: "Am Rand war der See lauwarm, weiter unten kühler."
+    quote: Am Rand war der See lauwarm, weiter unten kühler.
     status: fact
-    about: [steg]
+    about:
+      - steg
     tags: []
   - kind: object_fact
     who: marie-albers
-    quote: "Die Gummistiefel lagen neben ihr auf den Brettern, einer umgekippt, und rochen nach Kies und Giersch."
+    quote: Die Gummistiefel lagen neben ihr auf den Brettern, einer umgekippt, und rochen nach Kies und Giersch.
     status: fact
-    about: [marie-albers, steg]
+    about:
+      - marie-albers
+      - steg
     tags: []
   - kind: event
-    quote: "Die Helfer waren fort. Hannes' Trecker hatte als Letzter die Allee hinuntergebrummt, Lena hatte zum Abschied mit dem Klemmbrett gewinkt."
+    quote: Die Helfer waren fort. Hannes' Trecker hatte als Letzter die Allee hinuntergebrummt, Lena hatte zum Abschied mit dem Klemmbrett gewinkt.
     status: fact
-    about: [hannes-kroeger, lena-hansen]
+    about:
+      - hannes-kroeger
+      - lena-hansen
     tags: []
   - kind: place_fact
-    quote: "Über die Wiese hinweg brannte in Gretes Küche Licht, ein gelbes Viereck in der dämmrigen Hauswand."
+    quote: Über die Wiese hinweg brannte oben im Gutshaus Licht, ein gelbes Viereck in der dämmrigen Hauswand.
     status: fact
-    about: [steg, grete-paulsen]
+    about:
+      - steg
     tags: []
   - kind: place_fact
-    quote: "links und rechts vom Steg raschelte das Schilf, obwohl kaum ein Lüftchen ging"
+    quote: Vom gemähten Hang zog Heuduft herunter
     status: fact
-    about: [steg]
+    about:
+      - steg
+    tags: []
+  - kind: place_fact
+    quote: links und rechts vom Steg raschelte das Schilf, obwohl kaum ein Lüftchen ging
+    status: fact
+    about:
+      - steg
     tags: []
   - kind: narrator_claim
     who: marie-albers
-    quote: "Ihr tat alles weh, die Schultern, der Rücken, die Knie, und trotzdem hätte sie singen mögen, was niemand zu wissen brauchte."
+    quote: Ihr tat alles weh, die Schultern, der Rücken, die Knie, und trotzdem hätte sie singen mögen, was niemand zu wissen brauchte.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: narrator_claim
     who: marie-albers
-    quote: "Sie drehte sich nicht um, denn den Schritt auf den alten Planken kannte sie inzwischen."
+    quote: Sie drehte sich nicht um, denn den Schritt auf den alten Planken kannte sie inzwischen.
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Jonas setzte sich neben sie, zwei Flaschen Bier in der Hand, beschlagen vor Kälte. Er war barfuß, die Hosenbeine aufgekrempelt."
+    quote: Jonas setzte sich neben sie, zwei Flaschen Bier in der Hand, beschlagen vor Kälte. Er war barfuß, die Hosenbeine aufgekrempelt.
     status: fact
-    about: [jonas-behrendt, steg]
+    about:
+      - jonas-behrendt
+      - steg
     tags: []
-    fact: { subject: jonas-behrendt, predicate: at_place, value: steg }
+    fact:
+      subject: jonas-behrendt
+      predicate: at_place
+      value: steg
   - kind: speech
     who: jonas-behrendt
-    quote: "Die Kiste ist für Helfer, hat sie gesagt. Ich hab gefragt, ob ich zähle."
+    quote: Die Kiste ist für Helfer, hat sie gesagt. Ich hab gefragt, ob ich zähle.
     status: claim
-    about: [jonas-behrendt, grete-paulsen]
+    about:
+      - jonas-behrendt
+      - grete-paulsen
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Sie hat mir zwei gegeben und die Kronkorken gleich mit abgemacht."
+    quote: Sie hat mir zwei gegeben und die Kronkorken gleich mit abgemacht.
     status: claim
-    about: [jonas-behrendt, grete-paulsen]
+    about:
+      - jonas-behrendt
+      - grete-paulsen
     tags: []
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: "Seine Unterarme waren zerkratzt, feine rote Striche kreuz und quer."
+    quote: Seine Unterarme waren zerkratzt, feine rote Striche kreuz und quer.
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: knowledge_gain
     who: marie-albers
-    quote: "Krebsrot, genau zwischen Haaransatz und Kragen."
+    quote: Krebsrot, genau zwischen Haaransatz und Kragen.
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "Jonas hat Sonnenbrand im Nacken" }
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: Jonas hat Sonnenbrand im Nacken
   - kind: speech
     who: jonas-behrendt
-    quote: "Grete hat mir schon Quark angeboten."
+    quote: Grete hat mir schon Quark angeboten.
     status: claim
-    about: [jonas-behrendt, grete-paulsen]
+    about:
+      - jonas-behrendt
+      - grete-paulsen
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Ich schmier mir keinen Quark in den Nacken, Marie."
+    quote: Ich schmier mir keinen Quark in den Nacken, Marie.
     status: claim
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Lena hat mich den ganzen Tag gesiezt. Mit dem Klemmbrett vor der Brust, wie ein Schild."
+    quote: Lena hat mich den ganzen Tag gesiezt. Mit dem Klemmbrett vor der Brust, wie ein Schild.
     status: claim
-    about: [jonas-behrendt, lena-hansen]
+    about:
+      - jonas-behrendt
+      - lena-hansen
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Das ist ihr Vertreterton."
+    quote: Das ist ihr Vertreterton.
     status: claim
-    about: [lena-hansen]
+    about:
+      - lena-hansen
     tags: []
   - kind: time
     who: jonas-behrendt
-    quote: "Um fünf hat sie mich gefragt, ob ich nächsten Samstag Zeit habe."
+    quote: Um fünf hat sie mich gefragt, ob ich nächsten Samstag Zeit habe.
     status: claim
-    about: [jonas-behrendt, lena-hansen]
+    about:
+      - jonas-behrendt
+      - lena-hansen
     tags: []
-    fact: { subject: ch05/s03@lenas-frage, predicate: at_time, value: "17:00" }
+    fact:
+      subject: ch05/s03@lenas-frage
+      predicate: at_time
+      value: 17:00
   - kind: speech
     who: jonas-behrendt
-    quote: "Ich hab Ja gesagt, bevor ich nachdenken konnte."
+    quote: Ich hab Ja gesagt, bevor ich nachdenken konnte.
     status: claim
-    about: [jonas-behrendt, lena-hansen]
+    about:
+      - jonas-behrendt
+      - lena-hansen
     tags: []
-    fact: { subject: jonas-behrendt, predicate: knows, value: "hat Lena für nächsten Samstag zugesagt" }
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: hat Lena für nächsten Samstag zugesagt
   - kind: speech
     who: marie-albers
-    quote: "Mats hat sie auch so gekriegt."
+    quote: Mats hat sie auch so gekriegt.
     status: claim
-    about: [lena-hansen]
+    about:
+      - lena-hansen
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Hier hab ich Flöße gebaut“, sagte Jonas. „Als Junge. Aus Brettern aus der Remise, mit Wäscheleine verschnürt."
+    quote: Hier hab ich Flöße gebaut“, sagte Jonas. „Als Junge. Aus Brettern aus der Remise, mit Wäscheleine verschnürt.
     status: fact
-    about: [jonas-behrendt, steg]
+    about:
+      - jonas-behrendt
+      - steg
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Grete hat die Leine wochenlang gesucht."
+    quote: Grete hat die Leine wochenlang gesucht.
     status: claim
-    about: [grete-paulsen, jonas-behrendt]
+    about:
+      - grete-paulsen
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Drei, glaube ich. Das letzte war das größte. Eine Woche hab ich daran geplant, mit Zeichnung."
+    quote: Drei, glaube ich. Das letzte war das größte. Eine Woche hab ich daran geplant, mit Zeichnung.
     status: claim
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Mitten auf dem See ist es abgesoffen. Ganz langsam, erst eine Ecke, dann die andere, dann ich."
+    quote: Mitten auf dem See ist es abgesoffen. Ganz langsam, erst eine Ecke, dann die andere, dann ich.
     status: fact
-    about: [jonas-behrendt, steg]
+    about:
+      - jonas-behrendt
+      - steg
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Hedwig hat am Ufer gestanden und gelacht, bis sie sich ins Gras setzen musste."
+    quote: Hedwig hat am Ufer gestanden und gelacht, bis sie sich ins Gras setzen musste.
     status: fact
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Sie hat gesagt, aus mir wird nie ein Schiffbauer."
+    quote: Sie hat gesagt, aus mir wird nie ein Schiffbauer.
     status: claim
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Seitdem rechne ich alles zweimal."
+    quote: Seitdem rechne ich alles zweimal.
     status: claim
-    about: [jonas-behrendt]
+    about:
+      - jonas-behrendt
     tags: []
   - kind: belief
     who: marie-albers
-    quote: "Ein dünner Junge oben auf der Gartenmauer, barfuß, Schorf auf den Knien, der sich an den Steinen festhielt und trotzdem nicht herunterwollte. Ob er das gewesen war?"
+    quote: Ein dünner Junge oben auf der Gartenmauer, barfuß, Schorf auf den Knien, der sich an den Steinen festhielt und trotzdem nicht herunterwollte. Ob er das gewesen war?
     status: belief
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
-    fact: { subject: marie-albers, predicate: believes, value: "Jonas war vielleicht der Junge auf der Gartenmauer" }
+    fact:
+      subject: marie-albers
+      predicate: believes
+      value: Jonas war vielleicht der Junge auf der Gartenmauer
   - kind: event
     who: marie-albers
-    quote: "Sie nahm einen Schluck und sagte nichts. Es war ein Bild ohne Namen, und sie wollte es nicht zerreden."
+    quote: Sie nahm einen Schluck und sagte nichts. Es war ein Bild ohne Namen, und sie wollte es nicht zerreden.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: place_fact
-    quote: "Hinter dem Buchenwald am anderen Ufer ging die Sonne unter."
+    quote: Hinter dem Buchenwald am anderen Ufer ging die Sonne unter.
     status: fact
-    about: [steg]
+    about:
+      - steg
     tags: []
   - kind: time
-    quote: "Hinter dem Buchenwald am anderen Ufer ging die Sonne unter."
+    quote: Hinter dem Buchenwald am anderen Ufer ging die Sonne unter.
     status: fact
-    about: [steg]
+    about:
+      - steg
     tags: []
-    fact: { subject: ch05/s03@kuss, predicate: at_time, value: "Sonnenuntergang" }
+    fact:
+      subject: ch05/s03@kuss
+      predicate: at_time
+      value: Sonnenuntergang
   - kind: place_fact
-    quote: "Im Schilf fingen die Frösche an."
+    quote: Im Schilf fingen die Frösche an.
     status: fact
-    about: [steg]
+    about:
+      - steg
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: "Dann küssten sie sich."
+    quote: Dann küssten sie sich.
     status: fact
-    about: [marie-albers, jonas-behrendt, steg]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - steg
     tags: []
-    fact: { subject: ch05/s03@kuss, predicate: at_place, value: steg }
+    fact:
+      subject: ch05/s03@kuss
+      predicate: at_place
+      value: steg
   - kind: relationship
     who: marie-albers
-    quote: "Dann küssten sie sich."
+    quote: Dann küssten sie sich.
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Das wollte ich seit dem Gewitter"
+    quote: Das wollte ich seit dem Gewitter
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
   - kind: narrator_claim
     who: marie-albers
-    quote: "Damals hatte sie ihr Herzklopfen aufs Wetter geschoben. Heute war der Himmel klar."
+    quote: Damals hatte sie ihr Herzklopfen aufs Wetter geschoben. Heute war der Himmel klar.
     status: fact
-    about: [marie-albers]
+    about:
+      - marie-albers
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Ich auch"
+    quote: Ich auch
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
+  - kind: time
+    quote: Es war schon dunkel, als sie über die Wiese hinaufgingen.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: ch05/s03@heimweg
+      predicate: at_time
+      value: nach Einbruch der Dunkelheit
   - kind: event
     who: marie-albers
-    quote: "Durch die Pforte in der Mauer kamen sie in den Garten."
+    quote: Durch die Pforte in der Mauer kamen sie in den Garten.
     status: fact
-    about: [marie-albers, jonas-behrendt, garten, steg]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - garten
+      - steg
     tags: []
-    fact: { subject: ch05/s03@heimweg, predicate: at_place, value: garten }
-  - kind: time
-    quote: "Es war schon dunkel, als sie über die Wiese hinaufgingen."
-    status: fact
-    about: [marie-albers, jonas-behrendt]
-    tags: []
-    fact: { subject: ch05/s03@heimweg, predicate: at_time, value: "nach Einbruch der Dunkelheit" }
+    fact:
+      subject: ch05/s03@heimweg
+      predicate: at_place
+      value: garten
   - kind: place_fact
-    quote: "Der neue Kies schimmerte hell, und die Rosen dufteten stärker als am Tag."
+    quote: Der neue Kies schimmerte hell, und die Rosen dufteten stärker als am Tag.
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
   - kind: object_fact
-    quote: "Mats hatte sie gerichtet, die Latten neu verschraubt, das Holz abgeschliffen, bis es glatt war."
+    quote: Mats hatte sie gerichtet, die Latten neu verschraubt, das Holz abgeschliffen, bis es glatt war.
     status: fact
-    about: [garten]
+    about:
+      - garten
     tags: []
   - kind: speech
     who: marie-albers
-    quote: "Bist du im Herbst noch hier?"
+    quote: Bist du im Herbst noch hier?
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: event
-    quote: "Drüben in Gretes Küche ging das Licht aus."
+    who: jonas-behrendt
+    quote: Er antwortete nicht gleich.
     status: fact
-    about: [grete-paulsen]
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+  - kind: place_fact
+    quote: Eine Motte stieß gegen die Blüten über ihnen.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    quote: Drüben im Haus ging das Licht aus.
+    status: fact
+    about:
+      - garten
     tags: []
   - kind: speech
     who: jonas-behrendt
-    quote: "Ich weiß es nicht"
+    quote: Ich weiß es nicht
     status: fact
-    about: [jonas-behrendt, marie-albers]
+    about:
+      - jonas-behrendt
+      - marie-albers
     tags: []
-    fact: { subject: marie-albers, predicate: knows, value: "Jonas weiß nicht, ob er im Herbst noch da ist" }
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: Jonas weiß nicht, ob er im Herbst noch da ist
   - kind: narrator_claim
     who: marie-albers
-    quote: "Es war ehrlich. Es tat trotzdem weh, leise, wie ein Dorn, den man erst am Abend spürt."
+    quote: Es war ehrlich. Es tat trotzdem weh, leise, wie ein Dorn, den man erst am Abend spürt.
     status: fact
-    about: [marie-albers, jonas-behrendt]
+    about:
+      - marie-albers
+      - jonas-behrendt
     tags: []
   - kind: event
     who: marie-albers
-    quote: "Sie hielt seine fest, die zerkratzte, warme, und ging mit ihm weiter den Kiesweg entlang, an der Sonnenuhr vorbei."
+    quote: Sie hielt seine fest, die zerkratzte, warme, und ging mit ihm weiter den Kiesweg entlang, an der Sonnenuhr vorbei.
     status: fact
-    about: [marie-albers, jonas-behrendt, garten]
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - garten
     tags: []
-gaps:
-  - "Keine Uhrzeit der Szenenhandlung; Abend nach dem Helfersamstag nur über Sonnenuntergang und Dunkelheit verankert."
-  - "Gretes Küchenfenster: Szene verortet es im Gutshaus („Hauswand“), nicht in Gretes Haus neben der Remise; passt zu „Kocht in der großen Küche des Gutshauses“."
+end_actual: question
+end_quote: Reichte ein Sommer, um Wurzeln zu schlagen?
