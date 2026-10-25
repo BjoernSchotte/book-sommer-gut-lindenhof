@@ -1,0 +1,485 @@
+source: manuscript/ch07/s01.md
+source_hash: 0a3d63
+extracted_by: bb-ingest
+gaps:
+  - Ob Grete Jonas' Ausrede glaubt, lässt die Szene offen.
+  - Ob Jonas den Termin der Partner am 13. um neun in Hamburg (ch06/s03) abgesagt hat, erzählt die Szene nicht; er telefoniert stattdessen morgens mit einem Partner.
+  - Die Höhe der vereinbarten Summe und der Dachdecker-Summe nennt die Szene nicht.
+  - Die Höhe der Dachdecker-Summe nennt die Szene nicht.
+  - Warum Jonas heute nicht nach Hamburg kommen kann, sagt die Szene nicht; dass er den Termin der Partner (ch06/s03) abgesagt hat, ist nur aus der Rede des Partners und der durchgestrichenen Zeile zu schließen.
+  - Die Höhe der Dachdecker-Summe nennt Absatz 4 nicht.
+  - Die Höhe der Anzahlung von Weidenkamp und ob die Partner sie als Sicherheit annehmen, lässt Absatz 4 offen; es ist Jonas' Rechnung.
+  - Wann Jonas den Dachdecker zuvor angerufen hat, erzählt die Szene nicht; Absatz 4 nennt nur den Rückruf.
+  - Die Höhe der vereinbarten Summe und des Rücktrittspreises nennt Absatz 14 nicht.
+  - Ob Grete Jonas' Antwort „Hier war er nicht.“ als Ausweichen erkennt, lässt Absatz 28 offen.
+  - Wie Jonas den Notartermin am Montag zusagte (Telefon, Mail, Treffen) und wie Steinhagen die Bedenkzeit anbot, erzählt Absatz 4 nicht.
+items:
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas stand unter der Eiche auf dem Hügel hinter der Scheune, das Telefon am Ohr
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: time
+    quote: Es war Donnerstag, der dreizehnte August, kurz nach sieben
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: ch07/s01@anruf-buero
+      predicate: at_time
+      value: Do. 13. August, kurz nach 7
+    event: anruf-buero
+    day: "+0"
+    at:
+      - 07:00
+      - 07:15
+  - kind: world_rule
+    quote: nur hier oben kam das Gespräch aus dem Büro durch
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Wenn du heute nicht nach Hamburg kommen kannst, dann eben so
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Partner akzeptiert, dass er heute nicht nach Hamburg kommt
+  - kind: speech
+    who: jonas-behrendt
+    quote: Bis Monatsende, Jonas. Die Einlage.
+    status: claim
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Einlage fürs Büro bis Monatsende fällig
+  - kind: belief
+    who: jonas-behrendt
+    quote: Er verstand es wirklich, er hätte es selbst so gesagt.
+    status: belief
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Bisher hatte er das Jahresende im Kopf gehabt. Jetzt blieben ihm achtzehn Tage.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Frist für die Einlage nicht mehr Jahresende, sondern in achtzehn Tagen
+  - kind: event
+    who: jonas-behrendt
+    quote: Zehn Minuten später rief der Dachdecker zurück und nannte für den Herbst eine Summe
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Dachdecker-Summe für den Herbst
+  - kind: time
+    who: jonas-behrendt
+    quote: Zehn Minuten später rief der Dachdecker zurück
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: ch07/s01@rueckruf-dachdecker
+      predicate: at_time
+      value: zehn Minuten nach dem Anruf aus dem Büro
+    event: rueckruf-dachdecker
+    day: "+0"
+    at:
+      - 07:10
+      - 07:25
+    after:
+      event: anruf-buero
+      min: 10
+      max: 10
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Jonas schrieb sie unter die durchgestrichene Hamburger Uhrzeit auf dem Briefumschlag.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: Briefumschlag mit Fristen, Hamburger Uhrzeit durchgestrichen, Dachdecker-Summe darunter
+  - kind: belief
+    who: jonas-behrendt
+    quote: Dieses Geld besaß er nur, wenn er das Gut verkaufte.
+    status: belief
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Geld nur durch Verkauf des Guts
+  - kind: belief
+    who: jonas-behrendt
+    quote: Unterschrieb er heute, zahlte Weidenkamp eine Anzahlung, und die reichte den Partnern als Sicherheit.
+    status: belief
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Unterschrift heute bringt Anzahlung von Weidenkamp, die den Partnern als Sicherheit reicht
+  - kind: event
+    who: jonas-behrendt
+    quote: Den Notartermin hatte er schon am Montag zugesagt
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+      - notariat
+    tags: []
+  - kind: time
+    who: jonas-behrendt
+    quote: Den Notartermin hatte er schon am Montag zugesagt
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: ch07/s01@zusage-notartermin
+      predicate: at_time
+      value: Montag vor dem Notartermin am Donnerstag, 13. August (also 10. August)
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: als Steinhagen anbot, ihm Bedenkzeit in den Vertrag zu schreiben
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Steinhagen hat angeboten, ihm Bedenkzeit in den Vorvertrag zu schreiben
+  - kind: event
+    who: marie-albers
+    quote: Unten bog ein weißer Kastenwagen aus der Allee und hielt am schmiedeeisernen Tor.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Marie stieg aus, zog die Schiebetür auf und hob eine Kiste mit Töpfen heraus, ohne zum Hügel heraufzusehen.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: narrator_claim
+    quote: Zwei Minuten den Trampelpfad hinab, und er hätte neben ihr gestanden.
+    status: fact
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Er ging auf der anderen Seite hinunter, zum Kombi.
+    status: fact
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+  - kind: place_fact
+    quote: Bis in die Kreisstadt war es eine halbe Stunde.
+    status: fact
+    about:
+      - notariat
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Ein Mähdrescher kam ihm entgegen, breit wie die ganze Fahrbahn.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: place_fact
+    quote: Im Notariat war es kühl, die Jalousien waren heruntergelassen, und das Licht lag in Streifen auf dem langen hellen Tisch.
+    status: fact
+    about:
+      - notariat
+    tags: []
+  - kind: place_fact
+    quote: In der Luft hing der Geruch von Papier und von Kaffee aus der Maschine.
+    status: fact
+    about:
+      - notariat
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Ralf Steinhagen stand auf, als Jonas hereinkam, das Sakko über dem Arm.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+      - notariat
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: at_place
+      value: notariat
+  - kind: speech
+    who: ralf-steinhagen
+    quote: Auf der Kreisstraße habe ich drei Mähdrescher gezählt.
+    status: claim
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Die sind nie glücklich
+    status: claim
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: Er ist nicht so gut wie der von Frau Paulsen, das gebe ich gleich zu.
+    status: claim
+    about:
+      - ralf-steinhagen
+      - grete-paulsen
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Wasser reicht
+    status: claim
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: narrator_claim
+    quote: Der Notar war ein älterer Mann mit ruhiger Stimme.
+    status: fact
+    about:
+      - notariat
+    tags: []
+  - kind: event
+    quote: Er las den Vorvertrag vor, Seite um Seite, ohne ein Wort zu betonen.
+    status: fact
+    about:
+      - notariat
+      - jonas-behrendt
+    tags: []
+  - kind: place_fact
+    quote: An der Wand tickte eine Uhr.
+    status: fact
+    about:
+      - notariat
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Rücktrittsrecht bis zum zehnten September
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Rücktrittsrecht bis 10. September
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Der fraß fast alles, was er für die Einlage gespart hatte.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Preis eines Rücktritts kostet fast alles, was er für die Einlage gespart hat
+  - kind: narrator_claim
+    quote: "Ohne es zu wollen, rechnete er die Frist nach: fünf Tage nach dem Fest."
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: Gezogen hat so etwas bei uns noch nie jemand.
+    status: claim
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: believes
+      value: Rücktrittsrecht ist eine Formalie
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: In der Mappe lag der Lageplan obenauf
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: Mappe mit Vorvertrag und Lageplan
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Die graue Fläche der Stellplätze reichte bis an die Mauer, bis in die Ecke hinter dem Laubengang.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Stellplätze reichen bis in die Ecke hinter dem Laubengang
+  - kind: narrator_claim
+    quote: Welches Kästchen über dieser Stelle lag, hatte er nie ausgerechnet, und er tat es auch heute nicht.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: object_fact
+    who: ralf-steinhagen
+    quote: Steinhagen legte ihm einen Kugelschreiber hin, dunkelblau, mit dem Firmenlogo in Silber.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: Vorher musste es keiner wissen, Marie nicht und Grete nicht.
+    status: belief
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - grete-paulsen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Marie und Grete müssen vorerst nichts wissen
+  - kind: event
+    who: jonas-behrendt
+    quote: Dann unterschrieb er, ohne abzusetzen, und legte den Kugelschreiber zurück auf den Tisch.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+      - notariat
+    tags: []
+    fact:
+      subject: ch07/s01@unterschrift
+      predicate: at_place
+      value: notariat
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Jonas schob ihn mit zwei Fingern ein Stück weiter zu ihm hinüber.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: has_object
+      value: Kugelschreiber mit Firmenlogo
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Das Gartenbuch lag neben ihr, schräg zur Tischkante, wie er es zurückgelegt hatte.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Er hob den Stapel an, legte die Mappe darunter und richtete die Rechnungen wieder aus, Kante auf Kante.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: Mappe unter den Dachrechnungen im untersten Fach von Hedwigs Schreibtisch
+  - kind: event
+    who: grete-paulsen
+    quote: Grete stellte ihm einen Teller Bratkartoffeln hin, mit Spiegelei obenauf, und wischte sich die Hände an der Schürze ab.
+    status: fact
+    about:
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: Über den Herrn mit dem silbernen Auto. Ob der wiedergekommen ist.
+    status: claim
+    about:
+      - grete-paulsen
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: grete-paulsen
+      predicate: knows
+      value: Dorf redet über den Herrn mit dem silbernen Auto
+  - kind: speech
+    who: jonas-behrendt
+    quote: Hier war er nicht.
+    status: claim
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Ich hatte Termine in der Stadt. Nichts Besonderes.
+    status: claim
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: Na, denn, Jung
+    status: claim
+    about:
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Er schmeckte die Kartoffeln nicht.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+end_actual: emotional
+end_quote: Er schmeckte die Kartoffeln nicht.

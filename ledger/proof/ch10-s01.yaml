@@ -1,0 +1,102 @@
+tool: languagetool 6.8
+paragraphs:
+  90cb97a19a29: []
+  ab21e2bb18a7:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 147
+        - 162
+      quote: Damaszenerrosen
+      message: Möglicher Tippfehler gefunden.
+      replacements: []
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 237
+        - 241
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  cee3ba94cf9f: []
+  8b3b6d89f1f0: []
+  10dae0c724d0: []
+  ff488a9f6701: []
+  953a908a812b: []
+  46a3ff0aa717: []
+  813527a318a7: []
+  385743e12f17: []
+  651036f33a3a: []
+  3617c51651bf: []
+  c5b96a86ec7b: []
+  7f1c82339f43: []
+  6b5531fc0013: []
+  3333d805dc97: []
+  81cbf83f5e3a: []
+  9fa6a594c41c: []
+  f10c235fb7f3:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 105
+        - 116
+      quote: sonnenroten
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - sonnen roten
+        - sonnen Roten
+        - sonne-roden
+        - sonnenbaden
+        - Sonnenbooten
+  539e052f99cc: []
+  8431b64f1d34:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 13
+        - 17
+      quote: hätt
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - hätte
+        - hält
+        - hebt
+        - Bett
+        - lädt
+  86ca0c0267c9: []
+  cc14ce7402a1: []
+  8ba9e9f86eea: []
+  b5e34f6feb49: []
+  e37489a5d9f3: []
+  93cac5d1314c: []
+  548ce1f1eed0: []
+  afac1837104b: []
+  f60c653bae0f: []
+  6b9213ce6e65: []
+  ff23cd2a6d2b: []
+  3f4fe3b1f2f9:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 1
+        - 5
+      quote: Kuck
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Knick
+        - Guck
+        - Puck
+        - Guckt
+        - Zuck
+  "716080257844": []
+  6534b8dd13aa: []
+  ac1164d4d6f1: []
+  8a1a3e40b274: []
+  051cb15e3019: []
+  0be3c0787dd6: []
+ignored: []

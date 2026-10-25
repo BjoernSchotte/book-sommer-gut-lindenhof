@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a-f4fs85vy",
+    "kind": "suggestion",
+    "unit": "ch06/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "\n\nDraußen knirschte Kies. Hannes",
+      "suffix": " Pick-up hielt am Hoftor, die La",
+      "hint": 3044
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.076Z"
+  },
+  {
+    "id": "a-mv44n6fp",
+    "kind": "suggestion",
+    "unit": "ch06/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "\n„Das ist keine Drohung.“ Hannes",
+      "suffix": " Stimme blieb ruhig. „Ich sag's ",
+      "hint": 3786
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.076Z"
+  },
+  {
+    "id": "a-mvwyvegn",
+    "kind": "suggestion",
+    "unit": "ch06/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "es' Stimme blieb ruhig. „Ich sag",
+      "suffix": "s dir bloß ehrlich. Die Leute wo",
+      "hint": 3816
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.076Z"
+  },
+  {
+    "id": "a-2kjtqf8y",
+    "kind": "suggestion",
+    "unit": "ch06/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "urück und setzte sich auf Hannes",
+      "suffix": " Stiefel. Über den Feldern brumm",
+      "hint": 3937
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.076Z"
+  }
+]

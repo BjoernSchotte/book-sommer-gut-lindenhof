@@ -1,0 +1,94 @@
+[
+  {
+    "id": "a-z1t1tvmy",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "Das schmiedeeiserne Tor quietschte. Marie stach die Kanten nach, wo der Rasen seit letzter Woche über die Wege gekrochen war, Spatenbreite um Spatenbreite, ohne Schnur. Am Laubengang putzte sie die verblühten Dahlien aus. Dann harkte sie das Lindenlaub vom Kies. An den Damaszenerrosen am Rondell leuchteten die Hagebutten, orangerot und prall, genau wie sie es im Juli versprochen hatte.",
+      "prefix": " den sie nicht haben wollte.\n\n",
+      "suffix": "\n\nGegen sieben kam Grete die F",
+      "hint": 1386
+    },
+    "replacement": "Das schmiedeeiserne Tor quietschte. Marie stach die Kanten nach, wo der Rasen seit letzter Woche über die Wege gekrochen war, Spatenbreite um Spatenbreite, ohne Schnur. Am Laubengang putzte sie die verblühten Dahlien aus. Dann harkte sie das Lindenlaub vom Kies. An den Büschen am Rondell, die sie im Juli nicht geschnitten hatte, leuchteten die Hagebutten, orangerot und prall.",
+    "status": "rejected",
+    "why": "Umschreibung ohne offenen Befund (Hagebutten-Versprechen aus dem Juli, Abendbild am Rondell); bleibt, wie es ist.",
+    "by": "apply/revise-ch09-s02",
+    "created": "2026-10-25T09:07:29.793Z"
+  },
+  {
+    "id": "a-44jfm61a",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "Als oben die Küchentür klappte, holte Marie die Kiste aus dem Wagen. Sie trug sie den Laubengang entlang, an den Dahlien vorbei, bis in den Winkel hinter dem letzten Bogen.\n\nAm alten Stock der Lindenhof-Rose hatte sich die Knospe aus dem August geöffnet. Eine einzige Blüte, zartrosa und gefüllt. Ihr Duft hing schwer zwischen den Backsteinen. Marie kniete sich davor, hielt die Nase hinein und blieb so, bis ihr die Knie wehtaten. „Du auch“, sagte sie leise.",
+      "prefix": " hinauf, jede Stufe einzeln.\n\n",
+      "suffix": "\n\nEine Handbreit daneben grub ",
+      "hint": 2673
+    },
+    "replacement": "Als Grete im Haus verschwunden war, holte Marie die Kiste aus dem Wagen. Sie trug sie den Laubengang entlang, an den Dahlien vorbei, bis in den Winkel hinter dem letzten Bogen.\n\nAm alten Stock der Lindenhof-Rose hatte sich die Knospe aus dem August geöffnet. Eine einzige Blüte, zartrosa und gefüllt. Ihr Duft hing schwer zwischen den Backsteinen. Marie kniete sich davor, hielt die Nase hinein und blieb so, bis ihr die Knie wehtaten. „Du auch.“",
+    "status": "accepted",
+    "by": "apply/revise-ch09-s02",
+    "created": "2026-10-25T09:07:29.793Z"
+  },
+  {
+    "id": "a-pbaccgx6",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "Er setzte die Mütze auf und pfiff nach Kalle. Kurz darauf rollte der Trecker die Lindenallee hinunter, bis die Stämme ihn verdeckten.\n\nIm Abendlicht stand Marie zwischen den Rosen am Rondell. Die Backsteine gaben die Wärme des Tages zurück, über der Bank hing die 'New Dawn' in ihrer zweiten Blüte, und der neue Kies leuchtete hell um die Sonnenuhr. Sonst hielt Hannes den Blick, wenn er redete. Eine Sache sagte er einmal, deutlich, und dann nichts mehr. Heute hatte er den Dahlien geantwortet.\n\nBis Samstag waren es noch drei Tage. Was wusste Hannes, das sie nicht wusste?",
+      "prefix": " gießt du man jeden Morgen.“\n\n",
+      "suffix": "\n",
+      "hint": 4816
+    },
+    "replacement": "Er setzte die Mütze auf und pfiff nach Kalle.\n\nIm Abendlicht kniete Marie noch einmal beim Steckling, die Hand auf der festgedrückten Erde. Die Wärme des Tages steckte noch darin. Draußen in der Lindenallee brummte der Trecker, erst laut, dann leiser, bis im Laubengang nur noch eine Amsel zu hören war. Sonst hielt Hannes den Blick, wenn er redete. Eine Sache sagte er einmal, deutlich, und dann nichts mehr. Heute hatte er den Dahlien geantwortet.\n\nBis Samstag waren es noch drei Tage. Was wusste Hannes, das ihr keiner erzählte?",
+    "status": "rejected",
+    "why": "Umschreibung ohne offenen Befund (Hagebutten-Versprechen aus dem Juli, Abendbild am Rondell); bleibt, wie es ist.",
+    "by": "apply/revise-ch09-s02",
+    "created": "2026-10-25T09:07:29.793Z"
+  },
+  {
+    "id": "a-5gmnashg",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "ung, bis ich zurück bin.“\n\nJonas",
+      "suffix": " Kombi fehlte auf dem Gutshof. M",
+      "hint": 1212
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.159Z"
+  },
+  {
+    "id": "a-1qmdjf7d",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": " zurück, über der Bank hing die ",
+      "suffix": "New Dawn' in ihrer zweiten Blüte",
+      "hint": 5067
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.159Z"
+  },
+  {
+    "id": "a-ygrp14x3",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "über der Bank hing die 'New Dawn",
+      "suffix": " in ihrer zweiten Blüte, und der",
+      "hint": 5076
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.159Z"
+  }
+]

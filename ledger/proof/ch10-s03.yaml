@@ -1,0 +1,109 @@
+tool: languagetool 6.8
+paragraphs:
+  8d5769675b72: []
+  a81d375f2ecb: []
+  8bd4fd990ffb: []
+  8d011f849b8c:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 54
+        - 58
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  2b82b862a630: []
+  977a03fa1f63: []
+  9fde910a8961: []
+  0941aa70a4ad: []
+  021b21d634a9: []
+  9f21622a8a38: []
+  b71630695476:
+    - rule: DER_ERSTE
+      category: CASING
+      at:
+        - 68
+        - 73
+      quote: erste
+      message: Bitte prüfen Sie, ob „Erste“ hier als Nomen gebraucht wird und daher
+        großgeschrieben werden muss.
+      replacements:
+        - Erste
+  d45b7eb9943c: []
+  3bed4d391b4a: []
+  85a4cd1dba59:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 38
+        - 42
+      quote: zeig
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - zeige
+        - zeig’
+  1a8a5e575af2: []
+  b65e5e6c2cc1: []
+  b2cc3670de75: []
+  7e9b66e0a12f: []
+  b5da867dd0d7: []
+  b4bc4ebd1e10: []
+  ef4784475ee0:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 125
+        - 136
+      quote: Buchskanten
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Buchs kanten
+        - Sechskanten
+        - Buchspanten
+        - Bruchkanten
+        - Zuguckenden
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 171
+        - 178
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  7f48cccf81a6: []
+  ae5231ee06bb: []
+  164b92f645bf: []
+  b4745105d2a2: []
+  d241d041565f: []
+  14d259063879: []
+  e18d18d47ddd:
+    - rule: DE_DU_UPPER_LOWER
+      category: CASING
+      at:
+        - 23
+        - 25
+      quote: Du
+      message: Vorher wurde bereits ‚dich‘ kleingeschrieben. Aus Gründen der
+        Einheitlichkeit ‚du‘ hier auch kleinschreiben?
+      replacements:
+        - du
+  9c4c81aab797: []
+  5d39f2a42b14: []
+ignored:
+  - rule: DE_DU_UPPER_LOWER
+    quote: Du
+    paragraph: e18d18d47ddd
+  - rule: DER_ERSTE
+    quote: erste
+    paragraph: b71630695476

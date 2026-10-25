@@ -1,0 +1,57 @@
+tool: languagetool 6.8
+paragraphs:
+  22b40452fb15: []
+  9ea9cc2278f8: []
+  ae88fd63df26: []
+  f0cc09edaa13: []
+  8d4bb77724ac: []
+  4dc917422125: []
+  19e8c86e8b3c: []
+  c22fe78e2d25: []
+  d490769912e1: []
+  827fcb04a57e: []
+  0302d43866ae: []
+  0ba964d42865: []
+  0c67d471358a: []
+  e4aa73f279e3:
+    - rule: FEHLERHAFTES_KOMMA_ALLG
+      category: HILFESTELLUNG_KOMMASETZUNG
+      at:
+        - 242
+        - 250
+      quote: ", setzte"
+      message: Wenn es sich hier um keinen Haupt- und Nebensatz handelt, wird in der
+        Regel kein Komma gesetzt.
+      replacements:
+        - " setzte"
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 345
+        - 356
+      quote: Buchskanten
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Buchs kanten
+        - Sechskanten
+        - Buchspanten
+        - Bruchkanten
+        - Zuguckenden
+  5d60c8c05577: []
+  e4e4d4b31ca7: []
+  6c31da455232: []
+  65ac7fe8354f: []
+  b16bb75ccf90: []
+  d4416f86bcef: []
+  4d700d488aae: []
+  ad11e4580653: []
+  6157ff50695b: []
+  f6ada84556af: []
+  31218fd71478: []
+  ebfd8bb32b2c: []
+  5d4031bdf378: []
+  03179541957f: []
+ignored:
+  - rule: FEHLERHAFTES_KOMMA_ALLG
+    quote: ", setzte"
+    paragraph: e4aa73f279e3

@@ -1,0 +1,117 @@
+tool: languagetool 6.8
+paragraphs:
+  5604021197bc: []
+  8b8d8c97d97e: []
+  5bebcfd017fd:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 78
+        - 90
+      quote: schulterhoch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Schulterhoch
+        - schulter hoch
+        - schulter Hoch
+        - Schulterjoch
+        - schluderig
+  2339acb12132: []
+  fa38a89718db: []
+  50dca8c8bb0b: []
+  bb36a3f1cf6c: []
+  e0b3a0c885b1: []
+  253de6eec98b:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 5
+        - 11
+      quote: Lütten
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Hütten
+        - Litten
+        - Letten
+        - Lydien
+        - Lüften
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 198
+        - 206
+      quote: gejuchzt
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - gejauchzt
+        - genügst
+        - gesucht
+        - gejagt
+        - genügt
+  88df9133f8cf: []
+  112f124d6eae:
+    - rule: BARFUSS_ADJ
+      category: CASING
+      at:
+        - 1
+        - 7
+      quote: Barfuß
+      message: „barfuß“ ist ein indeklinables Adjektiv und wird (außer am Satzanfang)
+        in der Regel kleingeschrieben.
+      replacements:
+        - barfuß
+  32d0b2fef4ea: []
+  7aca2535ac28: []
+  81d17002c7bf: []
+  7978f8c31118: []
+  15b023b9a741: []
+  6175e1fff1e2: []
+  c041c4f2d590: []
+  2fb398cad410: []
+  58cb8915c00b: []
+  066210aa37e5:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 7
+        - 16
+      quote: Ghislaine
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Geißlein
+        - Geißleins
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 20
+        - 29
+      quote: Féligonde
+      message: Möglicher Tippfehler gefunden.
+      replacements: []
+  70c1b005bd4d: []
+  54967f08b087: []
+  458488db5754: []
+  9fdf37dc0bc3: []
+  3e8e63baa68a: []
+  181cb822288f: []
+  edbcb2b9149a: []
+  9eaeb7976de9: []
+  8d41f6a029e7: []
+  39185dfc73c7:
+    - rule: DE_DU_UPPER_LOWER
+      category: CASING
+      at:
+        - 132
+        - 134
+      quote: Du
+      message: Vorher wurde bereits ‚deinen‘ kleingeschrieben. Aus Gründen der
+        Einheitlichkeit ‚du‘ hier auch kleinschreiben?
+      replacements:
+        - du
+ignored:
+  - rule: DE_DU_UPPER_LOWER
+    quote: Du
+    paragraph: 39185dfc73c7
+  - rule: BARFUSS_ADJ
+    quote: Barfuß
+    paragraph: 112f124d6eae

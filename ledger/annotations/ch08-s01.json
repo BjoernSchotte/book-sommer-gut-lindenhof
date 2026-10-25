@@ -1,0 +1,77 @@
+[
+  {
+    "id": "a-khgrw2pt",
+    "kind": "suggestion",
+    "unit": "ch08/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "ht, und über der Bank stand die ",
+      "suffix": "New Dawn' in ihrer zweiten Blüte",
+      "hint": 162
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.914Z"
+  },
+  {
+    "id": "a-9hqj2rqy",
+    "kind": "suggestion",
+    "unit": "ch08/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "ber der Bank stand die 'New Dawn",
+      "suffix": " in ihrer zweiten Blüte. Es war ",
+      "hint": 171
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.914Z"
+  },
+  {
+    "id": "a-jdmq9rkj",
+    "kind": "suggestion",
+    "unit": "ch08/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "nz nach hinten. Dort stand Jonas",
+      "suffix": " Unterschrift, gerade und ohne Z",
+      "hint": 1946
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.914Z"
+  },
+  {
+    "id": "a-ec43xs5d",
+    "kind": "suggestion",
+    "unit": "ch08/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "nster blühte über der Mauer die ",
+      "suffix": "New Dawn', blassrosa, und unten ",
+      "hint": 4603
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.914Z"
+  },
+  {
+    "id": "a-pmd8vvfg",
+    "kind": "suggestion",
+    "unit": "ch08/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "hte über der Mauer die 'New Dawn",
+      "suffix": ", blassrosa, und unten am Rondel",
+      "hint": 4612
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.914Z"
+  }
+]

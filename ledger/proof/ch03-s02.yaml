@@ -1,0 +1,165 @@
+tool: languagetool 6.8
+paragraphs:
+  e369958be468: []
+  24c7f6360f12: []
+  76b7d1a53d36: []
+  4cd562ace7cf: []
+  3cd236b02474:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 199
+        - 210
+      quote: Buchskanten
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Buchs kanten
+        - Sechskanten
+        - Buchspanten
+        - Bruchkanten
+        - Zuguckenden
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 239
+        - 248
+      quote: Ghislaine
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Geißlein
+        - Geißleins
+  a21286165f0b:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 1
+        - 4
+      quote: Dat
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dad
+        - Tat
+        - Hat
+        - Das
+        - Bad
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 5
+        - 10
+      quote: löppt
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - lappt
+        - lebt
+        - liebt
+        - löst
+        - lobt
+  4f7aca74f471: []
+  0c50e49d1b84: []
+  277796d9a202:
+    - rule: NIX
+      category: COLLOQUIALISMS
+      at:
+        - 25
+        - 28
+      quote: nix
+      message: Das Wort „nix“ ist umgangssprachlich.
+      replacements:
+        - nichts
+  f462caa77e2d: []
+  6d52dfee4d3f: []
+  7c30557868cc: []
+  f57696217b20: []
+  750cdef52668: []
+  ac598c76a237: []
+  0e7934b4feee: []
+  7734ac2ca08c: []
+  b1cea60e073e: []
+  89bb57957a98: []
+  032da7cd6e54:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 25
+        - 27
+      quote: Ih
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Ich
+        - In
+        - Im
+        - Ah
+        - Ihm
+  ecc9b5393dba:
+    - rule: DE_DU_UPPER_LOWER
+      category: CASING
+      at:
+        - 66
+        - 68
+      quote: Du
+      message: Vorher wurde bereits ‚du‘ kleingeschrieben. Aus Gründen der
+        Einheitlichkeit ‚du‘ hier auch kleinschreiben?
+      replacements:
+        - du
+  805417223d4b: []
+  acb779a1100d: []
+  2cd80cd7f1ef: []
+  a06f99d17544: []
+  d7a6b0f856ac: []
+  ca91a41ef026: []
+  75b9dcece20a:
+    - rule: RAN_RUM_RAUF_REIN_RAUS_RUNTER_NEU
+      category: COLLOQUIALISMS
+      at:
+        - 125
+        - 135
+      quote: rausgeholt
+      message: ‚rausgeholt‘ wirkt umgangssprachlich. Je nach Situation klingt
+        „herausgeholt“ oder „hinausgeholt“ evtl. besser.
+      replacements:
+        - herausgeholt
+        - hinausgeholt
+  37a24f992d0f: []
+  f8e9ba054476: []
+  be06ae5b5cc4: []
+  b65a0dd5819e: []
+  3bf117b4bb12: []
+  ac16f709ee53: []
+  e2d650d95b9c: []
+  6a332dce3176: []
+  b689845c8cbd: []
+  38f6d07ba232: []
+  d385dc0af4ae: []
+  ae16f9331cc0:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 11
+        - 16
+      quote: bring
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - bringe
+        - bring’
+  7a2cc0b1b9c9: []
+  7eb6f125fe8c:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 90
+        - 100
+      quote: irgendeins
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - irgendeines
+  771b971b6c10: []
+  4762ed173b3b: []
+ignored:
+  - rule: DE_DU_UPPER_LOWER
+    quote: Du
+    paragraph: ecc9b5393dba
+  - rule: GERMAN_SPELLER_RULE
+    quote: Ih
+    paragraph: 032da7cd6e54

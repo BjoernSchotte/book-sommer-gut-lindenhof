@@ -1,0 +1,113 @@
+tool: languagetool 6.8
+paragraphs:
+  99389226c6b5: []
+  bc110886fc26: []
+  f5afc76f5242: []
+  82a17e10601b: []
+  658cae1a4bbe: []
+  1364a07354d3: []
+  31bb8a61768b: []
+  8dea99c7159c: []
+  9744388fd809: []
+  9d5773a2db1f: []
+  75b2b7e74320:
+    - rule: SUBJUNKTION_KOMMA_2
+      category: PUNCTUATION
+      at:
+        - 298
+        - 302
+      quote: Wenn
+      message: Der von ‚wenn‘ eingeleitete Nebensatz muss in der Regel mit einem Komma
+        vom Hauptsatz getrennt werden.
+      replacements: []
+  eeaacbc2c813: []
+  ecec83f9a547: []
+  421b0cc7e970: []
+  185a71aedbab:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 57
+        - 63
+      quote: erfahr
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - erfahre
+        - erfahr’
+  1166ed920ac4: []
+  4b5069f2a683: []
+  f3d6731a5f94: []
+  790a1b918d54: []
+  b4d4469bfa4a:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 70
+        - 77
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  43313f059bef:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 29
+        - 38
+      quote: Leisesein
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Leise sein
+        - Leises ein
+        - Reisezeit
+        - Weißsein
+        - Leiseren
+  0b424318a8b4:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 8
+        - 17
+      quote: Dösbaddel
+      message: Möglicher Tippfehler gefunden.
+      replacements: []
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 49
+        - 58
+      quote: Dösbaddel
+      message: Möglicher Tippfehler gefunden.
+      replacements: []
+  7e1f1fd5b33d: []
+  d93e64693496:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 13
+        - 16
+      quote: ruf
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - rufe
+        - ruf’
+  fc09aca5a509: []
+  214d6ba126f5: []
+  14af94646fd5: []
+  2cf29933fe5f: []
+  01f774516d89: []
+  a2ebfe793ac3: []
+  621e825e2708: []
+  f5002ae4048c: []
+  4177947e80fb: []
+  681b4d8a9082: []
+ignored:
+  - rule: SUBJUNKTION_KOMMA_2
+    quote: Wenn
+    paragraph: 75b2b7e74320

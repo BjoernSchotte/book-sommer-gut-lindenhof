@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a-9xb90dav",
+    "kind": "suggestion",
+    "unit": "ch01/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "und zählte, was noch lebte: die ",
+      "suffix": "Rosa Mundi', die 'New Dawn' über",
+      "hint": 3440
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:10.093Z"
+  },
+  {
+    "id": "a-7m3mhyw0",
+    "kind": "suggestion",
+    "unit": "ch01/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": " was noch lebte: die 'Rosa Mundi",
+      "suffix": ", die 'New Dawn' über dem Kies, ",
+      "hint": 3451
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:10.093Z"
+  },
+  {
+    "id": "a-fz43n4ab",
+    "kind": "suggestion",
+    "unit": "ch01/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "ch lebte: die 'Rosa Mundi', die ",
+      "suffix": "New Dawn' über dem Kies, ein paa",
+      "hint": 3458
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:10.093Z"
+  },
+  {
+    "id": "a-w3v6p5z0",
+    "kind": "suggestion",
+    "unit": "ch01/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": " die 'Rosa Mundi', die 'New Dawn",
+      "suffix": " über dem Kies, ein paar Büsche,",
+      "hint": 3467
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:10.093Z"
+  }
+]

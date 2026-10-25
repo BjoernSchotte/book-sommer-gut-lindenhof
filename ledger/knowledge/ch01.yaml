@@ -1,0 +1,98 @@
+based_on: ["ch01/s01#d3641f", "ch01/s02#e71a4f", "ch01/s03#73023d"]
+characters:
+  grete-paulsen:
+    knows:
+      - text: "Hedwigs Testament: Der Rosengarten soll zum Erntefest am 5. September in altem Glanz wieder blühen."
+        from: ch01/s03
+      - text: "Hedwig hat für die Gartenarbeit Geld hinterlassen, für den Rest nur den Wunsch, den keiner einfordern kann."
+        from: ch01/s03
+      - text: "Hedwigs Gartenbuch liegt im Arbeitszimmer auf dem Schreibtisch unterm Fenster, mit Plänen und Notizen zu jeder Rose."
+        from: ch01/s03
+      - text: "Jonas hat Marie den Auftrag gegeben, den Garten bis zum Fest fertig zu machen."
+        from: ch01/s03
+      - text: "Jonas stand nach dem Gespräch noch eine Weile auf der Terrasse und sah Marie nach."
+        from: ch01/s03
+      - text: "Jonas hat seine nassen Socken auf die Treppe gelegt."
+        from: ch01/s03
+    believes:
+      - text: "Jonas will das Gut verkaufen (so sagt es Marie); das ist seine Sache, der Garten ist Maries."
+        from: ch01/s03
+    does_not_know:
+      - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat."
+      - "Dass Marie Hedwig versprochen hat, den Garten zu retten."
+      - "Die Einzelheiten der Absprache zwischen Jonas und Marie (Budget, Zwischenstände mit Fotos, freie Hand bei den Rosen)."
+  hannes-kroeger:
+    knows: []
+    believes: []
+    does_not_know: []
+  jonas-behrendt:
+    knows:
+      - text: "Die Gärtnerin im Rosengarten heißt Marie Albers."
+        from: ch01/s01
+      - text: "Marie hält die Kletterrose am Hauptweg für eine 'New Dawn', kein Gestrüpp, und lehnt Bagger und Splitt auf dem Weg ab."
+        from: ch01/s01
+      - text: "Das Gutshaus hat sieben undichte Fenster im Erdgeschoss zur Gartenseite; für das Dach steht ein Angebot vom Dachdecker bis Ende Juni aus."
+        from: ch01/s02
+      - text: "Hedwigs Geldvermächtnis für die Gartenarbeit reicht für einen Sommer Pflege."
+        from: ch01/s02
+      - text: "Hedwigs Wunsch: Der Rosengarten soll zum Erntefest wieder blühen."
+        from: ch01/s02
+      - text: "Absprache mit Marie: Rosengarten bis zum Erntefest am 5. September, freie Hand bei den Rosen, über die Wege wird noch geredet; ihr Stundensatz steht nicht zur Verhandlung."
+        from: ch01/s02
+    believes:
+      - text: "Marie ist die Gärtnerin."
+        from: ch01/s01
+      - text: "Das Gut ist bis zum Ende des Sommers verkauft."
+        from: ch01/s02
+      - text: "Ein gepflegtes Gut bringt einen besseren Preis."
+        from: ch01/s02
+      - text: "Ein Garten funktioniert wie eine Baustelle: ohne Abnahmen keine Zahlung."
+        from: ch01/s02
+      - text: "Marie kennt den Garten; das ist ein Vorteil gegenüber einer Firma aus der Kreisstadt, die zu spät anfangen würde."
+        from: ch01/s02
+    does_not_know:
+      - "Dass hinter dem Laubengang unter den Brombeeren der letzte Stock der Lindenhof-Rose steht."
+      - "Dass Marie Hedwig versprochen hat, den Garten zu retten."
+      - "Dass Grete Marie von Hedwigs Gartenbuch im Arbeitszimmer erzählt hat."
+  lena-hansen:
+    knows: []
+    believes: []
+    does_not_know: []
+  marie-albers:
+    knows:
+      - text: "Der Erbe aus Hamburg kommt an diesem Tag auf das Gut."
+        from: ch01/s01
+      - text: "Jonas Behrendt ist der Erbe."
+        from: ch01/s01
+      - text: "Jonas will den Rosengarten bis zum Erntefest am 5. September hergerichtet haben: Wege begehbar, Beete sauber, alles, was man vom Haus aus sieht."
+        from: ch01/s02
+      - text: "Jonas will das Gut verkaufen."
+        from: ch01/s02
+      - text: "Absprache mit Jonas: freie Hand bei den Rosen, über die Wege wird noch geredet; Material nach seinem Budget, Zwischenstände alle zwei Wochen mit Fotos."
+        from: ch01/s02
+      - text: "Hedwigs Testament: Der Rosengarten soll zum Erntefest am 5. September in altem Glanz wieder blühen."
+        from: ch01/s03
+      - text: "Hedwig hat für die Gartenarbeit Geld hinterlassen, für den Rest nur den Wunsch, den keiner einfordern kann."
+        from: ch01/s03
+      - text: "Hedwigs Gartenbuch liegt im Arbeitszimmer auf dem Schreibtisch unterm Fenster."
+        from: ch01/s03
+      - text: "Hinter dem Laubengang steht unter den Brombeeren ein Stock der Lindenhof-Rose, die Hedwig selbst gezogen hat."
+        from: ch01/s03
+    believes:
+      - text: "Splitt auf dem Hauptweg würde den alten Kies zerstören."
+        from: ch01/s01
+      - text: "Jonas will das Gut verkaufsfertig machen."
+        from: ch01/s03
+      - text: "Der Stock hinter dem Laubengang ist die letzte Lindenhof-Rose."
+        from: ch01/s03
+      - text: "Den Winkel hinter dem Laubengang sieht man von der Terrasse nicht, und in Jonas' Tabelle kommt er nicht vor."
+        from: ch01/s03
+    does_not_know:
+      - "Was Jonas an der bröckelnden Gartenmauer neben dem Tor so still werden ließ."
+      - "Wie hoch Hedwigs Geldvermächtnis ist und dass es nur für einen Sommer Pflege reicht."
+      - "Dass Jonas fest damit rechnet, das Gut bis Sommerende verkauft zu haben."
+      - "Wie es um Fenster und Dach des Gutshauses steht."
+  ralf-steinhagen:
+    knows: []
+    believes: []
+    does_not_know: []

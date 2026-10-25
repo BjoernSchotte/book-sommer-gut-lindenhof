@@ -1,0 +1,17 @@
+[
+  {
+    "id": "a-rmds2fwf",
+    "kind": "suggestion",
+    "unit": "ch08/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "gen, bis an die Mauer. Von Jonas",
+      "suffix": " Unterschrift, gerade und ohne Z",
+      "hint": 1173
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:16.735Z"
+  }
+]

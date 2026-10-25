@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a-j0tf0kne",
+    "kind": "suggestion",
+    "unit": "ch03/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": " Laubengang. Die zwei Bögen der ",
+      "suffix": "Ghislaine' hielten, jeder Fuß in",
+      "hint": 4205
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:12.184Z"
+  },
+  {
+    "id": "a-cxb2ns4x",
+    "kind": "suggestion",
+    "unit": "ch03/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "g. Die zwei Bögen der 'Ghislaine",
+      "suffix": " hielten, jeder Fuß in seinem Be",
+      "hint": 4215
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:12.184Z"
+  }
+]

@@ -1,0 +1,80 @@
+tool: languagetool 6.8
+paragraphs:
+  a4f0f572bbe4:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 77
+        - 81
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  98b278e8a28e: []
+  cf002d60db5f: []
+  d6255cb53c9b: []
+  b4de5ad42898: []
+  ee9aeb48a94d: []
+  f91352ba42c1: []
+  05532a89625b: []
+  fd32984e1895: []
+  7629a8fbb2ed: []
+  859be516cb14:
+    - rule: RAN_RUM_RAUF_REIN_RAUS_RUNTER_NEU
+      category: COLLOQUIALISMS
+      at:
+        - 147
+        - 159
+      quote: rausgebracht
+      message: ‚rausgebracht‘ wirkt umgangssprachlich. Je nach Situation klingt
+        „herausgebracht“ oder „hinausgebracht“ evtl. besser.
+      replacements:
+        - herausgebracht
+        - hinausgebracht
+  d1dae40648de: []
+  1f94656a72ed: []
+  b49da8fb8b74: []
+  1fcc5e1edeb4:
+    - rule: KOMMA_VOR_UND_ODER
+      category: PUNCTUATION
+      at:
+        - 41
+        - 46
+      quote: ", und"
+      message: Wenn es sich nachfolgend um einen Teilsatz ohne Subjekt handelt, wird
+        in der Regel kein Komma vor ‚und‘ gesetzt.
+      replacements:
+        - " und"
+  b51fe642a2b6: []
+  3f93a87c3507: []
+  da067ddfc85b: []
+  51bf0156f6b9: []
+  6d9ea5f1f41f: []
+  664a605f60eb: []
+  b10bd61d3087: []
+  90735d15b8b8: []
+  f561c43e1926: []
+  f30e8bccdc97: []
+  68166dfa736a: []
+  0e8ed8d9bc6a: []
+  72c61a3cb178: []
+  df242f15ba73: []
+  4a40f218e400: []
+  9225bc95f733: []
+  696a8ea58b49: []
+  6b2ee6913b43: []
+  4d46e25050c5: []
+  84cb395f9028: []
+  b3f500edd63c: []
+  3c3236742960: []
+  7455d0d4eef1: []
+  b90d84a85739: []
+  ecdc32229790: []
+ignored:
+  - rule: KOMMA_VOR_UND_ODER
+    quote: ", und"
+    paragraph: 1fcc5e1edeb4

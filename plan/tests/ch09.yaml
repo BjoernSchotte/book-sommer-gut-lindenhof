@@ -1,0 +1,47 @@
+ch09/s01:
+  requires:
+    - { alias_of: jonas-behrendt }   # participant, pov
+    - { alias_of: grete-paulsen }   # participant
+    - { alias_of: ralf-steinhagen }   # participant
+    - { alias_of: hannes-kroeger }   # participant
+    - { pattern: "Hügels?" }   # place huegel (Ortsseite ohne aliases)
+    - { pattern: "Keksdose" }
+    - { pattern: "Rücktritt\\w*" }
+    - { pattern: "zweite[sn]? Gut(?:s|es)?" }
+  reveal:
+    - { term: { pattern: "zweite[sn]? Gut(?:s|es)?" }, not_before: b3 }
+  ends_on: { pattern: "zu lange warten", max_after: 1 }   # end: dialogue, Hannes' letzter Satz
+  time: { from: "17:30", to: "23:30" }   # Montagabend in Gretes Küche
+  beats:
+    b1: { must: [{ pattern: "Marie(?:s)?" }, { alias_of: grete-paulsen }, { alias_of: jonas-behrendt }, { pattern: "Keksdose" }, { pattern: "Hamburg" }] }
+    b2: { must: [{ pattern: "Briefe?n?" }, { pattern: "Postkarten?" }, { pattern: "Floß" }, { pattern: "Zopf(?:es)?" }] }
+    b3: { must: [{ alias_of: jonas-behrendt }, { alias_of: ralf-steinhagen }, { pattern: "Rücktritt\\w*" }, { pattern: "Partnerschaft" }] }
+    b4: { must: [{ alias_of: hannes-kroeger }, { alias_of: jonas-behrendt }, { alias_of: marie-albers }, { pattern: "Trecker(?:s|n)?" }, { pattern: "Fest(?:es|s)?" }] }
+  judge:
+    - "Ist der Rücktritt Jonas' eigener Entschluss nach der Nacht mit den Briefen, und entscheidet weder die Keksdose noch Grete für ihn?"
+    - "Sagt Grete über Marie kein Wort, und bleibt die Szene durchgehend in Jonas' Sicht?"
+    - "Nimmt Steinhagen den Rücktritt gelassen und fair hin, leiser und genauer, ohne Bösewicht zu werden, und kommen keine Paragrafen auf die Seite?"
+    - "Ist klar, dass Jonas das Fest dauerhaft zusagt (nicht nur dieses Jahr) und Hannes bittet, Marie nichts zu sagen?"
+
+ch09/s02:
+  requires:
+    - { alias_of: marie-albers }   # participant, pov
+    - { alias_of: hannes-kroeger }   # participant
+    - { alias_of: grete-paulsen }   # participant
+    - { pattern: "(?:Rosen)?[Gg]arten(?:s)?" }   # place garten (Ortsseite ohne aliases)
+    - { pattern: "Lindenhof-Rose" }
+    - { pattern: "Steckling(?:e|en|s)?" }
+    - { pattern: "Hagebutten?" }
+  forbids:
+    - { pattern: "zurückgetreten" }   # Marie weiß nichts vom Rücktritt
+  ends_on: { pattern: "Samstag", max_after: 1 }   # end: question
+  time: { from: "05:00", to: "08:30" }   # Mittwoch, früher Morgen im Hinterhof
+  beats:
+    b1: { must: [{ alias_of: marie-albers }, { pattern: "Steckling(?:e|en|s)?" }, { pattern: "Wurzeln?" }, { pattern: "Folie" }] }
+    b2: { must: [{ alias_of: jonas-behrendt }, { alias_of: grete-paulsen }, { pattern: "Giersch(?:es)?" }, { pattern: "Butterkuchen(?:s)?" }] }
+    b3: { must: [{ alias_of: marie-albers }, { pattern: "Lindenhof-Rose" }, { pattern: "Lageplan(?:s)?" }] }
+    b4: { must: [{ alias_of: hannes-kroeger }, { alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Kies(?:es)?" }, { pattern: "lohnt" }] }
+  judge:
+    - "Bleibt Marie ahnungslos über Jonas' Rücktritt, und verrät Hannes nichts, außer durch Ausweichen?"
+    - "Pflanzt Marie den Steckling neben den alten Stock ohne Gewähr, und trägt die Szene Hoffnung statt Auflösung?"
+    - "Fragt Grete nichts und sagt nur den Satz über Ausdauer und Giersch, ohne über Jonas zu reden?"

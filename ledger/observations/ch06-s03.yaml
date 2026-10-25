@@ -1,0 +1,489 @@
+source: manuscript/ch06/s03.md
+source_hash: 2b9426
+extracted_by: bb-ingest
+gaps:
+  - Ob Jonas den Termin am Donnerstag zusagt, lässt die Szene offen.
+  - Ob Jonas Gretes Einkauf bezahlt, wird nicht erzählt (der Zettel mahnt es an, Lena wiegt nur und schreibt den Preis auf).
+  - Ob Jonas Gretes Einkauf bezahlt, wird nicht erzählt (Zettel und Vorsatz mahnen es an, Lena wiegt nur und schreibt den Preis auf).
+  - Ob Jonas den Termin am Donnerstag, dem 13., zusagt, lässt die Szene offen.
+items:
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Jonas hielt Gretes Zettel in der Hand wie einen Lieferschein.
+    status: fact
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: Gretes Einkaufszettel
+  - kind: object_fact
+    who: grete-paulsen
+    quote: Zehn Eier und ein Glas Rosengelee, dazu Kartoffeln und Rindfleisch für Mittwoch.
+    status: fact
+    about:
+      - grete-paulsen
+      - hofladen
+    tags: []
+  - kind: object_fact
+    who: grete-paulsen
+    quote: "Darunter stand in steiler Schrift und doppelt unterstrichen eine Zeile, über die er lächeln musste: Nicht vergessen zu bezahlen."
+    status: fact
+    about:
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+  - kind: time
+    quote: Es war Montag, Anfang August, kurz nach zehn.
+    status: fact
+    about:
+      - jonas-behrendt
+      - hofladen
+    tags: []
+    fact:
+      subject: ch06/s03@einkauf
+      predicate: at_time
+      value: Montag Anfang August, kurz nach 10
+    event: einkauf
+    day: "+0"
+    at:
+      - 10:00
+      - 10:20
+    place: hofladen
+  - kind: place_fact
+    quote: Auf der Dorfstraße lag Staub vom Mähdrescher, fein wie Mehl, und die Enten suchten im flachen Wasser am Dorfteich Kühle.
+    status: fact
+    about:
+      - hofladen
+    tags: []
+  - kind: place_fact
+    quote: Das Dielentor des Hansen-Hofs war offen, obwohl das Holzschild davor Dienstag bis Samstag versprach.
+    status: fact
+    about:
+      - hofladen
+    tags: []
+  - kind: speech
+    who: grete-paulsen
+    quote: Fünf Minuten mit dem Auto, hatte Grete gesagt. Mit dem Rad zwanzig.
+    status: claim
+    about:
+      - grete-paulsen
+      - hofladen
+    tags: []
+  - kind: narrator_claim
+    who: grete-paulsen
+    quote: Sie fuhr die Strecke seit Jahrzehnten
+    status: fact
+    about:
+      - grete-paulsen
+      - hofladen
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: er hatte sich angeboten, bevor er darüber nachdenken konnte
+    status: fact
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: Die Kiste holen und bezahlen, mehr wollte er nicht.
+    status: fact
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Im Hofladen roch es nach Kaffee und nach Erde an den Kartoffeln.
+    status: fact
+    about:
+      - jonas-behrendt
+      - hofladen
+    tags: []
+    fact:
+      subject: ch06/s03@einkauf
+      predicate: at_place
+      value: hofladen
+  - kind: place_fact
+    quote: Unter den alten Deckenbalken hingen Kränze aus Trockenblumen, und neben der Tür war das schwarze Brett voller Zettel.
+    status: fact
+    about:
+      - hofladen
+    tags: []
+  - kind: object_fact
+    who: lena-hansen
+    quote: Ganz oben hing die Helferliste für den Rosengarten, mit Spalten.
+    status: fact
+    about:
+      - hofladen
+      - lena-hansen
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Sein Name stand darauf, Ankunft und Abfahrt in Lenas runder Schrift.
+    status: fact
+    about:
+      - jonas-behrendt
+      - lena-hansen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: steht auf Lenas Helferliste mit Ankunft und Abfahrt
+  - kind: event
+    who: jonas-behrendt
+    quote: Welchen Samstag sie ihm zugeteilt hatte, las Jonas lieber nicht nach.
+    status: fact
+    about:
+      - jonas-behrendt
+      - lena-hansen
+    tags: []
+  - kind: place_fact
+    quote: Die Theke war aus altem Holz, sauber verzapft, ohne eine einzige Schraube.
+    status: fact
+    about:
+      - hofladen
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: Er hätte gern mit dem Daumen über die Fuge gestrichen.
+    status: fact
+    about:
+      - jonas-behrendt
+      - hofladen
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: Für Grete mach ich montags auf
+    status: claim
+    about:
+      - lena-hansen
+      - grete-paulsen
+      - hofladen
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: Seit Jahren schon.
+    status: claim
+    about:
+      - lena-hansen
+      - grete-paulsen
+    tags: []
+  - kind: event
+    who: lena-hansen
+    quote: Sie packte die Kiste, ohne auf den Zettel zu sehen.
+    status: fact
+    about:
+      - lena-hansen
+      - grete-paulsen
+    tags: []
+  - kind: event
+    quote: Am Kindertisch hinter ihr baute Frieda aus leeren Eierkartons einen Turm.
+    status: fact
+    about:
+      - hofladen
+      - lena-hansen
+    tags: []
+  - kind: speech
+    quote: Tante Rosen hat mir eine Dahlie geschenkt
+    status: claim
+    about:
+      - marie-albers
+    tags: []
+  - kind: speech
+    quote: Die steht im Glas. Mama sagt, die hält eine Woche.
+    status: claim
+    about:
+      - lena-hansen
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: Schön, dass Sie den weiten Weg machen, Herr Behrendt.
+    status: claim
+    about:
+      - lena-hansen
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: Hamburg hat ja auch Eier, hab ich gehört.
+    status: claim
+    about:
+      - lena-hansen
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Nicht von Ihren Hühnern.
+    status: claim
+    about:
+      - jonas-behrendt
+      - lena-hansen
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: Das ist wahr.
+    status: claim
+    about:
+      - lena-hansen
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: lena-hansen
+    quote: Dann ging sie in die Kaffeeecke, goss zwei Becher voll und stellte sie ungefragt auf den Tisch am Fenster.
+    status: fact
+    about:
+      - lena-hansen
+      - jonas-behrendt
+      - hofladen
+    tags: []
+  - kind: event
+    who: lena-hansen
+    quote: Sie setzte sich auf den Stuhl gegenüber und wartete, bis er auch Platz nahm.
+    status: fact
+    about:
+      - lena-hansen
+      - jonas-behrendt
+      - hofladen
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Der Kaffee war stark und für den ersten Schluck noch zu heiß.
+    status: fact
+    about:
+      - jonas-behrendt
+      - hofladen
+    tags: []
+  - kind: place_fact
+    quote: Draußen zog ein Trecker durchs Dorf, und der Staub hing danach lange über dem Teich.
+    status: fact
+    about:
+      - hofladen
+    tags: []
+  - kind: event
+    who: lena-hansen
+    quote: Lena drehte ihren Becher auf dem Holz, eine Vierteldrehung, dann noch eine.
+    status: fact
+    about:
+      - lena-hansen
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: Marie ist keine, mit der man einen Sommer spielt, Herr Behrendt, und wenn Sie es doch tun, nehm ich Ihnen das übel, und das ganze Dorf mit mir.
+    status: claim
+    about:
+      - lena-hansen
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Hat sie Ihnen etwas gesagt?
+    status: claim
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - lena-hansen
+    tags: []
+  - kind: speech
+    who: lena-hansen
+    quote: Das müssen Sie Marie schon selbst fragen.
+    status: claim
+    about:
+      - lena-hansen
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: Jonas blieb sitzen und ertappte sich bei dem Wunsch nach einem zweiten Satz von ihr.
+    status: belief
+    about:
+      - jonas-behrendt
+      - lena-hansen
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: Hannes' Pick-up hielt am Hoftor, die Ladefläche voller Kartoffelkisten, und Kalle sprang herunter, bevor der Motor verstummt war.
+    status: fact
+    about:
+      - hannes-kroeger
+      - hofladen
+    tags: []
+    fact:
+      subject: hannes-kroeger
+      predicate: at_place
+      value: hofladen
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas trug Gretes Kiste hinaus und stellte sie in den Kofferraum.
+    status: fact
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: Gretes Einkaufskiste
+  - kind: event
+    who: hannes-kroeger
+    quote: Er nahm die Mütze ab und hielt sie mit beiden Händen vor dem Bauch, die Daumen am Schirm, und drehte sie langsam.
+    status: fact
+    about:
+      - hannes-kroeger
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: Moin, Jonas.
+    status: claim
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: Der Ausschuss hat gestern Abend gesessen.
+    status: claim
+    about:
+      - hannes-kroeger
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: Bis Freitag, den vierzehnten, brauchen wir eine Zusage. Eine, auf die man bauen kann.
+    status: claim
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Sonst feiern wir im Zelt hinter dem Feuerwehrhaus. Das Zelt ist schon reserviert.
+    status: fact
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Ausschuss-Frist Freitag 14.; sonst Fest im reservierten Zelt hinter dem Feuerwehrhaus
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas rechnete, ohne es zu wollen. Elf Tage.
+    status: fact
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: Das ist keine Drohung.
+    status: claim
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: Die Leute wollen wissen, wo sie ihre Bänke hinstellen.
+    status: claim
+    about:
+      - hannes-kroeger
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: Bis dahin kriegst du eine Antwort
+    status: claim
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
+    tags: []
+  - kind: relationship
+    who: jonas-behrendt
+    quote: Bis dahin kriegst du eine Antwort
+    status: fact
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: „Eine Antwort“, wiederholte er, als wöge er das Wort in der Hand.
+    status: fact
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: Er pfiff, und Kalle sprang zurück auf die Ladefläche.
+    status: fact
+    about:
+      - hannes-kroeger
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Auf dem Feldweg zwischen den Knicks leuchtete das Telefon im Becherhalter auf.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas fuhr an den Rand, bis Haselzweige am Spiegel kratzten. Dort hielt er.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Die Partner wollten in Hamburg persönlich über seine Einlage sprechen. Ob Donnerstag, der dreizehnte, um neun ginge?
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Partner wollen Donnerstag, den 13., um 9 Uhr in Hamburg persönlich über die Einlage sprechen
+  - kind: event
+    who: jonas-behrendt
+    quote: Hinten in der Kiste klirrte das Glas Rosengelee gegen die Eier.
+    status: fact
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: "Jonas zog den Briefumschlag aus der Hemdtasche und schrieb: Do. 13., 9 Uhr."
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: Briefumschlag mit Terminen
+  - kind: event
+    who: jonas-behrendt
+    quote: Zwei Finger breit tiefer setzte er den Freitag des Ausschusses dazu.
+    status: fact
+    about:
+      - jonas-behrendt
+      - hannes-kroeger
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: Zwei Fristen in derselben Woche, und welche von beiden würde er halten?
+    status: belief
+    about:
+      - jonas-behrendt
+    tags: []
+end_actual: question
+end_quote: Zwei Fristen in derselben Woche, und welche von beiden würde er halten?

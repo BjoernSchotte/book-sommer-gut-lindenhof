@@ -1,0 +1,41 @@
+tool: languagetool 6.8
+paragraphs:
+  41c9417ab41e: []
+  a147a7732fea: []
+  e6620177631a: []
+  a36e996af290: []
+  b5f71e504254: []
+  d0d0d70ab914: []
+  a433fc421f70: []
+  21ad81ab1583: []
+  5f2c07ed1550: []
+  6341809840d7: []
+  ca99eee3f276: []
+  c8408cfb7c0f: []
+  b5f3b91aa3e7: []
+  7059f2472304: []
+  2cbe24fe976b: []
+  1c62d57c3e75: []
+  cd8f283f9451: []
+  d2032024a877: []
+  e90eee7357c5: []
+  6b4c4cfd392a: []
+  ccd34901c836: []
+  b167b72888c0: []
+  ed10e1b62362: []
+  ae97d1d1679f:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 149
+        - 158
+      quote: Ghislaine
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Geißlein
+        - Geißleins
+  75ab6edfac10: []
+  4979aad16301: []
+  e8e1271a0e5c: []
+  ade062003484: []
+ignored: []

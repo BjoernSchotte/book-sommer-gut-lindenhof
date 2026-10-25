@@ -1,0 +1,92 @@
+[
+  {
+    "id": "a-90rsmjxf",
+    "kind": "suggestion",
+    "unit": "ch05/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "s Pappschild drehte sich an der ",
+      "suffix": "Rosa Mundi' einmal um sich selbs",
+      "hint": 64
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.033Z"
+  },
+  {
+    "id": "a-s5dzv3md",
+    "kind": "suggestion",
+    "unit": "ch05/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "d drehte sich an der 'Rosa Mundi",
+      "suffix": " einmal um sich selbst. Sie hatt",
+      "hint": 75
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.033Z"
+  },
+  {
+    "id": "a-m4w17jk7",
+    "kind": "suggestion",
+    "unit": "ch05/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": " Blick ging an Marie vorbei zur ",
+      "suffix": "New Dawn', an der ein Pappschild",
+      "hint": 1026
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.033Z"
+  },
+  {
+    "id": "a-8a3jkw6h",
+    "kind": "suggestion",
+    "unit": "ch05/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "ng an Marie vorbei zur 'New Dawn",
+      "suffix": ", an der ein Pappschild baumelte",
+      "hint": 1035
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.033Z"
+  },
+  {
+    "id": "a-6qfcmvra",
+    "kind": "suggestion",
+    "unit": "ch05/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "h vom Morgen.\n\nNeben ihr an der ",
+      "suffix": "Rosa Mundi' drehte sich das Papp",
+      "hint": 5404
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.033Z"
+  },
+  {
+    "id": "a-q7me1639",
+    "kind": "suggestion",
+    "unit": "ch05/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "n.\n\nNeben ihr an der 'Rosa Mundi",
+      "suffix": " drehte sich das Pappschild im W",
+      "hint": 5415
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.033Z"
+  }
+]

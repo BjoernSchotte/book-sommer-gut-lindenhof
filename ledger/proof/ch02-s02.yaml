@@ -1,0 +1,63 @@
+tool: languagetool 6.8
+paragraphs:
+  61ccf8e3c74c: []
+  b5cbf760920a: []
+  4fafdb073f22: []
+  9d4d17aaf380: []
+  7a8c1acb87bd: []
+  eadd91a1ae12: []
+  3f2f8736e9fa: []
+  a93f760db2d4: []
+  6488eba07c85: []
+  cbb561978e14: []
+  56284202bf26: []
+  2ae6c24d59dc: []
+  691e9aaec764: []
+  50a165183eb9: []
+  9773e78bf2b0: []
+  204d5c4b2eab: []
+  8ed8d67830f1: []
+  8e6aa2334bc8:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 161
+        - 168
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  351437893f66:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 435
+        - 442
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  2448b8793a35: []
+  0087f995c6d2: []
+  c4ade4347e5d: []
+  83e065c0a732: []
+  3278fbf23364: []
+  cc3eef04bf95: []
+  0484cc81c9db: []
+  3e8988bca465: []
+  f3075d99b1b6: []
+  16a43ac92481: []
+  4a7ad4fb4927: []
+  b7e133a80732: []
+  f799d5c027cf: []
+  7f1d38020fe2: []
+  f2dbc7750d98: []
+ignored: []

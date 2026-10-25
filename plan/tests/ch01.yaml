@@ -1,0 +1,112 @@
+ch01/s01:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { pattern: "Jonas" }   # participant; Vorname erst mit der Vorstellung (reveal)
+    - { pattern: "Rosengarten|Garten(?:s)?" }   # place garten
+    - { pattern: "Rosenschere" }
+    - { pattern: "Lederschuh(?:e|en)?" }
+    - { pattern: "Gummistiefel(?:n)?" }
+    - { pattern: "planier(?:en|t|e|te)" }
+  reveal:
+    - { term: { pattern: "Jonas" }, not_before: b3 }   # keiner erkennt den anderen; Name erst bei der Vorstellung
+  beats:
+    b1:
+      must:
+        - { pattern: "Giersch(?:es)?" }
+        - { pattern: "Brombeer(?:e|en|ranke|ranken)" }
+        - { pattern: "Rosa Mundi" }
+    b2:
+      must:
+        - { pattern: "Tor(?:es|s)?" }
+        - { pattern: "New Dawn" }
+        - { pattern: "Projektplan" }
+    b3:
+      must:
+        - { pattern: "Mauer|Gartenmauer" }
+        - { pattern: "Erbe(?:n)?" }
+        - { pattern: "Terrasse" }
+  ends_on: { pattern: "Hedwig(?:s)?", max_after: 40 }   # end: question — Was will er mit Hedwigs Garten?
+  forbids:
+    - { pattern: "Lindenhof-Rose" }   # Fund erst in s03
+    - { pattern: "Steinhagen|Weidenkamp" }
+    - { pattern: "Hotel(?:s)?|Wellnesshotel(?:s)?|Parkplatz(?:es)?" }
+    - { pattern: "Zopf(?:es)?-Mädchen|Mädchen mit Zopf" }   # Wiedererkennen erst viel später
+  judge:
+    - "Ist der Streit komisch und funkenreich (Gummistiefel gegen Lederschuhe, Tage gegen Jahre), ohne dass Marie oder Jonas grob werden?"
+    - "Bleibt offen, dass die beiden sich als Kinder begegnet sind: kein Wiedererkennen, der Blick zur bröckelnden Mauerkrone ohne Erklärung?"
+    - "Siezen sich beide durchgehend?"
+
+ch01/s02:
+  requires:
+    - { alias_of: jonas-behrendt }   # participant, pov
+    - { alias_of: marie-albers }   # participant
+    - { pattern: "Terrasse" }   # place gutshaus (Terrasse vor dem Salon)
+    - { pattern: "Salon(?:s)?" }
+    - { pattern: "Erntefest(?:es|s)?" }
+    - { pattern: "5\\. September|fünften September" }
+    - { pattern: "Verkauf(?:s|en)?|verkauf(?:en|t|e)|Preis(?:es)?" }
+  beats:
+    b1:
+      must:
+        - { pattern: "Laptop(?:s)?" }
+        - { pattern: "Dach(?:es|s)?|Fenster(?:n)?" }
+        - { pattern: "Vermächtnis(?:ses)?|Geldvermächtnis(?:ses)?" }
+    b2:
+      must:
+        - { pattern: "Gummistiefel(?:n)?" }
+        - { pattern: "Stundensatz(?:es)?" }
+        - { pattern: "Zwischenst(?:and|ände|änden)" }
+    b3:
+      must:
+        - { pattern: "Zopf(?:es)?" }
+        - { pattern: "Herr Behrendt" }
+  ends_on: { pattern: "verdient|Hand", max_after: 40 }   # end: dialogue — Maries Schlusssatz, Jonas mit der Hand halb in der Luft
+  forbids:
+    - { pattern: "Steinhagen|Weidenkamp" }
+    - { pattern: "Hotel(?:s)?|Wellnesshotel(?:s)?|Parkplatz(?:es)?" }
+    - { pattern: "Floß|Flöße(?:n)?" }   # Steg-Erinnerung erst ch02/s02
+    - { pattern: "Lindenhof-Rose" }
+  judge:
+    - "Spricht Jonas Hedwigs Wunsch nicht aus und bleibt er beim nüchternen Grund (gepflegtes Gut, besserer Preis), während die Leserin spürt, dass er ihn nicht ablehnen kann?"
+    - "Denkt Jonas in Bildern seines Berufs (Lasten, Fristen, Zahlen) und ärgert sich, dass er auf das Blatt in ihrem Zopf sieht?"
+    - "Gibt Marie bei den Zwischenständen nach, aber nicht bei den Rosen?"
+
+ch01/s03:
+  requires:
+    - { alias_of: marie-albers }   # participant, pov
+    - { alias_of: grete-paulsen }   # participant
+    - { pattern: "Küche" }   # place gutshaus
+    - { pattern: "Rosengarten|Garten(?:s)?" }   # place garten
+    - { pattern: "Butterkuchen(?:s)?" }
+    - { pattern: "Testament(?:es|s)?" }
+    - { pattern: "Erntefest(?:es|s)?" }
+    - { pattern: "Gartenbuch(?:es|s)?" }
+    - { pattern: "Lindenhof-Rose" }
+  reveal:
+    - { term: { pattern: "Lindenhof-Rose" }, not_before: b3 }   # Fund erst am Abend im Garten
+  beats:
+    b1:
+      must:
+        - { pattern: "Setz dich" }
+        - { pattern: "Schürze" }
+    b2:
+      must:
+        - { pattern: "Testament(?:es|s)?" }
+        - { pattern: "Gartenbuch(?:es|s)?" }
+        - { pattern: "Giersch(?:es)?" }
+        - { pattern: "Lederschuh(?:e|en)?" }
+    b3:
+      must:
+        - { pattern: "Tor(?:es|s)?" }
+        - { pattern: "Laubengang(?:es|s)?" }
+        - { pattern: "Brombeer(?:e|en|ranke|ranken)" }
+        - { pattern: "Knospe" }
+  ends_on: { pattern: "rette(?:n)?|Hedwig", max_after: 40 }   # end: emotional — Versprechen an Hedwig
+  forbids:
+    - { pattern: "weiterführ(?:en|t|e)" }   # Hedwigs Wunsch auf der Bank bleibt Maries Geheimnis bis ch08
+    - { pattern: "Steckling(?:e|en)?" }   # heimliche Stecklinge erst ab ch06
+    - { pattern: "Steinhagen|Weidenkamp|Parkplatz(?:es)?" }
+  judge:
+    - "Spricht Grete knapp und norddeutsch, nennt Marie „Deern“ oder „Kind“ und gibt Hedwigs Wunsch über Dinge und Hedwig-Zitate weiter, ohne zu predigen?"
+    - "Wird Hedwigs Tod als Trauer mit Wärme erzählt, nicht als Trauma?"
+    - "Wird aus dem gekränkten Auftrag spürbar Maries eigene Aufgabe, ohne Kitsch?"

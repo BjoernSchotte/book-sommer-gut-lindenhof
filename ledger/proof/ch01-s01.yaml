@@ -1,0 +1,145 @@
+tool: languagetool 6.8
+paragraphs:
+  e1c753b3d666:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 44
+        - 51
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  12c5ed1eb95f: []
+  af03d81c8e46: []
+  63b4422a71a4: []
+  40fbdd083485: []
+  bccf09669093: []
+  5323c8a49417:
+    - rule: EMPFOHLENE_ZUSAMMENSCHREIBUNG
+      category: EMPFOHLENE_RECHTSCHREIBUNG
+      at:
+        - 48
+        - 58
+      quote: frei haben
+      message: "Empfehlung: Möchten Sie die Schreibweise „freihaben“ verwenden?"
+      replacements:
+        - freihaben
+  e06d09f8c889: []
+  b6449ad463fc: []
+  cdc421bae7ca: []
+  9cb79c398c7a:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 47
+        - 54
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  86d873658282:
+    - rule: DRAUF
+      category: COLLOQUIALISMS
+      at:
+        - 86
+        - 91
+      quote: drauf
+      message: Meinten Sie „darauf“? ‚Drauf‘ ist eine umgangssprachliche Ausdrucksweise.
+      replacements:
+        - darauf
+  e16fe9cfe7c2: []
+  35c5bb2632f7:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 19
+        - 23
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  2a9963228624: []
+  09ea22d1ca2c: []
+  f8ae86157459: []
+  6e18c764888b: []
+  5d51dd9b9d97: []
+  e3d918206325: []
+  d26be685dde3: []
+  f42e6fd9c043: []
+  4d680e84e7d1: []
+  8d19baf0fc2d: []
+  0d1ca793d253: []
+  6b2e55728914:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 10
+        - 14
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 67
+        - 78
+      quote: Buchskanten
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Buchs kanten
+        - Sechskanten
+        - Buchspanten
+        - Bruchkanten
+        - Zuguckenden
+  bc9fe3dedcff: []
+  1c2844166793: []
+  0bdae328fba0: []
+  4afc94b7f28e: []
+  531ceae7cd95: []
+  bb38ade4d8fb: []
+  72c43ab79545: []
+  0d02a772fb30: []
+  0b19905ef287: []
+  75b6e5ceca52: []
+  75f6509c8ab5: []
+  5ba259546a7e: []
+  27cef5d7420f: []
+  b85019c855ae: []
+  ab1136e4d9e3: []
+  c2a8f3021fb6: []
+  cec5961d07cd: []
+  667275703cbe:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 91
+        - 95
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  2f409fe1bee5: []
+  1eb2a83832f5: []
+ignored: []

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a-td1akp8g",
+    "kind": "suggestion",
+    "unit": "ch04/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "npflaster und hielt neben Hannes",
+      "suffix": " verbeultem Pick-up. Auf der Lad",
+      "hint": 828
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:12.606Z"
+  },
+  {
+    "id": "a-fxvxyadg",
+    "kind": "suggestion",
+    "unit": "ch04/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": " mit dem Kinn zum Rondell. „Die ",
+      "suffix": "Rosa Mundi' da drüben ist älter ",
+      "hint": 3913
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:12.606Z"
+  },
+  {
+    "id": "a-fhrs3cwz",
+    "kind": "suggestion",
+    "unit": "ch04/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "nn zum Rondell. „Die 'Rosa Mundi",
+      "suffix": " da drüben ist älter als wir bei",
+      "hint": 3924
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:12.606Z"
+  }
+]

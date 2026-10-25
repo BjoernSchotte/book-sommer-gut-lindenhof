@@ -1,0 +1,80 @@
+tool: languagetool 6.8
+paragraphs:
+  083cb9695cf5:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 222
+        - 229
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Versch
+        - Gierig
+        - Geruch
+        - Gierst
+  d18792a21ba1:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 67
+        - 83
+      quote: hinuntergebrummt
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - hinunter gebrummt
+  b805658a1338: []
+  e622de731862: []
+  49d6ddae3b5f: []
+  0aa6b88860b5: []
+  247ec6e4dc3f: []
+  677a80c2f54d: []
+  f67636fd8897: []
+  c15f5c5ca220: []
+  6954b0d91163: []
+  0e47d272a2d1: []
+  ea7c157bbc6f:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 5
+        - 12
+      quote: schmier
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - schmiere
+        - schmier’
+  986d06edfb19: []
+  "238262317e86": []
+  f7d18bbfce3b: []
+  fb1a13370559: []
+  0983b58a1fcc: []
+  0dd36fe06722: []
+  7348937bf056: []
+  1b00b0d8bcd3: []
+  4ba1a5c0bd66: []
+  34d4856a83bd: []
+  5f41a42db5f0: []
+  97faf61df4d3: []
+  c2064f3e432a: []
+  9e0ba2746ee1: []
+  557b4cd1a610: []
+  cafdad2cf49c: []
+  ae7413366fe1: []
+  d3359458375a: []
+  b4117d87e3e6: []
+  cdcfeda4b44c: []
+  a737bbf5f7f7: []
+  5608b0190330: []
+  3db497903af3: []
+  7e011e63d2a6: []
+  d620b1a38c02: []
+  51962115b23f: []
+  fe474974fd73: []
+  2f4f8174ed28: []
+  5f12dc40d015: []
+  52e0e41e16ec: []
+  b7831759b6e7: []
+ignored: []

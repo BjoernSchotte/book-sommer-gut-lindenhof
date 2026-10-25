@@ -1,0 +1,224 @@
+[
+  {
+    "id": "ch01",
+    "title": "Giersch und Lederschuhe",
+    "scenes": [
+      {
+        "id": "ch01/s01",
+        "title": "Planieren lassen",
+        "pov": "marie-albers",
+        "words": 871
+      },
+      {
+        "id": "ch01/s02",
+        "title": "Ein gepflegtes Gut bringt mehr",
+        "pov": "jonas-behrendt",
+        "words": 811
+      },
+      {
+        "id": "ch01/s03",
+        "title": "Unter den Brombeeren",
+        "pov": "marie-albers",
+        "words": 877
+      }
+    ]
+  },
+  {
+    "id": "ch02",
+    "title": "Hedwigs Gartenbuch",
+    "scenes": [
+      {
+        "id": "ch02/s01",
+        "title": "Der umgefallene Rankbogen",
+        "pov": "marie-albers",
+        "words": 867
+      },
+      {
+        "id": "ch02/s02",
+        "title": "Kein Netz am Gut",
+        "pov": "jonas-behrendt",
+        "words": 809
+      },
+      {
+        "id": "ch02/s03",
+        "title": "Seit zwanzig Minuten Schuhe",
+        "pov": "marie-albers",
+        "words": 872
+      }
+    ]
+  },
+  {
+    "id": "ch03",
+    "title": "Gewitter unter der Kletterrose",
+    "scenes": [
+      {
+        "id": "ch03/s01",
+        "title": "Regen im Laubengang",
+        "pov": "marie-albers",
+        "words": 900
+      },
+      {
+        "id": "ch03/s02",
+        "title": "Bleibt das Fest?",
+        "pov": "marie-albers",
+        "words": 885
+      },
+      {
+        "id": "ch03/s03",
+        "title": "Ein Termin im Juli",
+        "pov": "jonas-behrendt",
+        "words": 813
+      }
+    ]
+  },
+  {
+    "id": "ch04",
+    "title": "Die Fläche hinter dem Haus",
+    "scenes": [
+      {
+        "id": "ch04/s01",
+        "title": "Kaffee ohne Kuchen",
+        "pov": "marie-albers",
+        "words": 897
+      },
+      {
+        "id": "ch04/s02",
+        "title": "Ein Interessent",
+        "pov": "jonas-behrendt",
+        "words": 816
+      }
+    ]
+  },
+  {
+    "id": "ch05",
+    "title": "Brombeeren auf dem Hänger",
+    "scenes": [
+      {
+        "id": "ch05/s01",
+        "title": "Die Helferliste",
+        "pov": "marie-albers",
+        "words": 935
+      },
+      {
+        "id": "ch05/s02",
+        "title": "Brombeeren auf dem Hänger",
+        "pov": "jonas-behrendt",
+        "words": 819
+      },
+      {
+        "id": "ch05/s03",
+        "title": "Flöße am Gutssee",
+        "pov": "marie-albers",
+        "words": 903
+      }
+    ]
+  },
+  {
+    "id": "ch06",
+    "title": "Die Notiz unter der Rose",
+    "scenes": [
+      {
+        "id": "ch06/s01",
+        "title": "Rückschnitt",
+        "pov": "marie-albers",
+        "words": 880
+      },
+      {
+        "id": "ch06/s02",
+        "title": "Die Notiz unter der Rose",
+        "pov": "jonas-behrendt",
+        "words": 842
+      },
+      {
+        "id": "ch06/s03",
+        "title": "Eier und eine Frist",
+        "pov": "jonas-behrendt",
+        "words": 812
+      }
+    ]
+  },
+  {
+    "id": "ch07",
+    "title": "Unterschrift in der Kreisstadt",
+    "scenes": [
+      {
+        "id": "ch07/s01",
+        "title": "Unterschrift in der Kreisstadt",
+        "pov": "jonas-behrendt",
+        "words": 931
+      },
+      {
+        "id": "ch07/s02",
+        "title": "Die zweite Blüte",
+        "pov": "marie-albers",
+        "words": 964
+      }
+    ]
+  },
+  {
+    "id": "ch08",
+    "title": "Der Lageplan",
+    "scenes": [
+      {
+        "id": "ch08/s01",
+        "title": "Die unterste Schublade",
+        "pov": "marie-albers",
+        "words": 828
+      },
+      {
+        "id": "ch08/s02",
+        "title": "Hände an der Schürze",
+        "pov": "marie-albers",
+        "words": 810
+      },
+      {
+        "id": "ch08/s03",
+        "title": "Was Hedwig auf der Bank gesagt hat",
+        "pov": "marie-albers",
+        "words": 856
+      }
+    ]
+  },
+  {
+    "id": "ch09",
+    "title": "Was trägt",
+    "scenes": [
+      {
+        "id": "ch09/s01",
+        "title": "Die Keksdose",
+        "pov": "jonas-behrendt",
+        "words": 884
+      },
+      {
+        "id": "ch09/s02",
+        "title": "Was anwächst",
+        "pov": "marie-albers",
+        "words": 893
+      }
+    ]
+  },
+  {
+    "id": "ch10",
+    "title": "Erntefest auf Gut Lindenhof",
+    "scenes": [
+      {
+        "id": "ch10/s01",
+        "title": "Die Erntekrone",
+        "pov": "marie-albers",
+        "words": 919
+      },
+      {
+        "id": "ch10/s02",
+        "title": "Das Mädchen mit dem Zopf",
+        "pov": "marie-albers",
+        "words": 880
+      },
+      {
+        "id": "ch10/s03",
+        "title": "Unter der Kletterrose",
+        "pov": "marie-albers",
+        "words": 869
+      }
+    ]
+  }
+]

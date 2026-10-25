@@ -1,0 +1,282 @@
+source: manuscript/ch07/s02.md
+source_hash: "3f30b8"
+extracted_by: bb-ingest
+end_actual: dialogue
+end_quote: "Die Rosen wussten das schon."
+items:
+  - kind: event
+    who: marie-albers
+    quote: "Marie kniete auf der Bank unter der Kletterrose und zog einen Trieb der 'New Dawn' zu sich herunter."
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: at_place, value: garten }
+  - kind: place_fact
+    quote: "An seiner Spitze saßen drei schmale Knospen, die oberste schon mit einem Hauch Rosa."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Ich hab gewusst, dass du nachkommst."
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: time
+    quote: "Es war Freitag, der vierzehnte August."
+    status: fact
+    about: [marie-albers, jonas-behrendt, hannes-kroeger]
+    tags: []
+    fact: { subject: ch07/s02@szene, predicate: at_time, value: "Fr. 14. August" }
+  - kind: place_fact
+    quote: "Die Nacht war kühl gewesen, zum ersten Mal seit Wochen, und auf dem neuen Kies lag Tau."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "Am Laubengang hatten die ersten Dahlien aufgemacht, rot wie Gretes Johannisbeeren."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "In Lavendel und Katzenminze summten die Bienen so dicht, dass die Stängel zitterten."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "Dort stand der alte Stock der Lindenhof-Rose, kniehoch und krumm."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: place_fact
+    quote: "Am längeren saß eine einzelne Knospe, kaum größer als eine Erbse, grün, mit einem rosa Saum."
+    status: fact
+    about: [garten, marie-albers]
+    tags: []
+  - kind: narrator_claim
+    quote: "Seit Juni hatte sie diese Ecke vor allen versteckt, aber heute sollte Jonas sie sehen."
+    status: fact
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Er kam gerade mit der Schubkarre über die Querachse."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: at_place, value: garten }
+  - kind: event
+    who: marie-albers
+    quote: "Sie zog ihn an den Dahlien vorbei bis in den Winkel hinter dem letzten Bogen."
+    status: fact
+    about: [marie-albers, jonas-behrendt, garten]
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: "Die Lindenhof-Rose. Hedwig hat sie selbst gezogen. Es gibt nur noch diesen einen Stock."
+    status: fact
+    about: [jonas-behrendt, marie-albers, garten]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: knows, value: "letzter Stock der Lindenhof-Rose in der Mauerecke hinter dem Laubengang" }
+  - kind: speech
+    who: marie-albers
+    quote: "Und der blüht wieder."
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Er blieb stumm, das Gesicht so still wie an ihrem ersten Tag am Tor."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Als ich die alte Pflanze im Juni unter den Brombeeren gefunden hab, hab ich auch kein Wort rausgebracht."
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Jonas stach die Kanten an den Kieswegen ab, Spatenbreite um Spatenbreite, an einer gespannten Schnur entlang."
+    status: fact
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Sonst wird sie krumm, und dann sieht man es vom Haus aus."
+    status: claim
+    about: [jonas-behrendt, garten]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Hedwigs Kanten waren fünfzig Jahre krumm, und beschwert hat sich keiner."
+    status: claim
+    about: [marie-albers, garten]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Marie setzte Astern in die Lücken am Rondell, blaue und weiße"
+    status: fact
+    about: [marie-albers, garten]
+    tags: []
+  - kind: time
+    quote: "Mittags brachte Grete Butterkuchen auf die Bank, dazu Kaffee, Marie ihren mit Milch."
+    status: fact
+    about: [grete-paulsen, marie-albers, jonas-behrendt]
+    tags: []
+    fact: { subject: ch07/s02@butterkuchen, predicate: at_time, value: "mittags" }
+  - kind: event
+    who: grete-paulsen
+    quote: "Ihr Blick hing einen Augenblick zu lange an Jonas, dann ging sie wieder hinauf."
+    status: fact
+    about: [grete-paulsen, jonas-behrendt]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Grete musterte jeden so, der zu wenig aß."
+    status: belief
+    about: [marie-albers, grete-paulsen]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Gretes Blick gilt nur Jonas' Appetit" }
+  - kind: object_fact
+    who: marie-albers
+    quote: "Marie knipste mit Hedwigs alter Schere die verblühten Dolden über der Bank ab"
+    status: fact
+    about: [marie-albers]
+    tags: []
+    fact: { subject: marie-albers, predicate: has_object, value: "Hedwigs alte Rosenschere" }
+  - kind: relationship
+    who: jonas-behrendt
+    quote: "drehte Maries Hand um und küsste ihre Finger, einen nach dem anderen, dort, wo die Dornen rote Striche gezogen hatten"
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Sie war froh, dass der Zopf ihre roten Ohren halb verdeckte."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: "Die Gummistiefel aus der Remise waren ihm noch immer eine Nummer zu groß"
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+    fact: { subject: jonas-behrendt, predicate: has_object, value: "geliehene Gummistiefel aus der Remise" }
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Die gehören mir nicht mal"
+    status: claim
+    about: [jonas-behrendt]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Das Lachen hörte zu früh auf, und er griff nach einem zweiten Stück Kuchen, obwohl das erste noch halb auf seinem Teller lag."
+    status: fact
+    about: [jonas-behrendt]
+    tags: []
+  - kind: time
+    quote: "Am Nachmittag knirschten Reifen auf dem Hof, und Hannes' Pick-up brummte aus."
+    status: fact
+    about: [hannes-kroeger]
+    tags: []
+    fact: { subject: ch07/s02@antwort, predicate: at_time, value: "nachmittags" }
+  - kind: event
+    who: hannes-kroeger
+    quote: "Kalle sprang von der Ladefläche und lief schnurstracks zu Gretes Küchentür."
+    status: fact
+    about: [hannes-kroeger, grete-paulsen]
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: "Hannes kam den Plattenweg an der Hausecke entlang und blieb am schmiedeeisernen Tor stehen."
+    status: fact
+    about: [hannes-kroeger, garten]
+    tags: []
+    fact: { subject: ch07/s02@antwort, predicate: at_place, value: garten }
+  - kind: event
+    who: hannes-kroeger
+    quote: "Er nahm die Mütze ab und drehte sie in den großen, rissigen Händen."
+    status: fact
+    about: [hannes-kroeger]
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: "Heute ist Freitag, Jonas. Heute ist die Antwort fällig."
+    status: fact
+    about: [hannes-kroeger, jonas-behrendt]
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: "Fällig, heute? Davon hatte ihr niemand etwas erzählt."
+    status: fact
+    about: [marie-albers, hannes-kroeger, jonas-behrendt]
+    tags: []
+    fact: { subject: marie-albers, predicate: knows, value: "Jonas schuldet Hannes heute eine Antwort zum Fest" }
+  - kind: speech
+    who: jonas-behrendt
+    quote: "Das Fest findet dieses Jahr auf dem Gut statt"
+    status: claim
+    about: [jonas-behrendt, hannes-kroeger, marie-albers]
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: "Die Pflanzschaufel rutschte Marie aus der Hand und fiel ins Beet."
+    status: fact
+    about: [marie-albers]
+    tags: []
+  - kind: belief
+    who: hannes-kroeger
+    quote: "Denn kann ich ja den Weizen in Ruhe dreschen"
+    status: belief
+    about: [hannes-kroeger, jonas-behrendt]
+    tags: []
+    fact: { subject: hannes-kroeger, predicate: believes, value: "Erntefest bleibt auf dem Gut" }
+  - kind: relationship
+    who: marie-albers
+    quote: "Sie fiel Jonas um den Hals, so heftig, dass er einen Schritt zurück gegen das Tor machen musste."
+    status: fact
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+  - kind: place_fact
+    quote: "Das Eisen quietschte."
+    status: fact
+    about: [garten]
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: "Seine Arme kamen einen Atemzug später als sonst, dann hielten sie Marie fest, fester als nötig."
+    status: fact
+    about: [jonas-behrendt, marie-albers]
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: "Der Garten war gerettet."
+    status: belief
+    about: [marie-albers, garten]
+    tags: []
+    fact: { subject: marie-albers, predicate: believes, value: "Garten gerettet, Fest bleibt auf dem Gut" }
+  - kind: event
+    who: hannes-kroeger
+    quote: "Kalle kam von der Küchentür zurück, ohne Kuchen und ohne Eile."
+    status: fact
+    about: [hannes-kroeger, grete-paulsen]
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: "Der Pick-up wendete auf dem Hof und rollte die Lindenallee hinunter, bis die Stämme ihn verdeckten."
+    status: fact
+    about: [hannes-kroeger]
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: "Die Rosen wussten das schon."
+    status: belief
+    about: [marie-albers, jonas-behrendt]
+    tags: []
+gaps:
+  - "Ob Grete von Jonas' Unterschrift oder Antwort weiß, belegt die Szene nicht; nur ihr zu langer Blick."
+  - "Ob Hannes das Ausweichzelt nach der Zusage storniert, bleibt offen."
+  - "Maries Stecklinge im Hinterhof kommen nicht vor; ob sie Jonas davon erzählt, bleibt offen."

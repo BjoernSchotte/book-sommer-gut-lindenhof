@@ -1,0 +1,92 @@
+[
+  {
+    "id": "a-10aeg6zm",
+    "kind": "suggestion",
+    "unit": "ch03/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": " und knotete ihn ums Eisen. Die ",
+      "suffix": "Ghislaine de Féligonde' hing sch",
+      "hint": 73
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.351Z"
+  },
+  {
+    "id": "a-00jsjp4x",
+    "kind": "suggestion",
+    "unit": "ch03/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "sen. Die 'Ghislaine de Féligonde",
+      "suffix": " hing schwer von Blüten, cremewe",
+      "hint": 96
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.351Z"
+  },
+  {
+    "id": "a-3tbsxrs6",
+    "kind": "suggestion",
+    "unit": "ch03/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": " man bis zum Tor hörte. Mit der ",
+      "suffix": "Rosa Mundi' hat sie geschimpft, ",
+      "hint": 3897
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.351Z"
+  },
+  {
+    "id": "a-tgp5dmhf",
+    "kind": "suggestion",
+    "unit": "ch03/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "m Tor hörte. Mit der 'Rosa Mundi",
+      "suffix": " hat sie geschimpft, wenn die Lä",
+      "hint": 3908
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.351Z"
+  },
+  {
+    "id": "a-qexbmwr7",
+    "kind": "suggestion",
+    "unit": "ch03/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": ". Dort stand die Bank unter der ",
+      "suffix": "New Dawn', verwittert, die weiße",
+      "hint": 4238
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.351Z"
+  },
+  {
+    "id": "a-8s78j6r5",
+    "kind": "suggestion",
+    "unit": "ch03/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "and die Bank unter der 'New Dawn",
+      "suffix": ", verwittert, die weiße Farbe in",
+      "hint": 4247
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.351Z"
+  }
+]

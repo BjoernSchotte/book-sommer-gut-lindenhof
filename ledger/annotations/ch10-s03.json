@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a-cc7wtv3y",
+    "kind": "suggestion",
+    "unit": "ch10/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "er ihr summte eine Biene in der ",
+      "suffix": "New Dawn'.\n\n„Drei Tage die Woche",
+      "hint": 695
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:18.375Z"
+  },
+  {
+    "id": "a-411dhzws",
+    "kind": "suggestion",
+    "unit": "ch10/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "mmte eine Biene in der 'New Dawn",
+      "suffix": ".\n\n„Drei Tage die Woche arbeite ",
+      "hint": 704
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:18.375Z"
+  },
+  {
+    "id": "a-drv6jzm1",
+    "kind": "suggestion",
+    "unit": "ch10/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "\n\nMarie lehnte den Kopf an Jonas",
+      "suffix": " Schulter. Es roch nach Rosen un",
+      "hint": 4884
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:18.375Z"
+  }
+]

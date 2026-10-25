@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a-h90z48tz",
+    "kind": "suggestion",
+    "unit": "ch06/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": " September ist was anderes. Die ",
+      "suffix": "New Dawn' blüht nach. Davor Lave",
+      "hint": 1086
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.267Z"
+  },
+  {
+    "id": "a-hq10z4w4",
+    "kind": "suggestion",
+    "unit": "ch06/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "r ist was anderes. Die 'New Dawn",
+      "suffix": " blüht nach. Davor Lavendel und ",
+      "hint": 1095
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.267Z"
+  },
+  {
+    "id": "a-9d4v8rb1",
+    "kind": "suggestion",
+    "unit": "ch06/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "k unter der Kletterrose, wo die ",
+      "suffix": "New Dawn' schon wieder feste kle",
+      "hint": 2237
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.267Z"
+  },
+  {
+    "id": "a-z4jekbj2",
+    "kind": "suggestion",
+    "unit": "ch06/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "er Kletterrose, wo die 'New Dawn",
+      "suffix": " schon wieder feste kleine Knosp",
+      "hint": 2246
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.267Z"
+  }
+]

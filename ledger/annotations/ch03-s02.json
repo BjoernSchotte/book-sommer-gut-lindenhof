@@ -1,0 +1,122 @@
+[
+  {
+    "id": "a-2m5qh2vx",
+    "kind": "suggestion",
+    "unit": "ch03/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "nten bis zum Laubengang, wo die ",
+      "suffix": "Ghislaine' wieder an ihren Bögen",
+      "hint": 902
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.763Z"
+  },
+  {
+    "id": "a-cqnegkth",
+    "kind": "suggestion",
+    "unit": "ch03/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "um Laubengang, wo die 'Ghislaine",
+      "suffix": " wieder an ihren Bögen hing.\n\n„D",
+      "hint": 912
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.763Z"
+  },
+  {
+    "id": "a-ky9wxtsm",
+    "kind": "suggestion",
+    "unit": "ch03/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "eigte auf das Beet daneben. Die ",
+      "suffix": "Rosa Mundi' hing voller rot-weiß",
+      "hint": 1656
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.763Z"
+  },
+  {
+    "id": "a-z59s6443",
+    "kind": "suggestion",
+    "unit": "ch03/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "as Beet daneben. Die 'Rosa Mundi",
+      "suffix": " hing voller rot-weiß gestreifte",
+      "hint": 1667
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.763Z"
+  },
+  {
+    "id": "a-p20546ww",
+    "kind": "suggestion",
+    "unit": "ch03/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "er eine Wurzel im Weg.\n\nUm Jonas",
+      "suffix": " Mund zuckte etwas. Den zweiten ",
+      "hint": 2653
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.763Z"
+  },
+  {
+    "id": "a-cgqw0ce2",
+    "kind": "suggestion",
+    "unit": "ch03/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "die Streifen einer Blüte an der ",
+      "suffix": "Rosa Mundi' und hoffte auf einen",
+      "hint": 4276
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.763Z"
+  },
+  {
+    "id": "a-ja97k26r",
+    "kind": "suggestion",
+    "unit": "ch03/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "n einer Blüte an der 'Rosa Mundi",
+      "suffix": " und hoffte auf einen Satz von J",
+      "hint": 4287
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.763Z"
+  },
+  {
+    "id": "a-51wqfenp",
+    "kind": "suggestion",
+    "unit": "ch03/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "tern unter den Rosen hatte Jonas",
+      "suffix": " Arm eine Handbreit neben ihrem ",
+      "hint": 5094
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:11.763Z"
+  }
+]

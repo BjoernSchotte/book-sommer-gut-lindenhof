@@ -1,0 +1,156 @@
+based_on: ["ch01#1e9a75", "ch02/s01#d0ec6c", "ch02/s02#53bc2c", "ch02/s03#07e654"]
+characters:
+  grete-paulsen:
+    knows:
+      - text: "Hedwigs Testament: Der Rosengarten soll zum Erntefest am 5. September in altem Glanz wieder blühen."
+        from: ch01/s03
+      - text: "Hedwig hat für die Gartenarbeit Geld hinterlassen, für den Rest nur den Wunsch, den keiner einfordern kann."
+        from: ch01/s03
+      - text: "Hedwigs Gartenbuch liegt im Arbeitszimmer auf dem Schreibtisch unterm Fenster, mit Plänen und Notizen zu jeder Rose."
+        from: ch01/s03
+      - text: "Jonas hat Marie den Auftrag gegeben, den Garten bis zum Fest fertig zu machen."
+        from: ch01/s03
+      - text: "Jonas stand nach dem Gespräch noch eine Weile auf der Terrasse und sah Marie nach."
+        from: ch01/s03
+      - text: "Jonas hat seine nassen Socken auf die Treppe gelegt."
+        from: ch01/s03
+      - text: "Sie hat Marie zwei Tage nach dem Auftrag am Morgen Hedwigs Gartenbuch aus dem Arbeitszimmer geholt."
+        from: ch02/s01
+    believes:
+      - text: "Jonas will das Gut verkaufen (so sagt es Marie); das ist seine Sache, der Garten ist Maries."
+        from: ch01/s03
+    does_not_know:
+      - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat."
+      - "Dass Marie Hedwig versprochen hat, den Garten zu retten."
+      - "Die Einzelheiten der Absprache zwischen Jonas und Marie (Budget, Zwischenstände mit Fotos, freie Hand bei den Rosen)."
+      - "Dass Jonas die Rankbögen der 'Ghislaine' erst entsorgen wollte und ihnen nun Punktfundamente gibt."
+      - "Dass Jonas den Hauptweg Ende Juni frei haben will, vom Tor bis zur Pforte."
+      - "Dass es einen Kaufinteressenten aus der Hotelbranche gibt und der Makler Ende Juli einen Fotografen schicken will."
+  hannes-kroeger:
+    knows: []
+    believes: []
+    does_not_know: []
+  jonas-behrendt:
+    knows:
+      - text: "Die Gärtnerin im Rosengarten heißt Marie Albers."
+        from: ch01/s01
+      - text: "Marie hält die Kletterrose am Hauptweg für eine 'New Dawn', kein Gestrüpp, und lehnt Bagger und Splitt auf dem Weg ab."
+        from: ch01/s01
+      - text: "Das Gutshaus hat sieben undichte Fenster im Erdgeschoss zur Gartenseite; für das Dach steht ein Angebot vom Dachdecker bis Ende Juni aus."
+        from: ch01/s02
+      - text: "Hedwigs Geldvermächtnis für die Gartenarbeit reicht für einen Sommer Pflege."
+        from: ch01/s02
+      - text: "Hedwigs Wunsch: Der Rosengarten soll zum Erntefest wieder blühen."
+        from: ch01/s02
+      - text: "Absprache mit Marie: Rosengarten bis zum Erntefest am 5. September, freie Hand bei den Rosen, über die Wege wird noch geredet; ihr Stundensatz steht nicht zur Verhandlung."
+        from: ch01/s02
+      - text: "Die zwei Rankbögen an der Ostmauer stecken ohne Fundament im Boden; laut Marie hängt seit zweiundfünfzig Jahren eine Rose daran, die um das Gestell herumgewachsen ist."
+        from: ch02/s01
+      - text: "Neue Absprache mit Marie: Die Rankbögen bleiben und bekommen je Fuß ein Punktfundament (40 × 40, 80 tief); er bestellt Beton, Marie bindet die Rose selbst wieder an."
+        from: ch02/s01
+      - text: "Marie hat zugesagt, den Hauptweg Ende Juni frei zu haben, vom Tor bis zur Pforte, mit Fotos und Zollstock."
+        from: ch02/s01
+      - text: "Donnerstag um neun Uhr ist in Hamburg die Abnahme des Parkdecks; das Büro braucht ihn dort."
+        from: ch02/s02
+      - text: "Für die Partnerschaft im Büro ist seine Einlage fällig."
+        from: ch02/s02
+      - text: "Laut Makler gibt es einen Kaufinteressenten aus der Hotelbranche, noch ohne Namen."
+        from: ch02/s02
+      - text: "Der Makler will den Garten vorzeigbar haben (gute Wege, Blüten mit Blick vom Haus, keine Ecke, die nach Arbeit aussieht), dann gehe es um andere Zahlen; das Dach rechnen die Interessenten ohnehin ein."
+        from: ch02/s02
+      - text: "Am letzten Freitag im Juli soll ein Fotograf des Maklers den Garten fotografieren."
+        from: ch02/s02
+      - text: "Erinnerung aus der Kindheit: ein Floß aus Brettern am Gutssee, und Hedwig rief ihn zum Kuchen."
+        from: ch02/s02
+    believes:
+      - text: "Marie ist die Gärtnerin."
+        from: ch01/s01
+      - text: "Ein gepflegtes Gut bringt einen besseren Preis."
+        from: ch01/s02
+      - text: "Ein Garten funktioniert wie eine Baustelle: ohne Abnahmen keine Zahlung."
+        from: ch01/s02
+      - text: "Marie kennt den Garten; das ist ein Vorteil gegenüber einer Firma aus der Kreisstadt, die zu spät anfangen würde."
+        from: ch01/s02
+      - text: "Sein Plan geht auf: Ende Juni der freie Hauptweg, danach ein Käufer bis zum Herbst und die Einlage zum Jahresende."
+        from: ch02/s02
+    does_not_know:
+      - "Dass hinter dem Laubengang unter den Brombeeren der letzte Stock der Lindenhof-Rose steht."
+      - "Dass Marie Hedwig versprochen hat, den Garten zu retten."
+      - "Dass Grete Marie von Hedwigs Gartenbuch im Arbeitszimmer erzählt und es ihr gegeben hat."
+      - "Dass Marie mit Lena über ihn gesprochen hat und Lena meint, Marie habe Gefühle für ihn."
+  lena-hansen:
+    knows:
+      - text: "Laut Marie stand in Jonas' Tabelle beim Laubengang 'Entsorgung' für beide Rankbögen der 'Ghislaine', die zweiundfünfzig Jahre alt sind."
+        from: ch02/s03
+      - text: "Laut Marie kniete Jonas in heller Hose ins nasse Gras vor den Bogen, rüttelte am Eisen, stellte fehlendes Fundament fest und skizzierte eins auf die Rückseite seiner Tabelle: vierzig mal vierzig, achtzig tief wegen Frost."
+        from: ch02/s03
+      - text: "Laut Marie kam Jonas in geputzten Lederschuhen, seine Hose ist an beiden Knien grün und hin, und am ersten Tag ließ er sie samt Socken auf der Freitreppe trocknen."
+        from: ch02/s03
+      - text: "Marie sagt, sie habe Jonas dazu gebracht, die Bögen nicht auf den Schrott zu fahren."
+        from: ch02/s03
+      - text: "Marie hat zehn Eier für den nächsten Morgen gekauft und zwei Stück Butterkuchen von ihr bekommen; sie sehen sich am Freitag wieder."
+        from: ch02/s03
+    believes:
+      - text: "Marie hat Gefühle für Jonas; dass sie seit zwanzig Minuten über seine Schuhe redet, ist kein gutes oder ein sehr gutes Zeichen."
+        from: ch02/s03
+    does_not_know:
+      - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat."
+      - "Dass es einen Kaufinteressenten aus der Hotelbranche gibt und der Makler Ende Juli einen Fotografen schicken will."
+      - "Dass Jonas den Hauptweg Ende Juni frei haben will."
+  marie-albers:
+    knows:
+      - text: "Der Erbe aus Hamburg kommt an diesem Tag auf das Gut."
+        from: ch01/s01
+      - text: "Jonas Behrendt ist der Erbe."
+        from: ch01/s01
+      - text: "Jonas will den Rosengarten bis zum Erntefest am 5. September hergerichtet haben: Wege begehbar, Beete sauber, alles, was man vom Haus aus sieht."
+        from: ch01/s02
+      - text: "Jonas will das Gut verkaufen."
+        from: ch01/s02
+      - text: "Absprache mit Jonas: freie Hand bei den Rosen, über die Wege wird noch geredet; Material nach seinem Budget, Zwischenstände alle zwei Wochen mit Fotos."
+        from: ch01/s02
+      - text: "Hedwigs Testament: Der Rosengarten soll zum Erntefest am 5. September in altem Glanz wieder blühen."
+        from: ch01/s03
+      - text: "Hedwig hat für die Gartenarbeit Geld hinterlassen, für den Rest nur den Wunsch, den keiner einfordern kann."
+        from: ch01/s03
+      - text: "Hinter dem Laubengang steht unter den Brombeeren ein Stock der Lindenhof-Rose, die Hedwig selbst gezogen hat."
+        from: ch01/s03
+      - text: "Grete hat ihr zwei Tage nach dem Auftrag am Morgen Hedwigs Gartenbuch aus dem Arbeitszimmer geholt; sie hat es jetzt."
+        from: ch02/s01
+      - text: "Laut Hedwigs Gartenbuch steht an Bogen sieben und acht des Laubengangs die 'Ghislaine de Féligonde', gepflanzt 1974."
+        from: ch02/s01
+      - text: "Jonas' Tabelle sah 'Hauptweg frei bis Ende Juni' und beim Laubengang 'Entsorgung, Ersatz verzinkt' für beide Rankbögen der 'Ghislaine' vor."
+        from: ch02/s01
+      - text: "Jonas plant seit zwölf Jahren Parkhäuser."
+        from: ch02/s01
+      - text: "Die Rankbögen stecken ohne Fundament im Boden, seit zweiundfünfzig Jahren."
+        from: ch02/s01
+      - text: "Neue Absprache: Die Rankbögen bleiben und bekommen Punktfundamente, Jonas bestellt Beton, sie bindet die Rose selbst wieder an; dafür muss der Hauptweg Ende Juni frei sein, vom Tor bis zur Pforte, mit Fotos."
+        from: ch02/s01
+    believes:
+      - text: "Splitt auf dem Hauptweg würde den alten Kies zerstören."
+        from: ch01/s01
+      - text: "Jonas will das Gut verkaufsfertig machen."
+        from: ch01/s03
+      - text: "Der Stock hinter dem Laubengang ist die letzte Lindenhof-Rose."
+        from: ch01/s03
+      - text: "Den Winkel hinter dem Laubengang sieht man von der Terrasse nicht, und in Jonas' Tabelle kommt er nicht vor."
+        from: ch01/s03
+      - text: "Für Hauptweg, Giersch und den Stock unter den Brombeeren bleibt ihr kaum Zeit."
+        from: ch02/s01
+      - text: "Sie hat Jonas dazu gebracht, Hedwigs Bögen nicht auf den Schrott zu fahren."
+        from: ch02/s03
+      - text: "Was sie für Jonas empfindet, ist nur Ärger, aber vielleicht hat Lena recht und es ist mehr."
+        from: ch02/s03
+    does_not_know:
+      - "Was Jonas an der bröckelnden Gartenmauer neben dem Tor so still werden ließ."
+      - "Wie hoch Hedwigs Geldvermächtnis ist und dass es nur für einen Sommer Pflege reicht."
+      - "Dass Jonas fest damit rechnet, bis zum Herbst einen Käufer zu haben."
+      - "Wie es um Fenster und Dach des Gutshauses steht."
+      - "Dass es einen Kaufinteressenten aus der Hotelbranche gibt und am letzten Freitag im Juli ein Fotograf den Garten fotografieren soll."
+      - "Dass Jonas am Donnerstag zur Abnahme des Parkdecks nach Hamburg muss und eine Einlage für die Partnerschaft fällig ist."
+      - "Dass Jonas sie vom Hügel aus bei der Arbeit am Laubengang beobachtet hat."
+  ralf-steinhagen:
+    knows: []
+    believes: []
+    does_not_know: []

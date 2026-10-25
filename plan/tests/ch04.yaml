@@ -1,0 +1,63 @@
+ch04/s01:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: ralf-steinhagen }   # participant
+    - { alias_of: jonas-behrendt }   # participant
+    - { alias_of: grete-paulsen }   # participant
+    - { alias_of: hannes-kroeger }   # participant
+    - { pattern: "(?:Rosengarten|Garten|Rondell)(?:s|es)?" }   # place garten (Ortsseite ohne aliases)
+    - { pattern: "Weidenkamp" }
+    - { pattern: "Fläche hinter dem Haus" }
+    - { pattern: "Veranstaltungsfläche gegen Gebühr" }
+  reveal:
+    - { term: { pattern: "Veranstaltungsfläche gegen Gebühr" }, not_before: b4 }   # erst auf Hannes' Frage
+  forbids:
+    - { pattern: "Parkpl(?:atz|atzes|ätze|ätzen)" }   # der Lageplan liegt erst in s02 im Salon, Marie erfährt ihn erst in ch08
+    - { pattern: "Lagepl(?:an|ans|äne|änen)" }
+    - { pattern: "Abfindung(?:en)?" }   # nur Jonas hört davon (s02)
+    - { pattern: "Vorvertr(?:ag|ags|ages|äge|ägen)" }   # erst Mitte August (ch07)
+    - { pattern: "Zelt(?:e|es|s)?" }   # Ausweichplan des Ausschusses kommt erst in ch06
+    - { pattern: "Feuerwehrhaus(?:es)?" }
+  ends_on: { pattern: "in Ruhe", max_after: 40 }   # end: dialogue, Steinhagen bittet in den Salon
+  beats:
+    b1: { must: [{ alias_of: marie-albers }, { alias_of: hannes-kroeger }, { alias_of: ralf-steinhagen }, { pattern: "Kies(?:es)?" }, { pattern: "Firmenwagen(?:s)?" }, { pattern: "Kalle" }, { pattern: "Frau Albers" }] }
+    b2: { must: [{ alias_of: grete-paulsen }, { alias_of: ralf-steinhagen }, { alias_of: marie-albers }, { pattern: "Kaffee(?:s)?" }, { pattern: "Kuchen(?:s)?" }] }
+    b3: { must: [{ alias_of: jonas-behrendt }, { alias_of: ralf-steinhagen }, { alias_of: marie-albers }, { pattern: "Fläche hinter dem Haus" }, { pattern: "Rosa Mundi" }, { pattern: "Brille" }] }
+    b4: { must: [{ alias_of: hannes-kroeger }, { alias_of: ralf-steinhagen }, { alias_of: marie-albers }, { pattern: "Mütze" }, { pattern: "Erntefest(?:s|es)?" }, { pattern: "Salon(?:s)?" }] }
+  judge:
+    - "Bleibt Steinhagen durchweg höflich und gewinnend, ohne Bösewichtzüge, sodass seine „Fläche“ gerade durch die Freundlichkeit kränkt?"
+    - "Merkt die Leserin über Maries Blick, dass Grete absichtlich keinen Kuchen bringt, ohne dass es jemand ausspricht?"
+    - "Korrigiert Marie ihn sachkundig und kühl mit Gartenwissen (Dreißigerjahre, 'Rosa Mundi'), statt laut oder unhöflich zu werden?"
+    - "Bleibt Jonas' Schweigen am Ende sichtbar, ohne dass Marie schon etwas vom Plan erfährt?"
+
+ch04/s02:
+  requires:
+    - { alias_of: jonas-behrendt }   # participant
+    - { alias_of: ralf-steinhagen }   # participant
+    - { alias_of: marie-albers }   # participant
+    - { pattern: "Salon(?:s)?" }   # place salon (Ortsseite ohne aliases)
+    - { pattern: "Lagepl(?:an|ans|äne|änen)" }
+    - { pattern: "Parkpl(?:atz|atzes|ätze|ätzen)" }
+    - { pattern: "Wohnrecht(?:s|es)?" }
+    - { pattern: "Abfindung(?:en)?" }
+    - { pattern: "Interessent(?:en)?" }
+  reveal:
+    - { term: { pattern: "Lagepl(?:an|ans|äne|änen)" }, not_before: b2 }   # erst nach dem kollegialen Rechnen
+    - { term: { pattern: "Abfindung(?:en)?" }, not_before: b2 }
+    - { term: { pattern: "Interessent(?:en)?" }, not_before: b4 }   # Jonas' Ausweichwort an Marie
+  forbids:
+    - { pattern: "Vorvertr(?:ag|ags|ages|äge|ägen)" }   # unterschrieben wird erst Mitte August (ch07)
+    - { pattern: "Rücktrittsrecht(?:s|es)?" }
+    - { pattern: "zweites Gut" }   # Steinhagens Geheimnis kommt erst beim Rücktritt (ch09)
+  ends_on: { pattern: "(?:gesagt|erzählt)", max_after: 30 }   # end: question, warum er ihr nicht mehr gesagt hat
+  beats:
+    b1: { must: [{ alias_of: ralf-steinhagen }, { alias_of: jonas-behrendt }, { pattern: "Flügeltür(?:en)?" }, { pattern: "Mappe" }, { pattern: "Zimmer(?:n|s)?" }] }
+    b2: { must: [{ alias_of: ralf-steinhagen }, { alias_of: jonas-behrendt }, { alias_of: marie-albers }, { pattern: "Lagepl(?:an|ans|äne|änen)" }, { pattern: "Parkpl(?:atz|atzes|ätze|ätzen)" }, { pattern: "Abfindung(?:en)?" }, { pattern: "Kuchen(?:s)?" }] }
+    b3: { must: [{ alias_of: ralf-steinhagen }, { alias_of: jonas-behrendt }, { pattern: "Herrenhaus(?:es)?" }, { pattern: "Kopie" }] }
+    b4: { must: [{ alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Interessent(?:en)?" }, { pattern: "Laptops?" }] }
+  judge:
+    - "Spürt die Leserin in Jonas' Bildern aus Statik und Bau, dass ihm das Rechnen unter Fachleuten gefällt, bevor der Lageplan kippt?"
+    - "Beschämt ihn die Abfindung für Gretes Wohnrecht sichtbar mehr als der Parkplatz, mit dem Kaffee ohne Kuchen als Erinnerung?"
+    - "Bleibt Steinhagen fair und offen (der Parkplatz steht im Plan, das Wohnrecht wird korrekt genannt), sodass das Schweigen allein Jonas' Entscheidung ist?"
+    - "Wirkt Steinhagens Bemerkung über den verlorenen Park beiläufig und ohne Sentimentalität?"
+    - "Endet die Szene mit Jonas' offener Frage an sich selbst, ohne Entschluss und ohne dass Marie etwas ahnt?"

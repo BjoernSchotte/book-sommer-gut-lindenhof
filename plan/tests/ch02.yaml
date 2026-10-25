@@ -1,0 +1,125 @@
+ch02/s01:
+  requires:
+    - { alias_of: marie-albers }   # participant, pov
+    - { alias_of: jonas-behrendt }   # participant
+    - { pattern: "Rosengarten|Garten(?:s)?" }   # place garten
+    - { pattern: "Gartenbuch(?:es|s)?" }   # payoff s-gartenbuch
+    - { pattern: "Rankb(?:ogen|ogens|ögen)" }
+    - { pattern: "Fundament(?:e|es|s)?|Punktfundament(?:e|es|s)?" }
+    - { pattern: "Frau Albers|Herr(?:n)? Behrendt" }   # Sie-Anrede, das Du erst ch03/s01
+  beats:
+    b1:
+      must:
+        - { pattern: "Sonnenuhr" }
+        - { pattern: "Ghislaine de Féligonde" }
+        - { pattern: "1974" }
+        - { pattern: "Laubengang(?:es|s)?" }
+    b2:
+      must:
+        - { pattern: "Tabelle" }
+        - { pattern: "Meilenstein(?:e|en|s)?" }
+        - { pattern: "Entsorgung" }
+        - { pattern: "statisch" }
+        - { pattern: "Parkh(?:aus|auses|äuser|äusern)" }
+    b3:
+      must:
+        - { pattern: "Chino(?:s)?" }
+        - { pattern: "Beton(?:s)?" }
+        - { pattern: "Hauptweg(?:es|s)?" }
+    b4:
+      must:
+        - { pattern: "Bauingenieur(?:e|en|s)?" }
+        - { pattern: "Schädling(?:e|en)?" }
+        - { pattern: "Brennnesseljauche" }
+  ends_on: { pattern: "Buch(?:es|s)?|lächel(?:t|te|n)", max_after: 40 }   # end: dialogue — Schädlinge-Pointe, sein kurzes Lächeln, sie sieht ins Buch
+  forbids:
+    - { pattern: "Steinhagen|Weidenkamp" }
+    - { pattern: "Hotel(?:s)?|Wellnesshotel(?:s)?|Parkplatz(?:es)?" }
+    - { pattern: "Floß(?:es)?|Flöße(?:n)?" }   # Steg-Erinnerung erst s02
+    - { pattern: "Mädchen mit Zopf" }   # Wiedererkennen erst viel später
+  judge:
+    - "Ist der Streit trocken, schnell und komisch, mit Fachwörtern auf beiden Seiten, ohne dass einer grob wird?"
+    - "Ist die Einigung glaubhaft widerwillig: Jonas zeichnet das Fundament gegen seinen Willen, Marie hält dafür den Meilenstein?"
+    - "Siezen sich beide durchgehend (das Du kommt erst im Gewitter in ch03)?"
+
+ch02/s02:
+  requires:
+    - { alias_of: jonas-behrendt }   # participant, pov
+    - { alias_of: marie-albers }   # participant, nur von oben gesehen
+    - { pattern: "Hügel(?:s|n)?" }   # place huegel
+    - { pattern: "Scheune" }
+    - { pattern: "Makler(?:s|n)?" }
+    - { pattern: "Steg(?:es|s)?" }   # setup s-steg
+    - { pattern: "Floß(?:es)?" }
+  reveal:
+    - { term: { pattern: "Floß(?:es)?" }, not_before: b3 }   # Erinnerung kommt ungerufen erst beim Blick auf den Steg
+  beats:
+    b1:
+      must:
+        - { pattern: "Netz(?:es)?" }
+        - { pattern: "Hamburg" }
+        - { pattern: "Einlage" }
+        - { pattern: "Hotelbranche" }
+        - { pattern: "vorzeigbar" }
+        - { pattern: "Tragwerk(?:e|es|s)?|Last(?:en)?" }   # Jonas denkt in Bildern seines Berufs
+    b2:
+      must:
+        - { pattern: "Laubengang(?:es|s)?" }
+        - { pattern: "Brombeer(?:e|en|trieb|triebe|ranke|ranken)" }
+    b3:
+      must:
+        - { pattern: "Gutssee(?:s)?|See(?:s)?" }
+        - { pattern: "Hedwig(?:s)?" }
+        - { pattern: "Kuchen(?:s)?" }
+  ends_on: { pattern: "Steg(?:es|s)?", max_after: 40 }   # end: emotional — Blick auf dem Steg
+  forbids:
+    - { pattern: "Steinhagen|Weidenkamp" }   # Makler noch ohne Namen; Steinhagen erst ch03/s03
+    - { pattern: "Parkplatz(?:es)?|Wellnesshotel(?:s)?" }
+    - { pattern: "Mädchen mit Zopf" }
+  judge:
+    - "Denkt Jonas in Bildern seines Berufs (Lasten, Tragwerk, Fristen), bis die Erinnerung ihn ungeplant trifft?"
+    - "Bleibt Marie auf dem Hügel nur von unten sichtbar, ohne Dialog mit Jonas?"
+    - "Ist die Erinnerung sinnlich und knapp (Bretter, Seil, kaltes Wasser, Hedwigs Stimme), ohne dass Jonas sie benennt oder erklärt?"
+
+ch02/s03:
+  requires:
+    - { alias_of: marie-albers }   # participant, pov
+    - { alias_of: lena-hansen }   # participant
+    - { pattern: "Hofladen(?:s)?|Laden(?:s)?" }   # place hofladen
+    - { pattern: "Frieda" }
+    - { pattern: "Butterkuchen(?:s)?|Kuchen(?:s)?" }
+    - { pattern: "zwanzig Minuten" }
+  reveal:
+    - { term: { pattern: "zwanzig Minuten" }, not_before: b2 }   # Lenas Satz erst, nachdem Marie geredet hat
+  beats:
+    b1:
+      must:
+        - { pattern: "Dorfteich(?:es|s)?" }
+        - { pattern: "Theke" }
+        - { pattern: "Kasse" }
+    b2:
+      must:
+        - { pattern: "Rankb(?:ogen|ogens|ögen)" }
+        - { pattern: "Entsorgung" }
+        - { pattern: "Lederschuh(?:e|en)?" }
+        - { pattern: "Schuh(?:e|en)" }
+    b3:
+      must:
+        - { pattern: "Ärger(?:s)?" }
+        - { pattern: "Tante Rosen" }
+        - { pattern: "verliebt" }
+    b4:
+      must:
+        - { pattern: "Feldweg(?:es|s)?" }
+        - { pattern: "Knick(?:e|en|s)?" }
+        - { pattern: "Lächeln(?:s)?" }
+  ends_on: { pattern: "recht", max_after: 40 }   # end: question — ob Lena recht hat
+  forbids:
+    - { pattern: "Steinhagen|Weidenkamp" }
+    - { pattern: "Hotel(?:s)?|Wellnesshotel(?:s)?|Parkplatz(?:es)?" }
+    - { pattern: "weiterführ(?:en|t|e)" }   # Hedwigs Wunsch auf der Bank bleibt Maries Geheimnis bis ch08
+    - { pattern: "Floß(?:es)?|Flöße(?:n)?" }   # Jonas' Erinnerung kennt Marie nicht
+  judge:
+    - "Klingt Lena schnell und lebhaft, mit Humor aus dem Laden, und lässt Marie erst reden, bevor sie ihr den Satz auf den Kopf zusagt?"
+    - "Weicht Marie aus, ohne zuzugeben, was sie fühlt, sodass die Liebe als Frage offen bleibt?"
+    - "Ist das Ende eine echte offene Frage, keine Antwort?"

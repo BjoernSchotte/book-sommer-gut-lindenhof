@@ -1,0 +1,92 @@
+[
+  {
+    "id": "a-wwnk2ey7",
+    "kind": "suggestion",
+    "unit": "ch06/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "rtenbuch hiergelassen. Da gehört",
+      "suffix": "s auch hin.“ Sie sah ihn über di",
+      "hint": 1189
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.678Z"
+  },
+  {
+    "id": "a-rhgw9xdd",
+    "kind": "suggestion",
+    "unit": "ch06/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "rug einen Namen samt Bemerkung. ",
+      "suffix": "Rosa Mundi', Läuse, Brennnesselj",
+      "hint": 2047
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.678Z"
+  },
+  {
+    "id": "a-48cxzt6y",
+    "kind": "suggestion",
+    "unit": "ch06/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "amen samt Bemerkung. 'Rosa Mundi",
+      "suffix": ", Läuse, Brennnesseljauche. Die ",
+      "hint": 2058
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.678Z"
+  },
+  {
+    "id": "a-m08z7g2v",
+    "kind": "suggestion",
+    "unit": "ch06/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": ", Läuse, Brennnesseljauche. Die ",
+      "suffix": "Ghislaine' hatte ein Ausrufezeic",
+      "hint": 2091
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.678Z"
+  },
+  {
+    "id": "a-qx7k3c81",
+    "kind": "suggestion",
+    "unit": "ch06/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "rennnesseljauche. Die 'Ghislaine",
+      "suffix": " hatte ein Ausrufezeichen bekomm",
+      "hint": 2101
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.678Z"
+  },
+  {
+    "id": "a-qw5spnkj",
+    "kind": "suggestion",
+    "unit": "ch06/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "sie jeden Morgen, dann merkst du",
+      "suffix": "s nicht.“\n\nDer Steckling hatte i",
+      "hint": 3139
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:14.678Z"
+  }
+]

@@ -1,0 +1,65 @@
+ch03/s01:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: jonas-behrendt }   # participant
+    - { pattern: "(?:Rosengarten|Garten|Laubengang)(?:s|es)?" }   # place garten (Ortsseite ohne aliases)
+    - { pattern: "Frau Albers" }   # das förmliche Sie fällt im Regen
+  forbids:
+    - { alias_of: ralf-steinhagen }   # kommt erst in s03 ins Spiel
+    - { pattern: "Vorvertr(?:ag|ags|ages|äge)" }
+    - { pattern: "weiterführ(?:en|t|e|st)" }   # Hedwigs Wunsch auf der Bank bleibt verschwiegen (q-hedwigs-wunsch)
+  ends_on: { pattern: "blieb", max_after: 60 }   # end: emotional, Marie bleibt
+  beats:
+    b1: { must: [{ alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Herr Behrendt" }, { pattern: "Gummistiefeln?" }] }
+    b2: { must: [{ alias_of: marie-albers }, { pattern: "Frau Albers" }, { pattern: "Donner(?:schlag|schläge|n)?" }] }
+    b3: { must: [{ alias_of: marie-albers }, { pattern: "Gretes?" }, { pattern: "Hedwigs?" }, { pattern: "Bank" }] }
+    b4: { must: [{ alias_of: jonas-behrendt }, { alias_of: marie-albers }] }
+  judge:
+    - "Entsteht das Du beiläufig aus dem gemeinsamen Lachen, ohne dass einer es förmlich anbietet?"
+    - "Bleibt offen, was Hedwig Marie auf der Bank gesagt hat, und spürt die Leserin trotzdem, dass dort etwas Wichtiges liegt?"
+    - "Bleibt die Nähe im Laubengang bei heat 1: Herzklopfen und Blicke, kein Kuss?"
+
+ch03/s02:
+  requires:
+    - { alias_of: marie-albers }   # participant
+    - { alias_of: jonas-behrendt }   # participant
+    - { alias_of: hannes-kroeger }   # participant
+    - { pattern: "(?:Rosengarten|Garten|Rondell)(?:s|es)?" }   # place garten (Ortsseite ohne aliases)
+    - { pattern: "Erntefest(?:s|es)?" }
+  forbids:
+    - { alias_of: ralf-steinhagen }   # erst in s03
+    - { pattern: "Zelt(?:e|es|s)?" }   # Ausweichplan des Ausschusses kommt erst in ch06
+    - { pattern: "Feuerwehrhaus(?:es)?" }
+  ends_on: { pattern: "Kaffee wird kalt", max_after: 40 }   # end: dialogue
+  beats:
+    b1: { must: [{ alias_of: hannes-kroeger }, { pattern: "Gretes?" }, { alias_of: marie-albers }, { pattern: "Kalle" }, { pattern: "Sonnenuhr" }] }
+    b2: { must: [{ alias_of: jonas-behrendt }, { alias_of: marie-albers }, { alias_of: hannes-kroeger }, { pattern: "Kaffee" }] }
+    b3: { must: [{ alias_of: hannes-kroeger }, { alias_of: jonas-behrendt }, { pattern: "Herr Behrendt" }, { pattern: "Mütze" }] }
+    b4: { must: [{ alias_of: hannes-kroeger }, { alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Wie immer" }] }
+  judge:
+    - "Weicht Jonas auf Hannes' Frage nur in Kosten, Gutachten und Fristen aus, ohne Ja oder Nein und ohne den Verkauf auszusprechen?"
+    - "Drängt Hannes nicht nach, sondern wartet, und wirkt sein „Wie immer“ wie eine Feststellung statt einer Drohung?"
+    - "Ist das neue Du zwischen Marie und Jonas spürbar ungewohnt (ein fast verrutschtes Sie), und bemerkt Hannes es nur stumm?"
+
+ch03/s03:
+  requires:
+    - { alias_of: jonas-behrendt }   # participant
+    - { pattern: "Hügels?" }   # place huegel (Ortsseite ohne aliases)
+    - { alias_of: ralf-steinhagen }
+    - { pattern: "Weidenkamp" }
+    - { pattern: "Juli" }   # Besichtigungstermin im Juli
+  reveal:
+    - { term: { alias_of: ralf-steinhagen }, not_before: b2 }   # der Anruf kommt erst nach Jonas' Grübeln
+  forbids:
+    - { pattern: "Parkpl(?:atz|atzes|ätze|ätzen)" }   # nur „Stellplatzlösung“; der Lageplan kommt in ch04
+    - { pattern: "Vorvertr(?:ag|ags|ages|äge)" }
+  ends_on: { pattern: "Riss im Fundament", max_after: 20 }   # end: question
+  beats:
+    b1: { must: [{ alias_of: jonas-behrendt }, { alias_of: hannes-kroeger }, { alias_of: marie-albers }, { pattern: "Scheune" }] }
+    b2: { must: [{ alias_of: ralf-steinhagen }, { pattern: "Stellplatzlösung" }, { pattern: "unverbindlich" }] }
+    b3: { must: [{ alias_of: jonas-behrendt }, { alias_of: ralf-steinhagen }, { pattern: "Büro" }] }
+    b4: { must: [{ pattern: "Kletterrose" }, { pattern: "Laubengang(?:s|es)?" }] }
+  judge:
+    - "Wirkt Steinhagen verbindlich, gut vorbereitet und freundlich, ohne Bösewichtzüge?"
+    - "Zeigt die Szene Jonas' Zweifel in Bildern aus Statik und Bau, statt sie auszusprechen, bis zur Schlussfrage?"
+    - "Endet der erste Akt mit einer echten Frage, die den Verkauf konkret macht, ohne den Parkplatz im Rosengarten vorwegzunehmen?"

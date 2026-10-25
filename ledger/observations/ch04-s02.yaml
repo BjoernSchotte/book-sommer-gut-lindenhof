@@ -1,0 +1,427 @@
+source: manuscript/ch04/s02.md
+source_hash: 68b6c3
+extracted_by: bb-ingest
+gaps:
+  - Keine Uhrzeit in der Szene; sie schließt am selben Vormittag an ch04/s01 an (Kies, Hannes, Marie), ohne Zeitangabe.
+  - Ob der Lageplan auch die Zufahrt durch das Tor und die Zahl der Stellplätze festlegt, bleibt ungenannt; nur „nummeriert, mit einer Zufahrt durch das Tor“.
+  - Wo Steinhagens Herrenhaus „weiter im Süden“ liegt, bleibt offen.
+  - Absatz 15 sagt nicht mehr, dass Steinhagen Jonas' Schweigen als Zustimmung deutet; ob er das glaubt, bleibt offen.
+items:
+  - kind: place_fact
+    quote: Im Salon standen beide Flügeltüren zur Terrasse offen.
+    status: fact
+    about:
+      - salon
+    tags: []
+  - kind: event
+    quote: Von draußen kam das Kratzen der Schaufeln im Kies, Ladung um Ladung, gleichmäßig wie ein Takt.
+    status: fact
+    about:
+      - salon
+      - garten
+      - marie-albers
+      - hannes-kroeger
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Steinhagen schob Gretes Vase ein Stück zur Seite und breitete seine Mappe auf Hedwigs ovalem Tisch aus, bis vom Mahagoni nur noch die Kante frei blieb.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - salon
+      - grete-paulsen
+    tags: []
+    fact:
+      subject: ch04/s02@unterlagen
+      predicate: at_place
+      value: salon
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Rund zwanzig Zimmer im Gutshaus“, sagte er. „Kuhstall und Scheune werden Spa und Seminarraum. Unten am Steg ein Saunahaus, klein, aus Holz.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: "Hotelplan: rund 20 Zimmer, Spa und Seminarraum in Kuhstall und Scheune, Saunahaus am Steg"
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas zog einen Stuhl heran und ging die Grundrisse durch, die Schnitte und eine Kostenschätzung nach Gewerken.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+      - salon
+    tags: []
+  - kind: narrator_claim
+    who: ralf-steinhagen
+    quote: Er nannte Lasten dort, wo Jonas sie erwartete, und seine Fristen hielten jeder Prüfung stand.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Zwei Balken sind eingeplant. Seite vier, unten.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: Die Summe lag kaum über seiner eigenen Schätzung.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: relationship
+    who: jonas-behrendt
+    quote: Einen Augenblick lang war es wie im Büro, unter Kollegen, mit kaltem Kaffee und einem Bleistift, der von Hand zu Hand ging.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Dann legte Steinhagen den Lageplan obenauf.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Der Parkplatz lag genau auf dem Rosengarten.
+    status: fact
+    about:
+      - jonas-behrendt
+      - garten
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Parkplatz im Lageplan liegt auf dem Rosengarten
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Ebener Grund“, sagte Steinhagen. „Nah am Haus, die Gäste haben kurze Wege. Und die Mauer gibt uns den Sichtschutz gratis.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - garten
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Ein paar Rosen behalten wir natürlich. Als Akzent, in Kübeln.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - garten
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Durch die offene Tür, über die Terrasse hinweg, leuchtete Maries Zopf zwischen den Büschen am Rondell.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - garten
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: at_place
+      value: garten
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Frau Paulsen hat ein lebenslanges Wohnrecht. Das bleibt selbstverständlich bestehen. Sollte sie freiwillig ausziehen wollen, sehen wir eine großzügige Abfindung vor.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Sollte sie freiwillig ausziehen wollen, sehen wir eine großzügige Abfindung vor.
+    status: fact
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Hotelgruppe sieht Abfindung für Gretes freiwilligen Auszug vor
+  - kind: speech
+    who: ralf-steinhagen
+    quote: Vielleicht sprechen Sie das bei Gelegenheit an. Sie kennen sie besser als ich.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+      - grete-paulsen
+    tags: []
+  - kind: narrator_claim
+    who: ralf-steinhagen
+    quote: Alles daran war korrekt und ohne Hintergedanken gemeint. Gerade das machte es schlimmer.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: Mit dem Parkplatz hatte Jonas seit dem Wort Stellplatzlösung oben auf dem Hügel gerechnet, mit dieser Zeile nicht.
+    status: belief
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Parkplatz auf dem Gelände seit dem Wort Stellplatzlösung erwartet
+  - kind: event
+    who: grete-paulsen
+    quote: Grete hatte ihm in all den Kindersommern keine Tasse ohne Kuchen hingestellt, bis heute Morgen.
+    status: fact
+    about:
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+  - kind: belief
+    who: jonas-behrendt
+    quote: Sie hatte mehr geahnt als er.
+    status: belief
+    about:
+      - jonas-behrendt
+      - grete-paulsen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Grete hat den Hotelplan geahnt
+  - kind: event
+    who: jonas-behrendt
+    quote: Er legte die Hand flach auf das Blatt, als könnte er die Zeile damit zudecken.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: „Das ist großzügig“, sagte er.
+    status: claim
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Wir wollen niemanden vor den Kopf stoßen.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - grete-paulsen
+    tags:
+      - dialog
+  - kind: event
+    who: ralf-steinhagen
+    quote: Steinhagen nickte zufrieden.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas widersprach nicht.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Ich hatte vor ein paar Jahren ein Herrenhaus, weiter im Süden“, sagte er, ohne aufzusehen. „Schöner alter Park, Linden, ein Teich. Für den Anbau musste der weg, anders ging die Rechnung nicht auf.“
+    status: claim
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Das Haus läuft gut, die Zahlen stimmen. Aber seitdem fehlt ihm etwas. Ich könnte Ihnen nicht sagen, was.“
+    status: claim
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Lassen Sie sich Zeit, Herr Behrendt. Ich melde mich. Die Unterlagen hier sind für Sie.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas sagte nichts zu und nichts ab.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Er brachte den Gast hinaus, wo Steinhagen die Wildlederslipper vorsichtig über das Pflaster setzte.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: In der dünnen Mappe, die drinnen auf Hedwigs Tisch lag, steckte eine Kopie des Plans.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+      - salon
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: dünne Kartonmappe mit Kopie des Lageplans
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: Jonas hätte sie Steinhagen mitgeben können.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Der silberne Wagen rollte die Allee hinunter, bis die Linden ihn verdeckten.
+    status: fact
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Als Jonas in den Salon zurückkam, stand Marie in der Tür zur Terrasse. Erde klebte ihr bis an die Handgelenke, im Zopf hing ein trockener Halm.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - salon
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Sie sah ihn prüfend an. „Und? Was wollte er?“
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: jonas-behrendt
+    quote: „Ein Interessent“, sagte Jonas.
+    status: claim
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - ralf-steinhagen
+    tags: []
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: „Ein Interessent“, sagte Jonas.
+    status: fact
+    about:
+      - marie-albers
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: der Besucher ist ein Interessent
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Er schob die Mappe unter den Laptop, ohne hinzusehen.
+    status: fact
+    about:
+      - jonas-behrendt
+      - marie-albers
+      - salon
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: Marie wartete noch einen Moment, als käme noch etwas.
+    status: belief
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Dann nickte sie und wischte die Hände an der Arbeitshose ab, was nichts nützte.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Sie drehte sich um und lief die Freitreppe hinunter, zurück in den Garten.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: at_place
+      value: garten
+  - kind: event
+    who: marie-albers
+    quote: Kurz darauf kratzte ihre Schaufel wieder im Kies, im selben Takt wie die von Hannes.
+    status: fact
+    about:
+      - marie-albers
+      - hannes-kroeger
+      - garten
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Unter dem Laptop schaute eine Ecke Karton hervor, und er rückte das Gerät, bis sie verschwand.
+    status: fact
+    about:
+      - jonas-behrendt
+      - salon
+    tags: []
+  - kind: narrator_claim
+    who: jonas-behrendt
+    quote: Ein Interessent. Das war nicht gelogen. Es war nur so wenig, dass es kaum noch Gewicht hatte
+    status: fact
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Warum hatte er ihr nicht mehr gesagt?
+    status: fact
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+end_actual: question
+end_quote: Warum hatte er ihr nicht mehr gesagt?

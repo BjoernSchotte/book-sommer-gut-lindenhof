@@ -1,0 +1,505 @@
+source: manuscript/ch04/s01.md
+source_hash: "370004"
+extracted_by: bb-ingest
+gaps:
+  - Der Wochentag des Besuchs wird in der Szene nicht genannt; laut ch03/s03 war die Besichtigung für den übernächsten Montag, Mitte Juli, vereinbart.
+  - Welche Unterlagen Steinhagen mitbringt und von welchen Fotos er spricht, bleibt offen; der Parkplatz-Plan wird nicht ausgesprochen.
+  - Wovon Jonas und Steinhagen auf der Terrasse sprechen, bleibt außerhalb von Maries Hörweite.
+  - Wonach Steinhagen die Zufahrt hinunterschaut, bleibt offen; ein Bezug zur „Stellplatzlösung“ aus ch03/s03 wird nicht ausgesprochen.
+  - "Absatz 15 begründet nicht mehr, warum die Fläche ein Pfund ist (früher: ebener Grund, kurze Wege, Mauer als Sichtschutz); der Parkplatzgedanke bleibt nur angedeutet."
+  - Absatz 28 sagt nicht, ob Jonas der Bitte in den Salon folgt; das Szenenende bleibt offen.
+  - Wie Steinhagen vom Fototermin des Maklers Ende Juli weiß, bleibt offen (Jonas hat ihn in ch02/s02 dem Makler zugesagt, ohne ihn zu notieren).
+  - Ob Jonas auf die Bemerkung über den Fotografen des Maklers reagiert, sagen Absatz 15 und 16 nicht.
+items:
+  - kind: event
+    who: marie-albers
+    quote: Marie stieß die Schaufel in den Kies und warf die erste Ladung auf die Hauptachse.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: ch04/s01@kies
+      predicate: at_place
+      value: garten
+  - kind: place_fact
+    quote: Die Steine rauschten vom Blatt und blieben hell auf der alten, dunklen Erde liegen.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: Hannes stand oben auf dem Hänger, den er rückwärts bis ans schmiedeeiserne Tor gesetzt hatte, und schaufelte ihr im selben Takt entgegen.
+    status: fact
+    about:
+      - hannes-kroeger
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: hannes-kroeger
+      predicate: has_object
+      value: Hänger mit Kies
+  - kind: time
+    quote: Es war Mitte Juli, kaum zehn Uhr, und die Sonne brannte schon auf Nacken und Unterarme.
+    status: fact
+    about:
+      - marie-albers
+      - hannes-kroeger
+      - garten
+    tags: []
+    fact:
+      subject: ch04/s01@kies
+      predicate: at_time
+      value: Mitte Juli, kurz vor 10:00
+    event: kies
+    day: "+0"
+    at:
+      - 09:45
+      - 10:00
+    place: garten
+  - kind: place_fact
+    quote: Von den Feldern hinter der Allee zog Heugeruch herüber.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: „Noch zwei Fuhren“, sagte Hannes. „Dann bist du an der Sonnenuhr.“
+    status: claim
+    about:
+      - hannes-kroeger
+      - marie-albers
+      - garten
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Da kam ein Wagen die Lindenallee herauf, silbern und so frisch gewaschen, dass sich das Laub im Blech spiegelte.
+    status: fact
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: object_fact
+    who: ralf-steinhagen
+    quote: Ein Firmenwagen, mit schmalem Schriftzug an der Tür. Keiner aus dem Dorf fuhr so etwas.
+    status: fact
+    about:
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: has_object
+      value: silberner Firmenwagen mit Schriftzug
+  - kind: object_fact
+    who: hannes-kroeger
+    quote: Er rollte über das Kopfsteinpflaster und hielt neben Hannes' verbeultem Pick-up. Auf der Ladefläche fuhr Kalle hoch und bellte den fremden Wagen an.
+    status: fact
+    about:
+      - hannes-kroeger
+    tags: []
+    fact:
+      subject: hannes-kroeger
+      predicate: has_object
+      value: verbeulter Pick-up
+  - kind: narrator_claim
+    who: ralf-steinhagen
+    quote: Ein Mann stieg aus, Ende vierzig, graumeliert, im hellblauen Hemd. Das dunkle Sakko legte er sich über den Arm, bevor er die Tür schloss.
+    status: fact
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: narrator_claim
+    who: ralf-steinhagen
+    quote: Er trug Slipper aus hellem Wildleder und setzte sie mit Bedacht auf den Hof, Schritt für Schritt, als prüfe er, was der Boden aushielt. Ein Hauch Rasierwasser kam vor ihm an.
+    status: fact
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: name_fact
+    who: ralf-steinhagen
+    quote: „Guten Morgen. Ralf Steinhagen, Weidenkamp Hotels.“
+    status: fact
+    about:
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: named
+      value: Ralf Steinhagen, Weidenkamp Hotels
+  - kind: knowledge_gain
+    who: marie-albers
+    quote: Hotels. Das Wort blieb an Marie hängen wie eine Klette am Hosenbein.
+    status: fact
+    about:
+      - marie-albers
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: ein Hotelmann besucht das Gut
+  - kind: event
+    who: hannes-kroeger
+    quote: Hannes nannte knapp seinen Namen, Marie ihren.
+    status: fact
+    about:
+      - hannes-kroeger
+      - marie-albers
+      - ralf-steinhagen
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: Kalle sprang von der Ladefläche und lief zur Küchentür, wo Grete erschienen war, die Hände in der Schürze.
+    status: fact
+    about:
+      - grete-paulsen
+      - hannes-kroeger
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Frau Albers“, sagte Steinhagen und schüttelte Marie die Hand, als klebte keine Erde an ihren Fingern. „Herr Kröger. Und Sie müssen Frau Paulsen sein. Herr Behrendt hat von Ihrem Kaffee geschwärmt.“
+    status: fact
+    about:
+      - ralf-steinhagen
+      - marie-albers
+      - hannes-kroeger
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: knows
+      value: Namen von Marie, Hannes und Grete
+  - kind: narrator_claim
+    quote: Ein Satz, und er hatte sich jeden Namen gemerkt.
+    status: fact
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: object_fact
+    who: jonas-behrendt
+    quote: Er trug die braunen Lederschuhe, frisch geputzt.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: has_object
+      value: braune Lederschuhe, frisch geputzt
+  - kind: event
+    who: jonas-behrendt
+    quote: Wenig später saßen die beiden Männer auf der Terrasse. Vom Tor aus hatte Marie den Tisch über die Beete hinweg im Blick.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+      - marie-albers
+      - garten
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: Grete trug das Tablett hinaus. Darauf stand die gute Kanne mit dem Goldrand.
+    status: fact
+    about:
+      - grete-paulsen
+      - ralf-steinhagen
+    tags: []
+  - kind: world_rule
+    who: grete-paulsen
+    quote: Bei Grete hatte es noch nie Kaffee ohne Kuchen gegeben, für keinen Gast und kein Schulkind mit Erde unter den Nägeln.
+    status: fact
+    about:
+      - grete-paulsen
+      - marie-albers
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Dabei hatte schon am frühen Morgen Butterkuchenduft über dem Hof gelegen, als Marie mit dem Rad ankam.
+    status: fact
+    about:
+      - marie-albers
+      - grete-paulsen
+    tags: []
+  - kind: time
+    quote: Dabei hatte schon am frühen Morgen Butterkuchenduft über dem Hof gelegen, als Marie mit dem Rad ankam.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: Grete schenkte beiden ein und stellte die Kanne ab. Sonst stand nichts auf dem Tablett.
+    status: fact
+    about:
+      - grete-paulsen
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: grete-paulsen
+    quote: Ohne sich umzusehen, ging sie zurück ins Haus.
+    status: fact
+    about:
+      - grete-paulsen
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Ausgezeichnet, Frau Paulsen! Da hat Herr Behrendt nicht zu viel versprochen.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - grete-paulsen
+      - jonas-behrendt
+    tags: []
+  - kind: narrator_claim
+    quote: Er lächelte zufrieden und vermisste nichts.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - grete-paulsen
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: Einen Kuchenrand hatte es heute offenbar gegeben, wenn auch nur für ihn.
+    status: belief
+    about:
+      - marie-albers
+      - grete-paulsen
+      - hannes-kroeger
+    tags: []
+  - kind: time
+    quote: Nach einer halben Stunde verschwanden die Männer durch die Flügeltüren.
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Kurz darauf traten sie vorn aus der Haustür, und Steinhagen sah eine Weile die Zufahrt hinunter.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: place_fact
+    who: jonas-behrendt
+    quote: Dann führte Jonas ihn durch das offene Tor.
+    status: fact
+    about:
+      - garten
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+  - kind: object_fact
+    who: ralf-steinhagen
+    quote: Eine Ledermappe unter dem Arm, setzte Steinhagen die Slipper behutsam zwischen die verstreuten Steine.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - garten
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: has_object
+      value: Ledermappe
+  - kind: event
+    who: ralf-steinhagen
+    quote: Sein Blick wanderte über die Buchskanten, das Rondell und den Laubengang an der Ostmauer, und er nickte langsam, wie einer, bei dem eine Rechnung aufgeht.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - garten
+    tags: []
+    fact:
+      subject: ch04/s01@rundgang
+      predicate: at_place
+      value: garten
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Wirklich, Herr Behrendt“, sagte er. „Die Fläche hinter dem Haus ist ein Pfund.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - garten
+      - jonas-behrendt
+    tags:
+      - threat
+  - kind: event
+    who: ralf-steinhagen
+    quote: Dann wandte er sich zu Marie, freundlich, als wollte er ihr ein Lob weitergeben.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - marie-albers
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Das wird auf den Fotos sehr schön, Frau Albers. Den Fotografen des Maklers brauchen wir Ende Juli nicht mehr, die Bilder machen wir selbst.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - marie-albers
+      - garten
+      - jonas-behrendt
+    tags: []
+  - kind: knowledge_gain
+    who: ralf-steinhagen
+    quote: Den Fotografen des Maklers brauchen wir Ende Juli nicht mehr, die Bilder machen wir selbst.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+      - garten
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: knows
+      value: Fototermin des Maklers für den Garten Ende Juli
+  - kind: event
+    who: marie-albers
+    quote: Marie stützte sich auf die Schaufel.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Von welchem Termin er sprach, wusste sie nicht, und sie fragte nicht danach.
+    status: fact
+    about:
+      - marie-albers
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: nichts vom Fototermin des Maklers Ende Juli
+  - kind: speech
+    who: marie-albers
+    quote: „Eine Fläche ist das nicht“, sagte sie. „Das ist ein Garten. Angelegt in den Dreißigerjahren, mit diesen Wegen und dieser Mauer.“
+    status: fact
+    about:
+      - marie-albers
+      - garten
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: „Die 'Rosa Mundi' da drüben ist älter als wir beide zusammen, Herr Steinhagen. Und sie treibt jedes Frühjahr wieder aus.“
+    status: claim
+    about:
+      - marie-albers
+      - garten
+      - ralf-steinhagen
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Steinhagen nahm die randlose Brille ab und putzte sie mit einem Tuch aus der Hemdtasche, gründlich, Glas für Glas.
+    status: fact
+    about:
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Danke, Frau Albers. Das ist eine wertvolle Auskunft.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - marie-albers
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas stand neben ihm und hielt den Blick auf die Lederschuhe gesenkt. Grauer Staub lag schon darauf.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: Er nahm die Mütze ab und drehte sie in den großen, rissigen Händen, einmal ganz herum, am Schirm entlang.
+    status: fact
+    about:
+      - hannes-kroeger
+    tags: []
+  - kind: speech
+    who: hannes-kroeger
+    quote: „Und das Erntefest?“, fragte er. „Wo soll das dann hin?“
+    status: fact
+    about:
+      - hannes-kroeger
+      - ralf-steinhagen
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Für so etwas findet sich bei uns immer eine Lösung, Herr Kröger. Wir hätten eine Veranstaltungsfläche gegen Gebühr. Für Vereine zu sehr fairen Konditionen, das verspreche ich Ihnen.“
+    status: claim
+    about:
+      - ralf-steinhagen
+      - hannes-kroeger
+    tags: []
+  - kind: knowledge_gain
+    who: hannes-kroeger
+    quote: Wir hätten eine Veranstaltungsfläche gegen Gebühr.
+    status: fact
+    about:
+      - hannes-kroeger
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: hannes-kroeger
+      predicate: knows
+      value: Erntefest hätte beim Hotel nur eine Veranstaltungsfläche gegen Gebühr
+  - kind: place_fact
+    quote: Einen Moment war es still. Über der Mauer stieg eine Lerche.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    who: hannes-kroeger
+    quote: Hannes setzte die Mütze wieder auf und zog den Schirm zurecht. Dann kletterte er zurück auf den Hänger, nahm die Schaufel und machte weiter.
+    status: fact
+    about:
+      - hannes-kroeger
+    tags: []
+  - kind: belief
+    who: marie-albers
+    quote: Sie wartete auf ein Wort von ihm, auf ein Kopfschütteln, auf irgendetwas, das nach Nein klang.
+    status: belief
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas schwieg.
+    status: fact
+    about:
+      - jonas-behrendt
+      - marie-albers
+    tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Steinhagen lächelte ihm zu.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: ralf-steinhagen
+    quote: „Herr Behrendt. Wollen wir in den Salon gehen? Dann können wir die Unterlagen in Ruhe durchgehen.“
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags:
+      - threat
+end_actual: dialogue
+end_quote: „Herr Behrendt. Wollen wir in den Salon gehen? Dann können wir die Unterlagen in Ruhe durchgehen.“

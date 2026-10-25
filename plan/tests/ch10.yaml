@@ -1,0 +1,71 @@
+ch10/s01:
+  requires:
+    - { alias_of: marie-albers }   # participant, pov
+    - { alias_of: jonas-behrendt }   # participant
+    - { alias_of: hannes-kroeger }   # participant
+    - { alias_of: grete-paulsen }   # participant
+    - { pattern: "Lindenallee" }   # place lindenallee (Ortsseite ohne aliases)
+    - { pattern: "Erntekrone" }
+    - { pattern: "Trecker(?:s|n)?" }
+    - { pattern: "Lindenhof-Rose" }
+  forbids:
+    - { pattern: "zurückgetreten" }   # Marie weiß noch nichts vom Rücktritt
+    - { pattern: "Rücktritt\\w*" }
+  ends_on: { pattern: "gewusst", max_after: 1 }   # end: question, was Hannes am Mittwoch gewusst hat
+  time: { from: "05:45", to: "07:00" }   # Samstag, kurz nach sechs
+  beats:
+    b1: { must: [{ alias_of: marie-albers }, { alias_of: grete-paulsen }, { pattern: "Steckling(?:e|en|s)?" }, { pattern: "Hagebutten?" }, { pattern: "Nebel(?:s)?" }, { pattern: "Remise" }] }
+    b2: { must: [{ alias_of: hannes-kroeger }, { alias_of: jonas-behrendt }, { pattern: "Erntekrone" }, { pattern: "Trecker(?:s|n)?" }, { pattern: "Sommerkleid(?:es)?" }, { pattern: "Mütze" }] }
+    b3: { must: [{ alias_of: jonas-behrendt }, { alias_of: marie-albers }, { alias_of: hannes-kroeger }, { pattern: "nickt\\w*" }] }
+  judge:
+    - "Bleibt Jonas für Marie unerklärt: weiß sie am Ende nur, dass sich etwas entschieden hat, nicht was?"
+    - "Sagt Grete über Jonas kein Wort, und weicht Marie Jonas bis zum Umzug aus?"
+    - "Fährt Jonas Hedwigs alten Trecker an der Spitze, mit Hannes daneben und der Mütze in der Hand, und trägt die Szene Festwärme statt Kummer allein?"
+
+ch10/s02:
+  requires:
+    - { alias_of: marie-albers }   # participant, pov
+    - { alias_of: lena-hansen }   # participant
+    - { alias_of: grete-paulsen }   # participant
+    - { alias_of: jonas-behrendt }   # participant
+    - { pattern: "Scheune" }   # place scheune (Ortsseite ohne aliases)
+    - { pattern: "Fotos?" }
+    - { pattern: "Zopf(?:es)?" }
+    - { pattern: "Kletterrose" }
+  reveal:
+    - { term: { pattern: "Zopf(?:es)?" }, not_before: b2 }   # das Kinderfoto erst am Ende der Ausstellung
+  forbids:
+    - { pattern: "zurückgetreten" }   # Jonas sagt es erst unter der Kletterrose
+    - { pattern: "Rücktritt\\w*" }
+  ends_on: { pattern: "Kuchen schneiden", max_after: 1 }   # end: dialogue, Maries Antwort
+  beats:
+    b1: { must: [{ alias_of: lena-hansen }, { alias_of: marie-albers }, { pattern: "Butterkuchen(?:s)?" }, { pattern: "Stelltafeln?" }, { pattern: "Hedwig(?:s)?" }] }
+    b2: { must: [{ alias_of: marie-albers }, { alias_of: jonas-behrendt }, { alias_of: grete-paulsen }, { pattern: "Zopf(?:es)?" }, { pattern: "Mauer" }, { pattern: "Rosenstock(?:s)?" }, { pattern: "Keksdose" }] }
+    b3: { must: [{ alias_of: lena-hansen }, { alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Kletterrose" }, { pattern: "Fünf Minuten" }] }
+  judge:
+    - "Erkennt Marie erst vor dem Foto, wer der Junge an der Mauer war, und erinnert Jonas sie über seinen Kinderbrief daran?"
+    - "Hält Marie Lena selbst zurück und trifft die Entscheidung, mit Jonas zu gehen, allein?"
+    - "Verrät Jonas hier noch nichts von Rücktritt oder Bleiben?"
+
+ch10/s03:
+  requires:
+    - { alias_of: marie-albers }   # participant, pov
+    - { alias_of: jonas-behrendt }   # participant
+    - { alias_of: lena-hansen }   # participant
+    - { alias_of: grete-paulsen }   # participant
+    - { alias_of: hannes-kroeger }   # participant
+    - { pattern: "(?:Rosen)?[Gg]arten(?:s)?" }   # place garten (Ortsseite ohne aliases)
+    - { pattern: "Kletterrose" }
+    - { pattern: "zurückgetreten" }
+    - { pattern: "Entscheidungen" }
+    - { pattern: "Lampions?" }
+    - { pattern: "Hab ich doch gleich gesagt" }
+  ends_on: { pattern: "angekommen", max_after: 1 }   # end: emotional
+  beats:
+    b1: { must: [{ alias_of: jonas-behrendt }, { pattern: "zurückgetreten" }, { pattern: "Vorvertrag(?:s|es)?" }, { pattern: "Partnerschaft" }, { pattern: "Dach(?:es|s)?" }, { pattern: "lieb(?:e|t)" }] }
+    b2: { must: [{ alias_of: marie-albers }, { alias_of: jonas-behrendt }, { pattern: "Hedwig(?:s)?" }, { pattern: "Schweigen" }, { pattern: "Entscheidungen" }, { pattern: "Kuhstall(?:s)?" }, { pattern: "Steckling(?:e|en|s)?" }, { pattern: "küss\\w*" }] }
+    b3: { must: [{ alias_of: hannes-kroeger }, { alias_of: grete-paulsen }, { alias_of: lena-hansen }, { alias_of: marie-albers }, { pattern: "Lampions?" }, { pattern: "barfuß" }, { pattern: "Hab ich doch gleich gesagt" }] }
+  judge:
+    - "Sagt Jonas Rücktritt, Plan und Liebe ohne Zahlen und ohne Paragrafen, und bleibt der Entschluss erkennbar sein eigener?"
+    - "Benennt Marie, dass sein Schweigen sie verletzt hat, auch beim Rücktritt, und sagt sie selbst laut, was Hedwig ihr auf der Bank gewünscht hat und was sie will: an seiner Seite, nicht in seinem Auftrag?"
+    - "Ist das Ende geschlossen und sicher glücklich, mit Kuss und Tanz, ohne explizite Szenen (heat 1)?"

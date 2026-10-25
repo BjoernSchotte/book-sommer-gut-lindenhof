@@ -1,0 +1,115 @@
+tool: languagetool 6.8
+paragraphs:
+  289bd7116b40: []
+  ce52c3daa069: []
+  "7e3218189804":
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 213
+        - 222
+      quote: Ghislaine
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Geißlein
+        - Geißleins
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 226
+        - 235
+      quote: Féligonde
+      message: Möglicher Tippfehler gefunden.
+      replacements: []
+  237cb5ccf2bc:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 87
+        - 94
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+    - rule: DE_AGREEMENT
+      category: GRAMMAR
+      at:
+        - 234
+        - 249
+      quote: keiner Bescheid
+      message: Möglicherweise passen das Nomen und die Wörter, die das Nomen
+        beschreiben, grammatisch nicht zusammen.
+      replacements:
+        - keinen Bescheid
+        - keinem Bescheid
+        - keiner Bescheide
+        - kein Bescheid
+  93908a986937: []
+  7da55a2574bc: []
+  b608c6fbe96f: []
+  4000a7ad3687: []
+  68edfb37a469: []
+  dc904a320c0c: []
+  41ca4d072fbc: []
+  cfe8b7f3ca1a: []
+  82ea925fdf72: []
+  edeb0ec1c7f7:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 29
+        - 43
+      quote: herumgewachsen
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - herum gewachsen
+        - herangewachsen
+        - herausgewachsen
+  a8da6612d0ad: []
+  8a49782abb32: []
+  a45972246b09: []
+  4cc382237360: []
+  b6a73bdfce3d: []
+  61d94b42292a: []
+  0bf858b1dc37: []
+  3cb2820a42e7: []
+  6de1962cf1a3: []
+  8254760985be: []
+  b49707f8cc64: []
+  885b9b0a707f: []
+  0f4975c4ffe7: []
+  e30b34a23f23: []
+  8056463ae7a1: []
+  f280d4abab50: []
+  6c02e562b528: []
+  f7dc027315bf:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 23
+        - 30
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  acfe505627cf: []
+  adcb691a6cdf: []
+  8e7d308087e4: []
+  eed0a7cc1e0f: []
+  d5db0567a0c9: []
+  3aa34700574e: []
+  adc1ccedba54: []
+  933ed9aa4b1a: []
+  5bdae022aca7: []
+ignored:
+  - rule: DE_AGREEMENT
+    quote: keiner Bescheid
+    paragraph: 237cb5ccf2bc

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a-eefszzek",
+    "kind": "suggestion",
+    "unit": "ch08/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "n Nein gesagt. Diesmal wollt ich",
+      "suffix": "s nicht wissen.“\n\n„Ich hab gedac",
+      "hint": 1924
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:16.341Z"
+  },
+  {
+    "id": "a-4ekgf487",
+    "kind": "suggestion",
+    "unit": "ch08/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "sen.“\n\n„Ich hab gedacht, er sagt",
+      "suffix": "s dir selbst“, sagte Grete. „Das",
+      "hint": 1968
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:16.341Z"
+  },
+  {
+    "id": "a-5qdxj7hb",
+    "kind": "suggestion",
+    "unit": "ch08/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "chts. Da war die Bank unter der ",
+      "suffix": "New Dawn', die Wolldecke über He",
+      "hint": 2891
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:16.341Z"
+  },
+  {
+    "id": "a-v6daemr5",
+    "kind": "suggestion",
+    "unit": "ch08/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "war die Bank unter der 'New Dawn",
+      "suffix": ", die Wolldecke über Hedwigs Kni",
+      "hint": 2900
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:16.341Z"
+  }
+]

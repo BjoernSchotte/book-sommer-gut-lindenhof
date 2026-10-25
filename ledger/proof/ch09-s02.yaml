@@ -1,0 +1,69 @@
+tool: languagetool 6.8
+paragraphs:
+  8fb15e617dcf: []
+  5bc27993c53d: []
+  68eef5f674ad: []
+  e2e60e035d64: []
+  4535a3c66dfa: []
+  b20679d8f154: []
+  86874fbf77f0: []
+  d53a2d415dc0: []
+  43c959480a77: []
+  667db10facbd:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 270
+        - 285
+      quote: Damaszenerrosen
+      message: Möglicher Tippfehler gefunden.
+      replacements: []
+  e49e81f75e5a: []
+  febd0ce4745d: []
+  10b7f3dcb7c6:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 77
+        - 84
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Versch
+        - Gierig
+        - Geruch
+        - Gierst
+  c62e2ec780b0: []
+  3ded799a8b99: []
+  c7606aba0f85: []
+  b597cfc018ff: []
+  86a3e5b4d7e5: []
+  5fbaefc5bab6: []
+  8666a698362e: []
+  02d6c5e63c59: []
+  de6393b350fc: []
+  4eeaba815554: []
+  100526bb1cb5: []
+  829df77cda6a: []
+  2a00699f0e64: []
+  f07b6c83d072: []
+  26c5060d74ab: []
+  2b71a9822767: []
+  86d2f16ed140: []
+  3a7dee576a6f:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 134
+        - 138
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  00296f3dd214: []
+ignored: []

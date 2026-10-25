@@ -1,0 +1,114 @@
+tool: languagetool 6.8
+paragraphs:
+  f5462b9c6499: []
+  03e0fb11dcce: []
+  9cb2bed2a0bb: []
+  8af1c3b94539: []
+  c12d01167f7a: []
+  3728f5ea69a2: []
+  4aaffcd2a009: []
+  3480ea8d5d78: []
+  70a3a2faea05: []
+  57b711fdc3e1: []
+  dee2a406209c: []
+  26645d463e59: []
+  721e1655be0f:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 403
+        - 410
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  31ffad6cff9f: []
+  c78a5beaf1c3:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 32
+        - 39
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+    - rule: RAN_RUM_RAUF_REIN_RAUS_RUNTER_NEU
+      category: COLLOQUIALISMS
+      at:
+        - 40
+        - 52
+      quote: rausgefahren
+      message: ‚rausgefahren‘ wirkt umgangssprachlich. Je nach Situation klingt
+        „herausgefahren“ oder „hinausgefahren“ evtl. besser.
+      replacements:
+        - herausgefahren
+        - hinausgefahren
+  d9c2303997ef: []
+  f5f637298442: []
+  074cd815c766:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 191
+        - 194
+      quote: sag
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - sage
+        - sag’
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 210
+        - 213
+      quote: sag
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - sage
+        - sag’
+  1f38e771250a: []
+  5002a49b6117:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 331
+        - 335
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  88f05f5b091c: []
+  40c3d831bf5a: []
+  feca64b07587: []
+  8f46bff5f6f4: []
+  4c37e1f9ffe6: []
+  608d3d5b0da7: []
+  9e6f4c5075ff: []
+  304732bb4918:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 5
+        - 8
+      quote: hol
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - hole
+        - hol’
+ignored: []

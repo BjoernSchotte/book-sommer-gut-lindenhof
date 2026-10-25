@@ -1,0 +1,222 @@
+tool: languagetool 6.8
+paragraphs:
+  c488bcdd4caa: []
+  e725bf7f37a5: []
+  b26587a674bc:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 70
+        - 82
+      quote: Stiftebecher
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Stiftsieger
+        - Stiftsprecher
+        - Stiftträger
+        - Stiftepoche
+        - Stiftspeicher
+    - rule: SO_WIE_KEIN_KOMMA
+      category: PUNCTUATION
+      at:
+        - 134
+        - 149
+      quote: so schnell, wie
+      message: In der Regel steht am Satzanfang zwischen „So“ und „wie“ kein Komma.
+      replacements:
+        - so schnell wie
+    - rule: HAKEN_HACKEN
+      category: CONFUSED_WORDS
+      at:
+        - 181
+        - 187
+      quote: Hacken
+      message: Meinten Sie das Nomen „Haken“ („der Haken“, Symbol)?
+      replacements:
+        - Haken
+  e7cf304c9b2e:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 40
+        - 44
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  b24772077c0c: []
+  7b6603c54884:
+    - rule: RAN_RUM_RAUF_REIN_RAUS_RUNTER_NEU
+      category: COLLOQUIALISMS
+      at:
+        - 18
+        - 27
+      quote: rausreißt
+      message: ‚rausreißt‘ wirkt umgangssprachlich. Je nach Situation klingt
+        „herausreißt“ oder „hinausreißt“ evtl. besser.
+      replacements:
+        - herausreißt
+        - hinausreißt
+  a97f2462a392:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 41
+        - 48
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  bfc987855de3: []
+  63ca18b64473: []
+  d4e20123d516:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 40
+        - 47
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  a68214a36f6e: []
+  d5766bab28cd: []
+  861c5a9d958f: []
+  6d342330250a: []
+  a09014d3739b: []
+  411d24409890: []
+  636bc21994aa: []
+  d646927bfca0: []
+  931f8512fb54: []
+  c4b980bc1790: []
+  47dfaa2523a3:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 67
+        - 74
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 83
+        - 93
+      quote: Buchskante
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Buchs kante
+        - Buchkante
+        - Buchsekante
+        - Sechskante
+        - Buchstande
+  908a87a680e7:
+    - rule: PLURAL_APOSTROPH
+      category: PUNCTUATION
+      at:
+        - 5
+        - 13
+      quote: Maiden's
+      message: Meinten Sie „Maidens“ oder „Maiden“? Normalerweise wird im Deutschen
+        vor einem Plural-s kein Apostroph gesetzt.
+      replacements:
+        - Maidens
+        - Maiden
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 14
+        - 19
+      quote: Blush
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Bush
+        - Plus
+        - Bluse
+        - Push
+        - Buch
+  195be8703995: []
+  b80a6232715b: []
+  51234ad40550: []
+  3dd369198b24: []
+  a5eb9559fe17: []
+  375e65a6a7c9: []
+  4eff8403ef2a: []
+  ea1fabed72d5: []
+  f57d4bf2a2a9: []
+  bc398549614a: []
+  6b70b3c3fe28:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 23
+        - 40
+      quote: Giersch-Ausläufer
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Riesch-Ausläufer
+        - Kirsch-Ausläufer
+        - Gier-koch-Ausläufer
+        - Hirsch-Ausläufer
+        - Zwerg-Ausläufer
+  0f5dad0bd3d4: []
+  7a845e8b71dc:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 48
+        - 59
+      quote: Buchskanten
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Buchs kanten
+        - Sechskanten
+        - Buchspanten
+        - Bruchkanten
+        - Zuguckenden
+  2e2708d9ede8: []
+  46b41808037a: []
+  8bc838f0cdbc:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 124
+        - 131
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  b958f8c7abd5: []
+  0b63a97d379a: []
+ignored:
+  - rule: PLURAL_APOSTROPH
+    quote: Maiden's
+    paragraph: 908a87a680e7
+  - rule: HAKEN_HACKEN
+    quote: Hacken
+    paragraph: b26587a674bc
+  - rule: SO_WIE_KEIN_KOMMA
+    quote: so schnell, wie
+    paragraph: b26587a674bc
