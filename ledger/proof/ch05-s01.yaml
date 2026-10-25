@@ -210,4 +210,7 @@ paragraphs:
         - Zwerg
   b958f8c7abd5: []
   0b63a97d379a: []
-ignored: []
+ignored:
+  - rule: PLURAL_APOSTROPH
+    quote: Maiden's
+    paragraph: 908a87a680e7
