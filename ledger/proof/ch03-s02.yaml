@@ -160,3 +160,6 @@ ignored:
   - rule: DE_DU_UPPER_LOWER
     quote: Du
     paragraph: ecc9b5393dba
+  - rule: GERMAN_SPELLER_RULE
+    quote: Ih
+    paragraph: 032da7cd6e54
