@@ -1,11 +1,13 @@
 source: manuscript/ch03/s03.md
-source_hash: 45261a
+source_hash: 1f8ffc
 extracted_by: bb-ingest
 gaps:
   - Das Datum des Szenentags und des „übernächsten Montags“ bleibt offen; belegt ist nur „Mitte Juli“ (aus Steinhagens Rede).
   - Ob Jonas Marie, Grete oder Hannes vom Termin erzählt, lässt die Szene offen; belegt ist nur, dass er nicht hinuntergeht.
   - Die „Stellplatzlösung“ wird nicht verortet; der Parkplatz auf dem Rosengarten ist in der Szene nicht belegt.
   - Wen Jonas im Büro anrufen wollte, lässt Absatz 22 offen; belegt ist nur „die halbe Nummer vom Büro“, nicht gewählt.
+  - Wo genau Zimmer, Spa und Seminarraum verteilt werden (Spa im Kuhstall oder in der Scheune), lässt Absatz 14 offen; belegt ist nur „Spa und Seminarraum in Kuhstall und Scheune“.
+  - Was Jonas bei der Nachrechnung der Fundamente ergeben hat, nennt Absatz 24 nicht; belegt ist nur, dass die Bögen halten.
 items:
   - kind: event
     who: jonas-behrendt
@@ -188,7 +190,7 @@ items:
     tags: []
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: Wir denken an Zimmer im Haupthaus und in der Scheune, dazu ein kleiner Spa. Alles behutsam, das versteht sich von selbst.“
+    quote: Wir denken an Zimmer im Haupthaus, Spa und Seminarraum in Kuhstall und Scheune.
     status: claim
     about:
       - ralf-steinhagen
@@ -197,7 +199,14 @@ items:
     fact:
       subject: jonas-behrendt
       predicate: knows
-      value: Weidenkamp plant Zimmer in Haupthaus und Scheune und ein Spa
+      value: Weidenkamp plant Zimmer im Haupthaus, Spa und Seminarraum in Kuhstall und Scheune
+  - kind: speech
+    who: ralf-steinhagen
+    quote: Alles behutsam, das versteht sich von selbst.“
+    status: claim
+    about:
+      - ralf-steinhagen
+    tags: []
   - kind: speech
     who: jonas-behrendt
     quote: „Und die Zufahrt?“, fragte Jonas, weil er an so etwas immer zuerst dachte.
@@ -310,7 +319,7 @@ items:
       - garten
     tags: []
   - kind: place_fact
-    quote: Daneben lief der Laubengang. Die zwei Bögen der 'Ghislaine' standen gerade wie gezogen, jeder Fuß in seinem Beton.
+    quote: Daneben lief der Laubengang. Die zwei Bögen der 'Ghislaine' hielten, jeder Fuß in seinem Beton.
     status: fact
     about:
       - garten
