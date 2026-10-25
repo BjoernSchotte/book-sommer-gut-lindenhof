@@ -582,3 +582,36 @@
   findings:
     error: 0
     warn: 307
+- gate: plan
+  approved: 2026-10-25T04:23:07.318Z
+  by: factory:kuestenherzen
+  inputs:
+    STORYBOARD.md: 2bf9ee
+    bible/orte/arbeitszimmer.md: "992219"
+    bible/orte/garten.md: c619aa
+    bible/orte/gutshaus.md: 1275ce
+    bible/orte/hofladen.md: ad8a20
+    bible/orte/huegel.md: 013eeb
+    bible/orte/lindenallee.md: 4ff204
+    bible/orte/notariat.md: b80354
+    bible/orte/salon.md: 9e273a
+    bible/orte/scheune.md: 2f52ec
+    bible/orte/steg.md: 8ad410
+    bible/straenge/erntefest.md: 890d78
+    bible/straenge/liebe.md: d077ba
+    bible/straenge/rosengarten.md: 443ac6
+    bible/straenge/verkauf.md: 4816a1
+    plan/ch01.md: e486c2
+    plan/ch02.md: dc3380
+    plan/ch03.md: f9c92b
+    plan/ch04.md: b050fd
+    plan/ch05.md: c4ff50
+    plan/ch06.md: bd55b5
+    plan/ch07.md: d2b835
+    plan/ch08.md: 882ccc
+    plan/ch09.md: eff542
+    plan/ch10.md: f15801
+  hold: error
+  findings:
+    error: 0
+    warn: 343
