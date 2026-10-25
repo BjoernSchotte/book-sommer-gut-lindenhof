@@ -1,11 +1,13 @@
 source: manuscript/ch04/s01.md
-source_hash: 997f0a
+source_hash: 3dc24e
 extracted_by: bb-ingest
 gaps:
   - Der Wochentag des Besuchs wird in der Szene nicht genannt; laut ch03/s03 war die Besichtigung für den übernächsten Montag, Mitte Juli, vereinbart.
   - Welche Unterlagen Steinhagen mitbringt und von welchen Fotos er spricht, bleibt offen; der Parkplatz-Plan wird nicht ausgesprochen.
   - Wovon Jonas und Steinhagen auf der Terrasse sprechen, bleibt außerhalb von Maries Hörweite.
   - Wonach Steinhagen die Zufahrt hinunterschaut, bleibt offen; ein Bezug zur „Stellplatzlösung“ aus ch03/s03 wird nicht ausgesprochen.
+  - "Absatz 15 begründet nicht mehr, warum die Fläche ein Pfund ist (früher: ebener Grund, kurze Wege, Mauer als Sichtschutz); der Parkplatzgedanke bleibt nur angedeutet."
+  - Absatz 28 sagt nicht, ob Jonas der Bitte in den Salon folgt; das Szenenende bleibt offen.
 items:
   - kind: event
     who: marie-albers
@@ -317,7 +319,7 @@ items:
       value: garten
   - kind: speech
     who: ralf-steinhagen
-    quote: „Sehr schön“, sagte er. „Wirklich, Herr Behrendt. Die Fläche hinter dem Haus ist ein Pfund. Ebener Grund, kurze Wege, und die Mauer schirmt alles ab.“
+    quote: „Wirklich, Herr Behrendt“, sagte er. „Die Fläche hinter dem Haus ist ein Pfund.“
     status: claim
     about:
       - ralf-steinhagen
@@ -325,6 +327,14 @@ items:
       - jonas-behrendt
     tags:
       - threat
+  - kind: event
+    who: ralf-steinhagen
+    quote: Dann wandte er sich zu Marie, freundlich, als wollte er ihr ein Lob weitergeben.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - marie-albers
+    tags: []
   - kind: speech
     who: ralf-steinhagen
     quote: „Das wird auf den Fotos sehr schön, Frau Albers.“
@@ -446,14 +456,22 @@ items:
       - jonas-behrendt
       - marie-albers
     tags: []
+  - kind: event
+    who: ralf-steinhagen
+    quote: Steinhagen lächelte ihm zu.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+    tags: []
   - kind: speech
     who: ralf-steinhagen
-    quote: „Herr Behrendt“, sagte Steinhagen, so freundlich wie den ganzen Vormittag. „Wollen wir in den Salon gehen? Dann können wir die Unterlagen in Ruhe durchgehen.“
+    quote: „Herr Behrendt. Wollen wir in den Salon gehen? Dann können wir die Unterlagen in Ruhe durchgehen.“
     status: fact
     about:
       - ralf-steinhagen
       - jonas-behrendt
     tags:
       - threat
-end_actual: threat
-end_quote: „Wollen wir in den Salon gehen? Dann können wir die Unterlagen in Ruhe durchgehen.“
+end_actual: dialogue
+end_quote: „Herr Behrendt. Wollen wir in den Salon gehen? Dann können wir die Unterlagen in Ruhe durchgehen.“
