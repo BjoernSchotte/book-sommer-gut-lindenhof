@@ -31,14 +31,6 @@ links: []
 **Zugang:** Die Tür ist nicht abgeschlossen. Grete hat den Raum nach Hedwigs Tod nur gelüftet und abgestaubt, nichts umgeräumt; sie sieht gelegentlich im Türrahmen vorbei, die Lesebrille an der Kette.
 
 ## Verlauf
-- ch08/s01 · „Marie nahm die knarrende Treppe in zwei Sätzen“ · Knarrende Treppe hinauf zum Arbeitszimmer (#231c47)
-- ch08/s01 · „Im Arbeitszimmer aber fehlte es auf seinem Platz am Fenster.“ · Das Gartenbuch fehlt am 27. August auf seinem Platz am Fenster (#231c47)
-- ch08/s01 · „Neben der grünen Lampe lag nur die Lupe.“ · Grüne Lampe und Lupe auf dem Schreibtisch (#231c47)
-- ch08/s01 · „Darin fand sie Briefpapier und Gummiringe. In der zweiten steckten Saatguttüten, jede beschriftet.“ · Oberste Schublade Briefpapier und Gummiringe, zweite beschriftete Saatguttüten (#231c47)
-- ch08/s01 · „Die unterste klemmte, wie alles in diesem Haus.“ · Unterste Schublade klemmt; Läufer davor (#231c47)
-- ch08/s01 · „Dachrechnungen, mit Firmenstempel.“ · In der untersten Schublade Dachrechnungen, darunter die Weidenkamp-Mappe (#231c47)
-- ch08/s01 · „Sie legte die Mappe auf das dunkle Holz, den Lageplan obenauf, die graue Fläche nach oben, und strich ihn einmal glatt.“ · Die Mappe liegt am Ende offen auf dem Schreibtisch, Lageplan obenauf (#231c47)
-- ch08/s01 · „Hinter dem halb offenen Fenster blühte über der Mauer die 'New Dawn', blassrosa, und unten am Rondell leuchteten die Astern.“ · Blick aus dem halb offenen Fenster auf 'New Dawn' und Rondell (#231c47)
 - ch06/s02 · „Er kniete vor dem Regal, die Hefter neben sich auf dem Läufer“ · Läufer vor dem Regal (#ee8fe6)
 - ch06/s02 · „Im Flur knarrten die Dielen.“ · Knarrende Dielen im Flur (#ee8fe6)
 - ch06/s02 · „Dort lag ein dickes Buch in grauem Leinen, die Ecken abgestoßen.“ · Hedwigs Gartenbuch, grau in Leinen gebunden, liegt auf dem Schreibtisch neben der Lampe (#ee8fe6)
@@ -52,3 +44,13 @@ links: []
 - ch06/s02 · „Durch den Spalt im Fenster sah er die Mauer als dunkleren Strich und darüber den Himmel.“ · Blick aus dem Fenster auf die Gartenmauer (#ee8fe6)
 - ch06/s02 · „Heizung, stand auf dem Rücken, in blauer Tinte, darunter zwei Jahreszahlen.“ · Hofordner im untersten Fach, auf dem Rücken in blauer Tinte beschriftet (#ee8fe6)
 - ch06/s02 · „die stehen da schon seit vierzig Jahren“ · Die Hofordner stehen laut Grete seit vierzig Jahren im Regal (#ee8fe6)
+- ch08/s01 · „Marie nahm die knarrende Treppe in zwei Sätzen“ · Knarrende Treppe hinauf zum Arbeitszimmer (#d7e10e)
+- ch08/s01 · „Im Arbeitszimmer aber fehlte es auf seinem Platz am Fenster.“ · Das Gartenbuch fehlt am 27. August auf seinem Platz am Fenster (#d7e10e)
+- ch08/s01 · „Neben der grünen Lampe lag nur die Lupe.“ · Grüne Lampe und Lupe auf dem Schreibtisch (#d7e10e)
+- ch08/s01 · „Darin fand sie Briefpapier und Gummiringe. In der zweiten steckten Saatguttüten, jede beschriftet.“ · Oberste Schublade Briefpapier und Gummiringe, zweite beschriftete Saatguttüten (#d7e10e)
+- ch08/s01 · „Sie legte die Mappe auf das dunkle Holz, den Lageplan obenauf, die graue Fläche nach oben, und strich ihn einmal glatt.“ · Die Mappe liegt am Ende offen auf dem Schreibtisch, Lageplan obenauf (#d7e10e)
+- ch08/s01 · „Hinter dem halb offenen Fenster blühte über der Mauer die 'New Dawn', blassrosa, und unten am Rondell leuchteten die Astern.“ · Blick aus dem halb offenen Fenster auf 'New Dawn' und Rondell (#d7e10e)
+- ch08/s01 · „Das stand im Gartenbuch, in blauer Tinte neben den schraffierten Beeten.“ · Im Gartenbuch Hedwigs Vermerke in blauer Tinte neben schraffierten Beeten (#d7e10e)
+- ch08/s01 · „Die unterste klemmte, wie alles in diesem Haus.“ · Unterste Schublade klemmt; Läufer davor (#d7e10e)
+- ch08/s01 · „Dachrechnungen, mit Firmenstempel.“ · In der untersten Schublade Dachrechnungen, darunter die Weidenkamp-Mappe (#d7e10e)
+- ch08/s01 · „Erst jetzt sah sie das Gartenbuch im Ledersessel in der Ecke, aufgeschlagen, mit dem Rücken nach oben.“ · Das Gartenbuch liegt am 27. August aufgeschlagen im Ledersessel in der Ecke statt auf dem Schreibtisch (#d7e10e)
