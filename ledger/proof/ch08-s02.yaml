@@ -77,4 +77,7 @@ paragraphs:
   d16bf4509ea4: []
   e1863691d24c: []
   fc3b5ed04a5f: []
-ignored: []
+ignored:
+  - rule: ICH_KOENNT
+    quote: wollt
+    paragraph: feed1bc7e693
