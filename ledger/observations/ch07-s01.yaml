@@ -1,5 +1,5 @@
 source: manuscript/ch07/s01.md
-source_hash: d35a5b
+source_hash: 9a76a7
 extracted_by: bb-ingest
 gaps:
   - Ob Grete Jonas' Ausrede glaubt, lässt die Szene offen.
@@ -7,6 +7,9 @@ gaps:
   - Die Höhe der vereinbarten Summe und der Dachdecker-Summe nennt die Szene nicht.
   - Die Höhe der Dachdecker-Summe nennt die Szene nicht.
   - Warum Jonas heute nicht nach Hamburg kommen kann, sagt die Szene nicht; dass er den Termin der Partner (ch06/s03) abgesagt hat, ist nur aus der Rede des Partners und der durchgestrichenen Zeile zu schließen.
+  - Die Höhe der Dachdecker-Summe nennt Absatz 4 nicht.
+  - Die Höhe der Anzahlung von Weidenkamp und ob die Partner sie als Sicherheit annehmen, lässt Absatz 4 offen; es ist Jonas' Rechnung.
+  - Wann Jonas den Dachdecker zuvor angerufen hat, erzählt die Szene nicht; Absatz 4 nennt nur den Rückruf.
 items:
   - kind: event
     who: jonas-behrendt
@@ -65,6 +68,17 @@ items:
     about:
       - jonas-behrendt
     tags: []
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: Bisher hatte er das Jahresende im Kopf gehabt. Jetzt blieben ihm achtzehn Tage.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Frist für die Einlage nicht mehr Jahresende, sondern in achtzehn Tagen
   - kind: event
     who: jonas-behrendt
     quote: Zehn Minuten später rief der Dachdecker zurück und nannte für den Herbst eine Summe
@@ -98,7 +112,7 @@ items:
       max: 10
   - kind: object_fact
     who: jonas-behrendt
-    quote: Auf dem Briefumschlag strich Jonas die Zeile mit der Hamburger Uhrzeit durch und schrieb die Summe darunter.
+    quote: Jonas schrieb sie unter die durchgestrichene Hamburger Uhrzeit auf dem Briefumschlag.
     status: fact
     about:
       - jonas-behrendt
@@ -118,6 +132,18 @@ items:
       subject: jonas-behrendt
       predicate: believes
       value: Geld nur durch Verkauf des Guts
+  - kind: belief
+    who: jonas-behrendt
+    quote: Unterschrieb er heute, zahlte Weidenkamp eine Anzahlung, und die reichte den Partnern als Sicherheit.
+    status: belief
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: believes
+      value: Unterschrift heute bringt Anzahlung von Weidenkamp, die den Partnern als Sicherheit reicht
   - kind: event
     who: marie-albers
     quote: Unten bog ein weißer Kastenwagen aus der Allee und hielt am schmiedeeisernen Tor.

@@ -27,10 +27,10 @@
     "unit": "ch05/s02"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "e5965b",
+    "hash": "929f17",
     "by": "apply",
-    "at": "2026-10-25T00:36:16.762Z",
-    "unit": "ch05/s02"
+    "at": "2026-10-25T00:54:28.535Z",
+    "unit": "ch07/s01"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "2aecb0",
@@ -308,9 +308,9 @@
     "unit": "ch06/s03"
   },
   "ledger/observations/ch07-s01.yaml": {
-    "hash": "26165d",
+    "hash": "e309dd",
     "by": "apply",
-    "at": "2026-10-24T20:27:55.346Z",
+    "at": "2026-10-25T00:54:28.535Z",
     "unit": "ch07/s01"
   },
   "ledger/observations/ch07-s02.yaml": {
