@@ -1,10 +1,11 @@
 source: manuscript/ch01/s02.md
-source_hash: d6a4af
+source_hash: e71a4f
 extracted_by: bb-ingest
 gaps:
   - Keine Uhrzeit des Gesprächs genannt; nach ch01/s01 liegt es etwa eine halbe Stunde nach der Begegnung im Garten, am selben Junitag.
   - Höhe des Geldvermächtnisses, Stundensatz und Materialbudget bleiben unbeziffert.
   - "Höhe des Geldvermächtnisses für die Gartenarbeit bleibt unbeziffert (Absatz 3: „sauber beziffert“, aber ohne Betrag)."
+  - Höhe des Geldvermächtnisses für die Gartenarbeit bleibt unbeziffert („eine Summe … sauber beziffert“).
 items:
   - kind: event
     who: jonas-behrendt
@@ -72,7 +73,7 @@ items:
     tags: []
   - kind: object_fact
     who: jonas-behrendt
-    quote: Hedwig hatte für die Gartenarbeit eine Summe festgelegt, sauber beziffert, in ihrer steilen Handschrift unter dem Testament.
+    quote: Hedwig hatte für die Gartenarbeit eine Summe festgelegt, sauber beziffert, in ihrer schrägen, eiligen Handschrift.
     status: fact
     about:
       - jonas-behrendt
@@ -80,7 +81,7 @@ items:
     tags: []
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: Jonas teilte den Betrag durch Wochen, dann durch Stunden. Er reichte für einen Sommer Pflege.
+    quote: Jonas teilte den Betrag durch Wochen, dann durch Stunden. Das Geld reichte für einen Sommer Pflege.
     status: fact
     about:
       - jonas-behrendt
@@ -91,7 +92,7 @@ items:
       value: Geldvermächtnis reicht für einen Sommer Gartenpflege
   - kind: belief
     who: jonas-behrendt
-    quote: doch bis dahin hatte das Haus ohnehin einen Käufer
+    quote: Danach war nichts mehr übrig, doch bis dahin hatte das Haus ohnehin einen Käufer.
     status: belief
     about:
       - jonas-behrendt

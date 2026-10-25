@@ -27,10 +27,10 @@
     "unit": "ch09/s02"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "a2fe9f",
+    "hash": "945d35",
     "by": "apply",
-    "at": "2026-10-25T04:20:13.604Z",
-    "unit": "ch05/s03"
+    "at": "2026-10-25T05:29:43.265Z",
+    "unit": "ch01/s02"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "4161c7",
@@ -39,10 +39,10 @@
     "unit": "ch05/s03"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "0cb9f9",
+    "hash": "a2002a",
     "by": "apply",
-    "at": "2026-10-25T04:22:11.226Z",
-    "unit": "ch09/s02"
+    "at": "2026-10-25T05:29:43.265Z",
+    "unit": "ch01/s02"
   },
   "bible/figuren/ralf-steinhagen.md": {
     "hash": "850f16",
@@ -63,9 +63,10 @@
     "unit": "ch09/s02"
   },
   "bible/orte/gutshaus.md": {
-    "hash": "99b7f1",
-    "by": "author",
-    "at": "2026-10-25T02:14:24.754Z"
+    "hash": "8dff3a",
+    "by": "apply",
+    "at": "2026-10-25T05:29:43.265Z",
+    "unit": "ch01/s02"
   },
   "bible/orte/hofladen.md": {
     "hash": "d11d95",
@@ -210,9 +211,9 @@
     "unit": "ch01/s01"
   },
   "ledger/observations/ch01-s02.yaml": {
-    "hash": "974b63",
+    "hash": "485e71",
     "by": "apply",
-    "at": "2026-10-24T23:41:24.917Z",
+    "at": "2026-10-25T05:29:43.265Z",
     "unit": "ch01/s02"
   },
   "ledger/observations/ch01-s03.yaml": {
