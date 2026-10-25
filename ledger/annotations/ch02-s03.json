@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a-sw5tqt13",
+    "kind": "suggestion",
+    "unit": "ch02/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "tsorgung. Der Rankbogen von der ",
+      "suffix": "Ghislaine', alle beide. Zweiundf",
+      "hint": 1369
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:10.932Z"
+  },
+  {
+    "id": "a-t0111qkd",
+    "kind": "suggestion",
+    "unit": "ch02/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": "Der Rankbogen von der 'Ghislaine",
+      "suffix": ", alle beide. Zweiundfünfzig Jah",
+      "hint": 1379
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:10.932Z"
+  }
+]

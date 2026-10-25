@@ -11,9 +11,9 @@
     },
     "replacement": "Das schmiedeeiserne Tor quietschte. Marie stach die Kanten nach, wo der Rasen seit letzter Woche über die Wege gekrochen war, Spatenbreite um Spatenbreite, ohne Schnur. Am Laubengang putzte sie die verblühten Dahlien aus. Dann harkte sie das Lindenlaub vom Kies. An den Büschen am Rondell, die sie im Juli nicht geschnitten hatte, leuchteten die Hagebutten, orangerot und prall.",
     "status": "rejected",
+    "why": "Umschreibung ohne offenen Befund (Hagebutten-Versprechen aus dem Juli, Abendbild am Rondell); bleibt, wie es ist.",
     "by": "apply/revise-ch09-s02",
-    "created": "2026-10-25T09:07:29.793Z",
-    "why": "Umschreibung ohne offenen Befund (Hagebutten-Versprechen aus dem Juli, Abendbild am Rondell); bleibt, wie es ist."
+    "created": "2026-10-25T09:07:29.793Z"
   },
   {
     "id": "a-44jfm61a",
@@ -42,8 +42,53 @@
     },
     "replacement": "Er setzte die Mütze auf und pfiff nach Kalle.\n\nIm Abendlicht kniete Marie noch einmal beim Steckling, die Hand auf der festgedrückten Erde. Die Wärme des Tages steckte noch darin. Draußen in der Lindenallee brummte der Trecker, erst laut, dann leiser, bis im Laubengang nur noch eine Amsel zu hören war. Sonst hielt Hannes den Blick, wenn er redete. Eine Sache sagte er einmal, deutlich, und dann nichts mehr. Heute hatte er den Dahlien geantwortet.\n\nBis Samstag waren es noch drei Tage. Was wusste Hannes, das ihr keiner erzählte?",
     "status": "rejected",
+    "why": "Umschreibung ohne offenen Befund (Hagebutten-Versprechen aus dem Juli, Abendbild am Rondell); bleibt, wie es ist.",
     "by": "apply/revise-ch09-s02",
-    "created": "2026-10-25T09:07:29.793Z",
-    "why": "Umschreibung ohne offenen Befund (Hagebutten-Versprechen aus dem Juli, Abendbild am Rondell); bleibt, wie es ist."
+    "created": "2026-10-25T09:07:29.793Z"
+  },
+  {
+    "id": "a-5gmnashg",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "ung, bis ich zurück bin.“\n\nJonas",
+      "suffix": " Kombi fehlte auf dem Gutshof. M",
+      "hint": 1212
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.159Z"
+  },
+  {
+    "id": "a-1qmdjf7d",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": " zurück, über der Bank hing die ",
+      "suffix": "New Dawn' in ihrer zweiten Blüte",
+      "hint": 5067
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.159Z"
+  },
+  {
+    "id": "a-ygrp14x3",
+    "kind": "suggestion",
+    "unit": "ch09/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "über der Bank hing die 'New Dawn",
+      "suffix": " in ihrer zweiten Blüte, und der",
+      "hint": 5076
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.159Z"
   }
 ]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a-v7e28514",
+    "kind": "suggestion",
+    "unit": "ch07/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "terrose und zog einen Trieb der ",
+      "suffix": "New Dawn' zu sich herunter. An s",
+      "hint": 73
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.491Z"
+  },
+  {
+    "id": "a-d9a15n35",
+    "kind": "suggestion",
+    "unit": "ch07/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "nd zog einen Trieb der 'New Dawn",
+      "suffix": " zu sich herunter. An seiner Spi",
+      "hint": 82
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.491Z"
+  },
+  {
+    "id": "a-fdddpt40",
+    "kind": "suggestion",
+    "unit": "ch07/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "n Reifen auf dem Hof, und Hannes",
+      "suffix": " Pick-up brummte aus. Kalle spra",
+      "hint": 3912
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:15.491Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a-c4gnqgjh",
+    "kind": "suggestion",
+    "unit": "ch10/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "telltafeln aus hellem Holz, Mats",
+      "suffix": " Arbeit, sauber verzapft. Darauf",
+      "hint": 1294
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.967Z"
+  },
+  {
+    "id": "a-5m33dqb4",
+    "kind": "suggestion",
+    "unit": "ch10/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "us Hedwigs Schublade, aus Hannes",
+      "suffix": " Ausschusskiste.\n\n„Für dich“, sa",
+      "hint": 1786
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.967Z"
+  }
+]

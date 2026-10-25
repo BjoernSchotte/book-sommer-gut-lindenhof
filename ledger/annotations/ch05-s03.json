@@ -1,0 +1,17 @@
+[
+  {
+    "id": "a-e1dzj6j6",
+    "kind": "suggestion",
+    "unit": "ch05/s03",
+    "anchor": {
+      "exact": "'",
+      "prefix": ".\n\nDie Helfer waren fort. Hannes",
+      "suffix": " Trecker hatte als Letzter die A",
+      "hint": 262
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.843Z"
+  }
+]

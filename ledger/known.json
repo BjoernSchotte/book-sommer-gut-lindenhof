@@ -371,9 +371,9 @@
     "at": "2026-10-25T09:37:36.848Z"
   },
   "manuscript/ch01/s01.md": {
-    "hash": "d3641f",
+    "hash": "7122f5",
     "by": "apply",
-    "at": "2026-10-24T23:33:07.345Z",
+    "at": "2026-10-25T12:35:09.667Z",
     "unit": "ch01/s01"
   },
   "manuscript/ch01/s02.md": {
@@ -383,15 +383,15 @@
     "unit": "ch01/s02"
   },
   "manuscript/ch01/s03.md": {
-    "hash": "73023d",
+    "hash": "eceda0",
     "by": "apply",
-    "at": "2026-10-24T16:06:02.883Z",
+    "at": "2026-10-25T12:35:10.096Z",
     "unit": "ch01/s03"
   },
   "manuscript/ch02/s01.md": {
-    "hash": "d0ec6c",
+    "hash": "2eb83c",
     "by": "apply",
-    "at": "2026-10-24T16:59:49.151Z",
+    "at": "2026-10-25T12:35:10.501Z",
     "unit": "ch02/s01"
   },
   "manuscript/ch02/s02.md": {
@@ -401,32 +401,33 @@
     "unit": "ch02/s02"
   },
   "manuscript/ch02/s03.md": {
-    "hash": "07e654",
+    "hash": "0b1476",
     "by": "apply",
-    "at": "2026-10-24T16:47:55.296Z",
+    "at": "2026-10-25T12:35:10.936Z",
     "unit": "ch02/s03"
   },
   "manuscript/ch03/s01.md": {
-    "hash": "eee3d5",
+    "hash": "e9dc82",
     "by": "apply",
-    "at": "2026-10-25T09:43:24.601Z",
+    "at": "2026-10-25T12:35:11.352Z",
     "unit": "ch03/s01"
   },
   "manuscript/ch03/s02.md": {
-    "hash": "4f7a40",
+    "hash": "f75981",
     "by": "apply",
-    "at": "2026-10-24T17:44:32.371Z",
+    "at": "2026-10-25T12:35:11.768Z",
     "unit": "ch03/s02"
   },
   "manuscript/ch03/s03.md": {
-    "hash": "a79d36",
-    "by": "author",
-    "at": "2026-10-25T04:16:34.514Z"
+    "hash": "51001a",
+    "by": "apply",
+    "at": "2026-10-25T12:35:12.187Z",
+    "unit": "ch03/s03"
   },
   "manuscript/ch04/s01.md": {
-    "hash": "370004",
+    "hash": "3e4cd8",
     "by": "apply",
-    "at": "2026-10-25T09:51:41.592Z",
+    "at": "2026-10-25T12:35:12.608Z",
     "unit": "ch04/s01"
   },
   "manuscript/ch04/s02.md": {
@@ -436,38 +437,39 @@
     "unit": "ch04/s02"
   },
   "manuscript/ch05/s01.md": {
-    "hash": "75ad58",
+    "hash": "5ff2ac",
     "by": "apply",
-    "at": "2026-10-25T00:27:41.815Z",
+    "at": "2026-10-25T12:35:13.035Z",
     "unit": "ch05/s01"
   },
   "manuscript/ch05/s02.md": {
-    "hash": "9a6ade",
+    "hash": "1dd523",
     "by": "apply",
-    "at": "2026-10-25T00:31:03.420Z",
+    "at": "2026-10-25T12:35:13.449Z",
     "unit": "ch05/s02"
   },
   "manuscript/ch05/s03.md": {
-    "hash": "90c2a3",
-    "by": "author",
-    "at": "2026-10-25T04:16:34.514Z"
+    "hash": "2b0b6e",
+    "by": "apply",
+    "at": "2026-10-25T12:35:13.846Z",
+    "unit": "ch05/s03"
   },
   "manuscript/ch06/s01.md": {
-    "hash": "52ef43",
+    "hash": "506bb0",
     "by": "apply",
-    "at": "2026-10-24T22:47:00.084Z",
+    "at": "2026-10-25T12:35:14.272Z",
     "unit": "ch06/s01"
   },
   "manuscript/ch06/s02.md": {
-    "hash": "b1110b",
+    "hash": "b29647",
     "by": "apply",
-    "at": "2026-10-25T10:10:31.159Z",
+    "at": "2026-10-25T12:35:14.681Z",
     "unit": "ch06/s02"
   },
   "manuscript/ch06/s03.md": {
-    "hash": "2b9426",
+    "hash": "087be4",
     "by": "apply",
-    "at": "2026-10-25T03:09:19.095Z",
+    "at": "2026-10-25T12:35:15.078Z",
     "unit": "ch06/s03"
   },
   "manuscript/ch07/s01.md": {
@@ -477,27 +479,27 @@
     "unit": "ch07/s01"
   },
   "manuscript/ch07/s02.md": {
-    "hash": "3f30b8",
+    "hash": "5e69b0",
     "by": "apply",
-    "at": "2026-10-24T20:12:15.354Z",
+    "at": "2026-10-25T12:35:15.495Z",
     "unit": "ch07/s02"
   },
   "manuscript/ch08/s01.md": {
-    "hash": "d7e10e",
+    "hash": "b935f5",
     "by": "apply",
-    "at": "2026-10-25T06:49:30.005Z",
+    "at": "2026-10-25T12:35:15.919Z",
     "unit": "ch08/s01"
   },
   "manuscript/ch08/s02.md": {
-    "hash": "8e1bc1",
+    "hash": "44cebe",
     "by": "apply",
-    "at": "2026-10-25T06:52:55.788Z",
+    "at": "2026-10-25T12:35:16.344Z",
     "unit": "ch08/s02"
   },
   "manuscript/ch08/s03.md": {
-    "hash": "73d128",
+    "hash": "450efc",
     "by": "apply",
-    "at": "2026-10-24T21:06:35.951Z",
+    "at": "2026-10-25T12:35:16.739Z",
     "unit": "ch08/s03"
   },
   "manuscript/ch09/s01.md": {
@@ -506,27 +508,27 @@
     "at": "2026-10-25T03:47:41.734Z"
   },
   "manuscript/ch09/s02.md": {
-    "hash": "0dccc9",
+    "hash": "20340c",
     "by": "apply",
-    "at": "2026-10-25T09:09:34.167Z",
+    "at": "2026-10-25T12:35:17.163Z",
     "unit": "ch09/s02"
   },
   "manuscript/ch10/s01.md": {
-    "hash": "455df7",
+    "hash": "c5b78f",
     "by": "apply",
-    "at": "2026-10-25T11:57:53.122Z",
+    "at": "2026-10-25T12:35:17.569Z",
     "unit": "ch10/s01"
   },
   "manuscript/ch10/s02.md": {
-    "hash": "b93375",
+    "hash": "85d5c2",
     "by": "apply",
-    "at": "2026-10-25T01:57:20.587Z",
+    "at": "2026-10-25T12:35:17.970Z",
     "unit": "ch10/s02"
   },
   "manuscript/ch10/s03.md": {
-    "hash": "8ebbdb",
+    "hash": "59261c",
     "by": "apply",
-    "at": "2026-10-25T12:20:20.360Z",
+    "at": "2026-10-25T12:35:18.377Z",
     "unit": "ch10/s03"
   },
   "plan/ch01.md": {

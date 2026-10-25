@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a-1621vh7r",
+    "kind": "suggestion",
+    "unit": "ch10/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "orangerot. Die zweite Blüte der ",
+      "suffix": "New Dawn' hing nass über der Mau",
+      "hint": 350
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.565Z"
+  },
+  {
+    "id": "a-dmdc8tkb",
+    "kind": "suggestion",
+    "unit": "ch10/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": ". Die zweite Blüte der 'New Dawn",
+      "suffix": " hing nass über der Mauer.\n\nSie ",
+      "hint": 359
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.565Z"
+  },
+  {
+    "id": "a-tafhc7pw",
+    "kind": "suggestion",
+    "unit": "ch10/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "hen anfing.\n\nAnke Kröger, Hannes",
+      "suffix": " Frau, drehte sich aus der Reihe",
+      "hint": 2725
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.565Z"
+  },
+  {
+    "id": "a-7fj2aqbp",
+    "kind": "suggestion",
+    "unit": "ch10/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "as.“ Anke lachte. „Darum hab ich",
+      "suffix": "s mir ja gemerkt.“\n\nMarie versch",
+      "hint": 3196
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:17.565Z"
+  }
+]

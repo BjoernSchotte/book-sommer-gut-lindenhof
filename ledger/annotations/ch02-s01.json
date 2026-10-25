@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a-20q87qw6",
+    "kind": "suggestion",
+    "unit": "ch02/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "e und achte Stelle geschrieben: ",
+      "suffix": "Ghislaine de Féligonde', gepflan",
+      "hint": 620
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:10.497Z"
+  },
+  {
+    "id": "a-mr69z0tq",
+    "kind": "suggestion",
+    "unit": "ch02/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "hrieben: 'Ghislaine de Féligonde",
+      "suffix": ", gepflanzt 1974.\n\nEin Stück wei",
+      "hint": 643
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:10.497Z"
+  }
+]

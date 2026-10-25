@@ -1,0 +1,77 @@
+[
+  {
+    "id": "a-n2gxkrhk",
+    "kind": "suggestion",
+    "unit": "ch05/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "orf.“\n\nSein Blick blieb an Jonas",
+      "suffix": " Armen hängen, dann an den Stein",
+      "hint": 1075
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.447Z"
+  },
+  {
+    "id": "a-9n024fak",
+    "kind": "suggestion",
+    "unit": "ch05/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": " Jonas hatte nicht einmal Hannes",
+      "suffix": " Gesicht behalten. Ihm wurde der",
+      "hint": 2488
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.447Z"
+  },
+  {
+    "id": "a-yp1g33e3",
+    "kind": "suggestion",
+    "unit": "ch05/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "m Daumen über die Rinde.\n\n„Eine ",
+      "suffix": "Ghislaine de Féligonde'“, sagte ",
+      "hint": 3509
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.447Z"
+  },
+  {
+    "id": "a-gq1vta68",
+    "kind": "suggestion",
+    "unit": "ch05/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": ".\n\n„Eine 'Ghislaine de Féligonde",
+      "suffix": "“, sagte sie. „Hier unten. Die h",
+      "hint": 3532
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.447Z"
+  },
+  {
+    "id": "a-284yacxz",
+    "kind": "suggestion",
+    "unit": "ch05/s02",
+    "anchor": {
+      "exact": "'",
+      "prefix": "r Hose ab und schlug ein. Hannes",
+      "suffix": " Griff war trocken und hart.\n\n„G",
+      "hint": 4245
+    },
+    "replacement": "’",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:13.447Z"
+  }
+]

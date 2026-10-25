@@ -1,0 +1,122 @@
+[
+  {
+    "id": "a-zfn7pxg8",
+    "kind": "suggestion",
+    "unit": "ch01/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "ch neben sich. „Jetzt du.“\n\nDie ",
+      "suffix": "Rosa Mundi' antwortete nicht. Si",
+      "hint": 485
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:09.663Z"
+  },
+  {
+    "id": "a-9mjeknv8",
+    "kind": "suggestion",
+    "unit": "ch01/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "ch. „Jetzt du.“\n\nDie 'Rosa Mundi",
+      "suffix": " antwortete nicht. Sie hing voll",
+      "hint": 496
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:09.663Z"
+  },
+  {
+    "id": "a-yhr2w82h",
+    "kind": "suggestion",
+    "unit": "ch01/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "n über der Bank.\n\n„Das ist eine ",
+      "suffix": "New Dawn'“, sagte sie. „Kein Ges",
+      "hint": 2346
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:09.663Z"
+  },
+  {
+    "id": "a-qsm1k4ve",
+    "kind": "suggestion",
+    "unit": "ch01/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "r Bank.\n\n„Das ist eine 'New Dawn",
+      "suffix": "“, sagte sie. „Kein Gestrüpp.“\n\n",
+      "hint": 2355
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:09.663Z"
+  },
+  {
+    "id": "a-rpgf8epp",
+    "kind": "suggestion",
+    "unit": "ch01/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "r hält. Drei mit Puffer.“\n\n„Die ",
+      "suffix": "New Dawn' hat dreißig Jahre gebr",
+      "hint": 3125
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:09.663Z"
+  },
+  {
+    "id": "a-k9s5482a",
+    "kind": "suggestion",
+    "unit": "ch01/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "rei mit Puffer.“\n\n„Die 'New Dawn",
+      "suffix": " hat dreißig Jahre gebraucht, um",
+      "hint": 3134
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:09.663Z"
+  },
+  {
+    "id": "a-znekmdaa",
+    "kind": "suggestion",
+    "unit": "ch01/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "er ihr summte eine Biene in die ",
+      "suffix": "New Dawn' hinein und kümmerte si",
+      "hint": 4961
+    },
+    "replacement": "‚",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:09.663Z"
+  },
+  {
+    "id": "a-y4qmzffv",
+    "kind": "suggestion",
+    "unit": "ch01/s01",
+    "anchor": {
+      "exact": "'",
+      "prefix": "mmte eine Biene in die 'New Dawn",
+      "suffix": " hinein und kümmerte sich um nic",
+      "hint": 4970
+    },
+    "replacement": "‘",
+    "status": "accepted",
+    "by": "typo",
+    "created": "2026-10-25T12:35:09.663Z"
+  }
+]
