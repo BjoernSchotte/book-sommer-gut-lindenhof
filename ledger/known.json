@@ -145,9 +145,9 @@
     "at": "2026-10-24T13:41:31.736Z"
   },
   "ledger/knowledge/ch01.yaml": {
-    "hash": "e747f2",
+    "hash": "1e9a75",
     "by": "apply",
-    "at": "2026-10-24T23:44:15.297Z",
+    "at": "2026-10-25T05:31:18.889Z",
     "unit": "ch01"
   },
   "ledger/knowledge/ch02.yaml": {
