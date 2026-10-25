@@ -112,3 +112,6 @@ ignored:
   - rule: DE_DU_UPPER_LOWER
     quote: Du
     paragraph: 39185dfc73c7
+  - rule: BARFUSS_ADJ
+    quote: Barfuß
+    paragraph: 112f124d6eae
