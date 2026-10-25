@@ -59,4 +59,7 @@ paragraphs:
         - Dan
   4e1449781d72: []
   4e4da234abcd: []
-ignored: []
+ignored:
+  - rule: DOPPELPUNKT_GROSS
+    quote: welche
+    paragraph: 320dbf0c67d0
