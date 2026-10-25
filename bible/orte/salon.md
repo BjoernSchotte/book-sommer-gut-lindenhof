@@ -8,7 +8,7 @@ links: []
 
 ## Fest
 
-**Lage:** Erdgeschoss des Gutshauses, gartenseitig, links der Diele mit den Steinfliesen. Zwei hohe Flügeltüren führen auf die Terrasse und die Freitreppe hinunter; von dort sieht man über die Backsteinmauer hinweg auf den Rosengarten, die Kieswege, das Rondell mit der Sonnenuhr und, bei offenen Türen, hört man Schere, Schubkarre und Amseln. Hinter dem Garten ist der Gutssee nur als Glanz zwischen Bäumen zu ahnen. Gegenüber liegt Hedwigs Arbeitszimmer, die Küche ist am anderen Ende der Diele; Gretes Kaffee kommt auf einem Tablett herüber.
+**Lage:** Erdgeschoss des Gutshauses, gartenseitig, links der Diele mit den Steinfliesen. Zwei hohe Flügeltüren führen auf die Terrasse und die Freitreppe hinunter; von dort sieht man über die Backsteinmauer hinweg auf den Rosengarten, die Kieswege, das Rondell mit der Sonnenuhr und, bei offenen Türen, hört man Schere, Schubkarre und Amseln. Hinter dem Garten ist der Gutssee nur als Glanz zwischen Bäumen zu ahnen. Über ihm liegt Hedwigs Arbeitszimmer, die Küche ist am anderen Ende der Diele; Gretes Kaffee kommt auf einem Tablett herüber.
 
 **Raum:** groß, hoch, Morgen- und Nachmittagslicht. Alte, knarrende Eichendielen mit einem verblichenen Teppich; Stuckleiste an der Decke, an einer Ecke ein Wasserfleck. Die Fenster und Flügeltüren schließen nicht mehr ganz dicht, im Sommer stehen sie ohnehin offen, die weißen Gardinen bewegen sich im Luftzug. Kachelofen in der Ecke, im Sommer kalt.
 
