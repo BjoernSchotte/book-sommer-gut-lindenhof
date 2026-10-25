@@ -51,4 +51,7 @@ paragraphs:
   ebfd8bb32b2c: []
   5d4031bdf378: []
   03179541957f: []
-ignored: []
+ignored:
+  - rule: FEHLERHAFTES_KOMMA_ALLG
+    quote: ", setzte"
+    paragraph: e4aa73f279e3
