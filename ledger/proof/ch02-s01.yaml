@@ -109,4 +109,7 @@ paragraphs:
   adc1ccedba54: []
   933ed9aa4b1a: []
   5bdae022aca7: []
-ignored: []
+ignored:
+  - rule: DE_AGREEMENT
+    quote: keiner Bescheid
+    paragraph: 237cb5ccf2bc
