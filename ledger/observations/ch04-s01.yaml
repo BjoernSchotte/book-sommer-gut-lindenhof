@@ -1,5 +1,5 @@
 source: manuscript/ch04/s01.md
-source_hash: 3dc24e
+source_hash: "370004"
 extracted_by: bb-ingest
 gaps:
   - Der Wochentag des Besuchs wird in der Szene nicht genannt; laut ch03/s03 war die Besichtigung für den übernächsten Montag, Mitte Juli, vereinbart.
@@ -8,6 +8,8 @@ gaps:
   - Wonach Steinhagen die Zufahrt hinunterschaut, bleibt offen; ein Bezug zur „Stellplatzlösung“ aus ch03/s03 wird nicht ausgesprochen.
   - "Absatz 15 begründet nicht mehr, warum die Fläche ein Pfund ist (früher: ebener Grund, kurze Wege, Mauer als Sichtschutz); der Parkplatzgedanke bleibt nur angedeutet."
   - Absatz 28 sagt nicht, ob Jonas der Bitte in den Salon folgt; das Szenenende bleibt offen.
+  - Wie Steinhagen vom Fototermin des Maklers Ende Juli weiß, bleibt offen (Jonas hat ihn in ch02/s02 dem Makler zugesagt, ohne ihn zu notieren).
+  - Ob Jonas auf die Bemerkung über den Fotografen des Maklers reagiert, sagen Absatz 15 und 16 nicht.
 items:
   - kind: event
     who: marie-albers
@@ -337,21 +339,47 @@ items:
     tags: []
   - kind: speech
     who: ralf-steinhagen
-    quote: „Das wird auf den Fotos sehr schön, Frau Albers.“
+    quote: „Das wird auf den Fotos sehr schön, Frau Albers. Den Fotografen des Maklers brauchen wir Ende Juli nicht mehr, die Bilder machen wir selbst.“
     status: claim
     about:
       - ralf-steinhagen
       - marie-albers
       - garten
+      - jonas-behrendt
     tags: []
   - kind: knowledge_gain
+    who: ralf-steinhagen
+    quote: Den Fotografen des Maklers brauchen wir Ende Juli nicht mehr, die Bilder machen wir selbst.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - jonas-behrendt
+      - garten
+    tags: []
+    fact:
+      subject: ralf-steinhagen
+      predicate: knows
+      value: Fototermin des Maklers für den Garten Ende Juli
+  - kind: event
     who: marie-albers
-    quote: Von welchen Fotos er sprach, wusste sie nicht, und sie fragte nicht danach.
+    quote: Marie stützte sich auf die Schaufel.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Von welchem Termin er sprach, wusste sie nicht, und sie fragte nicht danach.
     status: fact
     about:
       - marie-albers
       - ralf-steinhagen
+      - jonas-behrendt
     tags: []
+    fact:
+      subject: marie-albers
+      predicate: knows
+      value: nichts vom Fototermin des Maklers Ende Juli
   - kind: speech
     who: marie-albers
     quote: „Eine Fläche ist das nicht“, sagte sie. „Das ist ein Garten. Angelegt in den Dreißigerjahren, mit diesen Wegen und dieser Mauer.“
