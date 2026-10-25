@@ -115,7 +115,6 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch05/s03 · „Grete hat mir schon Quark angeboten.“ · Hat Jonas Quark gegen den Sonnenbrand angeboten (laut Jonas) (#700825)
 - ch05/s03 · „Grete hat die Leine wochenlang gesucht.“ · Suchte damals wochenlang die Wäscheleine, die Jonas für seine Flöße nahm (laut Jonas) (#700825)
 - ch05/s03 · „Drüben in Gretes Küche ging das Licht aus.“ · Löscht spät am Abend das Licht in der Küche (#700825)
-- ch05/s02 · „Von der Terrasse rief Grete nach Kalle.“ · Ruft am späten Nachmittag von der Terrasse nach Kalle (#0e6764)
 - ch06/s01 · „Mittags kam Grete die Freitreppe herunter, einen Krug Buttermilch in der Hand und auf dem Arm ein Blech Johannisbeerkuchen.“ · Bringt mittags Buttermilch und Johannisbeerkuchen zur Bank unter der Kletterrose (#5200cf)
 - ch06/s01 · „Dann sah sie von Marie zu Jonas und wieder zurück“ · Mustert Marie und Jonas wortlos und wissend (#5200cf)
 - ch06/s01 · „Ohne ein Wort richtete Grete die Lesebrille an der Kette und ging zurück zum Haus.“ · Geht ohne ein Wort zurück zum Haus (#5200cf)
@@ -199,3 +198,4 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch05/s01 · „Grete kam die Freitreppe herunter und stellte zwei Bleche Butterkuchen auf den Terrassentisch.“ · Bringt am Samstagmorgen zwei Bleche Butterkuchen auf den Terrassentisch (#75ad58)
 - ch05/s01 · „damit diesmal keiner mit leerem Teller dastand“ · Holt ein drittes Blech, damit diesmal keiner ohne Kuchen bleibt (#75ad58)
 - ch05/s01 · „Grete trug eine zweite Kanne Kaffee über die Terrasse.“ · Bringt am späten Vormittag eine zweite Kanne Kaffee (#75ad58)
+- ch05/s02 · „Von der Terrasse rief Grete nach Kalle.“ · Ruft am späten Nachmittag von der Terrasse nach Kalle (#9a6ade)

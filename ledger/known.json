@@ -15,22 +15,22 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "824a0f",
+    "hash": "e66776",
     "by": "apply",
-    "at": "2026-10-25T00:34:34.785Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-25T00:36:16.762Z",
+    "unit": "ch05/s02"
   },
   "bible/figuren/hannes-kroeger.md": {
-    "hash": "356b28",
+    "hash": "1aed6a",
     "by": "apply",
-    "at": "2026-10-25T00:34:34.785Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-25T00:36:16.762Z",
+    "unit": "ch05/s02"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "242aa4",
+    "hash": "e5965b",
     "by": "apply",
-    "at": "2026-10-25T00:34:34.785Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-25T00:36:16.762Z",
+    "unit": "ch05/s02"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "2aecb0",
@@ -39,10 +39,10 @@
     "unit": "ch05/s01"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "2d4929",
+    "hash": "f0164f",
     "by": "apply",
-    "at": "2026-10-25T00:34:34.785Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-25T00:36:16.762Z",
+    "unit": "ch05/s02"
   },
   "bible/figuren/ralf-steinhagen.md": {
     "hash": "e2f08f",
@@ -57,10 +57,10 @@
     "unit": "ch08/s01"
   },
   "bible/orte/garten.md": {
-    "hash": "1aa073",
+    "hash": "f70134",
     "by": "apply",
-    "at": "2026-10-25T00:34:34.785Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-25T00:36:16.762Z",
+    "unit": "ch05/s02"
   },
   "bible/orte/gutshaus.md": {
     "hash": "70ec41",
@@ -278,9 +278,9 @@
     "unit": "ch05/s01"
   },
   "ledger/observations/ch05-s02.yaml": {
-    "hash": "9e42fe",
+    "hash": "bf9564",
     "by": "apply",
-    "at": "2026-10-24T19:05:57.366Z",
+    "at": "2026-10-25T00:36:16.762Z",
     "unit": "ch05/s02"
   },
   "ledger/observations/ch05-s03.yaml": {

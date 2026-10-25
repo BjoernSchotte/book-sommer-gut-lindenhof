@@ -1,5 +1,5 @@
 source: manuscript/ch05/s02.md
-source_hash: "0e6764"
+source_hash: 9a6ade
 extracted_by: bb-ingest
 gaps:
   - Ob Jonas Hannes' Erinnerung an die Hängerfahrt wirklich teilt oder das Bild teils erfindet, lässt die Szene offen („selbst die dachte er sich gerade erst aus“).
@@ -122,13 +122,40 @@ items:
       subject: jonas-behrendt
       predicate: knows
       value: erinnert sich an Diesel und Stroh der Hängerfahrt
+  - kind: event
+    who: hannes-kroeger
+    quote: Hannes wartete, die hellen Augen unter dem Schirm.
+    status: fact
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+    tags: []
+  - kind: narrator_claim
+    who: hannes-kroeger
+    quote: Er hatte den Jungen nicht vergessen, all die Jahre.
+    status: fact
+    about:
+      - hannes-kroeger
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: hannes-kroeger
+      predicate: knows
+      value: erinnert sich an den Jungen Jonas der Kindersommer
   - kind: narrator_claim
     who: jonas-behrendt
-    quote: Und Jonas hatte nicht einmal sein Gesicht behalten.
+    quote: Und Jonas hatte nicht einmal Hannes' Gesicht behalten.
     status: fact
     about:
       - jonas-behrendt
       - hannes-kroeger
+    tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Ihm wurde der Nacken heiß.
+    status: fact
+    about:
+      - jonas-behrendt
     tags: []
   - kind: speech
     who: jonas-behrendt
@@ -222,12 +249,16 @@ items:
     tags: []
   - kind: event
     who: hannes-kroeger
-    quote: Am späten Nachmittag fuhr Hannes die letzte Fuhre ab und kam zu Fuß zurück.
+    quote: Am späten Nachmittag fuhr Hannes die letzte Fuhre ab und kam mit dem leeren Gespann zurück.
     status: fact
     about:
       - hannes-kroeger
       - garten
     tags: []
+    fact:
+      subject: ch05/s02@letzte-fuhre
+      predicate: at_time
+      value: später Nachmittag
   - kind: place_fact
     quote: Von der Pforte nach Westen bis hinüber zum alten Geräteschuppen in der Ecke lag die ganze Mauer frei.
     status: fact
@@ -266,22 +297,22 @@ items:
       - jonas-behrendt
     tags: []
   - kind: event
-    who: jonas-behrendt
-    quote: Jonas rührte sich nicht. Das Hemd war steif von Schweiß.
-    status: fact
-    about:
-      - jonas-behrendt
-    tags: []
-  - kind: event
     who: grete-paulsen
     quote: Von der Terrasse rief Grete nach Kalle.
     status: fact
     about:
       - grete-paulsen
     tags: []
+  - kind: event
+    who: jonas-behrendt
+    quote: Jonas rührte sich nicht. Das Hemd war steif von Schweiß.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
   - kind: relationship
     who: jonas-behrendt
-    quote: Jonas. Dir. Zwei kleine Wörter.
+    quote: Hannes hatte ihn Jonas genannt und Du zu ihm gesagt. Zwei kleine Wörter.
     status: fact
     about:
       - jonas-behrendt
