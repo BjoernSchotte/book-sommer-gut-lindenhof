@@ -1,5 +1,5 @@
 source: manuscript/ch03/s03.md
-source_hash: 1f8ffc
+source_hash: a79d36
 extracted_by: bb-ingest
 gaps:
   - Das Datum des Szenentags und des „übernächsten Montags“ bleibt offen; belegt ist nur „Mitte Juli“ (aus Steinhagens Rede).
@@ -319,7 +319,7 @@ items:
       - garten
     tags: []
   - kind: place_fact
-    quote: Daneben lief der Laubengang. Die zwei Bögen der 'Ghislaine' hielten, jeder Fuß in seinem Beton.
+    quote: Gegenüber, an der Ostmauer, lief der Laubengang. Die zwei Bögen der 'Ghislaine' hielten, jeder Fuß in seinem Beton.
     status: fact
     about:
       - garten
