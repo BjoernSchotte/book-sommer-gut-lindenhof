@@ -366,6 +366,11 @@
     "at": "2026-10-25T01:47:17.458Z",
     "unit": "ch10/s03"
   },
+  "ledger/reader/ch10-s03.md": {
+    "hash": "b582de",
+    "by": "apply",
+    "at": "2026-10-25T06:47:10.248Z"
+  },
   "manuscript/ch01/s01.md": {
     "hash": "d3641f",
     "by": "apply",
