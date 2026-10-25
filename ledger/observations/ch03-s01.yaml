@@ -1,5 +1,5 @@
 source: manuscript/ch03/s01.md
-source_hash: 8e6e2f
+source_hash: eee3d5
 extracted_by: bb-ingest
 gaps:
   - Keine Uhrzeit und kein Wochentag im Text; die Szene liegt nach dem Morgen ('stärker als am Morgen') und etwa eine Woche nach dem Betonieren ('Seit einer Woche'). Daher kein strukturierter Zeiteintrag.
@@ -234,7 +234,19 @@ items:
     tags: []
   - kind: speech
     who: marie-albers
-    quote: Mit zehn hab ich hier meinen ersten Rosenschnitt gemacht
+    quote: Rumgestromert bin ich hier schon als Knirps
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+    fact:
+      subject: marie-albers
+      predicate: at_place
+      value: streifte schon als kleines Kind vor dem ersten Rosenschnitt im Garten herum
+  - kind: speech
+    who: marie-albers
+    quote: mit zehn hab ich meinen ersten richtigen Rosenschnitt gemacht
     status: fact
     about:
       - marie-albers
@@ -244,6 +256,14 @@ items:
       subject: ch03/s01@erster-rosenschnitt
       predicate: at_time
       value: Marie mit zehn Jahren
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Warum sie das erzählte, wusste sie selbst nicht.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
   - kind: speech
     who: marie-albers
     quote: Hedwig stand hinter mir und hat mir die Hand geführt. Über dem Auge, schräg, damit das Wasser abläuft.
