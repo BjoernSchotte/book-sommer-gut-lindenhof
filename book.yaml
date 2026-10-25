@@ -28,3 +28,5 @@ profile:
     crime_tools: false
   world_aspects: [ setting ]
   craft: heftroman
+ai_disclosure:
+  images: generated
