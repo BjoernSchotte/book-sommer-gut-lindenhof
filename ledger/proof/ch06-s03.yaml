@@ -1,0 +1,55 @@
+tool: languagetool 6.8
+paragraphs:
+  7f4734b100c1: []
+  31d5bb779bd7: []
+  a1c748b75cc6:
+    - rule: FEHLERHAFTES_KOMMA_ALLG
+      category: HILFESTELLUNG_KOMMASETZUNG
+      at:
+        - 25
+        - 32
+      quote: ", hatte"
+      message: Wenn es sich hier um keinen Haupt- und Nebensatz handelt, wird in der
+        Regel kein Komma gesetzt.
+      replacements:
+        - " hatte"
+  9cb23c917095: []
+  35ac891d849e:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 11
+        - 15
+      quote: mach
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - mache
+        - mach’
+  "268007761830": []
+  987778a0742c: []
+  b6782d885649: []
+  45ed68b1d020: []
+  15923387f2a9: []
+  74f7c740d34f: []
+  d00662e7733e: []
+  9a24ae5f2629: []
+  24e80e0a6179: []
+  f7d43f2d85fc: []
+  171e66e2f702: []
+  6e8a9f5e092d: []
+  299549726f1c: []
+  f77ea37212c8: []
+  953aaa74a94a: []
+  3a24db53e62b: []
+  8c7009fada1f: []
+  8d70d73a3ab4: []
+  5bbc969c368b: []
+  c9d485404a3f: []
+  aaa1193afa6b: []
+  7711b3e3abfd: []
+  a8bdddada231: []
+  92c26ad2d8c0: []
+  5ad01eb940fd: []
+  d569d6e4c994: []
+ignored: []

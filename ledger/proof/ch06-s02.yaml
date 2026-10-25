@@ -1,0 +1,91 @@
+tool: languagetool 6.8
+paragraphs:
+  41b4a4a83f3d: []
+  4c0de7bd4f75: []
+  78042ea65538: []
+  ae21d888a4a8: []
+  fcc4f0ce1a7c: []
+  dd8b49cf7378: []
+  fd5fe9129dcc:
+    - rule: RAN_RUM_RAUF_REIN_RAUS_RUNTER_NEU
+      category: COLLOQUIALISMS
+      at:
+        - 222
+        - 231
+      quote: reinsehen
+      message: ‚reinsehen‘ wirkt umgangssprachlich. Je nach Situation klingt
+        „hereinsehen“ oder „hineinsehen“ evtl. besser.
+      replacements:
+        - hereinsehen
+        - hineinsehen
+  7730bb5aeb02:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 5
+        - 11
+      quote: brauch
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - brauche
+        - brauch’
+  5f435c7005a4: []
+  66a32fd182a5: []
+  7c1beed8fc27: []
+  761d32501498:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 219
+        - 228
+      quote: Ghislaine
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Geißlein
+        - Geißleins
+  f6d3ccb48620: []
+  8bacb49fb1b5: []
+  5a84ec2aa184: []
+  "50e018126879": []
+  2e409a60b873: []
+  c275bfd3b814: []
+  8f00f86e5eeb: []
+  f94227f284fc: []
+  0bb40d644ed5: []
+  2226cb1d0995:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 54
+        - 61
+      quote: Erdbeer
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Erdbeere
+        - Erdmeer
+        - Erdheer
+        - Erdteer
+        - Erdiger
+  6e506739c119: []
+  18b8c4394e98: []
+  c1ec07b8f19a: []
+  2d5f73d8dd98: []
+  71e32d665785: []
+  ddb31179b786: []
+  b4530e90486e: []
+  e56f423b8f88:
+    - rule: ERSTE_PERSON_SIN_OHNE_E
+      category: COLLOQUIALISMS
+      at:
+        - 34
+        - 38
+      quote: such
+      message: Standardsprachlich ist die Verbform mit ‚e‘ eleganter. Zur besseren
+        Lesbarkeit können Sie alternativ einen Apostroph setzen.
+      replacements:
+        - suche
+        - such’
+  1d8e0fa1faa5: []
+  e8893a645aed: []
+ignored: []

@@ -1,0 +1,62 @@
+tool: languagetool 6.8
+paragraphs:
+  8a8e7df0a375: []
+  7748ef8a27d8: []
+  369649bf5085: []
+  8aca18916da1: []
+  aef0ff979823: []
+  acae98a93f90: []
+  6b8b26729584: []
+  69a167d037df: []
+  0e914fd1483c:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 188
+        - 197
+      quote: Ghislaine
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Geißlein
+        - Geißleins
+  4e16833268ca: []
+  26f22ae6358d:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 119
+        - 126
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
+  5904ed2e256a: []
+  ba1a1c1fb33a: []
+  532c219979b0: []
+  8134565fd89a: []
+  d5e451f2cb46: []
+  58f9aaa592ac: []
+  d738dfaaef5f: []
+  96409417151a: []
+  465c997fbd07: []
+  7ba8c63b0a07: []
+  4c98afbf4afb: []
+  40c587f80e18: []
+  30f27276c2ac: []
+  6412981d184a: []
+  71d86a5e7df4: []
+  0f79107fc18e: []
+  cec790b5d407: []
+  23e2d7960640: []
+  ddaa35b15297: []
+  6b4c370e631a: []
+  7f7e91c5e85f: []
+  8d44ae5bb698: []
+  e1cbc1a4e7fa: []
+  bb6a186794d6: []
+  a6b9daf91433: []
+ignored: []

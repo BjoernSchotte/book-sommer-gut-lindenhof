@@ -1,0 +1,99 @@
+tool: languagetool 6.8
+paragraphs:
+  64c685fe4d06:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 73
+        - 82
+      quote: Ghislaine
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Geißlein
+        - Geißleins
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 86
+        - 95
+      quote: Féligonde
+      message: Möglicher Tippfehler gefunden.
+      replacements: []
+  29d7e2a8c3df: []
+  e82d42becfa1: []
+  0dd6447a37e5: []
+  7f4d9861702c: []
+  cb2a3492633e: []
+  40d554faeb67: []
+  12f06681688d:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 128
+        - 138
+      quote: Bastbündel
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Bast bündel
+  59e51f5e7c4e: []
+  6f00ab1b7a9e: []
+  be2e031119eb: []
+  3bb4579e4334: []
+  a2dae86af3ea: []
+  cfa9f1366996: []
+  a78294e1f1fb: []
+  ccff6e8c4356: []
+  c3e824d897e8: []
+  "474549012658":
+    - rule: DE_DU_UPPER_LOWER
+      category: CASING
+      at:
+        - 12
+        - 14
+      quote: Du
+      message: Vorher wurde bereits ‚dir‘ kleingeschrieben. Aus Gründen der
+        Einheitlichkeit ‚du‘ hier auch kleinschreiben?
+      replacements:
+        - du
+  4c70453538eb: []
+  9b150dfb48f3: []
+  e18229cfe0d4: []
+  96e3eb13f71f: []
+  60c7d5744765: []
+  354a43cb93ec: []
+  7fdaef0a2ab1: []
+  f04f59fe446c: []
+  2f731f66032f: []
+  901f99ceb33f: []
+  1166ed920ac4: []
+  bacb39669cb9:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 135
+        - 139
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  dd56c1802618: []
+  be5af0eb9f12: []
+  c9b4144c32a1: []
+  e998ea644d63: []
+  a15a2394d94c: []
+  f1297a64626d:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 24
+        - 34
+      quote: Bastbündel
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Bast bündel
+  82febcc531a7: []
+ignored: []

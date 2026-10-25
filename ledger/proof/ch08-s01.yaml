@@ -1,0 +1,62 @@
+tool: languagetool 6.8
+paragraphs:
+  1e9d6bf861b2:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 166
+        - 170
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  320dbf0c67d0:
+    - rule: DOPPELPUNKT_GROSS
+      category: CASING
+      at:
+        - 37
+        - 43
+      quote: welche
+      message: Folgt nach dem Doppelpunkt ein vollständiger Hauptsatz, schreibt man
+        danach groß weiter.
+      replacements:
+        - Welche
+  fae55ac859a7: []
+  aff504251ef9: []
+  9a9d3a0b93cd: []
+  828e545fb615: []
+  d7195cf4f2fb: []
+  41ab98bc8fcc: []
+  62e7c8d26a6a: []
+  92aadcc32068: []
+  68141c8e9480: []
+  d8580ebccce1: []
+  987985414eae: []
+  c5814922713f: []
+  e7aadb59a4e3: []
+  d2819e77925b: []
+  f1d661404e30: []
+  523f7d7b4ca1: []
+  b7149110da96: []
+  a0476686ff6e: []
+  f082344590ce:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 95
+        - 99
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  4e1449781d72: []
+  4e4da234abcd: []
+ignored: []

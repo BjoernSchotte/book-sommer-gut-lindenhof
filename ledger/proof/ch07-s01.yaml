@@ -1,0 +1,57 @@
+tool: languagetool 6.8
+paragraphs:
+  0d3fe8aae087: []
+  7a66fb99f617: []
+  1e441d419c57: []
+  6233b3bcb681: []
+  5c3f513b7da2:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 175
+        - 188
+      quote: heraufzusehen
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - herauf zusehen
+        - herauf Zusehen
+        - her aufzusehen
+        - heraufzugehen
+        - heraufzuziehen
+  4e8bd33fedae: []
+  7fccb4de4e89: []
+  0df9598f7f34: []
+  6582b142a02a: []
+  c927bf70d57a: []
+  c2594bee8e43: []
+  393d5ca9324e: []
+  67d45a98e563: []
+  6578bc3f2472: []
+  b7e01e2e6bd0: []
+  dfdd46b43757: []
+  c2349e400651: []
+  5503d2f0622a: []
+  f7d5e3cac218: []
+  bd1cdd5af499: []
+  4b05f8f89dbf: []
+  b3e1b5305457: []
+  bc8211adde46: []
+  58178c5c11ad: []
+  fd3deb7a0701: []
+  d9c07af25ab8: []
+  7048d3b92203: []
+  2f960bb371c2: []
+  11f2e613cba6: []
+  8d1b710c6109: []
+  199fba5bcc43:
+    - rule: DE_CASE
+      category: CASING
+      at:
+        - 11
+        - 15
+      quote: Jung
+      message: Außer am Satzanfang werden nur Nomen und Eigennamen großgeschrieben.
+      replacements:
+        - jung
+  c65c3bd65919: []
+ignored: []

@@ -1,0 +1,44 @@
+tool: languagetool 6.8
+paragraphs:
+  f5a03865237a: []
+  55bd77c0ca74: []
+  c54aba37fb83: []
+  e06bcbd1bae1: []
+  98c7b85ac3f9: []
+  95c30692500c: []
+  b2f5f62d78f1: []
+  759ee428fca7: []
+  df3c3411a5c0: []
+  a688cd076044: []
+  81b09ab8460c: []
+  5a7e9c0e189d: []
+  47f657ec6b35: []
+  1d72d6a52fab: []
+  cfe6a72ec35e: []
+  ff3eefdac2e7: []
+  02baf49ef271: []
+  db8aedfdddc2: []
+  c99a52dba42a: []
+  18d52621836c:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 451
+        - 469
+      quote: hineingeschmunzelt
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - hinein geschmunzelt
+        - hineingeschmuggelt
+  cbee9d8bc8a7: []
+  046e1eb8ca9c: []
+  6773cad6f734: []
+  9aee44a4faed: []
+  5b66b5efd957: []
+  52eb2b73a4fb: []
+  a88346018323: []
+  ccd584c462fd: []
+  276d4e37504a: []
+  b528426c8c48: []
+  a61bb08ccb95: []
+ignored: []

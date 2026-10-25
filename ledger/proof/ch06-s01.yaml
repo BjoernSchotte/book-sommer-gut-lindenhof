@@ -1,0 +1,98 @@
+tool: languagetool 6.8
+paragraphs:
+  8c3c7c7c8d0c: []
+  be9df556d94e: []
+  f2b0ec852ebc:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 214
+        - 224
+      quote: Buchskante
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Buchs kante
+        - Buchkante
+        - Buchsekante
+        - Buchskandal
+        - Sechskante
+  e49373193b4c:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 5
+        - 12
+      quote: Gallica
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Gallien
+        - Gallisch
+        - Galiläa
+        - Gallig
+        - Gallier
+  52e3955d776a: []
+  18855f10cbd0: []
+  a6e6d1b4a4a1: []
+  2625f39cb709:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 122
+        - 126
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  4ba1a5c0bd66: []
+  72da2f1eba58: []
+  9354aeab66f7: []
+  5ef35e834cae: []
+  5b4904bf4fc9: []
+  157a47054db4: []
+  f72b453be0d0: []
+  28eaaa7217a9: []
+  51c709c5610a:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 104
+        - 122
+      quote: Johannisbeerkuchen
+      message: Möglicher Tippfehler gefunden.
+      replacements: []
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 191
+        - 195
+      quote: Dawn
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Dave
+        - Dann
+        - Dahn
+        - Davon
+        - Dan
+  01675f19bbbf: []
+  c2347869a30b: []
+  d5298f55935d: []
+  7651c0a1a3c9: []
+  27a6d6b9cd53: []
+  fc73b89f247a: []
+  c04c2e177478: []
+  fe9a2b4913ce: []
+  d4f25dcd7957: []
+  c415feedb296: []
+  245dedb1083d: []
+  944783f287ee: []
+  db08739cb17e: []
+  30f62ff4102d: []
+  8d3b99b751c4: []
+  31d4347ccc02: []
+  1c9120d858e0: []
+  be7267fa5f24: []
+ignored: []
