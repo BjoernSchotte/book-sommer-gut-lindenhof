@@ -8,7 +8,7 @@ links: []
 
 ## Fest
 
-**Art und Lage:** Erfunden. Ein schmaler Holzsteg am Gutssee, dem kleinen, ruhigen Binnensee von Gut Lindenhof. Vom Rosengarten aus geht man durch eine Pforte in der Backsteinmauer und dann gut zwei Minuten über die Wiese, die sanft zum See abfällt. Vom Gutshaus aus sieht man den Steg nicht, nur das Schilf und das Wasser dahinter; die erleuchteten Fenster von Gretes Küche sieht man vom Steg aus aber über die Wiese hinweg. Kein Meer, kein Strand, kein Bootsverleih: ein See im Binnenland, still, von Schilf gesäumt.
+**Art und Lage:** Erfunden. Ein schmaler Holzsteg am Gutssee, dem kleinen, ruhigen Binnensee von Gut Lindenhof. Vom Rosengarten aus geht man durch eine Pforte in der Backsteinmauer und dann gut zwei Minuten über die Wiese, die sanft zum See abfällt. Vom Gutshaus aus sieht man den Steg nicht, nur das Schilf und das Wasser dahinter; die erleuchteten Fenster im Obergeschoss des Gutshauses sieht man vom Steg aus aber über die Wiese hinweg. Kein Meer, kein Strand, kein Bootsverleih: ein See im Binnenland, still, von Schilf gesäumt.
 
 **Gestalt:**
 - Etwa zwölf Schritte lang, gut einen Meter breit, auf eingerammten Eichenpfählen. Die Bretter sind grau verwittert und warm von der Sonne, ein paar sind neuer und heller, einzelne geben nach oder knarren. Ein Geländer gibt es nicht.
