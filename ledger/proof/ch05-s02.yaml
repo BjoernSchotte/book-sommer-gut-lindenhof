@@ -108,4 +108,7 @@ paragraphs:
         Einheitlichkeit ‚du‘ hier auch kleinschreiben?
       replacements:
         - du
-ignored: []
+ignored:
+  - rule: DE_DU_UPPER_LOWER
+    quote: Du
+    paragraph: 39185dfc73c7
