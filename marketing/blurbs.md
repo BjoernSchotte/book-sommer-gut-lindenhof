@@ -1,3 +1,6 @@
+---
+chosen: "d"
+---
 # Klappentexte — Sommer auf Gut Lindenhof
 
 ## a — Szene und Frage
