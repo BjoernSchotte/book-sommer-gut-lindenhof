@@ -15,10 +15,10 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "4095e5",
+    "hash": "984e5b",
     "by": "apply",
-    "at": "2026-10-25T10:13:09.868Z",
-    "unit": "ch06/s02"
+    "at": "2026-10-25T10:28:29.313Z",
+    "unit": "ch07/s01"
   },
   "bible/figuren/hannes-kroeger.md": {
     "hash": "83289f",
@@ -27,10 +27,10 @@
     "unit": "ch04/s01"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "5daa5b",
+    "hash": "84b80d",
     "by": "apply",
-    "at": "2026-10-25T10:13:09.868Z",
-    "unit": "ch06/s02"
+    "at": "2026-10-25T10:28:29.313Z",
+    "unit": "ch07/s01"
   },
   "bible/figuren/lena-hansen.md": {
     "hash": "4161c7",
@@ -45,10 +45,10 @@
     "unit": "ch06/s02"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "d04f6f",
+    "hash": "e37d00",
     "by": "apply",
-    "at": "2026-10-25T09:54:56.259Z",
-    "unit": "ch04/s01"
+    "at": "2026-10-25T10:28:29.313Z",
+    "unit": "ch07/s01"
   },
   "bible/orte/arbeitszimmer.md": {
     "hash": "fe29ac",
@@ -86,9 +86,9 @@
     "unit": "ch10/s01"
   },
   "bible/orte/notariat.md": {
-    "hash": "8a65b8",
+    "hash": "926aa4",
     "by": "apply",
-    "at": "2026-10-25T08:28:08.693Z",
+    "at": "2026-10-25T10:28:29.313Z",
     "unit": "ch07/s01"
   },
   "bible/orte/salon.md": {
@@ -306,9 +306,9 @@
     "unit": "ch06/s03"
   },
   "ledger/observations/ch07-s01.yaml": {
-    "hash": "1474a0",
+    "hash": "c33ab3",
     "by": "apply",
-    "at": "2026-10-25T08:28:08.693Z",
+    "at": "2026-10-25T10:28:29.313Z",
     "unit": "ch07/s01"
   },
   "ledger/observations/ch07-s02.yaml": {

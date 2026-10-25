@@ -1,5 +1,5 @@
 source: manuscript/ch07/s01.md
-source_hash: 1d7c6e
+source_hash: 0a3d63
 extracted_by: bb-ingest
 gaps:
   - Ob Grete Jonas' Ausrede glaubt, lässt die Szene offen.
@@ -12,6 +12,7 @@ gaps:
   - Wann Jonas den Dachdecker zuvor angerufen hat, erzählt die Szene nicht; Absatz 4 nennt nur den Rückruf.
   - Die Höhe der vereinbarten Summe und des Rücktrittspreises nennt Absatz 14 nicht.
   - Ob Grete Jonas' Antwort „Hier war er nicht.“ als Ausweichen erkennt, lässt Absatz 28 offen.
+  - Wie Jonas den Notartermin am Montag zusagte (Telefon, Mail, Treffen) und wie Steinhagen die Bedenkzeit anbot, erzählt Absatz 4 nicht.
 items:
   - kind: event
     who: jonas-behrendt
@@ -146,6 +147,38 @@ items:
       subject: jonas-behrendt
       predicate: believes
       value: Unterschrift heute bringt Anzahlung von Weidenkamp, die den Partnern als Sicherheit reicht
+  - kind: event
+    who: jonas-behrendt
+    quote: Den Notartermin hatte er schon am Montag zugesagt
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+      - notariat
+    tags: []
+  - kind: time
+    who: jonas-behrendt
+    quote: Den Notartermin hatte er schon am Montag zugesagt
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: ch07/s01@zusage-notartermin
+      predicate: at_time
+      value: Montag vor dem Notartermin am Donnerstag, 13. August (also 10. August)
+  - kind: knowledge_gain
+    who: jonas-behrendt
+    quote: als Steinhagen anbot, ihm Bedenkzeit in den Vertrag zu schreiben
+    status: fact
+    about:
+      - jonas-behrendt
+      - ralf-steinhagen
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Steinhagen hat angeboten, ihm Bedenkzeit in den Vorvertrag zu schreiben
   - kind: event
     who: marie-albers
     quote: Unten bog ein weißer Kastenwagen aus der Allee und hielt am schmiedeeisernen Tor.
