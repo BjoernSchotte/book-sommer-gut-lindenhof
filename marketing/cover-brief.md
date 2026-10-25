@@ -1,16 +1,10 @@
 ---
-place: "Rosengarten von Gut Lindenhof, aus dem Laubengang gesehen: die Kiesachse
-  zum Sonnenuhr-Rondell, die Bank unter der Kletterrose, dahinter die alte
-  Backsteinmauer und darüber das weiße Gutshaus mit Walmdach"
-object: Hedwigs handschriftliches Gartenbuch, aufgeschlagen auf dem Sitzbrett
-  der Bank unter der Kletterrose
+place: "Rosengarten von Gut Lindenhof, aus dem Laubengang gesehen: die Kiesachse zum Sonnenuhr-Rondell, die Bank unter der Kletterrose, dahinter die alte Backsteinmauer und darüber das weiße Gutshaus mit Walmdach"
+object: Hedwigs handschriftliches Gartenbuch, aufgeschlagen auf dem Sitzbrett der Bank unter der Kletterrose
 fastening: die Rosenschere liegt quer über den Seiten und hält sie gegen den Wind offen
-mark: ein breites rotes Leseband, das aus dem Gartenbuch über die Kante der Bank
-  hängt
+mark: ein breites rotes Leseband, das aus dem Gartenbuch über die Kante der Bank hängt
 season: Hochsommer, Juniblüte der alten Rosen, Linden in Blüte
-light: später Nachmittag, warmes goldenes Streiflicht durch den Laubengang,
-  klarer Himmel
-by: bb-market
+light: später Nachmittag, warmes goldenes Streiflicht durch den Laubengang, klarer Himmel
 ---
 # Cover-Briefing — Sommer auf Gut Lindenhof
 
