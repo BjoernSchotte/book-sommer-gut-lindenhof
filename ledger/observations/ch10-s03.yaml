@@ -1,5 +1,5 @@
 source: manuscript/ch10/s03.md
-source_hash: 580a1e
+source_hash: b5a114
 extracted_by: bb-ingest
 gaps:
   - "Uhrzeiten fehlen: Aussprache „im späten Nachmittag“, Lampions „am Abend“; keine strukturierte Zeitangabe möglich."
@@ -161,7 +161,7 @@ items:
     tags: []
   - kind: event
     who: marie-albers
-    quote: Gerade deshalb rückte sie nicht gleich zu ihm hinüber.
+    quote: Trotzdem rückte sie nicht gleich zu ihm hinüber.
     status: fact
     about:
       - marie-albers
@@ -169,7 +169,15 @@ items:
     tags: []
   - kind: speech
     who: marie-albers
-    quote: Der Parkplatz war es nie
+    quote: Der Parkplatz war es nicht. Nicht nur.
+    status: claim
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Dein Schweigen hat wehgetan.
     status: claim
     about:
       - marie-albers
