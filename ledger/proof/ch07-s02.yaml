@@ -74,4 +74,7 @@ paragraphs:
   7455d0d4eef1: []
   b90d84a85739: []
   ecdc32229790: []
-ignored: []
+ignored:
+  - rule: KOMMA_VOR_UND_ODER
+    quote: ", und"
+    paragraph: 1fcc5e1edeb4
