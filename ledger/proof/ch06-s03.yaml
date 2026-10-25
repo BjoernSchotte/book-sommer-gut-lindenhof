@@ -52,4 +52,7 @@ paragraphs:
   92c26ad2d8c0: []
   5ad01eb940fd: []
   d569d6e4c994: []
-ignored: []
+ignored:
+  - rule: FEHLERHAFTES_KOMMA_ALLG
+    quote: ", hatte"
+    paragraph: a1c748b75cc6
