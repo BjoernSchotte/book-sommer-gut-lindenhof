@@ -1,5 +1,5 @@
 source: manuscript/ch10/s03.md
-source_hash: b585f8
+source_hash: 8ebbdb
 extracted_by: bb-ingest
 gaps:
   - "Uhrzeiten fehlen: Aussprache „im späten Nachmittag“, Lampions „am Abend“; keine strukturierte Zeitangabe möglich."
@@ -281,6 +281,26 @@ items:
     about:
       - marie-albers
     tags: []
+  - kind: speech
+    who: marie-albers
+    quote: Ich liebe dich auch, Jonas.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+  - kind: relationship
+    who: marie-albers
+    quote: Ich liebe dich auch, Jonas. Seit dem Gewitter.
+    status: fact
+    about:
+      - marie-albers
+      - jonas-behrendt
+    tags: []
+    fact:
+      subject: jonas-behrendt
+      predicate: knows
+      value: Marie liebt ihn seit dem Gewitter
   - kind: event
     who: marie-albers
     quote: Sie führte ihn den Laubengang hinunter, an den roten Dahlien vorbei, bis ans Südende, wo im Juni die Brombeeren am dichtesten gestanden hatten.
