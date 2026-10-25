@@ -214,3 +214,6 @@ ignored:
   - rule: PLURAL_APOSTROPH
     quote: Maiden's
     paragraph: 908a87a680e7
+  - rule: HAKEN_HACKEN
+    quote: Hacken
+    paragraph: b26587a674bc
