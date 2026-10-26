@@ -15,40 +15,40 @@
     "at": "2026-10-25T15:04:31.340Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "71e8be",
+    "hash": "92de6f",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
-    "unit": "ch10/s03"
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/hannes-kroeger.md": {
-    "hash": "93f7ef",
+    "hash": "bf7933",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
-    "unit": "ch10/s03"
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch05/s01"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "e9338f",
+    "hash": "42d478",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
-    "unit": "ch10/s03"
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/lena-hansen.md": {
-    "hash": "356b7f",
+    "hash": "f3c663",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
-    "unit": "ch10/s03"
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "7cfd8a",
+    "hash": "d4ccec",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
-    "unit": "ch10/s03"
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "e37d00",
+    "hash": "e6b39b",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
-    "unit": "ch07/s01"
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch06/s01"
   },
   "bible/orte/arbeitszimmer.md": {
     "hash": "fe29ac",
@@ -57,10 +57,10 @@
     "unit": "ch06/s02"
   },
   "bible/orte/garten.md": {
-    "hash": "1b4cb2",
+    "hash": "87ae76",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
-    "unit": "ch10/s03"
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch06/s01"
   },
   "bible/orte/gutshaus.md": {
     "hash": "b837ac",
@@ -68,16 +68,16 @@
     "at": "2026-10-25T15:04:31.340Z"
   },
   "bible/orte/hofladen.md": {
-    "hash": "d11d95",
+    "hash": "37650f",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch08/s03"
   },
   "bible/orte/huegel.md": {
-    "hash": "29d44d",
+    "hash": "6b5c7a",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
-    "unit": "ch02/s02"
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch09/s01"
   },
   "bible/orte/lindenallee.md": {
     "hash": "eebc87",
@@ -92,9 +92,10 @@
     "unit": "ch07/s01"
   },
   "bible/orte/salon.md": {
-    "hash": "10cf40",
-    "by": "author",
-    "at": "2026-10-25T15:04:31.340Z"
+    "hash": "f8058d",
+    "by": "apply",
+    "at": "2026-10-26T20:13:36.870Z",
+    "unit": "ch04/s02"
   },
   "bible/orte/scheune.md": {
     "hash": "80f667",
@@ -168,39 +169,39 @@
     "unit": "ch04"
   },
   "ledger/knowledge/ch05.yaml": {
-    "hash": "79588e",
+    "hash": "599552",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch05"
   },
   "ledger/knowledge/ch06.yaml": {
-    "hash": "0282a4",
+    "hash": "ab383e",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch06"
   },
   "ledger/knowledge/ch07.yaml": {
-    "hash": "6be854",
+    "hash": "8d2395",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch07"
   },
   "ledger/knowledge/ch08.yaml": {
-    "hash": "8c2b92",
+    "hash": "9c5732",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch08"
   },
   "ledger/knowledge/ch09.yaml": {
-    "hash": "8f1a50",
+    "hash": "f1b56d",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch09"
   },
   "ledger/knowledge/ch10.yaml": {
-    "hash": "4a891e",
+    "hash": "d50e07",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch10"
   },
   "ledger/observations/ch01-s01.yaml": {
@@ -270,9 +271,9 @@
     "unit": "ch04/s02"
   },
   "ledger/observations/ch05-s01.yaml": {
-    "hash": "bc6199",
+    "hash": "aa5c77",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch05/s01"
   },
   "ledger/observations/ch05-s02.yaml": {
@@ -288,9 +289,9 @@
     "unit": "ch05/s03"
   },
   "ledger/observations/ch06-s01.yaml": {
-    "hash": "d22f82",
+    "hash": "b32fb6",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch06/s01"
   },
   "ledger/observations/ch06-s02.yaml": {
@@ -432,9 +433,9 @@
     "unit": "ch04/s02"
   },
   "manuscript/ch05/s01.md": {
-    "hash": "5ff2ac",
+    "hash": "4fa6e7",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch05/s01"
   },
   "manuscript/ch05/s02.md": {
@@ -450,9 +451,9 @@
     "unit": "ch05/s03"
   },
   "manuscript/ch06/s01.md": {
-    "hash": "506bb0",
+    "hash": "1f5e68",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z",
+    "at": "2026-10-26T20:13:36.870Z",
     "unit": "ch06/s01"
   },
   "manuscript/ch06/s02.md": {
@@ -547,14 +548,14 @@
     "at": "2026-10-25T15:04:31.340Z"
   },
   "marketing/pitch.md": {
-    "hash": "092a01",
+    "hash": "3e5245",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z"
+    "at": "2026-10-26T20:13:36.870Z"
   },
   "marketing/store.yaml": {
-    "hash": "9ef5d5",
+    "hash": "56ce92",
     "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z"
+    "at": "2026-10-26T20:13:36.870Z"
   },
   "marketing/titles.md": {
     "hash": "396e36",
