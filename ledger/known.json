@@ -15,16 +15,16 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "069d51",
+    "hash": "8618cf",
     "by": "apply",
-    "at": "2026-10-26T13:01:30.070Z",
-    "unit": "ch03/s03"
+    "at": "2026-10-26T13:02:34.447Z",
+    "unit": "ch04/s02"
   },
   "bible/figuren/hannes-kroeger.md": {
-    "hash": "3c4ba6",
+    "hash": "4a0270",
     "by": "apply",
-    "at": "2026-10-26T13:01:30.070Z",
-    "unit": "ch03/s03"
+    "at": "2026-10-26T13:02:34.447Z",
+    "unit": "ch04/s02"
   },
   "bible/figuren/jonas-behrendt.md": {
     "hash": "e9338f",
@@ -39,10 +39,10 @@
     "unit": "ch10/s03"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "9c6876",
+    "hash": "f16c29",
     "by": "apply",
-    "at": "2026-10-26T13:01:30.070Z",
-    "unit": "ch03/s03"
+    "at": "2026-10-26T13:02:34.447Z",
+    "unit": "ch04/s02"
   },
   "bible/figuren/ralf-steinhagen.md": {
     "hash": "878434",
@@ -92,9 +92,10 @@
     "unit": "ch07/s01"
   },
   "bible/orte/salon.md": {
-    "hash": "10cf40",
-    "by": "author",
-    "at": "2026-10-25T02:14:24.754Z"
+    "hash": "f8058d",
+    "by": "apply",
+    "at": "2026-10-26T13:02:34.447Z",
+    "unit": "ch04/s02"
   },
   "bible/orte/scheune.md": {
     "hash": "80f667",

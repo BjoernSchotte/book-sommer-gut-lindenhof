@@ -23,8 +23,8 @@ links: []
 **Grenzen:** Kein Schauplatz für Streit mit Geschrei oder für Liebesszenen; der Salon bleibt ein stiller, ein wenig förmlicher Raum. Die Krisenszene mit dem gefundenen Vorvertrag spielt im Arbeitszimmer, nicht hier.
 
 ## Verlauf
-- ch04/s02 · „Im Salon standen beide Flügeltüren zur Terrasse offen.“ · Beide Flügeltüren zur Terrasse stehen offen; das Kratzen der Schaufeln dringt herein (#20f88b)
-- ch04/s02 · „Steinhagen schob Gretes Vase ein Stück zur Seite und breitete seine Mappe auf Hedwigs ovalem Tisch aus, bis vom Mahagoni nur noch die Kante frei blieb.“ · Gretes Vase steht auf Hedwigs ovalem Mahagonitisch; Steinhagen breitet dort seine Pläne aus (#20f88b)
-- ch04/s02 · „Dann legte Steinhagen den Lageplan obenauf.“ · Hier liegt der Lageplan mit dem Parkplatz über dem Rosengarten zum ersten Mal auf dem Tisch (#20f88b)
-- ch04/s02 · „Als Jonas in den Salon zurückkam, stand Marie in der Tür zur Terrasse.“ · Marie steht mit Erde an den Händen in der Terrassentür (#20f88b)
-- ch04/s02 · „Er schob die Mappe unter den Laptop, ohne hinzusehen.“ · Jonas schiebt die Mappe auf dem Tisch unter den Laptop (#20f88b)
+- ch04/s02 · „Im Salon standen beide Flügeltüren zur Terrasse offen.“ · Beide Flügeltüren zur Terrasse stehen offen; das Kratzen der Schaufeln dringt herein (#68b6c3)
+- ch04/s02 · „Steinhagen schob Gretes Vase ein Stück zur Seite und breitete seine Mappe auf Hedwigs ovalem Tisch aus, bis vom Mahagoni nur noch die Kante frei blieb.“ · Gretes Vase steht auf Hedwigs ovalem Mahagonitisch; Steinhagen breitet dort seine Pläne aus (#68b6c3)
+- ch04/s02 · „Dann legte Steinhagen den Lageplan obenauf.“ · Hier liegt der Lageplan mit dem Parkplatz über dem Rosengarten zum ersten Mal auf dem Tisch (#68b6c3)
+- ch04/s02 · „Als Jonas in den Salon zurückkam, stand Marie in der Tür zur Terrasse.“ · Marie steht mit Erde an den Händen in der Terrassentür (#68b6c3)
+- ch04/s02 · „Er schob die Mappe unter den Laptop, ohne hinzusehen.“ · Jonas schiebt die Mappe auf dem Tisch unter den Laptop (#68b6c3)

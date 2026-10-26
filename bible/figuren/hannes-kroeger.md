@@ -101,7 +101,7 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch04/s01 · „Dann kletterte er zurück auf den Hänger, nahm die Schaufel und machte weiter.“ · Setzt die Mütze auf und schaufelt wortlos weiter (#370004)
 - ch04/s01 · „Hannes nannte knapp seinen Namen“ · Stellt sich Steinhagen knapp vor (#370004)
 - ch04/s01 · „Kalle sprang von der Ladefläche und lief zur Küchentür“ · Kalle springt vom Pick-up und läuft zu Gretes Küchentür (#370004)
-- ch04/s02 · „Kurz darauf kratzte ihre Schaufel wieder im Kies, im selben Takt wie die von Hannes.“ · Schaufelt während der Besprechung weiter Kies, Marie im selben Takt (#80692c)
+- ch04/s02 · „Kurz darauf kratzte ihre Schaufel wieder im Kies, im selben Takt wie die von Hannes.“ · Schaufelt während der Besprechung weiter Kies, Marie im selben Takt (#68b6c3)
 - ch06/s03 · „Hannes' Pick-up hielt am Hoftor, die Ladefläche voller Kartoffelkisten, und Kalle sprang herunter, bevor der Motor verstummt war.“ · Liefert mit dem Pick-up Kartoffelkisten zum Hofladen; Kalle springt sofort herunter (#e1f9c8)
 - ch06/s03 · „Der alte Hund lief einmal um den Kombi und beschnupperte die Reifen.“ · Kalle beschnuppert Jonas' Kombi (#e1f9c8)
 - ch06/s03 · „Er nahm die Mütze ab und hielt sie mit beiden Händen vor dem Bauch, die Daumen am Schirm, und drehte sie langsam.“ · Nimmt die Mütze ab und dreht sie, bevor er ernst wird (#e1f9c8)
