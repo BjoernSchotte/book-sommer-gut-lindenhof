@@ -16,10 +16,10 @@
 1. Heftroman Landleben Gutshof
 2. Rosengarten Gärtnerin Erbe
 3. Wohlfühlroman Happy End
-4. Sommerroman Schleswig-Holstein
+4. Landroman Schleswig-Holstein Seen
 5. Gegensätze ziehen sich an Romance
 6. Dorfgemeinschaft Erntefest
-7. Kurzroman Liebe auf dem Land
+7. Kurzroman Herzklopfen auf dem Land
 
 ## Kategorien
 

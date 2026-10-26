@@ -1,4 +1,4 @@
-based_on: ["ch04#b2db7e", "ch05/s01#75ad58", "ch05/s02#9a6ade", "ch05/s03#90c2a3"]
+based_on: ["ch04#b2db7e", "ch05/s01#4fa6e7", "ch05/s02#9a6ade", "ch05/s03#90c2a3"]
 characters:
   grete-paulsen:
     knows:
@@ -26,11 +26,11 @@ characters:
         from: ch04/s01
       - text: "Sie hat Jonas und Steinhagen auf der Terrasse Kaffee aus der guten Kanne mit dem Goldrand eingeschenkt und keinen Kuchen dazugestellt, obwohl sie am Morgen Butterkuchen gebacken hat."
         from: ch04/s01
-      - text: "Am Samstag Mitte Juli haben Helfer aus dem Dorf im Garten gearbeitet; sie hat drei Bleche Butterkuchen auf den Terrassentisch gestellt, damit diesmal keiner mit leerem Teller dastand, und eine zweite Kanne Kaffee gebracht."
+      - text: "Am Samstag Mitte Juli arbeiten Helfer aus dem Dorf im Garten; sie hat drei Bleche Butterkuchen auf die Terrasse gestellt, damit diesmal keiner mit leerem Teller dasteht, und eine zweite Kanne Kaffee gebracht."
         from: ch05/s01
-      - text: "Jonas hat beim Helfereinsatz mitgearbeitet; auf seine Frage, ob er bei der Helferkiste zählt, hat sie ihm zwei Flaschen Bier gegeben und die Kronkorken gleich mit abgemacht."
+      - text: "Jonas hat beim Helfersamstag mitgearbeitet; abends hat er gefragt, ob er als Helfer zählt, und sie hat ihm zwei Flaschen Bier aus der Helferkiste gegeben, die Kronkorken gleich abgemacht."
         from: ch05/s03
-      - text: "Jonas hat Sonnenbrand im Nacken; sie hat ihm Quark angeboten."
+      - text: "Jonas hat einen Sonnenbrand; sie hat ihm Quark angeboten."
         from: ch05/s03
     believes:
       - text: "Jonas will das Gut verkaufen (so sagt es Marie); das ist seine Sache, der Garten ist Maries."
@@ -46,7 +46,8 @@ characters:
       - "Dass Weidenkamp ihr bei freiwilligem Auszug eine großzügige Abfindung vorsieht und Steinhagen Jonas gebeten hat, das bei ihr anzusprechen."
       - "Dass Marie und Jonas sich seit dem Gewitter unter dem Laubengang duzen."
       - "Dass Hannes gefragt hat, ob das Erntefest auf dem Gut bleibt, und Jonas es offen gelassen hat."
-      - "Dass Marie und Jonas sich am Abend nach dem Helfersamstag auf dem Steg geküsst haben."
+      - "Dass Jonas an der Südmauer eine alte 'Ghislaine de Féligonde' freigelegt hat."
+      - "Dass Marie und Jonas sich am Abend auf dem Steg geküsst haben."
   hannes-kroeger:
     knows:
       - text: "Der Hauptweg ist frei, die Buchskanten stehen, und die 'Ghislaine' hängt wieder an ihren Bögen im Laubengang."
@@ -75,17 +76,17 @@ characters:
         from: ch04/s01
       - text: "Jonas hat dazu geschwiegen."
         from: ch04/s01
-      - text: "Am Samstag Mitte Juli kurz nach sechs ist er mit dem großen grünen Trecker und leerem Hänger zum Helfereinsatz gekommen, Kalle in der Kabine; Timo brachte das zweite Gespann mit Kies für die Seitenwege."
+      - text: "Am Samstag Mitte Juli kam er kurz nach sechs mit dem großen grünen Trecker und leerem Hänger, Kalle in der Kabine; Timo brachte das zweite Gespann voll Kies für die Seitenwege."
         from: ch05/s01
-      - text: "Jonas kam in geliehenen Gummistiefeln, eine Nummer zu groß, und wollte anfassen; er hat ihn an die Brombeeren der Südmauer westlich der Pforte geschickt."
+      - text: "Jonas kam in geliehenen Gummistiefeln, eine Nummer zu groß; er wollte anfassen, und er hat ihn an die Brombeeren an der Südmauer westlich der Pforte geschickt."
         from: ch05/s01
-      - text: "Als ein junger Feuerwehrmann an einer Rose zog, hat er über den Garten gepfiffen und klargestellt: Im Garten ist Marie die Chefin, wer das nicht weiß, fragt sie."
+      - text: "Er hat vor allen gesagt: Im Garten ist Marie die Chefin; wer das nicht weiß, fragt sie."
         from: ch05/s01
-      - text: "Jonas ist als Kind, der Lütte von Hedwig, bei ihm auf dem Hänger über die Stoppeln mitgefahren, nach der Gerste, barfuß; Hedwig hat geschimpft und musste ihn mit Kuchen vom Hänger locken."
+      - text: "Jonas ist als Junge, Hedwigs Lütten, barfuß bei ihm auf dem Hänger über die Stoppeln nach der Gerste mitgefahren; Hedwig hat geschimpft und musste ihn mit Kuchen vom Hänger locken."
         from: ch05/s02
       - text: "Jonas sagt, an den Diesel erinnere er sich noch."
         from: ch05/s02
-      - text: "Am späten Nachmittag lag die Südmauer von der Pforte nach Westen bis zum alten Geräteschuppen frei; er hat die letzte Fuhre abgefahren."
+      - text: "Bis zum späten Nachmittag ist die Südmauer von der Pforte nach Westen bis zum alten Geräteschuppen freigelegt; er hat die letzte Fuhre abgefahren."
         from: ch05/s02
       - text: "Er hat Jonas die Hand gegeben, ihn Jonas genannt und geduzt: \"Gut gemacht, Jonas. Morgen tut dir alles weh.\""
         from: ch05/s02
@@ -96,14 +97,15 @@ characters:
         from: ch03/s02
       - text: "Zwischen Marie und Jonas ist etwas."
         from: ch03/s02
-      - text: "Im Garten ist Marie die Chefin."
-        from: ch05/s01
+      - text: "Jonas hat an der Südmauer gute Arbeit gemacht."
+        from: ch05/s02
     does_not_know:
       - "Dass Jonas das Gut verkaufen will und ein Käufer bis zum Herbst sein Plan ist."
       - "Dass Weidenkamp den Parkplatz genau auf den Rosengarten legen will."
       - "Dass Weidenkamp Grete bei freiwilligem Auszug eine Abfindung vorsieht."
       - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat."
-      - "Dass Marie und Jonas sich am Abend nach dem Helfersamstag auf dem Steg geküsst haben."
+      - "Dass Jonas sich an sein Gesicht nicht erinnert hat."
+      - "Dass Marie und Jonas sich am Abend auf dem Steg geküsst haben."
   jonas-behrendt:
     knows:
       - text: "Die Gärtnerin im Rosengarten heißt Marie Albers."
@@ -184,31 +186,31 @@ characters:
         from: ch04/s02
       - text: "Steinhagen lässt ihm Zeit und meldet sich; er selbst hat nichts zu- und nichts abgesagt."
         from: ch04/s02
-      - text: "Der Lageplan liegt drinnen unter dem Laptop auf Hedwigs Tisch."
-        from: ch05/s02
       - text: "Auf Maries Frage, was Steinhagen wollte, hat er nur gesagt: \"Ein Interessent.\""
         from: ch04/s02
-      - text: "Am Samstag Mitte Juli hat er in geliehenen Gummistiefeln beim Helfereinsatz im Garten mitgearbeitet; Lena hat ihn eingetragen und den ganzen Tag gesiezt."
+      - text: "Beim Helfersamstag Mitte Juli hat er in geliehenen Gummistiefeln aus der Remise mitgearbeitet; Lena hat ihn eingetragen, Hannes hat ihn an die Brombeeren an der Südmauer westlich der Pforte geschickt."
         from: ch05/s01
-      - text: "Hannes hat ihn an die Brombeeren der Südmauer westlich der Pforte geschickt; genau dort, wo er gräbt, reihen sich im Lageplan die nummerierten Kästchen des Parkplatzes."
+      - text: "Der Laptop liegt auf Hedwigs Tisch, darunter der Lageplan; dessen nummerierte Stellplätze liegen genau dort, wo er an der Südmauer gräbt."
         from: ch05/s02
-      - text: "Laut Hannes ist er als Kind barfuß bei ihm auf dem Hänger über die Stoppeln mitgefahren, und Hedwig musste ihn mit Kuchen herunterlocken; er selbst erinnert sich an Diesel und Stroh, Hannes' Gesicht hat er nicht behalten."
+      - text: "Laut Hannes ist er als Junge barfuß bei ihm auf dem Hänger über die Stoppeln nach der Gerste mitgefahren; Hedwig hat geschimpft und ihn mit Kuchen vom Hänger gelockt. Er selbst erinnert sich an den Geruch von Diesel und Stroh, nicht an Hannes' Gesicht."
         from: ch05/s02
-      - text: "Gegen vier hat er an der Mitte der Südmauer unter den Ranken dünne Triebe gefunden, deren Blätter er von den Bögen im Laubengang kennt, und aufgehört zu ziehen; laut Marie ist es eine 'Ghislaine de Féligonde', die seit Jahren keiner mehr gesehen hat."
+      - text: "An der Mitte der Südmauer, nicht weit von der Pforte, wachsen unter den Brombeeren Triebe mit denselben kleinen, glänzenden Blättern wie an den Bögen im Laubengang; er hat aufgehört zu ziehen."
         from: ch05/s02
-      - text: "Marie hat die jungen Triebe lose mit Bast angebunden; am späten Nachmittag lag die Mauer von der Pforte bis zum alten Geräteschuppen frei."
+      - text: "Laut Marie ist es eine 'Ghislaine de Féligonde', die seit Jahren keiner mehr gesehen hat; der alte Stamm ist dick wie ein Handgelenk. Marie hat die jungen Triebe mit Bast angebunden."
         from: ch05/s02
-      - text: "Hannes hat ihm die Hand gegeben, ihn Jonas genannt und geduzt: \"Gut gemacht, Jonas.\""
+      - text: "Die Südmauer liegt von der Pforte nach Westen bis zum alten Geräteschuppen frei."
         from: ch05/s02
-      - text: "Grete hat ihm aus der Helferkiste zwei Bier gegeben und ihm Quark gegen den Sonnenbrand im Nacken angeboten."
+      - text: "Hannes hat ihm die Hand gegeben, ihn Jonas genannt und geduzt: \"Gut gemacht, Jonas. Morgen tut dir alles weh.\""
+        from: ch05/s02
+      - text: "Grete hat ihm zwei Bier aus der Helferkiste gegeben und ihm Quark für den Sonnenbrand angeboten."
         from: ch05/s03
-      - text: "Um fünf hat Lena ihn gefragt, ob er nächsten Samstag Zeit hat; er hat Ja gesagt."
+      - text: "Lena hat ihn den ganzen Tag gesiezt; um fünf hat sie gefragt, ob er nächsten Samstag Zeit hat, und er hat Ja gesagt."
         from: ch05/s03
-      - text: "Als Junge hat er am See drei Flöße aus Brettern der Remise gebaut, mit Gretes Wäscheleine verschnürt; das größte ist mitten auf dem See abgesoffen, Hedwig hat gelacht und gesagt, aus ihm werde nie ein Schiffbauer."
+      - text: "Als Junge hat er am See drei Flöße aus Brettern der Remise gebaut, mit Wäscheleine verschnürt; das letzte ist mitten auf dem See abgesoffen, Hedwig hat gelacht und gesagt, aus ihm werde nie ein Schiffbauer."
         from: ch05/s03
-      - text: "Marie und er haben sich am Abend auf dem Steg geküsst; er wollte das seit dem Gewitter, Marie auch."
+      - text: "Er und Marie haben sich am Abend auf dem Steg geküsst; er hat gesagt, das wollte er seit dem Gewitter, und Marie: \"Ich auch.\""
         from: ch05/s03
-      - text: "Marie hat ihn gefragt, ob er im Herbst noch hier ist; er hat geantwortet: \"Ich weiß es nicht.\""
+      - text: "Auf Maries Frage, ob er im Herbst noch hier ist, hat er geantwortet: \"Ich weiß es nicht.\""
         from: ch05/s03
     believes:
       - text: "Marie ist die Gärtnerin."
@@ -227,29 +229,24 @@ characters:
         from: ch03/s03
       - text: "Die Zusage zur Besichtigung ist die richtige Entscheidung, fühlt sich aber an wie ein Riss im Fundament."
         from: ch03/s03
-      - text: "Ob das, was mit Marie unter den Bögen angefangen hat, eine Last verträgt, weiß er nicht."
-        from: ch03/s03
       - text: "Mit dem Parkplatz hat er seit dem Wort Stellplatzlösung gerechnet, mit der Zeile über Gretes Abfindung nicht."
         from: ch04/s02
       - text: "Grete hat mehr geahnt als er."
         from: ch04/s02
       - text: "\"Ein Interessent\" war nicht gelogen, aber so wenig, dass es kaum Gewicht hatte; warum er Marie nicht mehr gesagt hat, weiß er selbst nicht."
         from: ch04/s02
-      - text: "Er wird auf dem Gut mitgerechnet, gehört dazu."
+      - text: "Er wird auf dem Gut mitgerechnet, gehört an diesem Ort dazu."
         from: ch05/s02
       - text: "Seit dem abgesoffenen Floß rechnet er alles zweimal."
         from: ch05/s03
-      - text: "Ob er im Herbst noch auf dem Gut ist, weiß er nicht."
-        from: ch05/s03
     does_not_know:
-      - "Dass hinter dem Laubengang unter den Brombeeren der letzte Stock der Lindenhof-Rose steht."
-      - "Dass Marie hinter dem Südende des Laubengangs die Brombeeren im Dunkeln selbst zurückgeschnitten und einen Pfahl mit leerem Schild davorgesetzt hat."
+      - "Dass hinter dem Laubengang unter den Brombeeren der letzte Stock der Lindenhof-Rose steht und Marie die Ecke im Dunkeln freigeschnitten und mit einem leeren Schild markiert hat."
       - "Dass Marie Hedwig versprochen hat, den Garten zu retten."
       - "Was Hedwig im letzten Herbst auf der Bank unter der 'New Dawn' zu Marie gesagt hat."
       - "Dass Grete Marie von Hedwigs Gartenbuch im Arbeitszimmer erzählt und es ihr gegeben hat."
       - "Dass Marie mit Lena über ihn gesprochen hat und Lena meint, Marie habe Gefühle für ihn."
       - "Dass Marie nicht wusste, von welchem Fototermin Steinhagen sprach."
-      - "Dass Marie in ihm vielleicht den barfüßigen Jungen auf der Gartenmauer wiedererkennt."
+      - "Dass Marie sich an einen Jungen auf der Gartenmauer erinnert und überlegt, ob er das war."
   lena-hansen:
     knows:
       - text: "Laut Marie stand in Jonas' Tabelle beim Laubengang 'Entsorgung' für beide Rankbögen der 'Ghislaine', die zweiundfünfzig Jahre alt sind."
@@ -262,18 +259,18 @@ characters:
         from: ch02/s03
       - text: "Marie hat zehn Eier für den nächsten Morgen gekauft und zwei Stück Butterkuchen von ihr bekommen; sie sehen sich am Freitag wieder."
         from: ch02/s03
-      - text: "Beim Helfereinsatz am Samstag Mitte Juli hat sie am Tor mit Klemmbrett die Leute abgehakt (drei Landfrauen mit Hacken, vier Mann von der Feuerwehr, die Nachbarn vom Dorfteich mit Schubkarren) und die Arbeit verteilt."
+      - text: "Beim Helfersamstag Mitte Juli hat sie am Tor die Leute auf dem Klemmbrett abgehakt (drei Landfrauen mit Hacken, vier Mann von der Feuerwehr, die Nachbarn vom Dorfteich mit Schubkarren) und die Arbeit verteilt: Wege harken, Giersch an der Westmauer, Kies schaufeln."
         from: ch05/s01
-      - text: "Marie hat jedem Rosenstock, der stehen bleiben muss, ein Namensschild gemacht, damit keiner was rausreißt."
+      - text: "Marie hat ihren Rosen Namensschilder gemacht, damit keiner was rausreißt."
         from: ch05/s01
-      - text: "Jonas ist zum Helfereinsatz gekommen; sie hat ihn eingetragen und gesiezt."
+      - text: "Jonas ist zum Helfen gekommen; sie hat ihn gesiezt und eingetragen."
         from: ch05/s01
-      - text: "Um fünf hat sie Jonas gefragt, ob er nächsten Samstag Zeit hat; er hat Ja gesagt."
+      - text: "Um fünf hat sie Jonas gefragt, ob er nächsten Samstag Zeit hat, und er hat Ja gesagt."
         from: ch05/s03
     believes:
       - text: "Marie hat Gefühle für Jonas; dass sie seit zwanzig Minuten über seine Schuhe redet, ist kein gutes oder ein sehr gutes Zeichen."
         from: ch02/s03
-      - text: "Die Landfrauen stechen Giersch, seit Marie laufen kann; Namensschilder an den Rosen braucht es für sie nicht."
+      - text: "Die Namensschilder sind unnötig: Die Landfrauen stechen Giersch, seit Marie laufen kann."
         from: ch05/s01
     does_not_know:
       - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat."
@@ -282,7 +279,7 @@ characters:
       - "Dass Marie und Jonas sich seit dem Gewitter unter dem Laubengang duzen."
       - "Dass Ralf Steinhagen von Weidenkamp Hotels Mitte Juli das Gut besichtigt hat."
       - "Dass Weidenkamp den Parkplatz auf den Rosengarten legen will."
-      - "Dass Marie und Jonas sich am Abend nach dem Helfersamstag auf dem Steg geküsst haben."
+      - "Dass Marie und Jonas sich am Abend auf dem Steg geküsst haben."
   marie-albers:
     knows:
       - text: "Der Erbe aus Hamburg kommt an diesem Tag auf das Gut."
@@ -343,29 +340,27 @@ characters:
         from: ch04/s01
       - text: "Auf ihre Frage, was Steinhagen wollte, hat Jonas gesagt: \"Ein Interessent.\""
         from: ch04/s02
-      - text: "Für den Helfereinsatz am Samstag Mitte Juli hat sie an jeden Stock, der stehen bleiben muss, vom Tor bis zur Pforte ein Pappschild mit der Sorte gehängt; die Mauerecke hinter dem Südende des Laubengangs hat sie im Dunkeln selbst von Brombeeren freigeschnitten und mit einem Pfahl und leerem Schild markiert."
+      - text: "Für den Helfersamstag hat sie an jeden Stock, der stehen bleiben muss, vom Tor bis zur Pforte ein Pappschild mit der Sorte gehängt; nur die Mauerecke hinter dem Südende des Laubengangs trägt keinen Namen. Dort hat sie im Dunkeln die Brombeeren selbst zurückgeschnitten und einen Pfahl mit leerem Schild davorgesetzt."
         from: ch05/s01
-      - text: "Jonas kam in geliehenen Gummistiefeln, Hannes schickte ihn an die Südmauer; Jonas bog fort von der Ecke am Laubengang ab und sah nicht zu ihr herüber."
+      - text: "Hannes hat Jonas an die Brombeeren an der Südmauer westlich der Pforte geschickt, fort von der Ecke am Laubengang."
         from: ch05/s01
-      - text: "Ein junger Feuerwehrmann, Ole, hat an der 'Maiden's Blush' gezogen und einen langen Trieb abgeknickt; sie hat ihn mit Hedwigs Schere eine Handbreit tiefer abgeschnitten. Die Rose lebt, aber ihr fehlt ein Arm."
+      - text: "Ole von der Feuerwehr hat an der 'Maiden's Blush' einen langen Trieb abgeknickt; sie hat ihn mit Hedwigs Schere eine Handbreit tiefer abgeschnitten. Die Rose lebt, aber ihr fehlt ein Arm."
         from: ch05/s01
-      - text: "Hannes hat vor allen klargestellt: Im Garten ist Marie die Chefin."
+      - text: "Hannes hat vor allen gesagt: Im Garten ist Marie die Chefin; wer das nicht weiß, fragt sie."
         from: ch05/s01
-      - text: "Gegen elf waren die neuen Kieswege zwischen den Buchskanten frisch geharkt bis an die Mauer; drei Landfrauen stachen den Giersch an der Westmauer."
-        from: ch05/s01
-      - text: "An der Mitte der Südmauer hat Jonas unter den Brombeeren eine 'Ghislaine de Féligonde' freigelegt, die seit Jahren keiner mehr gesehen hat; er hat aufgehört zu ziehen. Sie hat die jungen Triebe lose mit Bast angebunden."
+      - text: "An der Südmauer, nicht weit von der Pforte, hat Jonas aufgehört zu ziehen und eine 'Ghislaine de Féligonde' mit altem Stamm freigelegt; sie hat die jungen Triebe lose mit Bast angebunden."
         from: ch05/s02
-      - text: "Jonas hat zerkratzte Unterarme und Sonnenbrand im Nacken; Grete hat ihm Quark angeboten und zwei Bier aus der Helferkiste gegeben."
+      - text: "Jonas hat Sonnenbrand im Nacken und zerkratzte Unterarme; Grete hat ihm Quark angeboten und zwei Bier aus der Helferkiste gegeben."
         from: ch05/s03
-      - text: "Lena hat Jonas den ganzen Tag gesiezt und ihn um fünf für nächsten Samstag gefragt; er hat Ja gesagt."
+      - text: "Lena hat Jonas den ganzen Tag gesiezt und ihn um fünf gefragt, ob er nächsten Samstag Zeit hat; er hat Ja gesagt."
         from: ch05/s03
-      - text: "Mats hat die Bank gerichtet, die Latten neu verschraubt und das Holz glatt geschliffen."
+      - text: "Jonas hat als Junge am See Flöße aus Brettern der Remise gebaut, mit Wäscheleine verschnürt; das letzte ist mitten auf dem See abgesoffen, und Hedwig hat gesagt, aus ihm werde nie ein Schiffbauer."
         from: ch05/s03
-      - text: "Jonas hat als Junge am See Flöße aus Brettern der Remise gebaut; das größte ist mitten auf dem See abgesoffen, Hedwig hat gelacht und gesagt, aus ihm werde nie ein Schiffbauer; seitdem rechnet er alles zweimal."
+      - text: "Sie und Jonas haben sich am Abend auf dem Steg geküsst; er wollte das seit dem Gewitter, sie auch."
         from: ch05/s03
-      - text: "Jonas und sie haben sich am Abend auf dem Steg geküsst; er wollte das seit dem Gewitter, sie auch. Ihr Herzklopfen damals kam nicht vom Wetter."
+      - text: "Mats hat die Bank gerichtet, die Latten neu verschraubt, das Holz glatt geschliffen."
         from: ch05/s03
-      - text: "Auf ihre Frage, ob er im Herbst noch hier ist, hat Jonas gesagt: \"Ich weiß es nicht.\""
+      - text: "Jonas weiß nicht, ob er im Herbst noch hier ist."
         from: ch05/s03
     believes:
       - text: "Splitt auf dem Hauptweg würde den alten Kies zerstören."
@@ -388,9 +383,13 @@ characters:
         from: ch04/s01
       - text: "Nach \"Ein Interessent\" käme von Jonas noch etwas."
         from: ch04/s02
-      - text: "Lenas Siezen ist ihr Vertreterton, den sie aus dem Hofladen kennt."
+      - text: "Lena spricht mit Jonas in ihrem Vertreterton, wie mit einem Vertreter vor der Theke."
         from: ch05/s01
-      - text: "Der dünne barfüßige Junge, der früher oben auf der Gartenmauer saß, war vielleicht Jonas."
+      - text: "Die 'Ghislaine' an der Südmauer hat seit Jahren keiner mehr gesehen."
+        from: ch05/s02
+      - text: "Der dünne barfüßige Junge, den sie einmal oben auf der Gartenmauer gesehen hat, war vielleicht Jonas."
+        from: ch05/s03
+      - text: "Ihr Herzklopfen neben Jonas kam nicht vom Wetter; sie empfindet mehr für ihn als Ärger."
         from: ch05/s03
     does_not_know:
       - "Was Jonas an der bröckelnden Gartenmauer neben dem Tor so still werden ließ."
@@ -404,6 +403,7 @@ characters:
       - "Dass im Lageplan der Parkplatz genau auf dem Rosengarten liegt und nur ein paar Rosen in Kübeln bleiben sollen."
       - "Dass Weidenkamp Grete bei freiwilligem Auszug eine Abfindung vorsieht."
       - "Dass Jonas eine Kopie des Lageplans unter seinem Laptop liegen hat."
+      - "Dass Hannes sich an Jonas als Jungen auf seinem Hänger erinnert und ihm nach der Arbeit das Du angeboten hat."
   ralf-steinhagen:
     knows:
       - text: "Jonas Behrendts Nummer hat er vom Makler."
@@ -442,6 +442,6 @@ characters:
       - "Dass Marie hinter dem Laubengang unter den Brombeeren den letzten Stock der Lindenhof-Rose gefunden hat."
       - "Dass Grete sonst nie Kaffee ohne Kuchen hinstellt."
       - "Dass Jonas Marie nur \"Ein Interessent\" gesagt hat."
-      - "Dass am Samstag Mitte Juli Helfer aus dem Dorf den Garten hergerichtet haben und Jonas mitgearbeitet hat."
-      - "Dass an der Südmauer eine alte 'Ghislaine de Féligonde' freigelegt wurde."
+      - "Dass das Dorf am Samstag Mitte Juli den Garten mit freigeräumt hat und Jonas mitgearbeitet hat."
+      - "Dass an der Südmauer, wo die Stellplätze liegen sollen, eine alte 'Ghislaine de Féligonde' freigelegt wurde."
       - "Dass Marie und Jonas sich geküsst haben."

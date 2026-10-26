@@ -23,12 +23,12 @@ links: [grundlage, jonas-behrendt, marie-albers, ralf-steinhagen]
 **Grenzen:** Keine eigene Handlung jenseits von Telefonaten, Blicken und Innenschau; kein Unfall, kein Absturz, nichts Gefährliches. Der Hügel bleibt klein und freundlich, Binnenland-Weide, kein Aussichtsturm.
 
 ## Verlauf
-- ch09/s01 · „Auf keine der vier Nachrichten, die er ihr vom Hügel aus geschickt hatte, war eine Antwort gekommen.“ · Von hier schickt Jonas Marie seit Donnerstag seine Nachrichten (#4ae61e)
-- ch09/s01 · „Jonas stieg den Trampelpfad an der Scheunenwand hinauf, die Hosenbeine nass bis zu den Knien.“ · Jonas steigt am Dienstagmorgen durch nasses Gras hinauf (#4ae61e)
-- ch09/s01 · „Oben stand die Eiche dunkel im Weißen, der See unten war verschwunden.“ · Morgennebel; die Eiche dunkel im Weißen, der See unsichtbar (#4ae61e)
-- ch09/s01 · „Zwei Schritte an ihr vorbei zum Hang, dann kamen die Balken.“ · Netz erst zwei Schritte an der Eiche vorbei zum Hang hin (#4ae61e)
-- ch09/s01 · „Ich ziehe das Rücktrittsrecht“ · Ort des telefonischen Rücktritts vom Vorvertrag (#4ae61e)
-- ch09/s01 · „Als Jonas am Fuß des Hügels auf den Feldweg trat“ · Am Fuß des Hügels trifft Jonas auf dem Feldweg Hannes (#4ae61e)
+- ch09/s01 · „Auf keine der vier Nachrichten, die er ihr vom Hügel aus geschickt hatte, war eine Antwort gekommen.“ · Von hier schickt Jonas Marie seit Donnerstag seine Nachrichten (#75d690)
+- ch09/s01 · „Jonas stieg den Trampelpfad an der Scheunenwand hinauf, die Hosenbeine nass bis zu den Knien.“ · Jonas steigt am Dienstagmorgen durch nasses Gras hinauf (#75d690)
+- ch09/s01 · „Oben stand die Eiche dunkel im Weißen, der See unten war verschwunden.“ · Morgennebel; die Eiche dunkel im Weißen, der See unsichtbar (#75d690)
+- ch09/s01 · „Zwei Schritte an ihr vorbei zum Hang, dann kamen die Balken.“ · Netz erst zwei Schritte an der Eiche vorbei zum Hang hin (#75d690)
+- ch09/s01 · „Ich ziehe das Rücktrittsrecht“ · Ort des telefonischen Rücktritts vom Vorvertrag (#75d690)
+- ch09/s01 · „Als Jonas am Fuß des Hügels auf den Feldweg trat“ · Am Fuß des Hügels trifft Jonas auf dem Feldweg Hannes (#75d690)
 - ch03/s03 · „Jonas nahm den Trampelpfad an der Scheunenwand in langen Schritten.“ · Jonas steigt über den Trampelpfad an der Scheunenwand hinauf (#a79d36)
 - ch03/s03 · „Der Hügel hinter der Scheune war kaum höher als ihr Dach, aber hier oben hatte er Netz, und hier oben war er allein.“ · Kaum höher als das Scheunendach; Netz und Alleinsein (#a79d36)
 - ch03/s03 · „Am Knick rauschte die Eiche, und der Wind fuhr ihm ins Hemd, kräftiger als zwischen den Gartenmauern.“ · Eiche am Knick; Wind stärker als im Garten (#a79d36)

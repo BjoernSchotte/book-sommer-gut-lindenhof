@@ -32,7 +32,6 @@ paragraphs:
         - Gallier
   52e3955d776a: []
   18855f10cbd0: []
-  a6e6d1b4a4a1: []
   2625f39cb709:
     - rule: GERMAN_SPELLER_RULE
       category: TYPOS
@@ -49,7 +48,6 @@ paragraphs:
         - Dan
   4ba1a5c0bd66: []
   72da2f1eba58: []
-  9354aeab66f7: []
   5ef35e834cae: []
   5b4904bf4fc9: []
   157a47054db4: []
@@ -85,14 +83,16 @@ paragraphs:
   fc73b89f247a: []
   c04c2e177478: []
   fe9a2b4913ce: []
-  d4f25dcd7957: []
-  c415feedb296: []
   245dedb1083d: []
-  944783f287ee: []
   db08739cb17e: []
   30f62ff4102d: []
   8d3b99b751c4: []
   31d4347ccc02: []
   1c9120d858e0: []
   be7267fa5f24: []
+  d07391961c59: []
+  72cecbbb5a9d: []
+  84d88d515c15: []
+  6cdbf61113ac: []
+  616f9a6b12f0: []
 ignored: []

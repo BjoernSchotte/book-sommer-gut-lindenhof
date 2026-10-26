@@ -1,5 +1,5 @@
 source: manuscript/ch05/s01.md
-source_hash: 75ad58
+source_hash: 4fa6e7
 extracted_by: bb-ingest
 gaps:
   - Ob dies der Sonnabend ist, für den Hannes in ch03/s02 den Trecker um halb acht zugesagt hat, bleibt offen; hier kommt er schon kurz nach sechs (Anfang Juli zugesagt, jetzt Mitte Juli).
@@ -7,10 +7,12 @@ gaps:
   - Ob Jonas und Marie an diesem Vormittag miteinander sprechen, bleibt offen; Jonas sieht nicht zu ihr herüber.
   - Absatz 1 und 20 nennen nicht, was in der namenlosen Mauerecke hinter dem Südende des Laubengangs steht; laut Wiki (garten, Fest) ist es die letzte Lindenhof-Rose. Der Text lässt es offen.
   - Absatz 20 sagt nicht, warum Marie Jonas nachsieht und schweigt (Schutz der Ecke vor ihm/den Helfern ist nur angedeutet).
+  - Absatz 1 nennt nicht, was in der namenlosen Mauerecke hinter dem Südende des Laubengangs steht; laut Wiki (garten, Fest) die letzte Lindenhof-Rose. Der Text lässt es offen.
+  - Absatz 1 sagt nicht, warum Marie gerade diese Ecke ohne Namen lässt.
 items:
   - kind: event
     who: marie-albers
-    quote: Marie zog den Bast fest, und das Pappschild drehte sich an der 'Rosa Mundi' einmal um sich selbst.
+    quote: Das Pappschild drehte sich an der ‚Rosa Mundi‘ einmal um sich selbst, als Marie den Bast festzog.
     status: fact
     about:
       - marie-albers
@@ -100,6 +102,15 @@ items:
       - lena-hansen
       - garten
     tags: []
+  - kind: event
+    who: lena-hansen
+    quote: Ihr Blick ging an Marie vorbei zur ‚New Dawn‘, an der ein Pappschild baumelte, und kam wieder zurück.
+    status: fact
+    about:
+      - lena-hansen
+      - marie-albers
+      - garten
+    tags: []
   - kind: speech
     who: lena-hansen
     quote: Du hast deinen Rosen Namensschilder gemacht?
@@ -153,7 +164,7 @@ items:
     tags: []
   - kind: speech
     who: lena-hansen
-    quote: Ihr drei harkt die Wege. Ihr nehmt den Giersch an der Westmauer. Die Feuerwehr schaufelt Kies, ihr habt die Arme dafür.
+    quote: Ihr vom Dorfteich harkt die Wege. Ihr Landfrauen nehmt den Giersch an der Westmauer. Die Feuerwehr schaufelt Kies, ihr habt die Arme dafür.
     status: claim
     about:
       - lena-hansen
@@ -167,7 +178,7 @@ items:
     tags: []
   - kind: event
     who: grete-paulsen
-    quote: Grete kam die Freitreppe herunter und stellte zwei Bleche Butterkuchen auf den Terrassentisch.
+    quote: Grete trat aus den Flügeltüren auf die Terrasse und stellte zwei Bleche Butterkuchen auf den Tisch.
     status: fact
     about:
       - grete-paulsen
@@ -443,7 +454,15 @@ items:
     tags: []
   - kind: narrator_claim
     who: marie-albers
-    quote: Seit Juni hatte Marie hier jeden Morgen allein gekniet.
+    quote: Seit Juni hatte Marie hier fast jeden Morgen allein gekniet.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
+  - kind: narrator_claim
+    who: marie-albers
+    quote: Drei Schubkarren am ersten Tag, dann vier, und jede Nacht hatte der Giersch neue weiße Wurzeln geschoben.
     status: fact
     about:
       - marie-albers
@@ -461,6 +480,14 @@ items:
     status: fact
     about:
       - marie-albers
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Neben ihr an der ‚Rosa Mundi‘ drehte sich das Pappschild im Wind.
+    status: fact
+    about:
+      - marie-albers
+      - garten
     tags: []
   - kind: event
     who: marie-albers
