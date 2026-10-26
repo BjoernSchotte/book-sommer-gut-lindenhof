@@ -1,11 +1,14 @@
 source: manuscript/ch06/s01.md
-source_hash: 52ef43
+source_hash: 1f5e68
 extracted_by: bb-ingest
 gaps:
   - Ob Jonas tatsächlich auf dem Hügel unter der Eiche steht, ist nur Maries Schluss und Vorstellung.
   - Ob „schon um neun“ den Szenenbeginn markiert oder die Hitze dieser Tage allgemein beschreibt, lässt der Satz offen; als Szenenzeit 09:00 verankert.
   - Warum die Rosmarinstöcke der Mutter seit dem letzten Winter bei Marie stehen und ob sie zurückgehen, lässt der Absatz offen.
   - Welche Sorten die Büsche am Rondell mit den welken Köpfen sind, sagt Absatz 6 nur als „Gleiche Familie“; dass sie einmalblühend sind, folgt aus dem Zusammenhang, nicht wörtlich.
+  - "Absatz 11: Ob der Fototermin des Maklers Ende Juli stattfand oder abgesagt wurde, lässt „war seitdem keine Rede mehr“ offen."
+  - "Absatz 26/8: Die Dahlien sind noch nicht gepflanzt, nur die Pflanzlöcher geritzt; wann sie in die Erde kommen, bleibt offen."
+  - "Absatz 27: Dass die Brombeeren in der Mauerecke fort sind, sagt der Absatz nicht mehr wörtlich, nur „Das Licht kam jetzt bis an den Boden“."
 items:
   - kind: event
     who: marie-albers
@@ -84,7 +87,7 @@ items:
     tags: []
   - kind: event
     who: jonas-behrendt
-    quote: Jonas sah hinüber, als zählte er die Früchte im Voraus.
+    quote: Jonas zählte die Büsche ab, als stünden die Früchte schon da.
     status: fact
     about:
       - jonas-behrendt
@@ -109,9 +112,16 @@ items:
     about:
       - garten
     tags: []
+  - kind: event
+    who: marie-albers
+    quote: Marie stand auf und streckte den Rücken.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
   - kind: knowledge_gain
     who: jonas-behrendt
-    quote: Glanz im September ist was anderes. Die 'New Dawn' blüht nach. Davor Lavendel und Katzenminze, Frauenmantel an den Kanten, Astern. Und am Laubengang Dahlien, in Reihen.
+    quote: Glanz im September ist was anderes. Die ‚New Dawn‘ blüht nach. Davor Lavendel und Katzenminze, Frauenmantel an den Kanten, Astern. Und am Laubengang Dahlien, in Reihen.
     status: fact
     about:
       - jonas-behrendt
@@ -122,6 +132,34 @@ items:
       subject: jonas-behrendt
       predicate: knows
       value: Glanz im September heißt Nachblüte, Stauden, Dahlien, nicht Junibild
+  - kind: event
+    who: jonas-behrendt
+    quote: Er lächelte.
+    status: fact
+    about:
+      - jonas-behrendt
+    tags: []
+  - kind: narrator_claim
+    quote: Vom Fotografen, den Steinhagen im Juli erwähnt hatte, war seitdem keine Rede mehr.
+    status: fact
+    about:
+      - ralf-steinhagen
+      - garten
+    tags: []
+  - kind: place_fact
+    quote: Die Stauden warteten in schwarzen Töpfen am Wegrand
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Marie hatte die Pflanzlöcher mit der Spatenspitze in die Erde geritzt.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+    tags: []
   - kind: event
     who: jonas-behrendt
     quote: Jonas zog einen Zollstock aus der Gesäßtasche und klappte ihn auf.
@@ -173,7 +211,7 @@ items:
       - garten
     tags: []
   - kind: place_fact
-    quote: Sie stellte beides auf die Bank unter der Kletterrose, wo die 'New Dawn' schon wieder feste kleine Knospen schob.
+    quote: Sie stellte beides auf die Bank unter der Kletterrose, wo die ‚New Dawn‘ schon wieder feste kleine Knospen schob.
     status: fact
     about:
       - garten
@@ -261,21 +299,35 @@ items:
       - jonas-behrendt
       - garten
     tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: Marie nahm die Gießkanne.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
   - kind: place_fact
-    quote: Marie nahm die Gießkanne und ging den Laubengang hinunter, an den jungen Dahlien vorbei, bis an sein Südende.
+    who: marie-albers
+    quote: Am Laubengang, wo die Pflanzlöcher für die Dahlien schon geritzt waren, ging sie bis ans Südende.
     status: fact
     about:
       - garten
       - marie-albers
     tags: []
   - kind: place_fact
-    quote: In der Mauerecke stand der alte Stock der Lindenhof-Rose, kniehoch und krumm. Die Brombeeren waren fort, und das Licht kam bis an den Boden.
+    quote: In der Mauerecke stand der alte Stock der Lindenhof-Rose, kniehoch und krumm. Das Licht kam jetzt bis an den Boden.
     status: fact
     about:
       - garten
     tags: []
   - kind: event
-    quote: Unten, dicht über der Erde, schoben sich zwei neue Triebe aus dem Holz, rötlich und weich, kaum fingerlang.
+    quote: Die Knospe vom Juni war im Schatten der Brombeeren vertrocknet und abgefallen.
+    status: fact
+    about:
+      - garten
+    tags: []
+  - kind: event
+    quote: Dafür schoben sich unten, dicht über der Erde, zwei neue Triebe aus dem Holz, rötlich und weich.
     status: fact
     about:
       - garten
@@ -287,6 +339,15 @@ items:
     about:
       - marie-albers
       - garten
+    tags: []
+  - kind: event
+    who: marie-albers
+    quote: Auch mit leerer Kanne blieb sie stehen und legte die Hand an die warme Mauer, bis hinten am Schuppen das Rad der Schubkarre quietschte.
+    status: fact
+    about:
+      - marie-albers
+      - garten
+      - jonas-behrendt
     tags: []
   - kind: time
     quote: Am Abend in Klein Lindau hing die Tageshitze noch im Hinterhof der alten Schmiede.
@@ -311,7 +372,14 @@ items:
       value: Hinterhof der alten Schmiede, Klein Lindau
   - kind: object_fact
     who: marie-albers
-    quote: Ganz hinten an der Wand, im Schatten, standen drei kleine Töpfe unter Folie.
+    quote: Im Schatten an der hinteren Wand standen drei Töpfe unter Folie.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
+  - kind: object_fact
+    who: marie-albers
+    quote: Darunter warteten die Stecklinge der Lindenhof-Rose.
     status: fact
     about:
       - marie-albers
@@ -327,6 +395,13 @@ items:
       subject: marie-albers
       predicate: has_object
       value: zwei lebende Stecklinge der Lindenhof-Rose
+  - kind: event
+    who: marie-albers
+    quote: Sie zog ihn heraus und hielt ihn eine Weile in der Hand.
+    status: fact
+    about:
+      - marie-albers
+    tags: []
   - kind: event
     who: marie-albers
     quote: Dann legte sie ihn auf den Kompost und die Folie zurück über die beiden anderen, sorgfältig, an allen vier Ecken.

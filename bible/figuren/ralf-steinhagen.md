@@ -136,3 +136,4 @@ Steinhagen hat keinen eigenen Bogen. Er kommt im Juli freundlich mit einem Angeb
 - ch07/s01 · „Hier war er nicht.“ · Jonas verschweigt Grete das Treffen mit ihm: auf dem Gut sei er nicht gewesen (#0a3d63)
 - ch07/s01 · „als Steinhagen anbot, ihm Bedenkzeit in den Vertrag zu schreiben“ · Hat Jonas am Montag angeboten, ihm Bedenkzeit in den Vorvertrag zu schreiben; daraufhin sagte Jonas den Notartermin zu (#0a3d63)
 - ch07/s01 · „Unterschrieb er heute, zahlte Weidenkamp eine Anzahlung, und die reichte den Partnern als Sicherheit.“ · Nach Jonas' Rechnung zahlt Weidenkamp bei Unterschrift eine Anzahlung (#0a3d63)
+- ch06/s01 · „Vom Fotografen, den Steinhagen im Juli erwähnt hatte, war seitdem keine Rede mehr.“ · Von dem Fotografen, den er im Juli erwähnte, ist Ende Juli keine Rede mehr (#1f5e68)

@@ -15,10 +15,10 @@
     "at": "2026-10-24T13:57:05.637Z"
   },
   "bible/figuren/grete-paulsen.md": {
-    "hash": "5c6dfe",
+    "hash": "92de6f",
     "by": "apply",
-    "at": "2026-10-26T16:33:33.591Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-26T17:39:13.015Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/hannes-kroeger.md": {
     "hash": "bf7933",
@@ -27,28 +27,28 @@
     "unit": "ch05/s01"
   },
   "bible/figuren/jonas-behrendt.md": {
-    "hash": "c2797f",
+    "hash": "42d478",
     "by": "apply",
-    "at": "2026-10-26T16:33:33.591Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-26T17:39:13.015Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/lena-hansen.md": {
-    "hash": "ffe51b",
+    "hash": "f3c663",
     "by": "apply",
-    "at": "2026-10-26T16:33:33.591Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-26T17:39:13.015Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/marie-albers.md": {
-    "hash": "46e3e1",
+    "hash": "d4ccec",
     "by": "apply",
-    "at": "2026-10-26T16:33:33.591Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-26T17:39:13.015Z",
+    "unit": "ch06/s01"
   },
   "bible/figuren/ralf-steinhagen.md": {
-    "hash": "7b62ff",
+    "hash": "e6b39b",
     "by": "apply",
-    "at": "2026-10-26T13:08:19.716Z",
-    "unit": "ch09/s01"
+    "at": "2026-10-26T17:39:13.015Z",
+    "unit": "ch06/s01"
   },
   "bible/orte/arbeitszimmer.md": {
     "hash": "fe29ac",
@@ -57,10 +57,10 @@
     "unit": "ch06/s02"
   },
   "bible/orte/garten.md": {
-    "hash": "d031d2",
+    "hash": "87ae76",
     "by": "apply",
-    "at": "2026-10-26T16:33:33.591Z",
-    "unit": "ch05/s01"
+    "at": "2026-10-26T17:39:13.015Z",
+    "unit": "ch06/s01"
   },
   "bible/orte/gutshaus.md": {
     "hash": "b837ac",
@@ -289,9 +289,9 @@
     "unit": "ch05/s03"
   },
   "ledger/observations/ch06-s01.yaml": {
-    "hash": "d22f82",
+    "hash": "b32fb6",
     "by": "apply",
-    "at": "2026-10-24T22:49:49.459Z",
+    "at": "2026-10-26T17:39:13.015Z",
     "unit": "ch06/s01"
   },
   "ledger/observations/ch06-s02.yaml": {
