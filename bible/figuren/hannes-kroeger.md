@@ -123,7 +123,7 @@ Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und 
 - ch07/s02 · „Der Pick-up wendete auf dem Hof und rollte die Lindenallee hinunter, bis die Stämme ihn verdeckten.“ · Fährt die Lindenallee hinunter (#3f30b8)
 - ch08/s01 · „Am Tag darauf hatte Hannes am Tor die Mütze in den Händen gedreht und nach der Antwort gefragt.“ · Fragte am Tag nach der Unterschrift am Tor nach der Antwort (Rückblick aus Maries Sicht) (#b935f5)
 - ch08/s03 · „Und von dem „dieses Jahr“, das Hannes vor zwei Wochen am Tor zu hören bekommen hatte“ · Bekam vor zwei Wochen am Tor die Zusage „dieses Jahr“ (Rückblick, Maries Erzählung) (#f83e7f)
-- ch08/s03 · „Morgen früh ruf ich Hannes an“ · Lena will ihn anrufen; Marie hält sie davon ab (#f83e7f)
+- ch08/s03 · „Morgen früh ruf ich Hannes an“ · Lena will ihn anrufen; Marie hält sie davon ab (#450efc)
 - ch10/s02 · „Zwei Butter, ein Bienenstich für Tisch vier“ · Seine Frau Anke teilt in der Scheune die Kuchen aus (#43ff06)
 - ch10/s02 · „an Kalle vorbei, der unter einem Tisch auf Abfall wartete.“ · Kalle wartet in der Scheune unter einem Tisch auf Abfall (#43ff06)
 - ch10/s02 · „aus Hannes' Ausschusskiste“ · Fotos für Lenas Ausstellung stammen auch aus seiner Ausschusskiste (#43ff06)
