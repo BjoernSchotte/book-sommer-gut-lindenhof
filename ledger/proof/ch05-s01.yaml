@@ -1,6 +1,5 @@
 tool: languagetool 6.8
 paragraphs:
-  c488bcdd4caa: []
   e725bf7f37a5: []
   b26587a674bc:
     - rule: GERMAN_SPELLER_RULE
@@ -77,22 +76,7 @@ paragraphs:
         - Zwerg
   bfc987855de3: []
   63ca18b64473: []
-  d4e20123d516:
-    - rule: GERMAN_SPELLER_RULE
-      category: TYPOS
-      at:
-        - 40
-        - 47
-      quote: Giersch
-      message: Möglicher Tippfehler gefunden.
-      replacements:
-        - Georg
-        - Gierig
-        - Geruch
-        - Hirsch
-        - Zwerg
   a68214a36f6e: []
-  d5766bab28cd: []
   861c5a9d958f: []
   6d342330250a: []
   a09014d3739b: []
@@ -194,12 +178,15 @@ paragraphs:
         - Zuguckenden
   2e2708d9ede8: []
   46b41808037a: []
-  8bc838f0cdbc:
+  b958f8c7abd5: []
+  0b63a97d379a: []
+  a1cb90a8f876: []
+  e91bfb60b717:
     - rule: GERMAN_SPELLER_RULE
       category: TYPOS
       at:
-        - 124
-        - 131
+        - 60
+        - 67
       quote: Giersch
       message: Möglicher Tippfehler gefunden.
       replacements:
@@ -208,8 +195,21 @@ paragraphs:
         - Geruch
         - Hirsch
         - Zwerg
-  b958f8c7abd5: []
-  0b63a97d379a: []
+  3962fef9684e: []
+  e1d7a3ee8250:
+    - rule: GERMAN_SPELLER_RULE
+      category: TYPOS
+      at:
+        - 129
+        - 136
+      quote: Giersch
+      message: Möglicher Tippfehler gefunden.
+      replacements:
+        - Georg
+        - Gierig
+        - Geruch
+        - Hirsch
+        - Zwerg
 ignored:
   - rule: PLURAL_APOSTROPH
     quote: Maiden's
