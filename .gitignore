@@ -1,3 +1,5 @@
 build/
 .bookbench/
 ledger/timeline.json
+# Claude-Code-Skills und -Agents von bookbench: Werkzeug, nicht Buch
+.claude/
