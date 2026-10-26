@@ -78,8 +78,8 @@ links: [marie-albers, jonas-behrendt, grete-paulsen, lena-hansen, ralf-steinhage
 Hannes hat keinen großen eigenen Bogen; er ist das Dorf, das wartet, hilft und fragt. Leise wandelt er sich vom Mann, der am Gewohnten festhält und dem Städter misstraut, zum Nachbarn, der Jonas aufnimmt und erkennt, dass das Fest auf dem Gut bleibt, weil Menschen es tragen, nicht weil es immer so war. Am Erntefest fährt Jonas den alten Trecker mit der Erntekrone durch die Lindenallee, und Hannes geht daneben, die Mütze in der Hand.
 
 ## Verlauf
-- ch03/s03 · „Er hatte nur einmal genickt und die Mütze wieder aufgesetzt, und das wog schwerer als jede zweite Frage.“ · Sein stummes Nicken nach der Erntefest-Frage wiegt für Jonas schwerer als Nachfragen (#26e365)
-- ch03/s03 · „Drüben, jenseits des Feldes, stand die Scheune vom Kröger-Hof, das große Tor offen, davor ein Trecker in der Sonne.“ · Scheune des Kröger-Hofs ist vom Hügel aus jenseits des Feldes zu sehen, Trecker davor (#26e365)
+- ch03/s03 · „Er hatte nur einmal genickt und die Mütze wieder aufgesetzt, und das wog schwerer als jede zweite Frage.“ · Sein stummes Nicken nach der Erntefest-Frage wiegt für Jonas schwerer als Nachfragen (#51001a)
+- ch03/s03 · „Drüben, jenseits des Feldes, stand die Scheune vom Kröger-Hof, das große Tor offen, davor ein Trecker in der Sonne.“ · Scheune des Kröger-Hofs ist vom Hügel aus jenseits des Feldes zu sehen, Trecker davor (#51001a)
 - ch03/s02 · „Hannes Kröger stieg aus dem Pick-up, bevor der Motor ganz verstummt war.“ · Kommt morgens im verbeulten Pick-up mit Hund Kalle auf der Ladefläche aufs Gut (#4f7a40)
 - ch03/s02 · „Mit einem Satz war der alte Hund unten und lief schnurstracks über den Hof zu Gretes Küchentür“ · Kalle läuft sofort zu Gretes Küchentür (#4f7a40)
 - ch03/s02 · „Dat löppt, Deern“ · Lobt Marie für den Garten und nennt sie „Deern“ (#4f7a40)

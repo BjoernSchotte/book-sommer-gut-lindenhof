@@ -96,7 +96,7 @@ Grete hat keinen großen eigenen Bogen; sie ist die Konstante des Hauses. Leise 
 - ch03/s01 · „Jeden Dienstag und jeden Freitag. Grete hat Buch geführt, auf der Rückseite vom Kalender.“ · Gab den Kuchenlohn dienstags und freitags und führte auf der Kalenderrückseite Buch; wer schummelte, bekam nur den Rand (#e9dc82)
 - ch03/s02 · „zu Gretes Küchentür, wo es um diese Zeit Kuchenränder gab“ · An ihrer Küchentür gibt es morgens Kuchenränder; Hannes' Hund Kalle läuft sofort dorthin (#f75981)
 - ch03/s02 · „Grete sagt, du nimmst Milch.“ · Hat Jonas gesagt, dass Marie Kaffee mit Milch nimmt (#f75981)
-- ch03/s03 · „Grete hatte ihm das Mittagessen ohne ein Wort hingestellt.“ · Stellt Jonas nach Hannes' Frage das Mittagessen wortlos hin (#26e365)
+- ch03/s03 · „Grete hatte ihm das Mittagessen ohne ein Wort hingestellt.“ · Stellt Jonas nach Hannes' Frage das Mittagessen wortlos hin (#51001a)
 - ch04/s02 · „Steinhagen schob Gretes Vase ein Stück zur Seite“ · Ihre Vase steht auf Hedwigs Tisch im Salon (#20f88b)
 - ch04/s02 · „Frau Paulsen hat ein lebenslanges Wohnrecht.“ · Ihr lebenslanges Wohnrecht bleibt laut Steinhagen bestehen; die Hotelgruppe sieht eine Abfindung bei freiwilligem Auszug vor (#20f88b)
 - ch04/s02 · „Grete hatte ihm in all den Kindersommern keine Tasse ohne Kuchen hingestellt, bis heute Morgen.“ · Hat Jonas am Morgen erstmals Kaffee ohne Kuchen hingestellt (#20f88b)
