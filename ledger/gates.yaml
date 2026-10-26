@@ -3,7 +3,7 @@
   by: factory:kuestenherzen
   inputs:
     BRIEF.md: 773c4f
-    book.yaml: f2b6f1
+    book.yaml: "b6fe20"
   hold: error
   findings:
     error: 0
