@@ -10,7 +10,7 @@ Ein Sommer in der Holsteinischen Schweiz: Die Gärtnerin Marie Albers soll den v
 
 - **Marie Albers**, Ende zwanzig, selbständige Gärtnerin aus Klein Lindau, bodenständig, eigensinnig, liebt alte Rosen; kämpft vor allem um die letzte Lindenhof-Rose, Hedwigs eigene Züchtung.
 - **Jonas Behrendt**, Mitte dreißig, Bauingenieur aus Hamburg, Großneffe Hedwigs; hat die Kindersommer auf dem Gut verdrängt und denkt in Budgets und Meilensteinen.
-- **Grete Paulsen**, Haushälterin mit Wohnrecht, Herz des Hauses, hütet Hedwigs Gartenbuch und Erinnerungen.
+- **Grete Paulsen**, Anfang siebzig, Haushälterin mit lebenslangem Wohnrecht, Herz des Hauses, hütet Hedwigs Gartenbuch und Erinnerungen.
 - **Hannes Kröger**, Nachbarbauer und Sprecher des Erntefest-Ausschusses; steht für das Dorf.
 - **Lena Hansen**, Maries beste Freundin mit Hofladen, leichter Humor, bringt das Dorf zum Helfen zusammen.
 - **Ralf Steinhagen**, Projektentwickler von Weidenkamp Hotels, glatt und höflich, kein Bösewicht; will ein Wellnesshotel, der Rosengarten soll Parkplatz werden.
@@ -21,7 +21,7 @@ Ein Sommer in der Holsteinischen Schweiz: Die Gärtnerin Marie Albers soll den v
 
 **Akt 2 (Juli bis Mitte August):** Steinhagen nennt den Garten „die Fläche“ und legt Jonas einen Lageplan vor, der Parkplatz liegt auf dem Rosengarten. Jonas sagt Marie nur, es gebe „einen Interessenten“. Das Dorf packt im Garten an, Jonas lädt Brombeeren auf den Hänger und spürt, dass er dazugehören könnte; am Steg küssen sich Marie und Jonas. In Hedwigs Notizen findet er, dass er als Kind beim ersten Steckling der Lindenhof-Rose geholfen hat. Unter dem Druck seines Büros unterschreibt er beim Notar einen Vorvertrag mit Rücktrittsrecht – und schweigt.
 
-**Akt 3 (Ende August bis 5. September):** Marie findet Vorvertrag und Lageplan. Nicht der Garten, sein Schweigen trifft sie; sie geht. Grete gibt Jonas die Dose mit seinen Kinderbriefen an Hedwig, die Entscheidung trifft er allein.
+**Akt 3 (Ende August bis 5. September):** Marie findet Vorvertrag und Lageplan. Nicht der Garten, sein Schweigen trifft sie; sie geht. Grete bittet um Verzeihung, weil sie etwas geahnt hat, und Marie erzählt Lena endlich, was Hedwig ihr auf der Bank gesagt hat. Grete gibt Jonas die Dose mit seinen Kinderbriefen an Hedwig, die Entscheidung trifft er allein.
 
 ## Ende
 

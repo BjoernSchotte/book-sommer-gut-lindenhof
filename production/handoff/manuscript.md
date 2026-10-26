@@ -786,7 +786,7 @@ Warum hatte er ihr nicht mehr gesagt?
 
 # Brombeeren auf dem Hänger
 
-Marie zog den Bast fest, und das Pappschild drehte sich an der ‚Rosa Mundi‘ einmal um sich selbst. Sie hatte die Sorten in Druckbuchstaben geschrieben, lesbar für jeden, der in Eile war. An jedem Stock, der stehen bleiben musste, hing jetzt so ein Zettel, vom Tor bis zur Pforte. Nur die Mauerecke hinter dem Südende des Laubengangs trug keinen Namen. Dort hatte sie im Dunkeln die Brombeeren selbst zurückgeschnitten und einen Pfahl mit einem leeren Schild davorgesetzt. Geschlafen hatte sie kaum. Um vier hatte sie aufgehört, es zu versuchen, und Pappe zugeschnitten.
+Das Pappschild drehte sich an der ‚Rosa Mundi‘ einmal um sich selbst, als Marie den Bast festzog. Sie hatte die Sorten in Druckbuchstaben geschrieben, lesbar für jeden, der in Eile war. An jedem Stock, der stehen bleiben musste, hing jetzt so ein Zettel, vom Tor bis zur Pforte. Nur die Mauerecke hinter dem Südende des Laubengangs trug keinen Namen. Dort hatte sie im Dunkeln die Brombeeren selbst zurückgeschnitten und einen Pfahl mit einem leeren Schild davorgesetzt. Geschlafen hatte sie kaum. Um vier hatte sie aufgehört, es zu versuchen, und Pappe zugeschnitten.
 
 Es war Samstag, Mitte Juli, kurz nach sechs. Von den Feldern hinter der Allee zog Heugeruch über die Mauer, und der Tau machte die Schilder weich.
 
@@ -804,11 +804,11 @@ Aus der Lindenallee kam ein tiefes Brummen. Hannes rollte mit dem großen grüne
 
 Lena verteilte die Leute, wie sie im Laden Kisten packte.
 
-„Ihr drei harkt die Wege. Ihr nehmt den Giersch an der Westmauer. Die Feuerwehr schaufelt Kies, ihr habt die Arme dafür.“
+„Ihr vom Dorfteich harkt die Wege. Ihr Landfrauen nehmt den Giersch an der Westmauer. Die Feuerwehr schaufelt Kies, ihr habt die Arme dafür.“
 
 Mats trug zwei Werkzeugkisten quer durch den Garten zur Bank unter der Kletterrose. Er strich mit dem Daumen über das graue Holz, wo die weiße Farbe in Fetzen hing, und zog den ersten Schraubenzieher aus der Tasche.
 
-Grete kam die Freitreppe herunter und stellte zwei Bleche Butterkuchen auf den Terrassentisch. Dann ging sie noch einmal hinein und holte ein drittes, damit diesmal keiner mit leerem Teller dastand.
+Grete trat aus den Flügeltüren auf die Terrasse und stellte zwei Bleche Butterkuchen auf den Tisch. Dann ging sie noch einmal hinein und holte ein drittes, damit diesmal keiner mit leerem Teller dastand.
 
 Aus der Remise kam Jonas, in den geliehenen Gummistiefeln, die Ärmel schon aufgekrempelt. Lena hob das Klemmbrett ein Stück und lächelte ihm entgegen.
 
@@ -860,7 +860,7 @@ Die neuen Kieswege leuchteten hell zwischen den Buchskanten, frisch geharkt bis 
 
 „Den will Kalle!“, rief Lena zurück. Sie lachte, und an Gretes Küchentür bellte Kalle.
 
-Seit Juni hatte Marie hier jeden Morgen allein gekniet. Drei Schubkarren am ersten Tag, dann vier, und jede Nacht hatte der Giersch neue weiße Wurzeln geschoben. Jetzt stachen ihn drei Landfrauen an der Westmauer im selben Takt, und keine sah dabei auf.
+Seit Juni hatte Marie hier fast jeden Morgen allein gekniet. Drei Schubkarren am ersten Tag, dann vier, und jede Nacht hatte der Giersch neue weiße Wurzeln geschoben. Jetzt stachen ihn drei Landfrauen an der Westmauer im selben Takt, und keine sah dabei auf.
 
 Marie schluckte. Etwas saß ihr eng im Hals. Sie hielt sich am Sockel fest, bis es sich setzte. Von der Terrasse zog Butterkuchenduft herüber, darunter noch der Heugeruch vom Morgen.
 
@@ -1034,7 +1034,7 @@ Die Schubkarre knirschte heran. Jonas schob sie in den geliehenen Gummistiefeln,
 
 „Gleiche Familie. Die bleiben, wie sie sind, und setzen Hagebutten an. Im September hängen sie voll davon, rot wie kleine Laternen.“
 
-Jonas sah hinüber, als zählte er die Früchte im Voraus. „Ich dachte, zum Fest sieht hier alles aus wie im Juni.“
+Jonas zählte die Büsche ab, als stünden die Früchte schon da. „Ich dachte, zum Fest sieht hier alles aus wie im Juni.“
 
 „Das Junibild kommt nicht wieder.“ Marie stand auf und streckte den Rücken. „Glanz im September ist was anderes. Die ‚New Dawn‘ blüht nach. Davor Lavendel und Katzenminze, Frauenmantel an den Kanten, Astern. Und am Laubengang Dahlien, in Reihen.“
 
@@ -1042,7 +1042,7 @@ Jonas sah hinüber, als zählte er die Früchte im Voraus. „Ich dachte, zum Fe
 
 „So viele, wie in dein Budget passen.“
 
-Er lächelte. Die Stauden warteten in schwarzen Töpfen am Wegrand, und Marie hatte die Pflanzlöcher mit der Spatenspitze in die Erde geritzt. Jonas zog einen Zollstock aus der Gesäßtasche und klappte ihn auf.
+Er lächelte. Vom Fotografen, den Steinhagen im Juli erwähnt hatte, war seitdem keine Rede mehr. Die Stauden warteten in schwarzen Töpfen am Wegrand, und Marie hatte die Pflanzlöcher mit der Spatenspitze in die Erde geritzt. Jonas zog einen Zollstock aus der Gesäßtasche und klappte ihn auf.
 
 „Das ist nicht dein Ernst.“
 
@@ -1072,13 +1072,13 @@ Jonas setzte sich neben Marie. Die Bank war schmal, und ihre Knie berührten sic
 
 Marie zeigte auf seinen Mund. Er wischte daneben. Sie ließ ihn, weil es schöner war, ihm dabei zuzusehen, und sagte es ihm erst beim dritten Versuch.
 
-Nach dem Essen schob Jonas die Karre mit dem Schnittgut zum Schuppen. Marie nahm die Gießkanne und ging den Laubengang hinunter, an den jungen Dahlien vorbei, bis an sein Südende.
+Nach dem Essen schob Jonas die Karre mit dem Schnittgut zum Schuppen. Marie nahm die Gießkanne. Am Laubengang, wo die Pflanzlöcher für die Dahlien schon geritzt waren, ging sie bis ans Südende.
 
-In der Mauerecke stand der alte Stock der Lindenhof-Rose, kniehoch und krumm. Die Brombeeren waren fort, und das Licht kam bis an den Boden. Unten, dicht über der Erde, schoben sich zwei neue Triebe aus dem Holz, rötlich und weich, kaum fingerlang. Marie goss langsam, damit nichts wegspülte. Auch mit leerer Kanne blieb sie stehen und legte die Hand an die warme Mauer, bis hinten am Schuppen das Rad der Schubkarre quietschte.
+In der Mauerecke stand der alte Stock der Lindenhof-Rose, kniehoch und krumm. Das Licht kam jetzt bis an den Boden. Die Knospe vom Juni war im Schatten der Brombeeren vertrocknet und abgefallen. Dafür schoben sich unten, dicht über der Erde, zwei neue Triebe aus dem Holz, rötlich und weich. Marie goss langsam, damit nichts wegspülte. Auch mit leerer Kanne blieb sie stehen und legte die Hand an die warme Mauer, bis hinten am Schuppen das Rad der Schubkarre quietschte.
 
 Am Abend in Klein Lindau hing die Tageshitze noch im Hinterhof der alten Schmiede. Marie zog den Schlauch zu den Geranien und zum Thymian.
 
-Ganz hinten an der Wand, im Schatten, standen drei kleine Töpfe unter Folie. Marie hob den Rand vorsichtig an. Feuchte Luft kam ihr entgegen, sie roch nach Erde. Darunter warteten die Stecklinge der Lindenhof-Rose. Zwei waren grün, die Blätter straff, an einem zeigte sich sogar ein Auge, das sich zu dehnen begann. Der dritte war schwarz geworden, vom Schnitt bis zur Spitze. Sie zog ihn heraus und hielt ihn eine Weile in der Hand. Dann legte sie ihn auf den Kompost und die Folie zurück über die beiden anderen, sorgfältig, an allen vier Ecken.
+Im Schatten an der hinteren Wand standen drei Töpfe unter Folie. Marie hob den Rand vorsichtig an. Feuchte Luft kam ihr entgegen, warm und erdig. Darunter warteten die Stecklinge der Lindenhof-Rose. Zwei waren grün, die Blätter straff, an einem zeigte sich sogar ein Auge, das sich zu dehnen begann. Der dritte war schwarz geworden, vom Schnitt bis zur Spitze. Sie zog ihn heraus und hielt ihn eine Weile in der Hand. Dann legte sie ihn auf den Kompost und die Folie zurück über die beiden anderen, sorgfältig, an allen vier Ecken.
 
 Niemand wusste davon. Lena nicht, Grete nicht, Jonas erst recht nicht. Wer nichts von den Stecklingen ahnte, konnte auch nicht fragen, ob sie es schafften.
 
