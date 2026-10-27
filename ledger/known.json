@@ -9,6 +9,16 @@
     "by": "author",
     "at": "2026-10-25T15:18:00.707Z"
   },
+  "LICENSE.md": {
+    "hash": "c5d833",
+    "by": "author",
+    "at": "2026-10-27T06:22:22.584Z"
+  },
+  "README.md": {
+    "hash": "ddb81f",
+    "by": "author",
+    "at": "2026-10-27T06:22:22.584Z"
+  },
   "STORYBOARD.md": {
     "hash": "424e3b",
     "by": "apply",
@@ -528,14 +538,14 @@
     "unit": "ch10/s03"
   },
   "marketing/author.md": {
-    "hash": "267959",
-    "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z"
+    "hash": "9df899",
+    "by": "author",
+    "at": "2026-10-27T06:22:22.584Z"
   },
   "marketing/backmatter.md": {
-    "hash": "a5cc35",
-    "by": "apply",
-    "at": "2026-10-25T15:04:31.340Z"
+    "hash": "a65a0b",
+    "by": "author",
+    "at": "2026-10-27T06:22:22.584Z"
   },
   "marketing/blurbs.md": {
     "hash": "775e8f",
@@ -543,14 +553,14 @@
     "at": "2026-10-25T15:04:31.340Z"
   },
   "marketing/cover-brief.md": {
-    "hash": "4c831d",
+    "hash": "47c892",
     "by": "author",
-    "at": "2026-10-25T15:04:31.340Z"
+    "at": "2026-10-27T06:22:22.584Z"
   },
   "marketing/pitch.md": {
-    "hash": "3e5245",
-    "by": "apply",
-    "at": "2026-10-26T20:13:36.870Z"
+    "hash": "ea0aff",
+    "by": "author",
+    "at": "2026-10-27T06:22:22.584Z"
   },
   "marketing/store.yaml": {
     "hash": "56ce92",

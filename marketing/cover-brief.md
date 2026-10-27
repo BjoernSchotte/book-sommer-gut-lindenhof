@@ -30,7 +30,7 @@ Rosé, Cremeweiß, sattes Sommergrün, Goldgelb, Himmelblau. Titel in einem kont
 ## Schrift
 
 - Titel: geschwungene Schreibschrift oder elegante Serifenschrift, groß und gut lesbar.
-- Untertitel und Autorname „Testautorin“: schlichte Serifen- oder Grotesk-Schrift, ruhiger als der Titel.
+- Untertitel und Autorname „Karla Lind“: schlichte Serifen- oder Grotesk-Schrift, ruhiger als der Titel.
 - Kein verschnörkelter Text, der im Thumbnail unleserlich wird.
 
 ## Was das Cover nicht zeigen darf

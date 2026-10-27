@@ -1,6 +1,6 @@
 # Exposé — Sommer auf Gut Lindenhof
 
-**Autorin:** Testautorin · **Genre:** Liebesroman im Heftformat · **Umfang:** ca. 25 000 Wörter, 10 Kapitel · **Erzählweise:** dritte Person, Präteritum, überwiegend Marie, wenige Szenen aus Jonas' Sicht · **Zielgruppe:** Leserinnen 40 plus, Landleben, sicheres Happy End · **Sinnlichkeit:** Küsse und Herzklopfen, keine expliziten Szenen
+**Autorin:** Karla Lind · **Genre:** Liebesroman im Heftformat · **Umfang:** ca. 25 000 Wörter, 10 Kapitel · **Erzählweise:** dritte Person, Präteritum, überwiegend Marie, wenige Szenen aus Jonas' Sicht · **Zielgruppe:** Leserinnen 40 plus, Landleben, sicheres Happy End · **Sinnlichkeit:** Küsse und Herzklopfen, keine expliziten Szenen
 
 ## Prämisse
 
