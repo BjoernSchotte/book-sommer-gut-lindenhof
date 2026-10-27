@@ -1,6 +1,6 @@
 # Lizenz
 
-„Sommer auf Gut Lindenhof“ (Text und Cover) © 2026 Karla Kolumnin.
+„Sommer auf Gut Lindenhof“ (Text und Cover) © 2026 Karla Lind.
 
 Lizenziert unter Creative Commons Namensnennung – Nicht kommerziell – Keine Bearbeitungen 4.0 International (CC BY-NC-ND 4.0).
 

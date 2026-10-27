@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="docs/cover.jpg" alt="Cover: Sommer auf Gut Lindenhof von Karla Kolumnin" width="320">
+  <img src="docs/cover.jpg" alt="Cover: Sommer auf Gut Lindenhof von Karla Lind" width="320">
 </p>
 
 <h1 align="center">Sommer auf Gut Lindenhof</h1>
-<p align="center"><strong>Karla Kolumnin</strong> · Ein Liebesroman im Heftformat</p>
+<p align="center"><strong>Karla Lind</strong> · Ein Liebesroman im Heftformat</p>
 
 Eine Gärtnerin, ein verwilderter Rosengarten und ein Erbe aus Hamburg, der verkaufen will. Geschrieben in einer Buchfabrik: Agenten schreiben, Tests entscheiden.
 
