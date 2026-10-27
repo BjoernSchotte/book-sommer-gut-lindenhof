@@ -90,6 +90,31 @@ Die Regel dahinter: Was sich zählen lässt, zählt ein Programm und kein Modell
 
 Schwellenwerte und Verfahren bleiben in der Werkstatt.
 
+### Was das Linting fand
+
+Für alle 27 Szenen-Erstentwürfe nachgespielt, mit dem heutigen Regelstand: 444 Treffer aus nur 18 Regeln, davon 130 Warnungen. Die Buchführung (Beat-Anker, Korrektorat) ist nicht mitgezählt.
+
+| Regel | Erstentwurf | Fertiges Buch |
+| --- | ---: | ---: |
+| Wortechos: dasselbe auffällige Wort zu dicht hintereinander | 124 | 17 |
+| Gerade statt typografischer Anführungszeichen | 70 | 2 |
+| Filterverben („sie sah, dass …“, „sie spürte …“) | 25 | 3 |
+| Lieblingswörter zu dicht gesetzt | 20 | 1 |
+| Satzlänge außerhalb des geeichten Korridors | 17 | 4 |
+
+Die 248 Regeln gegen KI-Floskeln schlugen in den Erstentwürfen genau einmal an. Der Schreibagent bekommt die Liste vorher mit, das Linting fängt den Rest.
+
+Die Plantests waren beim ersten Entwurf bis auf eine Zeile grün. Die eigentliche Arbeit steckte in den 683 Befunden der Modell-Prüfer: am häufigsten Logikfragen (105), Doppelungen (44) und Stellen, an denen der Text beim Vorlesen stockt (44). 194 Befunde waren ausdrücklich „behalten“: Stellen, die keine Überarbeitung anfassen darf.
+
+## Wie das Cover entstand
+
+1. Ein Agent schreibt aus dem Buch ein Briefing mit festen Feldern: Ort, Gegenstand, was ihn hält, ein Farbakzent, Jahreszeit, Licht. Hier: Hedwigs Gartenbuch auf der Bank, die Rosenschere quer über den Seiten, ein rotes Leseband (`marketing/cover-brief.md`).
+2. Ein Plugin baut daraus den Prompt für ein Bildmodell (Googles Nano Banana Pro) und lässt vier Varianten malen. Vorgaben: Rot ist die einzige kräftige Farbe, damit das Motiv im Thumbnail trägt; nur erfundene Personen, keine Marken; Titel und Autorname exakt wie angegeben.
+3. Deterministisch geprüft wird jede Variante auf Format und Maß (PNG/JPEG, 1 : 1,6, mindestens 1600 × 2560 px), dazu Briefing, Titel und ob ein Pseudonym gesetzt ist. Referenzfotos gehen nur mit passender Lizenz ans Modell (eigene, CC0, CC BY, CC BY-SA).
+4. Gewählt wird an einem Gate, mit schriftlicher Begründung.
+
+Was nicht deterministisch geht: Bei gemalter Schrift steht der Name nur im Bild. Für gesetzte Cover-Vorlagen prüft bookbench Kontrast und Ränder, beim gemalten Cover hieß es hinschauen. Als das Pseudonym wechselte, musste das Cover deshalb neu gemalt werden.
+
 ## Stil geeicht, nicht kopiert
 
 Die Stilvorlage „Heftroman“ ist gemessen, nicht erfunden. Grundlage sind zwei Heftromane, die ihre Autorin unter einer freien Lizenz veröffentlicht hat. Gemessen wurden nur Kennzahlen wie Satzlänge, Anteil kurzer Sätze, Dialoganteil, Szenenlänge und die Verteilung der Perspektiven. Das ist Text- und Data-Mining nach § 44b UrhG. Nach dem ersten Lauf wurden die Werte am eigenen Text nachgeeicht.
