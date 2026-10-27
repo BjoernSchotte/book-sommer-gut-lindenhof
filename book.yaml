@@ -30,3 +30,5 @@ profile:
   craft: heftroman
 ai_disclosure:
   images: generated
+  text: generated
+  translation: none
