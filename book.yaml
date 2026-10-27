@@ -32,3 +32,5 @@ ai_disclosure:
   images: generated
   text: generated
   translation: none
+publication:
+  license: cc-by-nc-nd-4.0
