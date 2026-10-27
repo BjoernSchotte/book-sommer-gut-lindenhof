@@ -697,21 +697,6 @@
     "by": "author",
     "at": "2026-10-25T15:18:00.707Z"
   },
-  "style/genres/krimi-cozy.yaml": {
-    "hash": "cd1bd2",
-    "by": "author",
-    "at": "2026-10-25T15:18:00.707Z"
-  },
-  "style/genres/krimi-regional.yaml": {
-    "hash": "201945",
-    "by": "author",
-    "at": "2026-10-25T15:18:00.707Z"
-  },
-  "style/genres/krimi.yaml": {
-    "hash": "f635fa",
-    "by": "author",
-    "at": "2026-10-25T15:18:00.707Z"
-  },
   "style/genres/liebesroman.yaml": {
     "hash": "88162b",
     "by": "author",
@@ -719,16 +704,6 @@
   },
   "style/genres/roman.yaml": {
     "hash": "fc1dda",
-    "by": "author",
-    "at": "2026-10-25T15:18:00.707Z"
-  },
-  "style/genres/thriller-psycho.yaml": {
-    "hash": "25f2db",
-    "by": "author",
-    "at": "2026-10-25T15:18:00.707Z"
-  },
-  "style/genres/thriller.yaml": {
-    "hash": "3a3da7",
     "by": "author",
     "at": "2026-10-25T15:18:00.707Z"
   },
@@ -741,11 +716,6 @@
     "hash": "c43f08",
     "by": "apply",
     "at": "2026-10-25T15:04:31.340Z"
-  },
-  "style/presets/krimi-mix.yaml": {
-    "hash": "5c2157",
-    "by": "author",
-    "at": "2026-10-25T15:18:00.707Z"
   },
   "style/style.md": {
     "hash": "f35f06",
