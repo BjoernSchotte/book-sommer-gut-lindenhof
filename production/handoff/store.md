@@ -8,7 +8,8 @@
 - Auflage: 1, Version –, Erscheinen –
 - ISBN E-Book: –; Druck: –
 - Verlag: –
-- Rechte: © 2026 Karla Lind. Alle Rechte vorbehalten.
+- Rechte: © 2026 Karla Lind. Lizenz: CC BY-NC-ND 4.0, https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+- Lizenz: CC BY-NC-ND 4.0
 - KI: Text KI-generiert, Bilder KI-generiert, Übersetzung ohne KI
 
 ## Schlüsselwörter

@@ -8,7 +8,7 @@
 - Klappentext: d
 - KI-Angabe (Text): generated
 - Impressum: Anschrift setzt `bookbench build` aus der Nutzerkonfiguration
-- Freigabe: 2026-10-27T06:52:45.303Z — Nach Pseudonymwechsel auf Karla Lind: Cover v2 neu gemalt und gewählt, Marketing ohne Testautorin, KI-Angaben gesetzt. check: 0 error; pub.imprint (nur Link) gilt nur für Druck; Platzhalter im Nachspann fallen beim Bau weg (pub.placeholder info).
+- Freigabe: 2026-10-27T07:28:06.384Z — Lizenz CC BY-NC-ND 4.0 gesetzt (Autor 27.10.2026: Impressum nennt die CC-Lizenz wie das Repo). check: 0 error.
 - Erzeugt mit bookbench 0.1.0
 
 ## Prüfstand
