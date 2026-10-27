@@ -4,12 +4,12 @@
 - Titel: Sommer auf Gut Lindenhof
 - Untertitel: Ein Liebesroman aus der Holsteinischen Schweiz
 - Reihe: –
-- Autor: Testautorin
+- Autor: Karla Lind
 - Auflage: 1, Version –, Erscheinen –
 - ISBN E-Book: –; Druck: –
 - Verlag: –
-- Rechte: © 2026 Testautorin. Alle Rechte vorbehalten.
-- KI: Text –, Bilder KI-generiert, Übersetzung –
+- Rechte: © 2026 Karla Lind. Alle Rechte vorbehalten.
+- KI: Text KI-generiert, Bilder KI-generiert, Übersetzung ohne KI
 
 ## Schlüsselwörter
 

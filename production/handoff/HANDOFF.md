@@ -1,14 +1,14 @@
 # Übergabe: Sommer auf Gut Lindenhof
 
-- Autor: Testautorin
+- Autor: Karla Lind
 - Sprache: de-DE
 - Wörter: 23468
 - Kapitel: 10, Szenen: 27
 - Typografie: 3 Stellen angeglichen (Quelle unverändert)
 - Klappentext: d
-- KI-Angabe (Text): fehlt
+- KI-Angabe (Text): generated
 - Impressum: Anschrift setzt `bookbench build` aus der Nutzerkonfiguration
-- Freigabe: 2026-10-26T20:10:09.275Z
+- Freigabe: 2026-10-27T06:52:45.303Z — Nach Pseudonymwechsel auf Karla Lind: Cover v2 neu gemalt und gewählt, Marketing ohne Testautorin, KI-Angaben gesetzt. check: 0 error; pub.imprint (nur Link) gilt nur für Druck; Platzhalter im Nachspann fallen beim Bau weg (pub.placeholder info).
 - Erzeugt mit bookbench 0.1.0
 
 ## Prüfstand
