@@ -4,12 +4,13 @@
 
 <h1 align="center">Sommer auf Gut Lindenhof</h1>
 <p align="center"><strong>Karla Lind</strong> · Ein Liebesroman im Heftformat</p>
+<p align="center"><a href="docs/sommer-auf-gut-lindenhof.pdf">PDF lesen</a> · <a href="docs/sommer-auf-gut-lindenhof.epub">EPUB herunterladen</a></p>
 
 Eine Gärtnerin, ein verwilderter Rosengarten und ein Erbe aus Hamburg, der verkaufen will. Geschrieben in einer Buchfabrik: Agenten schreiben, Tests entscheiden.
 
 ## In English
 
-*Sommer auf Gut Lindenhof* is a German romance novel produced end to end by a book factory modelled on the agentic software factory: AI agents plan, write and revise, 497 deterministic checks with stable IDs gate every step, and a human approves at fixed gates. From a five-line idea to EPUB and PDF took 54 hours, 515 agent runs and 48 million tokens. The style was calibrated on measured statistics of two openly licensed novels. This repository is the book plus its complete trail: plan tests, findings, approvals and every commit.
+*Sommer auf Gut Lindenhof* is a German romance novel produced end to end by a book factory modelled on the agentic software factory: AI agents plan, write and revise, 497 deterministic checks with stable IDs gate every step, and a human approves at fixed gates. From a five-line idea to EPUB and PDF took 54 hours, 515 agent runs and 48 million tokens. The style was calibrated on measured statistics of two openly licensed novels. This repository is the book plus its complete trail: plan tests, findings, approvals and every commit. Read it as [PDF](docs/sommer-auf-gut-lindenhof.pdf) or [EPUB](docs/sommer-auf-gut-lindenhof.epub).
 
 ## Die Buchfabrik in vier Sätzen
 
